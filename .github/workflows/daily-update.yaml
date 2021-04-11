@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.4
+        with:
+          node-version: "14"
       - name: Build the feed
         run: npx @osmoscraft/osmosfeed
       - name: Deploy to GitHub Pages
