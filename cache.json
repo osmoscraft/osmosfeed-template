@@ -1,0 +1,434 @@
+{
+  "sources": [
+    {
+      "href": "https://css-tricks.com/feed/",
+      "articles": [
+        {
+          "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations",
+          "link": "https://css-tricks.com/headless-form-submission-with-the-wordpress-rest-api/",
+          "publishedOn": "2021-04-09T13:20:35.000Z",
+          "wordCount": 2442,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Headless Form Submission With the WordPress REST API"
+        },
+        {
+          "description": "HTML anchors provide a ping attribute that can be used to send analytics information to defined URLs",
+          "link": "https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/",
+          "publishedOn": "2021-04-08T17:31:16.000Z",
+          "wordCount": 652,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "The `ping` attribute on anchor links"
+        },
+        {
+          "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over",
+          "link": "https://css-tricks.com/comparing-the-new-generation-of-build-tools/",
+          "publishedOn": "2021-04-08T13:20:50.000Z",
+          "wordCount": 6974,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Comparing the New Generation of Build Tools"
+        },
+        {
+          "description": "You’ve seen the iconic image. Perhaps some of what makes that image so iconic is that people see what they want to see in it. If you see it as a critique of CSS being silly, weird, or confusing, you …\nThe post CSS Is, In Fact, Awesome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/",
+          "publishedOn": "2021-04-07T20:41:57.000Z",
+          "wordCount": 778,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "CSS Is, In Fact, Awesome"
+        },
+        {
+          "description": "And we'd love to have your feedback",
+          "link": "https://svelte.dev/blog/sveltekit-beta",
+          "publishedOn": "2021-04-07T15:02:30.000Z",
+          "wordCount": 838,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "SvelteKit is in public beta"
+        },
+        {
+          "description": "This post is an introduction to XState as it might be used in a Svelte project. XState is unique in the JavaScript ecosystem. It won’t keep your DOM",
+          "link": "https://css-tricks.com/coordinating-svelte-animations-with-xstate/",
+          "publishedOn": "2021-04-07T13:09:41.000Z",
+          "wordCount": 3083,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Coordinating Svelte Animations With XState"
+        },
+        {
+          "description": "I'm going to try to show you some things I think are useful and important about axe™ DevTools and use as few words as possible. axe DevTools",
+          "link": "https://css-tricks.com/axe-devtools-pro/",
+          "publishedOn": "2021-04-07T13:08:57.000Z",
+          "wordCount": 604,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "axe DevTools Pro"
+        },
+        {
+          "description": "I'm running a speed test on the new Space Jam site: the 1996 version on dial-up VS. the 2021 version on a 3G connection. Who will win?",
+          "link": "https://mxb.dev/blog/space-jam/",
+          "publishedOn": "2021-04-06T20:57:42.000Z",
+          "wordCount": 1665,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Space Jam"
+        },
+        {
+          "description": "\"Good news about display: contents and Chrome\" — Rachel Andrew notes that the accessibility danger of using display: contents; is fixed in Chrome. The",
+          "link": "https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently/",
+          "publishedOn": "2021-04-06T17:49:08.000Z",
+          "wordCount": 734,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Some Articles About Accessibility I’ve Saved Recently"
+        },
+        {
+          "description": "At first, there were flexboxes (the children of a display: flex container). If you wanted them to be visually separate, you had to use content",
+          "link": "https://css-tricks.com/gaps-gasp/",
+          "publishedOn": "2021-04-06T13:35:18.000Z",
+          "wordCount": 1055,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Gaps? Gasp!"
+        },
+        {
+          "description": "Visit the post for more.",
+          "link": "https://jetpack.com/ten/?aff=8638",
+          "publishedOn": "2021-04-06T13:27:12.000Z",
+          "wordCount": 163,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Jetpack Turns 10!"
+        },
+        {
+          "description": "At each company I’ve worked, we have had a split between time spent on Product initiatives and Engineering work. The percentages always changed, sometimes",
+          "link": "https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/",
+          "publishedOn": "2021-04-05T19:57:38.000Z",
+          "wordCount": 2707,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Splitting Time Between Product and Engineering Efforts"
+        },
+        {
+          "description": "Define your terms",
+          "link": "https://jen4web.substack.com/p/dfn",
+          "publishedOn": "2021-04-05T15:54:34.000Z",
+          "wordCount": 605,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Definition Tag"
+        },
+        {
+          "description": "Sticky, or fixed, navigation is a popular design choice because it gives users persistent access to navigate the site. On the other hand, it takes up",
+          "link": "https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/",
+          "publishedOn": "2021-04-05T12:55:52.000Z",
+          "wordCount": 1739,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating a Smart Navbar With Vanilla JavaScript"
+        },
+        {
+          "description": "In the news this week, Firefox gets rounded outlines, SVG animations are now GPU-accelerated in Chrome, there are no physical units in CSS, The New York",
+          "link": "https://css-tricks.com/platform-news-rounded-outlines-gpu-accelerated-svg-animations-how-css-variables-are-resolved/",
+          "publishedOn": "2021-04-02T19:35:28.000Z",
+          "wordCount": 1333,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Platform News: Rounded Outlines, GPU-Accelerated SVG Animations, How CSS Variables Are Resolved"
+        }
+      ]
+    },
+    {
+      "href": "https://www.smashingmagazine.com/feed/",
+      "articles": [
+        {
+          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
+          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
+          "publishedOn": "2021-04-09T19:30:00.000Z",
+          "wordCount": 5981,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+        },
+        {
+          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
+          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
+          "publishedOn": "2021-04-08T11:00:00.000Z",
+          "wordCount": 1850,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Better Documentation And Team Communication With Product Design Docs"
+        },
+        {
+          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
+          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
+          "publishedOn": "2021-04-07T11:00:00.000Z",
+          "wordCount": 4040,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+        },
+        {
+          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
+          "publishedOn": "2021-04-06T16:10:00.000Z",
+          "wordCount": 4073,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Don’t Lose Your Head: Evaluating Headless"
+        },
+        {
+          "description": "A guide to vanilla JavaScript code snippets — with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
+          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
+          "publishedOn": "2021-04-05T10:30:00.000Z",
+          "wordCount": 2008,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Vanilla JavaScript Code Snippets"
+        },
+        {
+          "description": "Quick, constant change is a given on the web. It is often one of its greatest strengths. As ever, though, there is a balance to find. Although longevity takes a different form online, its value is immeasurable.",
+          "link": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
+          "publishedOn": "2021-04-02T11:00:00.000Z",
+          "wordCount": 3376,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Guarding Against Disposable Design"
+        },
+        {
+          "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new **CSS tool** called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
+          "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
+          "publishedOn": "2021-04-01T09:44:00.000Z",
+          "wordCount": 2449,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
+        },
+        {
+          "description": "Let’s welcome the new month with some fresh wallpapers. Designed with love by artists and designers from across the globe, they are available with and without a calendar for April 2021.",
+          "link": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
+          "publishedOn": "2021-03-31T10:00:00.000Z",
+          "wordCount": 2027,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "The Small Joys Of April (2021 Wallpapers Edition)"
+        },
+        {
+          "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
+          "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
+          "publishedOn": "2021-03-30T10:30:00.000Z",
+          "wordCount": 5722,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
+        },
+        {
+          "description": "A complete guide to SVG generators — for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
+          "link": "https://smashingmagazine.com/2021/03/svg-generators/",
+          "publishedOn": "2021-03-29T09:54:00.000Z",
+          "wordCount": 3659,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "SVG Generators"
+        },
+        {
+          "description": "This article presents tactics that can be helpful for those working in organizations that have started engaging in UX, but are still at the lower to middle stages of maturity: knowledge sharing and mentorship.",
+          "link": "https://smashingmagazine.com/2021/03/growing-ux-maturity-in-organizations-part-2/",
+          "publishedOn": "2021-03-26T11:30:00.000Z",
+          "wordCount": 4132,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Growing UX Maturity: Knowledge Sharing And Mentorship (Part 2)"
+        },
+        {
+          "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
+          "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
+          "publishedOn": "2021-03-25T13:00:00.000Z",
+          "wordCount": 2044,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Boost Media Performance On A Budget"
+        },
+        {
+          "description": "Reactivity is the ability for a variable (array, string, number, object, etc) to update when its value or any other variable that it makes reference to is changed after declaration.",
+          "link": "https://smashingmagazine.com/2021/03/reactivity-in-vue/",
+          "publishedOn": "2021-03-25T10:00:00.000Z",
+          "wordCount": 2266,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reactivity In Vue"
+        },
+        {
+          "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
+          "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
+          "publishedOn": "2021-03-24T12:20:00.000Z",
+          "wordCount": 4135,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Deep Dive Into Eleventy Static Site Generator"
+        },
+        {
+          "description": "One of the drivers of the popularity of headless options is that expectations for the quality of user experience are constantly going up. In this article, we explore what headless means, use cases for it, and how to decide if headless is a good fit for you.",
+          "link": "https://smashingmagazine.com/2021/03/going-headless-use-cases/",
+          "publishedOn": "2021-03-23T15:15:00.000Z",
+          "wordCount": 4258,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Going Headless: Use Cases And What It’s Good For"
+        },
+        {
+          "description": "Reliable accessible front-end components: :focus styles, content sliders, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, \"skip\" links, SVGs, tabs, tables, toggles and tooltips.",
+          "link": "https://smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
+          "publishedOn": "2021-03-22T11:30:00.000Z",
+          "wordCount": 6853,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Complete Guide To Accessible Front-End Components"
+        },
+        {
+          "description": "Wondering what’s happenin’ at Smashing? Well, we’ve been busy. Here’s a little story of how we removed floating labels, improved performance on mobile, and launched a new series of articles. Oh, and how you can contribute to Smashing, too.",
+          "link": "https://smashingmagazine.com/2021/03/floating-labels-performance-lighthouse/",
+          "publishedOn": "2021-03-19T13:30:00.000Z",
+          "wordCount": 2637,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Gone Floating Labels And Green Lighthouse Scores"
+        },
+        {
+          "description": "The secret to growing a successful web design business is thinking of design as a service, not a product. When you focus on recurring revenue and sell to one targeted niche, you can grow a business faster than ever.",
+          "link": "https://smashingmagazine.com/2021/03/web-design-clients-fast-part1/",
+          "publishedOn": "2021-03-18T10:00:00.000Z",
+          "wordCount": 3117,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Get Web Design Clients Fast (Part 1)"
+        },
+        {
+          "description": "Flutter has been transitioning from a cross-platform mobile development SDK for Android/iOS into a tool that allows you to run the same code natively in a browser on Windows, Linux and macOS. With Flutter 2, non-mobile Flutter development is starting to become more viable.",
+          "link": "https://smashingmagazine.com/2021/03/flutter2-stable-mobile-web-desktop-development-native-speed-one-codebase/",
+          "publishedOn": "2021-03-17T12:00:00.000Z",
+          "wordCount": 2900,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "What’s New In Flutter 2?"
+        },
+        {
+          "description": "How do we know which patterns are good, better, best when it comes to accessibility? Is it better to use an established pattern/library or create new ones? With the myriad of choices available, we can quickly become caught up in a web of confusion on this topic.",
+          "link": "https://smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/",
+          "publishedOn": "2021-03-16T12:00:00.000Z",
+          "wordCount": 3476,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Good, Better, Best: Untangling The Complex World Of Accessible Patterns"
+        },
+        {
+          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. This time it’s all about CSS Generators: from CSS shadows to easing gradients to CSS overlays to CSS doodles.",
+          "link": "https://smashingmagazine.com/2021/03/css-generators/",
+          "publishedOn": "2021-03-15T11:30:00.000Z",
+          "wordCount": 3448,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "CSS Generators"
+        }
+      ]
+    },
+    {
+      "href": "https://www.freecodecamp.org/news/rss/",
+      "articles": [
+        {
+          "description": "If you want to dive deep into serverless full-stack apps, you've come to the right place. This post will guide you through the process of building your own link shortener. We are going to use TypeScript, React, Next.JS, and MongoDB. And to take advantage of serverless processing, we will",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-app/",
+          "publishedOn": "2021-04-09T19:02:53.000Z",
+          "wordCount": 3747,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Build a Fully Functional Serverless App in Under Two Hours"
+        },
+        {
+          "description": "Creating conditionals to decide what action to perform is one of the most fundamental parts of programming in JavaScript. This tutorial will help you learn how to create multiple conditionals using the switch keyword.  How switch statements work in JavaScriptThe JavaScript switch keyword is used to create multiple conditional statements,",
+          "link": "https://www.freecodecamp.org/news/javascript-switch-statement-with-js-switch-case-example-code/",
+          "publishedOn": "2021-04-09T18:27:57.000Z",
+          "wordCount": 1079,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "JavaScript Switch Statement – With JS Switch Case Example Code"
+        },
+        {
+          "description": "Welcome to the complete React tutorial for 2021. This guide should help you become effective with React as quickly as possible as you build a complete application along the way. Compared to many tutorials you might have gone through before, this one is meant to be thoroughly practical from start",
+          "link": "https://www.freecodecamp.org/news/react-tutorial-build-a-project/",
+          "publishedOn": "2021-04-09T18:18:00.000Z",
+          "wordCount": 6029,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "The Complete React Tutorial for 2021 – Learn Major React Concepts by Building a Project"
+        },
+        {
+          "description": "Open source software has become a cornerstone of our digital world. And open collaboration plays an enormous role in the development of human digital civilization.  GitHub, the world's largest open source collaboration platform, produces a massive amount of developer behavior data. So what can we do with this data? The",
+          "link": "https://www.freecodecamp.org/news/open-source-insights-what-we-learned-from-860-million-github-event-logs/",
+          "publishedOn": "2021-04-09T00:19:50.000Z",
+          "wordCount": 3103,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Open Source Insights – What We Learned from 860 Million GitHub Event Logs"
+        },
+        {
+          "description": "In this post, I'll talk about my experience serving in the military during 2020. It's a chapter in my developer journey that started way back with freeCodeCamp. I spent 2020 as an (involuntary) military conscript in my country's armed forces. 14 months if you count training bootcamp.  The laws of",
+          "link": "https://www.freecodecamp.org/news/how-i-kept-coding-while-serving-in-the-military/",
+          "publishedOn": "2021-04-08T21:25:03.000Z",
+          "wordCount": 4319,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How I Kept Coding While Serving in the Military"
+        },
+        {
+          "description": "Snakes like to eat apples. At least in the game you are about to code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a snake game using Python and Pygame. This course was developed by Dhaval Patel from the popular",
+          "link": "https://www.freecodecamp.org/news/improve-your-python-skills-by-coding-a-snake-game/",
+          "publishedOn": "2021-04-08T18:49:30.000Z",
+          "wordCount": 348,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Improve Your Python Skills by Coding a Snake Game"
+        },
+        {
+          "description": "Let's take a look at five React libraries that serve as a great addition to any React project you're looking to build in 2021 and beyond.  I chose these libraries because not only do they help us build functional and impressive-looking applications, but they also allow us to do so",
+          "link": "https://www.freecodecamp.org/news/react-libraries-you-should-use/",
+          "publishedOn": "2021-04-08T18:34:32.000Z",
+          "wordCount": 1253,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "The Best React Libraries You Should Be Using Today"
+        },
+        {
+          "description": "What is personal branding? Branding is not just something that companies need to worry about. Individuals can also establish a personal brand.  According to Wikipedia,  Personal branding is the conscious and intentional effort to create and influence public perception of an individual to ultimately advance their career, increase their circle",
+          "link": "https://www.freecodecamp.org/news/build-your-personal-brand-as-a-developer/",
+          "publishedOn": "2021-04-08T15:46:13.000Z",
+          "wordCount": 1682,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Build Your Personal Brand as a Developer"
+        },
+        {
+          "description": "If you're like me, you spend several hours a week in Gmail. Staring at Gmail's bright white design can strain your eyes – especially at night. Fortunately, Gmail has a built-in dark mode theme. This will make it much easier to read at night. In addition to reducing eye strain, dark",
+          "link": "https://www.freecodecamp.org/news/gmail-dark-mode/",
+          "publishedOn": "2021-04-08T06:07:32.000Z",
+          "wordCount": 693,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Gmail Dark Mode – How to Change the Gmail Background Theme on Desktop, iOS, and Android"
+        },
+        {
+          "description": "There are tons of new apps launching every day, so you'll want to make yours stand out. It should have unique features, and it should be easy and convenient to use. One of the major pain points for many apps is that they require a username and a password to",
+          "link": "https://www.freecodecamp.org/news/how-to-go-passwordless-with-dotnet-identity/",
+          "publishedOn": "2021-04-07T16:58:03.000Z",
+          "wordCount": 1406,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Login Without a Password – How to Go Password-less with .NET Identity"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.1.0"
+}
