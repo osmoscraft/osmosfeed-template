@@ -1,4 +1,4 @@
-# cacheUrl: https://REPLACE_THIS_WITH_YOUR_HOSTNAME_AND_PATH/cache.json
+# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
