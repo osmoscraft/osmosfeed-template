@@ -2,7 +2,7 @@
 
 This is repository hosts the UI and content of an RSS feed reader.
 
-## How does this work
+## How does it work
 
 - The site is statically hosted by GitHub Pages. There is no server to fetch content on the fly.
 - The content is updated periodically by GitHub Actions, configured in `/.github/workflows/update-feed.yaml`.
