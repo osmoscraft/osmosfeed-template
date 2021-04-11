@@ -1,0 +1,5 @@
+# cacheUrl: https://REPLACE_THIS_WITH_YOUR_HOSTNAME/cache.json
+sources:
+  - href: https://css-tricks.com/feed/
+  - href: https://www.smashingmagazine.com/feed/
+  - href: https://www.freecodecamp.org/news/rss/
