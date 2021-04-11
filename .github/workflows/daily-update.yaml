@@ -1,9 +1,9 @@
-name: Build site on scheulde or master update
+name: Build site on scheulde or main branch update
 
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     # just after Mid-night
     - cron: "5 8 * * *"
