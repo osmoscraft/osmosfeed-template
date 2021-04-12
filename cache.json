@@ -43,7 +43,7 @@
           "description": "Rich Harris:\nThink of it as&#160;Next&#160;for Svelte. It&#8217;s a framework for building apps with Svelte, complete with server-side rendering, routing, code-splitting for JS and CSS, adapters for different serverless platforms and so on.\nGreat move. I find &#8230;\nThe post SvelteKit is in public beta appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://svelte.dev/blog/sveltekit-beta",
           "publishedOn": "2021-04-07T15:02:30.000Z",
-          "wordCount": 838,
+          "wordCount": 837,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "SvelteKit is in public beta"
@@ -430,5 +430,5 @@
       ]
     }
   ],
-  "cliVersion": "1.1.2"
+  "cliVersion": "1.1.4"
 }
