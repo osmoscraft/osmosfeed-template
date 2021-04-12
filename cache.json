@@ -4,7 +4,7 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
-          "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations",
+          "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations that would take a ton of effort to build from scratch. They render the &#8230;\nThe post Headless Form Submission With the WordPress REST API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/headless-form-submission-with-the-wordpress-rest-api/",
           "publishedOn": "2021-04-09T13:20:35.000Z",
           "wordCount": 2442,
@@ -13,7 +13,7 @@
           "title": "Headless Form Submission With the WordPress REST API"
         },
         {
-          "description": "HTML anchors provide a ping attribute that can be used to send analytics information to defined URLs",
+          "description": "I didn&#8217;t know this was a thing until Stefan Judis&#8217;s post: \n&#60;a href=\"https://www.stefanjudis.com/popular-posts/\" \n   ping=\"https://www.stefanjudis.com/tracking/\"Read popular posts&#60;/a\nYou give an anchor link a URL via a ping attribute, and the browser will hit that URL with a web request &#8230;\nThe post The `ping` attribute on anchor links appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/",
           "publishedOn": "2021-04-08T17:31:16.000Z",
           "wordCount": 652,
@@ -22,7 +22,7 @@
           "title": "The `ping` attribute on anchor links"
         },
         {
-          "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over",
+          "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over the last few years, including webpack, Babel, Rollup, Parcel, create-react-app.\nThese new &#8230;\nThe post Comparing the New Generation of Build Tools appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/comparing-the-new-generation-of-build-tools/",
           "publishedOn": "2021-04-08T13:20:50.000Z",
           "wordCount": 6974,
@@ -31,7 +31,7 @@
           "title": "Comparing the New Generation of Build Tools"
         },
         {
-          "description": "You’ve seen the iconic image. Perhaps some of what makes that image so iconic is that people see what they want to see in it. If you see it as a critique of CSS being silly, weird, or confusing, you …\nThe post CSS Is, In Fact, Awesome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "You&#8217;ve seen the iconic image. Perhaps some of what makes that image so iconic is that people see what they want to see in it. If you see it as a critique of CSS being silly, weird, or confusing, you &#8230;\nThe post CSS Is, In Fact, Awesome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/",
           "publishedOn": "2021-04-07T20:41:57.000Z",
           "wordCount": 778,
@@ -40,7 +40,7 @@
           "title": "CSS Is, In Fact, Awesome"
         },
         {
-          "description": "And we'd love to have your feedback",
+          "description": "Rich Harris:\nThink of it as&#160;Next&#160;for Svelte. It&#8217;s a framework for building apps with Svelte, complete with server-side rendering, routing, code-splitting for JS and CSS, adapters for different serverless platforms and so on.\nGreat move. I find &#8230;\nThe post SvelteKit is in public beta appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://svelte.dev/blog/sveltekit-beta",
           "publishedOn": "2021-04-07T15:02:30.000Z",
           "wordCount": 838,
@@ -49,7 +49,7 @@
           "title": "SvelteKit is in public beta"
         },
         {
-          "description": "This post is an introduction to XState as it might be used in a Svelte project. XState is unique in the JavaScript ecosystem. It won’t keep your DOM",
+          "description": "This post is an introduction to XState as it might be used in a Svelte project. XState is unique in the JavaScript ecosystem. It won’t keep your DOM synced with your application state, but it will help manage your application’s &#8230;\nThe post Coordinating Svelte Animations With XState appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/coordinating-svelte-animations-with-xstate/",
           "publishedOn": "2021-04-07T13:09:41.000Z",
           "wordCount": 3083,
@@ -58,7 +58,7 @@
           "title": "Coordinating Svelte Animations With XState"
         },
         {
-          "description": "I'm going to try to show you some things I think are useful and important about axe™ DevTools and use as few words as possible. axe DevTools",
+          "description": "I&#8217;m going to try to show you some things I think are useful and important about axe&#x2122; DevTools and use as few words as possible. \naxe DevTools includes a browser extension which you need no special expertise to use.\nYou &#8230;\nThe post axe DevTools Pro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/axe-devtools-pro/",
           "publishedOn": "2021-04-07T13:08:57.000Z",
           "wordCount": 604,
@@ -67,7 +67,7 @@
           "title": "axe DevTools Pro"
         },
         {
-          "description": "I'm running a speed test on the new Space Jam site: the 1996 version on dial-up VS. the 2021 version on a 3G connection. Who will win?",
+          "description": "It&#8217;s certainly worth noting that the Space Jam website, which made its way into umpteen conference talks for being fabulous evidence of the web&#8217;s strength in backward compatibility, has been replaced. We could have saw that coming. Everything is &#8230;\nThe post Space Jam appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/space-jam/",
           "publishedOn": "2021-04-06T20:57:42.000Z",
           "wordCount": 1665,
@@ -76,7 +76,7 @@
           "title": "Space Jam"
         },
         {
-          "description": "\"Good news about display: contents and Chrome\" — Rachel Andrew notes that the accessibility danger of using display: contents; is fixed in Chrome. The",
+          "description": "&#8220;Good news about display: contents and Chrome&#8221; — Rachel Andrew notes that the accessibility danger of using display: contents; is fixed in Chrome. The problem was that, say you had a parent div that is laid out as a grid \n&#8230;\nThe post Some Articles About Accessibility I&#8217;ve Saved Recently appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently/",
           "publishedOn": "2021-04-06T17:49:08.000Z",
           "wordCount": 734,
@@ -85,7 +85,7 @@
           "title": "Some Articles About Accessibility I’ve Saved Recently"
         },
         {
-          "description": "At first, there were flexboxes (the children of a display: flex container). If you wanted them to be visually separate, you had to use content",
+          "description": "At first, there were flexboxes (the children of a display: flex container). If you wanted them to be visually separate, you had to use content justification (i.e. justify-content: space-between), margin trickery, or sometimes, both. Then along came grids (a &#8230;\nThe post Gaps? Gasp! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/gaps-gasp/",
           "publishedOn": "2021-04-06T13:35:18.000Z",
           "wordCount": 1055,
@@ -94,7 +94,7 @@
           "title": "Gaps? Gasp!"
         },
         {
-          "description": "Visit the post for more.",
+          "description": "(This is a sponsored post.)\nTen years! That&#8217;s a huge milestone for a project, especially one that had a pretty simple goal in mind from the start: give self-hosted WordPress sites many of the same features and functionality enjoyed &#8230;\nThe post Jetpack Turns 10! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://jetpack.com/ten/?aff=8638",
           "publishedOn": "2021-04-06T13:27:12.000Z",
           "wordCount": 163,
@@ -103,7 +103,7 @@
           "title": "Jetpack Turns 10!"
         },
         {
-          "description": "At each company I’ve worked, we have had a split between time spent on Product initiatives and Engineering work. The percentages always changed, sometimes",
+          "description": "At each company I’ve worked, we have had a split between time spent on Product initiatives and Engineering work. The percentages always changed, sometimes 70% Product, 30% Engineering, sometimes as much as a 50/50 split. The impetus is to make &#8230;\nThe post Splitting Time Between Product and Engineering Efforts appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/",
           "publishedOn": "2021-04-05T19:57:38.000Z",
           "wordCount": 2707,
@@ -112,7 +112,7 @@
           "title": "Splitting Time Between Product and Engineering Efforts"
         },
         {
-          "description": "Define your terms",
+          "description": "It&#8217;s &#60;dfn. Jen Kramer and Erika Lee are doing a #30DaysofHTML email list thing-y on Substack, which is an easy subscribe. It&#8217;s only been a few days and all of them have little gems, even for someone like me &#8230;\nThe post Definition Tag appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://jen4web.substack.com/p/dfn",
           "publishedOn": "2021-04-05T15:54:34.000Z",
           "wordCount": 605,
@@ -121,7 +121,7 @@
           "title": "Definition Tag"
         },
         {
-          "description": "Sticky, or fixed, navigation is a popular design choice because it gives users persistent access to navigate the site. On the other hand, it takes up",
+          "description": "Sticky, or fixed, navigation is a popular design choice because it gives users persistent access to navigate the site. On the other hand, it takes up space on the page and sometimes covers content is a way that’s less than &#8230;\nThe post Creating a Smart Navbar With Vanilla JavaScript appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/",
           "publishedOn": "2021-04-05T12:55:52.000Z",
           "wordCount": 1739,
@@ -130,7 +130,7 @@
           "title": "Creating a Smart Navbar With Vanilla JavaScript"
         },
         {
-          "description": "In the news this week, Firefox gets rounded outlines, SVG animations are now GPU-accelerated in Chrome, there are no physical units in CSS, The New York",
+          "description": "In the news this week, Firefox gets rounded outlines, SVG animations are now GPU-accelerated in Chrome, there are no physical units in CSS, The New York Times crossword is accessible, and CSS variables are resolved before the value is inherited.&#8230;\nThe post Platform News: Rounded Outlines, GPU-Accelerated SVG Animations, How CSS Variables Are Resolved appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/platform-news-rounded-outlines-gpu-accelerated-svg-animations-how-css-variables-are-resolved/",
           "publishedOn": "2021-04-02T19:35:28.000Z",
           "wordCount": 1333,
@@ -180,7 +180,7 @@
           "title": "Don’t Lose Your Head: Evaluating Headless"
         },
         {
-          "description": "A guide to vanilla JavaScript code snippets — with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
+          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
           "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
           "publishedOn": "2021-04-05T10:30:00.000Z",
           "wordCount": 2008,
@@ -225,7 +225,7 @@
           "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
         },
         {
-          "description": "A complete guide to SVG generators — for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
+          "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
           "link": "https://smashingmagazine.com/2021/03/svg-generators/",
           "publishedOn": "2021-03-29T09:54:00.000Z",
           "wordCount": 3659,
@@ -430,5 +430,5 @@
       ]
     }
   ],
-  "cliVersion": "1.1.0"
+  "cliVersion": "1.1.2"
 }
