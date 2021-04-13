@@ -4,6 +4,24 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "Let’s look at the Fullscreen API in JavaScript. It allows you to do a pretty powerful thing: full screening exactly one particular element you want it to. Not only that, but CSS can help as well with a special selector.&#8230;\nThe post How to Leverage the Fullscreen API… and Style It appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-leverage-the-fullscreen-api-and-style-it/",
+          "publishedOn": "2021-04-12T14:42:40.000Z",
+          "wordCount": 1145,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "How to Leverage the Fullscreen API… and Style It"
+        },
+        {
+          "description": "Get it? Because this blog post is about Around, the wonderful new video call software. I&#8217;ve been using it for my video calls and I&#8217;d be happy to deliver you a TLDR right off the bat: It&#8217;s nice. It &#8230;\nThe post See You Around appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/see-you-around/",
+          "publishedOn": "2021-04-12T13:19:00.000Z",
+          "wordCount": 1219,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "See You Around"
+        },
+        {
           "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations that would take a ton of effort to build from scratch. They render the &#8230;\nThe post Headless Form Submission With the WordPress REST API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/headless-form-submission-with-the-wordpress-rest-api/",
           "publishedOn": "2021-04-09T13:20:35.000Z",
@@ -70,7 +88,7 @@
           "description": "It&#8217;s certainly worth noting that the Space Jam website, which made its way into umpteen conference talks for being fabulous evidence of the web&#8217;s strength in backward compatibility, has been replaced. We could have saw that coming. Everything is &#8230;\nThe post Space Jam appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/space-jam/",
           "publishedOn": "2021-04-06T20:57:42.000Z",
-          "wordCount": 1665,
+          "wordCount": 1676,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Space Jam"
@@ -119,30 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Definition Tag"
-        },
-        {
-          "description": "Sticky, or fixed, navigation is a popular design choice because it gives users persistent access to navigate the site. On the other hand, it takes up space on the page and sometimes covers content is a way that’s less than &#8230;\nThe post Creating a Smart Navbar With Vanilla JavaScript appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/",
-          "publishedOn": "2021-04-05T12:55:52.000Z",
-          "wordCount": 1739,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating a Smart Navbar With Vanilla JavaScript"
-        },
-        {
-          "description": "In the news this week, Firefox gets rounded outlines, SVG animations are now GPU-accelerated in Chrome, there are no physical units in CSS, The New York Times crossword is accessible, and CSS variables are resolved before the value is inherited.&#8230;\nThe post Platform News: Rounded Outlines, GPU-Accelerated SVG Animations, How CSS Variables Are Resolved appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/platform-news-rounded-outlines-gpu-accelerated-svg-animations-how-css-variables-are-resolved/",
-          "publishedOn": "2021-04-02T19:35:28.000Z",
-          "wordCount": 1333,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Platform News: Rounded Outlines, GPU-Accelerated SVG Animations, How CSS Variables Are Resolved"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
+          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
+          "publishedOn": "2021-04-12T12:30:00.000Z",
+          "wordCount": 2950,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Complete Guide To HTML Email"
+        },
         {
           "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
           "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
@@ -338,6 +347,60 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "Developers have spent a great deal of time talking about what React is. But they have left out why this topic matters so greatly for anyone who builds React applications. The answer to this question is essential for any React developer, regardless of their skill level. This is because it",
+          "link": "https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/",
+          "publishedOn": "2021-04-12T21:29:45.000Z",
+          "wordCount": 1468,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Is React a Library or a Framework? Here&#x27;s Why it Matters"
+        },
+        {
+          "description": "Being a great developer is not just about writing great code. There are certain habits I’ve discovered that are beneficial to your work and your life as well.  Habits are basically the parts of our lives that make up our daily routines. Once established, they are the most powerful",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-developer-and-live-a-happier-life/",
+          "publishedOn": "2021-04-12T21:05:33.000Z",
+          "wordCount": 3106,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Healthy Habits – How to Become a Better Developer and Live a Happier Life"
+        },
+        {
+          "description": "The 8 Ivy League schools are among the most prestigious colleges in the world. They include Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, and Columbia universities, and the University of Pennsylvania. All eight schools place in the top fifteen of the U.S. News and World Report national university rankings. These",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "publishedOn": "2021-04-12T16:49:00.000Z",
+          "wordCount": 4316,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Here are 450 Ivy League courses you can take online right now for free"
+        },
+        {
+          "description": "Machine learning need not be mysterious. A lot of the basics come wrapped up in high-level software packages such as scikit-learn, but you can actually do a lot without ever having to leave the database. PostgreSQL lets you build queries which run a variety of machine learning algorithms against your",
+          "link": "https://www.freecodecamp.org/news/machine-learning-directly-in-sql/",
+          "publishedOn": "2021-04-12T16:10:22.000Z",
+          "wordCount": 1680,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Machine Learning Directly in SQL – How to Use ML in Databases"
+        },
+        {
+          "description": "If you're learning how to code, the Python Map Function is your opportunity to level up.  Picture this: you want to become a more efficient coder. You want your code to compile faster. You want to impress your peers with your robust coding knowledge. If any of this resonates with",
+          "link": "https://www.freecodecamp.org/news/python-map-function-how-to-map-a-list-in-python-3-0-with-example-code/",
+          "publishedOn": "2021-04-12T14:25:17.000Z",
+          "wordCount": 948,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Python Map Function – How to Map a List in Python 3.0, With Example Code"
+        },
+        {
+          "description": "In this Redux for Beginners guide, we're going to: Learn about the different parts of Redux and how they work togetherLearn how to fetch data from an API using ReduxLearn how to use Redux Toolkit to setup and work with Redux using less codeAnd I’ll give you some challenges",
+          "link": "https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/",
+          "publishedOn": "2021-04-12T14:09:32.000Z",
+          "wordCount": 5611,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Redux for Beginners – The Brain-Friendly Guide to Learning Redux"
+        },
+        {
           "description": "If you want to dive deep into serverless full-stack apps, you've come to the right place. This post will guide you through the process of building your own link shortener. We are going to use TypeScript, React, Next.JS, and MongoDB. And to take advantage of serverless processing, we will",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-app/",
           "publishedOn": "2021-04-09T19:02:53.000Z",
@@ -372,60 +435,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Open Source Insights – What We Learned from 860 Million GitHub Event Logs"
-        },
-        {
-          "description": "In this post, I'll talk about my experience serving in the military during 2020. It's a chapter in my developer journey that started way back with freeCodeCamp. I spent 2020 as an (involuntary) military conscript in my country's armed forces. 14 months if you count training bootcamp.  The laws of",
-          "link": "https://www.freecodecamp.org/news/how-i-kept-coding-while-serving-in-the-military/",
-          "publishedOn": "2021-04-08T21:25:03.000Z",
-          "wordCount": 4319,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How I Kept Coding While Serving in the Military"
-        },
-        {
-          "description": "Snakes like to eat apples. At least in the game you are about to code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a snake game using Python and Pygame. This course was developed by Dhaval Patel from the popular",
-          "link": "https://www.freecodecamp.org/news/improve-your-python-skills-by-coding-a-snake-game/",
-          "publishedOn": "2021-04-08T18:49:30.000Z",
-          "wordCount": 348,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Improve Your Python Skills by Coding a Snake Game"
-        },
-        {
-          "description": "Let's take a look at five React libraries that serve as a great addition to any React project you're looking to build in 2021 and beyond.  I chose these libraries because not only do they help us build functional and impressive-looking applications, but they also allow us to do so",
-          "link": "https://www.freecodecamp.org/news/react-libraries-you-should-use/",
-          "publishedOn": "2021-04-08T18:34:32.000Z",
-          "wordCount": 1253,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "The Best React Libraries You Should Be Using Today"
-        },
-        {
-          "description": "What is personal branding? Branding is not just something that companies need to worry about. Individuals can also establish a personal brand.  According to Wikipedia,  Personal branding is the conscious and intentional effort to create and influence public perception of an individual to ultimately advance their career, increase their circle",
-          "link": "https://www.freecodecamp.org/news/build-your-personal-brand-as-a-developer/",
-          "publishedOn": "2021-04-08T15:46:13.000Z",
-          "wordCount": 1682,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build Your Personal Brand as a Developer"
-        },
-        {
-          "description": "If you're like me, you spend several hours a week in Gmail. Staring at Gmail's bright white design can strain your eyes – especially at night. Fortunately, Gmail has a built-in dark mode theme. This will make it much easier to read at night. In addition to reducing eye strain, dark",
-          "link": "https://www.freecodecamp.org/news/gmail-dark-mode/",
-          "publishedOn": "2021-04-08T06:07:32.000Z",
-          "wordCount": 693,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Gmail Dark Mode – How to Change the Gmail Background Theme on Desktop, iOS, and Android"
-        },
-        {
-          "description": "There are tons of new apps launching every day, so you'll want to make yours stand out. It should have unique features, and it should be easy and convenient to use. One of the major pain points for many apps is that they require a username and a password to",
-          "link": "https://www.freecodecamp.org/news/how-to-go-passwordless-with-dotnet-identity/",
-          "publishedOn": "2021-04-07T16:58:03.000Z",
-          "wordCount": 1406,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Login Without a Password – How to Go Password-less with .NET Identity"
         }
       ]
     }
