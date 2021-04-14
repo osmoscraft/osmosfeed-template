@@ -4,10 +4,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This Robin Sloan fella is an interesting character. Not only have I read his one of his fiction novels, the tremendous Mr. Penumbra’s 24‑Hour Bookstore, but I also use the olive oil he makes with partner Kathryn Tomajan. &#8230;\nThe post Cloud study appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://society.robinsloan.com/archive/cloud-study/",
+          "publishedOn": "2021-04-13T22:49:41.000Z",
+          "wordCount": 791,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Cloud study"
+        },
+        {
+          "description": "I think it&#8217;s fair to think of Netlify as a CDN-backed static file host. But it would also be silly to think that&#8217;s all it is. That&#8217;s why I think it&#8217;s smart for them to have pages like this, comparing &#8230;\nThe post Why Netlify? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/why-netlify/",
+          "publishedOn": "2021-04-13T22:48:59.000Z",
+          "wordCount": 407,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Why Netlify?"
+        },
+        {
+          "description": "One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time. An example of this would be a scenario where an integer &#8230;\nThe post CSS is a Strongly Typed Language appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
+          "publishedOn": "2021-04-13T14:22:04.000Z",
+          "wordCount": 2110,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "CSS is a Strongly Typed Language"
+        },
+        {
           "description": "Let’s look at the Fullscreen API in JavaScript. It allows you to do a pretty powerful thing: full screening exactly one particular element you want it to. Not only that, but CSS can help as well with a special selector.&#8230;\nThe post How to Leverage the Fullscreen API… and Style It appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-leverage-the-fullscreen-api-and-style-it/",
           "publishedOn": "2021-04-12T14:42:40.000Z",
-          "wordCount": 1145,
+          "wordCount": 1244,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Leverage the Fullscreen API… and Style It"
@@ -43,7 +70,7 @@
           "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over the last few years, including webpack, Babel, Rollup, Parcel, create-react-app.\nThese new &#8230;\nThe post Comparing the New Generation of Build Tools appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/comparing-the-new-generation-of-build-tools/",
           "publishedOn": "2021-04-08T13:20:50.000Z",
-          "wordCount": 6974,
+          "wordCount": 7018,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Comparing the New Generation of Build Tools"
@@ -88,7 +115,7 @@
           "description": "It&#8217;s certainly worth noting that the Space Jam website, which made its way into umpteen conference talks for being fabulous evidence of the web&#8217;s strength in backward compatibility, has been replaced. We could have saw that coming. Everything is &#8230;\nThe post Space Jam appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/space-jam/",
           "publishedOn": "2021-04-06T20:57:42.000Z",
-          "wordCount": 1676,
+          "wordCount": 1803,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Space Jam"
@@ -110,39 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Gaps? Gasp!"
-        },
-        {
-          "description": "(This is a sponsored post.)\nTen years! That&#8217;s a huge milestone for a project, especially one that had a pretty simple goal in mind from the start: give self-hosted WordPress sites many of the same features and functionality enjoyed &#8230;\nThe post Jetpack Turns 10! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://jetpack.com/ten/?aff=8638",
-          "publishedOn": "2021-04-06T13:27:12.000Z",
-          "wordCount": 163,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jetpack Turns 10!"
-        },
-        {
-          "description": "At each company I’ve worked, we have had a split between time spent on Product initiatives and Engineering work. The percentages always changed, sometimes 70% Product, 30% Engineering, sometimes as much as a 50/50 split. The impetus is to make &#8230;\nThe post Splitting Time Between Product and Engineering Efforts appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/",
-          "publishedOn": "2021-04-05T19:57:38.000Z",
-          "wordCount": 2707,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Splitting Time Between Product and Engineering Efforts"
-        },
-        {
-          "description": "It&#8217;s &#60;dfn. Jen Kramer and Erika Lee are doing a #30DaysofHTML email list thing-y on Substack, which is an easy subscribe. It&#8217;s only been a few days and all of them have little gems, even for someone like me &#8230;\nThe post Definition Tag appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://jen4web.substack.com/p/dfn",
-          "publishedOn": "2021-04-05T15:54:34.000Z",
-          "wordCount": 605,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Definition Tag"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
+          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
+          "publishedOn": "2021-04-13T14:00:00.000Z",
+          "wordCount": 3145,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+        },
         {
           "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
@@ -331,21 +340,57 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Good, Better, Best: Untangling The Complex World Of Accessible Patterns"
-        },
-        {
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. This time it’s all about CSS Generators: from CSS shadows to easing gradients to CSS overlays to CSS doodles.",
-          "link": "https://smashingmagazine.com/2021/03/css-generators/",
-          "publishedOn": "2021-03-15T11:30:00.000Z",
-          "wordCount": 3448,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "CSS Generators"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "Cloud functions are stateless, single-purpose code snippets that can be invoked programmatically or through other event-driven processes.  These code snippets are not built into your application, as a traditional function would be. Rather, they are stored in a cloud container that is maintained by a provider. They can be edited",
+          "link": "https://www.freecodecamp.org/news/cloud-functions-in-react-with-easybase/",
+          "publishedOn": "2021-04-13T18:37:52.000Z",
+          "wordCount": 1510,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Deploy Dynamic Cloud Functions in React and React Native with Easybase"
+        },
+        {
+          "description": "For the longest time, the evolution of cooperative social behaviour has fascinated evolutionary biologists. The mathematical field of game theory helps shed light on how it emerges. Game theory is “the study of mathematical models of strategic interaction among rational decision-makers” (according to Wikipedia). Game theory applies to “games” as",
+          "link": "https://www.freecodecamp.org/news/introduction-to-evolutionary-game-theory/",
+          "publishedOn": "2021-04-13T17:12:33.000Z",
+          "wordCount": 1504,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Introduction to Evolutionary Game Theory"
+        },
+        {
+          "description": "The image of a person with their laptop sitting on a beach with a Piña Colada by their side has become the poster child of “freelancing”. The promise of ultimate freedom and working anywhere and anytime you want is just so appealing, causing many to jump in without carefully thinking",
+          "link": "https://www.freecodecamp.org/news/why-is-freelancing-so-hard/",
+          "publishedOn": "2021-04-13T17:09:40.000Z",
+          "wordCount": 1784,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Why is Freelancing so Hard? How to Avoid Common Freelancing Mistakes and Be Successful"
+        },
+        {
+          "description": "Hello, everyone! Welcome to this hands-on tutorial. Before we begin you should be familiar with the basics of ReactJS, NextJS, and Firebase. If you're not, I would recommend that you go through their documentation. Here's what we're going to build:And here's the tech we'll use:TypeScript: provides type-safe code",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-quizapp-using-nextjs-chakra-ui-and-firebase/",
+          "publishedOn": "2021-04-13T16:31:50.000Z",
+          "wordCount": 5596,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Build a Quiz App using NextJS, Chakra UI, and Firebase"
+        },
+        {
+          "description": "It is simple and easy to make a website using WordPress.  WordPress is a content management system that helps you create a website even if you know nothing about coding. You don’t need to know HTML, CSS or JavaScript. You can do everything graphically with WordPress. WordPress is by",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-website-with-wordpress/",
+          "publishedOn": "2021-04-13T14:34:07.000Z",
+          "wordCount": 580,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Make a Website with WordPress - Full Course"
+        },
         {
           "description": "Developers have spent a great deal of time talking about what React is. But they have left out why this topic matters so greatly for anyone who builds React applications. The answer to this question is essential for any React developer, regardless of their skill level. This is because it",
           "link": "https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/",
@@ -390,54 +435,9 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Python Map Function – How to Map a List in Python 3.0, With Example Code"
-        },
-        {
-          "description": "In this Redux for Beginners guide, we're going to: Learn about the different parts of Redux and how they work togetherLearn how to fetch data from an API using ReduxLearn how to use Redux Toolkit to setup and work with Redux using less codeAnd I’ll give you some challenges",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/",
-          "publishedOn": "2021-04-12T14:09:32.000Z",
-          "wordCount": 5611,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Redux for Beginners – The Brain-Friendly Guide to Learning Redux"
-        },
-        {
-          "description": "If you want to dive deep into serverless full-stack apps, you've come to the right place. This post will guide you through the process of building your own link shortener. We are going to use TypeScript, React, Next.JS, and MongoDB. And to take advantage of serverless processing, we will",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-app/",
-          "publishedOn": "2021-04-09T19:02:53.000Z",
-          "wordCount": 3747,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a Fully Functional Serverless App in Under Two Hours"
-        },
-        {
-          "description": "Creating conditionals to decide what action to perform is one of the most fundamental parts of programming in JavaScript. This tutorial will help you learn how to create multiple conditionals using the switch keyword.  How switch statements work in JavaScriptThe JavaScript switch keyword is used to create multiple conditional statements,",
-          "link": "https://www.freecodecamp.org/news/javascript-switch-statement-with-js-switch-case-example-code/",
-          "publishedOn": "2021-04-09T18:27:57.000Z",
-          "wordCount": 1079,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Switch Statement – With JS Switch Case Example Code"
-        },
-        {
-          "description": "Welcome to the complete React tutorial for 2021. This guide should help you become effective with React as quickly as possible as you build a complete application along the way. Compared to many tutorials you might have gone through before, this one is meant to be thoroughly practical from start",
-          "link": "https://www.freecodecamp.org/news/react-tutorial-build-a-project/",
-          "publishedOn": "2021-04-09T18:18:00.000Z",
-          "wordCount": 6029,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "The Complete React Tutorial for 2021 – Learn Major React Concepts by Building a Project"
-        },
-        {
-          "description": "Open source software has become a cornerstone of our digital world. And open collaboration plays an enormous role in the development of human digital civilization.  GitHub, the world's largest open source collaboration platform, produces a massive amount of developer behavior data. So what can we do with this data? The",
-          "link": "https://www.freecodecamp.org/news/open-source-insights-what-we-learned-from-860-million-github-event-logs/",
-          "publishedOn": "2021-04-09T00:19:50.000Z",
-          "wordCount": 3103,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Open Source Insights – What We Learned from 860 Million GitHub Event Logs"
         }
       ]
     }
   ],
-  "cliVersion": "1.1.6"
+  "cliVersion": "1.2.1"
 }
