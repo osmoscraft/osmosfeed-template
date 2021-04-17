@@ -4,10 +4,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
+          "publishedOn": "2021-04-16T18:58:59.000Z",
+          "wordCount": 1766,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
+        },
+        {
+          "description": "There&#8217;s a whole lot of accessibility in this week&#8217;s news, from the nuances of using :focus-visible and input placeholders, to accessible typefaces and a Safari bug with :display: contents. Plus, a snippet for a bare-bones web component that supports &#8230;\nThe post Platform News: Using :focus-visible, BBC&#8217;s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/platform-news-using-focus-visible-bbcs-new-typeface-declarative-shadow-doms-a11y-and-placeholders/",
+          "publishedOn": "2021-04-16T14:33:05.000Z",
+          "wordCount": 1391,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Platform News: Using :focus-visible, BBC’s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders"
+        },
+        {
+          "description": "The default browser style for &#60;hr&#62; is so weird. It&#8217;s basically:\nborder-style: inset;\nborder-width: 1px;\nThe default border-color is black, but the border doesn&#8217;t actually look black, because the inset border &#8220;adds a split tone to the line &#8230;\nThe post Not Your Typical Horizontal Rules appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/horizontal-rules/",
+          "publishedOn": "2021-04-16T14:31:41.000Z",
+          "wordCount": 1958,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Not Your Typical Horizontal Rules"
+        },
+        {
           "description": "There is a lot to think about when implementing a dark mode theme on a website. We have a huge guide on it. There are some very clever quick wins out there, but there are also some quite tricky things &#8230;\nThe post Flash of inAccurate coloR Theme (FART) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/flash-of-inaccurate-color-theme-fart/",
           "publishedOn": "2021-04-15T22:13:36.000Z",
-          "wordCount": 684,
+          "wordCount": 1190,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Flash of inAccurate coloR Theme (FART)"
@@ -16,7 +43,7 @@
           "description": "The title of this article is misleading. It’s not actually very important for an Engineering Manager to use career laddering, per se, or my process. It is, however, very important that an Engineering Manager is clear with their employees&#8230;\nThe post The Importance of Career Laddering appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-importance-of-career-laddering/",
           "publishedOn": "2021-04-15T14:29:18.000Z",
-          "wordCount": 2393,
+          "wordCount": 2442,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The Importance of Career Laddering"
@@ -25,7 +52,7 @@
           "description": "Svelte is a free and open-source front end JavaScript framework that enables developers to build highly performant applications with smaller application bundles. Svelte also empowers developers with its awesome developer experience.\nSvelte provides a different approach to building web apps &#8230;\nThe post How to Build a FullStack Serverless HN Clone With Svelte and Fauna appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-build-a-fullstack-serverless-hn-clone-with-svelte-and-fauna/",
           "publishedOn": "2021-04-15T14:27:01.000Z",
-          "wordCount": 1246,
+          "wordCount": 1338,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Build a FullStack Serverless HN Clone With Svelte and Fauna"
@@ -34,7 +61,7 @@
           "description": "This is a tremendous CSS-focused tutorial from Adam Argyle. I really like the &#8220;just for gap&#8221; concept here. Grid is extremely powerful, but you don&#8217;t have to use all its abilities every time you reach for it. Here, Adam &#8230;\nThe post Building a Settings Component appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/building-a-settings-component/",
           "publishedOn": "2021-04-14T21:08:24.000Z",
-          "wordCount": 3384,
+          "wordCount": 3383,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Building a Settings Component"
@@ -110,39 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The `ping` attribute on anchor links"
-        },
-        {
-          "description": "A bunch of new developer tools have landed in the past year and they are biting at the heels of the tools that have dominated front-end development over the last few years, including webpack, Babel, Rollup, Parcel, create-react-app.\nThese new &#8230;\nThe post Comparing the New Generation of Build Tools appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/comparing-the-new-generation-of-build-tools/",
-          "publishedOn": "2021-04-08T13:20:50.000Z",
-          "wordCount": 7146,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Comparing the New Generation of Build Tools"
-        },
-        {
-          "description": "You&#8217;ve seen the iconic image. Perhaps some of what makes that image so iconic is that people see what they want to see in it. If you see it as a critique of CSS being silly, weird, or confusing, you &#8230;\nThe post CSS Is, In Fact, Awesome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/",
-          "publishedOn": "2021-04-07T20:41:57.000Z",
-          "wordCount": 778,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "CSS Is, In Fact, Awesome"
-        },
-        {
-          "description": "Rich Harris:\nThink of it as&#160;Next&#160;for Svelte. It&#8217;s a framework for building apps with Svelte, complete with server-side rendering, routing, code-splitting for JS and CSS, adapters for different serverless platforms and so on.\nGreat move. I find &#8230;\nThe post SvelteKit is in public beta appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://svelte.dev/blog/sveltekit-beta",
-          "publishedOn": "2021-04-07T15:02:30.000Z",
-          "wordCount": 837,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "SvelteKit is in public beta"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
+          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
+          "publishedOn": "2021-04-16T09:00:00.000Z",
+          "wordCount": 2914,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
+        },
         {
           "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
@@ -165,7 +174,7 @@
           "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1914,
+          "wordCount": 1915,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
@@ -183,7 +192,7 @@
           "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2958,
+          "wordCount": 2962,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
@@ -228,7 +237,7 @@
           "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
           "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
           "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2015,
+          "wordCount": 2017,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Vanilla JavaScript Code Snippets"
@@ -246,7 +255,7 @@
           "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new CSS tool called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
           "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
           "publishedOn": "2021-04-01T09:44:00.000Z",
-          "wordCount": 2456,
+          "wordCount": 2457,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
@@ -273,7 +282,7 @@
           "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
           "link": "https://smashingmagazine.com/2021/03/svg-generators/",
           "publishedOn": "2021-03-29T09:54:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3668,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "SVG Generators"
@@ -309,7 +318,7 @@
           "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
           "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
           "publishedOn": "2021-03-24T12:20:00.000Z",
-          "wordCount": 4143,
+          "wordCount": 4144,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Deep Dive Into Eleventy Static Site Generator"
@@ -327,7 +336,7 @@
           "description": "Reliable accessible front-end components: :focus styles, content sliders, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, \"skip\" links, SVGs, tabs, tables, toggles and tooltips.",
           "link": "https://smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
           "publishedOn": "2021-03-22T11:30:00.000Z",
-          "wordCount": 6860,
+          "wordCount": 6863,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Accessible Front-End Components"
@@ -340,21 +349,21 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Gone Floating Labels And Green Lighthouse Scores"
-        },
-        {
-          "description": "The secret to growing a successful web design business is thinking of design as a service, not a product. When you focus on recurring revenue and sell to one targeted niche, you can grow a business faster than ever.",
-          "link": "https://smashingmagazine.com/2021/03/web-design-clients-fast-part1/",
-          "publishedOn": "2021-03-18T10:00:00.000Z",
-          "wordCount": 3128,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Get Web Design Clients Fast (Part 1)"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "One of the most important concepts for every React developer to understand is state – what it is, how to properly use it, and how to avoid common pitfalls as you build your applications.  Let's cover five of the most essential parts of state that you need to know. Each of",
+          "link": "https://www.freecodecamp.org/news/what-every-react-developer-should-know-about-state/",
+          "publishedOn": "2021-04-16T17:31:00.000Z",
+          "wordCount": 2543,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "What Every React Developer Should Know About State"
+        },
         {
           "description": "Terraform is a tool that helps you manage various cloud infrastructure services in the form of code. You codify your infrastructure, and so it's also known as Infrastructure as Code (IaC). The cloud has become important to more and more companies. It not only helps reduce time and costs but",
           "link": "https://www.freecodecamp.org/news/what-is-terraform-learn-infrastructure-as-code/",
@@ -435,15 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "How to Become a Certified Kubernetes Application Developer"
-        },
-        {
-          "description": "Redis is a popular in-memory database used for a variety of projects, like caching and rate limiting. In this blog post, we will see how you can use Redis as an in-memory database, why you'd want to use Redis, and finally we'll discuss a few important features of the database.",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-redis/",
-          "publishedOn": "2021-04-14T15:55:10.000Z",
-          "wordCount": 2115,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Redis Database Basics – How the Redis CLI Works, Common Commands, and Sample Projects"
         }
       ]
     }
