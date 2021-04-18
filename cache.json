@@ -7,7 +7,7 @@
           "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
           "publishedOn": "2021-04-16T18:58:59.000Z",
-          "wordCount": 1816,
+          "wordCount": 1911,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
@@ -52,7 +52,7 @@
           "description": "Svelte is a free and open-source front end JavaScript framework that enables developers to build highly performant applications with smaller application bundles. Svelte also empowers developers with its awesome developer experience.\nSvelte provides a different approach to building web apps &#8230;\nThe post How to Build a FullStack Serverless HN Clone With Svelte and Fauna appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-build-a-fullstack-serverless-hn-clone-with-svelte-and-fauna/",
           "publishedOn": "2021-04-15T14:27:01.000Z",
-          "wordCount": 1287,
+          "wordCount": 1338,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Build a FullStack Serverless HN Clone With Svelte and Fauna"
@@ -340,15 +340,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Accessible Front-End Components"
-        },
-        {
-          "description": "Wondering what’s happenin’ at Smashing? Well, we’ve been busy. Here’s a little story of how we removed floating labels, improved performance on mobile, and launched a new series of articles. Oh, and how you can contribute to Smashing, too.",
-          "link": "https://smashingmagazine.com/2021/03/floating-labels-performance-lighthouse/",
-          "publishedOn": "2021-03-19T13:30:00.000Z",
-          "wordCount": 2644,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Gone Floating Labels And Green Lighthouse Scores"
         }
       ]
     },
@@ -448,5 +439,5 @@
       ]
     }
   ],
-  "cliVersion": "1.2.1"
+  "cliVersion": "1.2.2"
 }
