@@ -7,7 +7,7 @@
           "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
           "publishedOn": "2021-04-16T18:58:59.000Z",
-          "wordCount": 1766,
+          "wordCount": 1816,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
@@ -43,7 +43,7 @@
           "description": "The title of this article is misleading. It’s not actually very important for an Engineering Manager to use career laddering, per se, or my process. It is, however, very important that an Engineering Manager is clear with their employees&#8230;\nThe post The Importance of Career Laddering appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-importance-of-career-laddering/",
           "publishedOn": "2021-04-15T14:29:18.000Z",
-          "wordCount": 2442,
+          "wordCount": 2493,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The Importance of Career Laddering"
@@ -52,7 +52,7 @@
           "description": "Svelte is a free and open-source front end JavaScript framework that enables developers to build highly performant applications with smaller application bundles. Svelte also empowers developers with its awesome developer experience.\nSvelte provides a different approach to building web apps &#8230;\nThe post How to Build a FullStack Serverless HN Clone With Svelte and Fauna appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-build-a-fullstack-serverless-hn-clone-with-svelte-and-fauna/",
           "publishedOn": "2021-04-15T14:27:01.000Z",
-          "wordCount": 1338,
+          "wordCount": 1287,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Build a FullStack Serverless HN Clone With Svelte and Fauna"
@@ -273,7 +273,7 @@
           "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
           "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
           "publishedOn": "2021-03-30T10:30:00.000Z",
-          "wordCount": 5732,
+          "wordCount": 5733,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
@@ -356,6 +356,15 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "In Gmail, you can set a profile picture. Everyone else who uses Gmail will see this photo when they receive an email from you. When you set a profile picture, Google will use it in all of their products, including Google Meet, Google Docs. Shout-out to Don for inspiring me",
+          "link": "https://www.freecodecamp.org/news/gmail-profile-picture/",
+          "publishedOn": "2021-04-17T06:46:30.000Z",
+          "wordCount": 604,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Gmail Profile Picture – How to Add, Remove, or Change your Photo in Google Mail"
+        },
+        {
           "description": "One of the most important concepts for every React developer to understand is state – what it is, how to properly use it, and how to avoid common pitfalls as you build your applications.  Let's cover five of the most essential parts of state that you need to know. Each of",
           "link": "https://www.freecodecamp.org/news/what-every-react-developer-should-know-about-state/",
           "publishedOn": "2021-04-16T17:31:00.000Z",
@@ -435,15 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "How to Build a Chess Clock with JavaScript and setInterval"
-        },
-        {
-          "description": "This guide is a summary of my study notes for the Certified Kubernetes Application Developer (CKAD) exam that I recently passed.  Even if you're not interested in the certification, consider this as your one-stop shop for Kubernetes: you have all the main technical concepts explained along with a myriad of",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/",
-          "publishedOn": "2021-04-14T15:57:28.000Z",
-          "wordCount": 7524,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Become a Certified Kubernetes Application Developer"
         }
       ]
     }
