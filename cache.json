@@ -4,10 +4,28 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "There is no doubt that CSS plays a huge role in web performance. Milica Mihajlija puts a point on exactly why: \nWhen there is CSS available for a page, whether it’s inline or an external stylesheet,&#160;the browser delays rendering \n&#8230;\nThe post How to Improve CSS Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://calibreapp.com/blog/css-performance",
+          "publishedOn": "2021-04-19T21:33:57.000Z",
+          "wordCount": 2152,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "How to Improve CSS Performance"
+        },
+        {
+          "description": "Need to lay out an element to the right or the left, such that text wraps around it? That’s an easy task for the float property. But what about if you also want to push that element (let’s call it &#8230;\nThe post Float an Element to the Bottom Corner appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/float-an-element-to-the-bottom-corner/",
+          "publishedOn": "2021-04-19T14:17:49.000Z",
+          "wordCount": 1466,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Float an Element to the Bottom Corner"
+        },
+        {
           "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
           "publishedOn": "2021-04-16T18:58:59.000Z",
-          "wordCount": 2147,
+          "wordCount": 2412,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
@@ -34,7 +52,7 @@
           "description": "There is a lot to think about when implementing a dark mode theme on a website. We have a huge guide on it. There are some very clever quick wins out there, but there are also some quite tricky things &#8230;\nThe post Flash of inAccurate coloR Theme (FART) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/flash-of-inaccurate-color-theme-fart/",
           "publishedOn": "2021-04-15T22:13:36.000Z",
-          "wordCount": 1338,
+          "wordCount": 1393,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Flash of inAccurate coloR Theme (FART)"
@@ -119,30 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "See You Around"
-        },
-        {
-          "description": "If you’re building a WordPress site, you need a good reason not to choose a WordPress form plugin. They are convenient and offer plenty of customizations that would take a ton of effort to build from scratch. They render the &#8230;\nThe post Headless Form Submission With the WordPress REST API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/headless-form-submission-with-the-wordpress-rest-api/",
-          "publishedOn": "2021-04-09T13:20:35.000Z",
-          "wordCount": 2442,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Headless Form Submission With the WordPress REST API"
-        },
-        {
-          "description": "I didn&#8217;t know this was a thing until Stefan Judis&#8217;s post: \n&#60;a href=\"https://www.stefanjudis.com/popular-posts/\" \n   ping=\"https://www.stefanjudis.com/tracking/\"Read popular posts&#60;/a\nYou give an anchor link a URL via a ping attribute, and the browser will hit that URL with a web request &#8230;\nThe post The `ping` attribute on anchor links appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/",
-          "publishedOn": "2021-04-08T17:31:16.000Z",
-          "wordCount": 652,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "The `ping` attribute on anchor links"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
+          "publishedOn": "2021-04-19T08:30:00.000Z",
+          "wordCount": 7171,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "An In-Depth Guide To Measuring Core Web Vitals"
+        },
         {
           "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
@@ -300,7 +309,7 @@
           "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
           "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
           "publishedOn": "2021-03-25T13:00:00.000Z",
-          "wordCount": 2049,
+          "wordCount": 2052,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Boost Media Performance On A Budget"
@@ -347,94 +356,94 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
-          "description": "In Gmail, you can set a profile picture. Everyone else who uses Gmail will see this photo when they receive an email from you. When you set a profile picture, Google will use it in all of their products, including Google Meet, Google Docs. Shout-out to Don for inspiring me",
-          "link": "https://www.freecodecamp.org/news/gmail-profile-picture/",
-          "publishedOn": "2021-04-17T06:46:30.000Z",
-          "wordCount": 604,
+          "description": "Switching branches is something you'll need to do often in Git. To do this, you can use the git checkout command. How to create a new branch in GitTo create a new branch in Git, you use the git checkout command and pass the -b flag with a name. This",
+          "link": "https://www.freecodecamp.org/news/git-switch-branch/",
+          "publishedOn": "2021-04-19T23:37:29.000Z",
+          "wordCount": 960,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "Gmail Profile Picture – How to Add, Remove, or Change your Photo in Google Mail"
+          "title": "Git Switch Branch – How to Change the Branch in Git"
         },
         {
-          "description": "One of the most important concepts for every React developer to understand is state – what it is, how to properly use it, and how to avoid common pitfalls as you build your applications.  Let's cover five of the most essential parts of state that you need to know. Each of",
-          "link": "https://www.freecodecamp.org/news/what-every-react-developer-should-know-about-state/",
-          "publishedOn": "2021-04-16T17:31:00.000Z",
-          "wordCount": 2543,
+          "description": "Dependencies are a very common part of any sufficiently mature codebase. And it's important to cleanly handle any third party code that your program relies on to function. There are multiple ways to get third party code included and updated. And I read something recently which has easily become my",
+          "link": "https://www.freecodecamp.org/news/manage-code-dependencies-by-shimming-your-abstractions/",
+          "publishedOn": "2021-04-19T23:19:44.000Z",
+          "wordCount": 1870,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "What Every React Developer Should Know About State"
+          "title": "How to Manage Code Dependencies by Shimming Your Abstractions"
         },
         {
-          "description": "Terraform is a tool that helps you manage various cloud infrastructure services in the form of code. You codify your infrastructure, and so it's also known as Infrastructure as Code (IaC). The cloud has become important to more and more companies. It not only helps reduce time and costs but",
-          "link": "https://www.freecodecamp.org/news/what-is-terraform-learn-infrastructure-as-code/",
-          "publishedOn": "2021-04-15T23:38:22.000Z",
-          "wordCount": 2370,
+          "description": "If you are reading this article, it probably means that you are already pushing repositories to GitHub and maybe even contributing to open source.  And if you're using GitHub, it means that you will need to write good documentation for your projects to help others understand them.  If you are",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/",
+          "publishedOn": "2021-04-19T21:59:43.000Z",
+          "wordCount": 1427,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "What is Terraform? Learn Terraform and Infrastructure as Code"
+          "title": "How to Write a Good README File for Your GitHub Project"
         },
         {
-          "description": "Almost half of all games are created using the Unity game engine. Unity is great for both new and experienced game developers. We just published a 7-hour course on the freeCodeCamp.org YouTube channel that will teach you how to create games using Unity. This is the perfect course for",
-          "link": "https://www.freecodecamp.org/news/game-development-for-beginners-unity-course/",
-          "publishedOn": "2021-04-15T17:08:48.000Z",
-          "wordCount": 419,
+          "description": "In this article, we'll learn the most popular ways of deploying a React app to Netlify. We'll also learn the configuration changes you'll need to make to deploy a Routing-based React app. The thing I love about Netlify is that it provides a lot of useful features for free such",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/",
+          "publishedOn": "2021-04-19T21:38:40.000Z",
+          "wordCount": 1290,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "Game Development for Total Beginners - Free Unity Course"
+          "title": "How to Deploy a React Router-Based Application to Netlify"
         },
         {
-          "description": "Software developers work on designing, coding, testing, and delivering the software we use every day. And whatever that developer's particular specialty, they know a lot about a lot of things – which means they should share that knowledge.  Publishing articles and creating video content are great ways to share what we",
-          "link": "https://www.freecodecamp.org/news/technical-blogging-basics/",
-          "publishedOn": "2021-04-15T16:35:42.000Z",
-          "wordCount": 2494,
+          "description": "If you are a web developer, at some point you will need to capture information from people who use your website or app.  One way of doing so is by using HTML forms. But there are also tons of frameworks out there that you can use to build web apps",
+          "link": "https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/",
+          "publishedOn": "2021-04-19T21:20:05.000Z",
+          "wordCount": 2562,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "Technical Blogging Basics – How to Write Articles as a Developer"
+          "title": "How to Add a Netlify Form to a React App Built with create-react-app"
         },
         {
-          "description": "In this tutorial we'll learn how to automatically publish machine learning models in a Gitlab package registry and make them available for your teammates to use. You can also use this technique to share a packaged version of your code as a binary. If you are a beginner Gitlab user",
-          "link": "https://www.freecodecamp.org/news/ml-model-publishing-with-gitlab-package-registry/",
-          "publishedOn": "2021-04-15T16:33:05.000Z",
-          "wordCount": 2827,
+          "description": "What is a SQL Case Statement?A case statement is basically SQL's version of conditional logic. It can be used in the same way as if statements in programming languages like JavaScript, but it is structured slightly differently.  Sample DataImagine that you are teaching a literature course. Your students must",
+          "link": "https://www.freecodecamp.org/news/sql-case-statement-tutorial-with-when-then-clause-example-queries/",
+          "publishedOn": "2021-04-19T20:44:49.000Z",
+          "wordCount": 809,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Automate Machine Learning Model Publishing with the Gitlab Package Registry"
+          "title": "SQL Case Statement Tutorial – With When-Then Clause Example Queries"
         },
         {
-          "description": "In this article, you will build a Book Management App in React from scratch.  By creating this app, you will learn: How to perform CRUD operationsHow to use React Router for navigation between routesHow to use React Context API to pass data across routesHow to create a Custom Hook in",
-          "link": "https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/",
-          "publishedOn": "2021-04-14T19:20:48.000Z",
-          "wordCount": 4973,
+          "description": "If you need to know the number of words or characters in a Google Doc, it's easy to find out using the tools Google Docs itself offers you. Whether it's for a Google Doc or an imported Word file, it works the same way – and I'll show you how in",
+          "link": "https://www.freecodecamp.org/news/word-count-in-google-docs-tutorial-counting-words-and-characters-in-a-google-doc-or-word-file/",
+          "publishedOn": "2021-04-19T20:40:35.000Z",
+          "wordCount": 563,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "React CRUD App Tutorial – How to Build a Book Management App in React from Scratch"
+          "title": "Word Count in Google Docs Tutorial – Counting Words and Characters in a Google Doc or Word File"
         },
         {
-          "description": "There are many essential concepts and lessons that React developers need to know that simply aren't covered in most tutorials.  I have handpicked the topics I believe are some of the most important for you to know, but that few articles have dedicated the time to cover in detail. Let's",
-          "link": "https://www.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/",
-          "publishedOn": "2021-04-14T18:02:20.000Z",
-          "wordCount": 2133,
+          "description": "There are a lot of tutorials about building clones of popular web apps but most of them are short and don't cover very many features.  We just released a massive 12-hour course that will show you how to create your own version of Instagram. This course is a lot more",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/",
+          "publishedOn": "2021-04-19T20:34:31.000Z",
+          "wordCount": 649,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "5 Key React Lessons the Tutorials Don&#x27;t Teach You"
+          "title": "Learn How to Create an Instagram Clone Using React in Free 12-Hour Course"
         },
         {
-          "description": "Test-Driven Development is a much-debated concept in the tech industry. Developers wonder whether they should practice TDD or not, how advantageous it is, and so on.  So what is Test-Driven Development, or TDD? Simply put, TDD dictates that you test your code before you push it to production. Now, there",
-          "link": "https://www.freecodecamp.org/news/learn-tdd-with-integration-tests-in-net-5-0/",
-          "publishedOn": "2021-04-14T17:37:46.000Z",
-          "wordCount": 2722,
+          "description": "Google Forms is a helpful tool that lets you create surveys with a great variety of customization options. In this guide we will see the most common ways to make and customize your own Google Form. Start from a templateWhen you're ready to create a new survey, you have the",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-google-form-survey-google-forms-tutorial/",
+          "publishedOn": "2021-04-19T18:13:00.000Z",
+          "wordCount": 1987,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Test-Driven Development with Integration Tests in .NET 5.0"
+          "title": "How to Make a Google Form Survey – Google Forms Tutorial"
         },
         {
-          "description": "Chess games can sometimes go on for quite some time. I once heard a story of a chess game between two famous chess grandmasters that went on for over eight hours, with the crowd waiting for them to make a move.  After a while one player said to the other",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/",
-          "publishedOn": "2021-04-14T16:09:14.000Z",
-          "wordCount": 1985,
+          "description": "If you're building React applications for the web, you're going to need to use a dedicated router to display pages and navigate your user around them.  That's why today we're going to go over the most popular and most powerful router for React applications – React Router.  We're going to go",
+          "link": "https://www.freecodecamp.org/news/react-router-cheatsheet/",
+          "publishedOn": "2021-04-19T14:52:33.000Z",
+          "wordCount": 2878,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build a Chess Clock with JavaScript and setInterval"
+          "title": "The React Router Cheatsheet – Everything You Need to Know"
         }
       ]
     }
