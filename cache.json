@@ -4,10 +4,28 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "The way we style text hasn’t changed much over the years. There have been numerous advancements to help make things more flexible, like layouts, but in terms of styling, most finite aspects of our designs, like text, remain relatively unchanged. &#8230;\nThe post Intrinsic Typography is the Future of Styling Text on the Web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/",
+          "publishedOn": "2021-04-20T14:24:44.000Z",
+          "wordCount": 1851,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Intrinsic Typography is the Future of Styling Text on the Web"
+        },
+        {
+          "description": "Container queries are finally here! Now available behind a flag in the latest version of Chrome Canary, you can go ahead and experiment to your heart’s content. Oh, and if you’re not familiar with container queries then check out &#8230;\nThe post Say Hello to CSS Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/say-hello-to-css-container-queries/",
+          "publishedOn": "2021-04-20T14:21:44.000Z",
+          "wordCount": 2219,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Say Hello to CSS Container Queries"
+        },
+        {
           "description": "There is no doubt that CSS plays a huge role in web performance. Milica Mihajlija puts a point on exactly why: \nWhen there is CSS available for a page, whether it’s inline or an external stylesheet,&#160;the browser delays rendering \n&#8230;\nThe post How to Improve CSS Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://calibreapp.com/blog/css-performance",
           "publishedOn": "2021-04-19T21:33:57.000Z",
-          "wordCount": 2152,
+          "wordCount": 2161,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Improve CSS Performance"
@@ -16,7 +34,7 @@
           "description": "Need to lay out an element to the right or the left, such that text wraps around it? That’s an easy task for the float property. But what about if you also want to push that element (let’s call it &#8230;\nThe post Float an Element to the Bottom Corner appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/float-an-element-to-the-bottom-corner/",
           "publishedOn": "2021-04-19T14:17:49.000Z",
-          "wordCount": 1466,
+          "wordCount": 1650,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Float an Element to the Bottom Corner"
@@ -25,7 +43,7 @@
           "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
           "publishedOn": "2021-04-16T18:58:59.000Z",
-          "wordCount": 2412,
+          "wordCount": 2698,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
@@ -34,7 +52,7 @@
           "description": "There&#8217;s a whole lot of accessibility in this week&#8217;s news, from the nuances of using :focus-visible and input placeholders, to accessible typefaces and a Safari bug with :display: contents. Plus, a snippet for a bare-bones web component that supports &#8230;\nThe post Platform News: Using :focus-visible, BBC&#8217;s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/platform-news-using-focus-visible-bbcs-new-typeface-declarative-shadow-doms-a11y-and-placeholders/",
           "publishedOn": "2021-04-16T14:33:05.000Z",
-          "wordCount": 1459,
+          "wordCount": 1643,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Platform News: Using :focus-visible, BBC’s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders"
@@ -52,7 +70,7 @@
           "description": "There is a lot to think about when implementing a dark mode theme on a website. We have a huge guide on it. There are some very clever quick wins out there, but there are also some quite tricky things &#8230;\nThe post Flash of inAccurate coloR Theme (FART) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/flash-of-inaccurate-color-theme-fart/",
           "publishedOn": "2021-04-15T22:13:36.000Z",
-          "wordCount": 1393,
+          "wordCount": 1408,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Flash of inAccurate coloR Theme (FART)"
@@ -61,7 +79,7 @@
           "description": "The title of this article is misleading. It’s not actually very important for an Engineering Manager to use career laddering, per se, or my process. It is, however, very important that an Engineering Manager is clear with their employees&#8230;\nThe post The Importance of Career Laddering appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-importance-of-career-laddering/",
           "publishedOn": "2021-04-15T14:29:18.000Z",
-          "wordCount": 2495,
+          "wordCount": 2806,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The Importance of Career Laddering"
@@ -88,7 +106,7 @@
           "description": "I‘m not sure how this one came about. But, it‘s a story. This article is more about grokking a concept, one that’s going to help you think about your animations in a different way. It so happens that this particular &#8230;\nThe post Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/",
           "publishedOn": "2021-04-14T14:28:33.000Z",
-          "wordCount": 4179,
+          "wordCount": 4191,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling"
@@ -115,28 +133,10 @@
           "description": "One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time. An example of this would be a scenario where an integer &#8230;\nThe post CSS is a Strongly Typed Language appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-is-a-strongly-typed-language/",
           "publishedOn": "2021-04-13T14:22:04.000Z",
-          "wordCount": 2925,
+          "wordCount": 3102,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "CSS is a Strongly Typed Language"
-        },
-        {
-          "description": "Let’s look at the Fullscreen API in JavaScript. It allows you to do a pretty powerful thing: full screening exactly one particular element you want it to. Not only that, but CSS can help as well with a special selector.&#8230;\nThe post How to Leverage the Fullscreen API… and Style It appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-leverage-the-fullscreen-api-and-style-it/",
-          "publishedOn": "2021-04-12T14:42:40.000Z",
-          "wordCount": 1354,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Leverage the Fullscreen API… and Style It"
-        },
-        {
-          "description": "Get it? Because this blog post is about Around, the wonderful new video call software. I&#8217;ve been using it for my video calls and I&#8217;d be happy to deliver you a TLDR right off the bat: It&#8217;s nice. It &#8230;\nThe post See You Around appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/see-you-around/",
-          "publishedOn": "2021-04-12T13:19:00.000Z",
-          "wordCount": 1219,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "See You Around"
         }
       ]
     },
@@ -144,10 +144,19 @@
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
+          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
+          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
+          "publishedOn": "2021-04-20T09:00:00.000Z",
+          "wordCount": 3482,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Making GraphQL Work In WordPress"
+        },
+        {
           "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7171,
+          "wordCount": 7175,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
@@ -156,7 +165,7 @@
           "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2910,
+          "wordCount": 2912,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
@@ -165,7 +174,7 @@
           "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3519,
+          "wordCount": 3522,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Get Web Design Clients Fast (Part 2)"
@@ -174,7 +183,7 @@
           "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 965,
+          "wordCount": 967,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
@@ -183,7 +192,7 @@
           "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1914,
+          "wordCount": 1917,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
@@ -192,7 +201,7 @@
           "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3152,
+          "wordCount": 3154,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
@@ -201,7 +210,7 @@
           "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
-          "wordCount": 2961,
+          "wordCount": 2965,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
@@ -210,7 +219,7 @@
           "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
           "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
           "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5986,
+          "wordCount": 5988,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
@@ -219,7 +228,7 @@
           "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
           "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
           "publishedOn": "2021-04-08T11:00:00.000Z",
-          "wordCount": 1856,
+          "wordCount": 1858,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Better Documentation And Team Communication With Product Design Docs"
@@ -228,7 +237,7 @@
           "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
           "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
           "publishedOn": "2021-04-07T11:00:00.000Z",
-          "wordCount": 4047,
+          "wordCount": 4049,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
@@ -237,7 +246,7 @@
           "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
           "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4081,
+          "wordCount": 4083,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Don’t Lose Your Head: Evaluating Headless"
@@ -246,7 +255,7 @@
           "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
           "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
           "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2016,
+          "wordCount": 2018,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Vanilla JavaScript Code Snippets"
@@ -255,7 +264,7 @@
           "description": "Quick, constant change is a given on the web. It is often one of its greatest strengths. As ever, though, there is a balance to find. Although longevity takes a different form online, its value is immeasurable.",
           "link": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
           "publishedOn": "2021-04-02T11:00:00.000Z",
-          "wordCount": 3380,
+          "wordCount": 3382,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Guarding Against Disposable Design"
@@ -264,7 +273,7 @@
           "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new CSS tool called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
           "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
           "publishedOn": "2021-04-01T09:44:00.000Z",
-          "wordCount": 2456,
+          "wordCount": 2458,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
@@ -273,7 +282,7 @@
           "description": "Let’s welcome the new month with some fresh wallpapers. Designed with love by artists and designers from across the globe, they are available with and without a calendar for April 2021.",
           "link": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
           "publishedOn": "2021-03-31T10:00:00.000Z",
-          "wordCount": 2033,
+          "wordCount": 2035,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Small Joys Of April (2021 Wallpapers Edition)"
@@ -282,7 +291,7 @@
           "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
           "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
           "publishedOn": "2021-03-30T10:30:00.000Z",
-          "wordCount": 5732,
+          "wordCount": 5736,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
@@ -291,7 +300,7 @@
           "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
           "link": "https://smashingmagazine.com/2021/03/svg-generators/",
           "publishedOn": "2021-03-29T09:54:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3669,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "SVG Generators"
@@ -300,7 +309,7 @@
           "description": "This article presents tactics that can be helpful for those working in organizations that have started engaging in UX, but are still at the lower to middle stages of maturity: knowledge sharing and mentorship.",
           "link": "https://smashingmagazine.com/2021/03/growing-ux-maturity-in-organizations-part-2/",
           "publishedOn": "2021-03-26T11:30:00.000Z",
-          "wordCount": 4138,
+          "wordCount": 4140,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Growing UX Maturity: Knowledge Sharing And Mentorship (Part 2)"
@@ -309,7 +318,7 @@
           "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
           "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
           "publishedOn": "2021-03-25T13:00:00.000Z",
-          "wordCount": 2052,
+          "wordCount": 2056,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Boost Media Performance On A Budget"
@@ -318,7 +327,7 @@
           "description": "Reactivity is the ability for a variable (array, string, number, object, etc) to update when its value or any other variable that it makes reference to is changed after declaration.",
           "link": "https://smashingmagazine.com/2021/03/reactivity-in-vue/",
           "publishedOn": "2021-03-25T10:00:00.000Z",
-          "wordCount": 2272,
+          "wordCount": 2274,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reactivity In Vue"
@@ -327,7 +336,7 @@
           "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
           "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
           "publishedOn": "2021-03-24T12:20:00.000Z",
-          "wordCount": 4144,
+          "wordCount": 4147,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Deep Dive Into Eleventy Static Site Generator"
@@ -336,25 +345,25 @@
           "description": "One of the drivers of the popularity of headless options is that expectations for the quality of user experience are constantly going up. In this article, we explore what headless means, use cases for it, and how to decide if headless is a good fit for you.",
           "link": "https://smashingmagazine.com/2021/03/going-headless-use-cases/",
           "publishedOn": "2021-03-23T15:15:00.000Z",
-          "wordCount": 4264,
+          "wordCount": 4266,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Going Headless: Use Cases And What It’s Good For"
-        },
-        {
-          "description": "Reliable accessible front-end components: :focus styles, content sliders, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, \"skip\" links, SVGs, tabs, tables, toggles and tooltips.",
-          "link": "https://smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
-          "publishedOn": "2021-03-22T11:30:00.000Z",
-          "wordCount": 6862,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Complete Guide To Accessible Front-End Components"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "In this article, we are going to use Azure Functions and the wkhtmltopdf tool to generate a PDF file from an HTML file.  You might want to create a PDF file for a great many reasons, such as generating invoices for sales, medical reports for your patients, insurance forms for",
+          "link": "https://www.freecodecamp.org/news/convert-html-to-pdf-with-azure-functions-and-wkhtmltopdf/",
+          "publishedOn": "2021-04-20T16:02:01.000Z",
+          "wordCount": 2796,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Convert HTML to PDF with Azure Functions and wkhtmltopdf"
+        },
         {
           "description": "Switching branches is something you'll need to do often in Git. To do this, you can use the git checkout command. How to create a new branch in GitTo create a new branch in Git, you use the git checkout command and pass the -b flag with a name. This",
           "link": "https://www.freecodecamp.org/news/git-switch-branch/",
@@ -435,18 +444,9 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "How to Make a Google Form Survey – Google Forms Tutorial"
-        },
-        {
-          "description": "If you're building React applications for the web, you're going to need to use a dedicated router to display pages and navigate your user around them.  That's why today we're going to go over the most popular and most powerful router for React applications – React Router.  We're going to go",
-          "link": "https://www.freecodecamp.org/news/react-router-cheatsheet/",
-          "publishedOn": "2021-04-19T14:52:33.000Z",
-          "wordCount": 2878,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "The React Router Cheatsheet – Everything You Need to Know"
         }
       ]
     }
   ],
-  "cliVersion": "1.2.2"
+  "cliVersion": "1.2.3"
 }
