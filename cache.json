@@ -4,10 +4,46 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
-          "description": "It sure would be nice to be able to animate the transition between pages if we want to on the web, at least without resorting to hacks or full-blown architecture choices just to achieve it. Some kind of API that &#8230;\nThe post Still Hoping for Better Native Page Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "There are some Unicode characters that some browsers just decide they are going to turn into emojis for you. I couldn&#8217;t tell you why exactly, but here&#8217;s what I see:\nChrome on the left. Safari in the simulator on top&#8230;\nThe post Text That Sometimes Turns to Emojis appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/text-that-sometimes-turns-to-emojis/",
+          "publishedOn": "2021-04-22T21:17:43.000Z",
+          "wordCount": 757,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Text That Sometimes Turns to Emojis"
+        },
+        {
+          "description": "Here&#8217;s Jess B. Peck writing all about Google&#8217;s Core Web Vitals:\nLet’s step back one. CLS is when you’re about to click on a link, and the whole page shifts and you click on a different link instead. It’s when \n&#8230;\nThe post The Almost-Complete Guide to Cumulative Layout Shift appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://jessbpeck.com/posts/completecls/",
+          "publishedOn": "2021-04-22T19:04:48.000Z",
+          "wordCount": 7752,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "The Almost-Complete Guide to Cumulative Layout Shift"
+        },
+        {
+          "description": "Try Hotjar for free today!\nAn enjoyable user experience and high conversion rates go hand-in-hand. It makes sense then, that if you want to improve conversion rates, your first task is to improve user experience.\nTo improve UX, deeply understanding &#8230;\nThe post Tools to Improve UX and Win Over Your Customers appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/tools-to-improve-ux-and-win-over-your-customers/",
+          "publishedOn": "2021-04-22T19:03:51.000Z",
+          "wordCount": 1526,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Tools to Improve UX and Win Over Your Customers"
+        },
+        {
+          "description": "Not a typical one, at least. Each character is an HTML element, built with CSS. A true web font!\nLet me elaborate. This is a way to render text without using any font at all. Random text is split with &#8230;\nThe post The Making (and Potential Benefits) of a CSS Font appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/",
+          "publishedOn": "2021-04-22T14:30:43.000Z",
+          "wordCount": 3627,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "The Making (and Potential Benefits) of a CSS Font"
+        },
+        {
+          "description": "It would be nice to be able to animate the transition between pages if we want to on the web without resorting to hacks or full-blown architecture choices to achieve it. I could imagine an API that would run stuff&#8230;\nThe post Still Hoping for Better Native Page Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/still-hoping-for-better-native-page-transitions/",
           "publishedOn": "2021-04-21T22:57:03.000Z",
-          "wordCount": 811,
+          "wordCount": 1069,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Still Hoping for Better Native Page Transitions"
@@ -25,7 +61,7 @@
           "description": "Let’s say someone asks you to add a double border to some random geometric SVG shapes. For some reason, you can’t use any graphic editor — they need to be generated at runtime — so you have to solve it &#8230;\nThe post How to Add a Double Border to SVG Shapes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-add-a-double-border-to-svg-shapes/",
           "publishedOn": "2021-04-21T14:26:28.000Z",
-          "wordCount": 1043,
+          "wordCount": 1181,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Add a Double Border to SVG Shapes"
@@ -34,7 +70,7 @@
           "description": "The way we style text hasn’t changed much over the years. There have been numerous advancements to help make things more flexible, like layouts, but in terms of styling, most finite aspects of our designs, like text, remain relatively unchanged. &#8230;\nThe post Intrinsic Typography is the Future of Styling Text on the Web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/",
           "publishedOn": "2021-04-20T14:24:44.000Z",
-          "wordCount": 2618,
+          "wordCount": 3026,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Intrinsic Typography is the Future of Styling Text on the Web"
@@ -101,48 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Flash of inAccurate coloR Theme (FART)"
-        },
-        {
-          "description": "The title of this article is misleading. It’s not actually very important for an Engineering Manager to use career laddering, per se, or my process. It is, however, very important that an Engineering Manager is clear with their employees&#8230;\nThe post The Importance of Career Laddering appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-importance-of-career-laddering/",
-          "publishedOn": "2021-04-15T14:29:18.000Z",
-          "wordCount": 2840,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "The Importance of Career Laddering"
-        },
-        {
-          "description": "Svelte is a free and open-source front end JavaScript framework that enables developers to build highly performant applications with smaller application bundles. Svelte also empowers developers with its awesome developer experience.\nSvelte provides a different approach to building web apps &#8230;\nThe post How to Build a FullStack Serverless HN Clone With Svelte and Fauna appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-build-a-fullstack-serverless-hn-clone-with-svelte-and-fauna/",
-          "publishedOn": "2021-04-15T14:27:01.000Z",
-          "wordCount": 1425,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Build a FullStack Serverless HN Clone With Svelte and Fauna"
-        },
-        {
-          "description": "This is a tremendous CSS-focused tutorial from Adam Argyle. I really like the &#8220;just for gap&#8221; concept here. Grid is extremely powerful, but you don&#8217;t have to use all its abilities every time you reach for it. Here, Adam &#8230;\nThe post Building a Settings Component appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/building-a-settings-component/",
-          "publishedOn": "2021-04-14T21:08:24.000Z",
-          "wordCount": 3383,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Building a Settings Component"
-        },
-        {
-          "description": "I‘m not sure how this one came about. But, it‘s a story. This article is more about grokking a concept, one that’s going to help you think about your animations in a different way. It so happens that this particular &#8230;\nThe post Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/",
-          "publishedOn": "2021-04-14T14:28:33.000Z",
-          "wordCount": 4191,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
+          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
+          "publishedOn": "2021-04-22T14:00:00.000Z",
+          "wordCount": 1764,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
+        },
         {
           "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
@@ -349,30 +358,39 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reactivity In Vue"
-        },
-        {
-          "description": "Eleventy (aka 11ty) is rising in the ranks among static site generators. This Node-based builder is attractive due to its zero-config starting point, purely static output, and ease of achieving the coveted top Lighthouse performance score of four perfect 100s. Let’s dive into what else makes it unique, and learn about some essential concepts to help you successfully get started.",
-          "link": "https://smashingmagazine.com/2021/03/eleventy-static-site-generator/",
-          "publishedOn": "2021-03-24T12:20:00.000Z",
-          "wordCount": 4147,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "A Deep Dive Into Eleventy Static Site Generator"
-        },
-        {
-          "description": "One of the drivers of the popularity of headless options is that expectations for the quality of user experience are constantly going up. In this article, we explore what headless means, use cases for it, and how to decide if headless is a good fit for you.",
-          "link": "https://smashingmagazine.com/2021/03/going-headless-use-cases/",
-          "publishedOn": "2021-03-23T15:15:00.000Z",
-          "wordCount": 4266,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Going Headless: Use Cases And What It’s Good For"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "Django is the most popular full-stack web framework for Python. It helps people create web apps quickly. We just released a 7-hour course that will teach you how to use the newest version of Django to create web apps. The course also covers pandas, matplotlib, JavaScript, ajax, xhtml2pdf, dropzone.js,",
+          "link": "https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/",
+          "publishedOn": "2021-04-22T20:28:37.000Z",
+          "wordCount": 486,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn Django 3 and Start Creating Websites With Python"
+        },
+        {
+          "description": "UML is a standard way to diagram computer systems or databases. UML helps developers visualize the relationships between different pieces of software or hardware so they can more easily plan development.  What does UML Stand for? A UML Definition in Plain EnglishUML stands for Unified Modeling Language. IBM engineer Grady",
+          "link": "https://www.freecodecamp.org/news/uml-diagrams-full-course/",
+          "publishedOn": "2021-04-22T17:17:00.000Z",
+          "wordCount": 367,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "UML Diagram Course – How to Design Databases and Systems"
+        },
+        {
+          "description": "People often learn about data structures out-of-context. It can be helpful to see how they are used in a real-world project. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn foundational data structure concepts by building a real-world API using Python and Flask.",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/",
+          "publishedOn": "2021-04-22T16:37:18.000Z",
+          "wordCount": 336,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn Data Structures by Building a Flask API with Python"
+        },
         {
           "description": "Technical writing helps you share your technical knowledge and experience with others. It also helps you reinforce your knowledge of the topic you're writing about while demonstrating your technical abilities and talents. In this article, I will explain what you need to know to become a technical writer. We'll learn",
           "link": "https://www.freecodecamp.org/news/how-to-become-a-technical-writer/",
@@ -435,33 +453,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "How to Write a Good README File for Your GitHub Project"
-        },
-        {
-          "description": "In this article, we'll learn the most popular ways of deploying a React app to Netlify. We'll also learn the configuration changes you'll need to make to deploy a Routing-based React app. The thing I love about Netlify is that it provides a lot of useful features for free such",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/",
-          "publishedOn": "2021-04-19T21:38:40.000Z",
-          "wordCount": 1290,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Deploy a React Router-Based Application to Netlify"
-        },
-        {
-          "description": "If you are a web developer, at some point you will need to capture information from people who use your website or app.  One way of doing so is by using HTML forms. But there are also tons of frameworks out there that you can use to build web apps",
-          "link": "https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/",
-          "publishedOn": "2021-04-19T21:20:05.000Z",
-          "wordCount": 2562,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add a Netlify Form to a React App Built with create-react-app"
-        },
-        {
-          "description": "What is a SQL Case Statement?A case statement is basically SQL's version of conditional logic. It can be used in the same way as if statements in programming languages like JavaScript, but it is structured slightly differently.  Sample DataImagine that you are teaching a literature course. Your students must",
-          "link": "https://www.freecodecamp.org/news/sql-case-statement-tutorial-with-when-then-clause-example-queries/",
-          "publishedOn": "2021-04-19T20:44:49.000Z",
-          "wordCount": 809,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "SQL Case Statement Tutorial – With When-Then Clause Example Queries"
         }
       ]
     }
