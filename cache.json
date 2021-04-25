@@ -25,7 +25,7 @@
           "description": "There are some Unicode characters that some browsers just decide they are going to turn into emojis for you. I couldn&#8217;t tell you why exactly, but here&#8217;s what I see:\nChrome on the left. Safari in the simulator on top&#8230;\nThe post Text That Sometimes Turns to Emojis appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/text-that-sometimes-turns-to-emojis/",
           "publishedOn": "2021-04-22T21:17:43.000Z",
-          "wordCount": 1135,
+          "wordCount": 1309,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Text That Sometimes Turns to Emojis"
@@ -61,7 +61,7 @@
           "description": "It would be nice to be able to animate the transition between pages if we want to on the web without resorting to hacks or full-blown architecture choices to achieve it. I could imagine an API that would run stuff&#8230;\nThe post Still Hoping for Better Native Page Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/still-hoping-for-better-native-page-transitions/",
           "publishedOn": "2021-04-21T22:57:03.000Z",
-          "wordCount": 1275,
+          "wordCount": 1321,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Still Hoping for Better Native Page Transitions"
@@ -192,7 +192,7 @@
           "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7175,
+          "wordCount": 7212,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
@@ -340,24 +340,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "SVG Generators"
-        },
-        {
-          "description": "This article presents tactics that can be helpful for those working in organizations that have started engaging in UX, but are still at the lower to middle stages of maturity: knowledge sharing and mentorship.",
-          "link": "https://smashingmagazine.com/2021/03/growing-ux-maturity-in-organizations-part-2/",
-          "publishedOn": "2021-03-26T11:30:00.000Z",
-          "wordCount": 4140,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity: Knowledge Sharing And Mentorship (Part 2)"
-        },
-        {
-          "description": "How do we get media performance right while staying within performance budgets? Let’s take a look at the recent stats and data around performance budgets, video playback performance issues and some techniques and tools to address these issues.",
-          "link": "https://smashingmagazine.com/2021/03/boost-media-performance/",
-          "publishedOn": "2021-03-25T13:00:00.000Z",
-          "wordCount": 2056,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "How To Boost Media Performance On A Budget"
         }
       ]
     },
