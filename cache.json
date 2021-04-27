@@ -4,6 +4,24 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the first time. appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
+          "publishedOn": "2021-04-26T21:02:49.000Z",
+          "wordCount": 909,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Exploring color-contrast() for the first time."
+        },
+        {
+          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
+          "publishedOn": "2021-04-26T14:05:00.000Z",
+          "wordCount": 4649,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Generating (and Solving!) Sudokus in CSS"
+        },
+        {
           "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/compat2021/",
           "publishedOn": "2021-04-23T20:55:19.000Z",
@@ -16,7 +34,7 @@
           "description": "In my previous article, I discussed how I learned to create a decoupled WordPress powered Gatsby site using the Gatsby Source WPGraphQL plugin. The project was done following the ongoing developmental version of WPGraphQL and an excellent tutorial by Henrik &#8230;\nThe post Using New Gatsby Source WordPress Plugin appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-new-gatsby-source-wordpress-plugin/",
           "publishedOn": "2021-04-23T14:03:18.000Z",
-          "wordCount": 6069,
+          "wordCount": 6096,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Using New Gatsby Source WordPress Plugin"
@@ -52,7 +70,7 @@
           "description": "Not a typical one, at least. Each character is an HTML element, built with CSS. A true web font!\nLet me elaborate. This is a way to render text without using any font at all. Random text is split with &#8230;\nThe post The Making (and Potential Benefits) of a CSS Font appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/",
           "publishedOn": "2021-04-22T14:30:43.000Z",
-          "wordCount": 4289,
+          "wordCount": 4444,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The Making (and Potential Benefits) of a CSS Font"
@@ -88,7 +106,7 @@
           "description": "The way we style text hasn’t changed much over the years. There have been numerous advancements to help make things more flexible, like layouts, but in terms of styling, most finite aspects of our designs, like text, remain relatively unchanged. &#8230;\nThe post Intrinsic Typography is the Future of Styling Text on the Web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/",
           "publishedOn": "2021-04-20T14:24:44.000Z",
-          "wordCount": 3026,
+          "wordCount": 3084,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Intrinsic Typography is the Future of Styling Text on the Web"
@@ -119,30 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Float an Element to the Bottom Corner"
-        },
-        {
-          "description": "When I was working on a project that needed an editor component for source code, I really wanted a way to have that editor highlight the syntax its typed. There are projects like this, like CodeMirror, Ace, and &#8230;\nThe post Creating an Editable Textarea That Supports Syntax-Highlighted Code appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-an-editable-textarea-that-supports-syntax-highlighted-code/",
-          "publishedOn": "2021-04-16T18:58:59.000Z",
-          "wordCount": 2706,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating an Editable Textarea That Supports Syntax-Highlighted Code"
-        },
-        {
-          "description": "There&#8217;s a whole lot of accessibility in this week&#8217;s news, from the nuances of using :focus-visible and input placeholders, to accessible typefaces and a Safari bug with :display: contents. Plus, a snippet for a bare-bones web component that supports &#8230;\nThe post Platform News: Using :focus-visible, BBC&#8217;s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/platform-news-using-focus-visible-bbcs-new-typeface-declarative-shadow-doms-a11y-and-placeholders/",
-          "publishedOn": "2021-04-16T14:33:05.000Z",
-          "wordCount": 2218,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Platform News: Using :focus-visible, BBC’s New Typeface, Declarative Shadow DOMs, A11Y and Placeholders"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
+          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
+          "publishedOn": "2021-04-26T11:00:00.000Z",
+          "wordCount": 3279,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+        },
         {
           "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
@@ -347,6 +356,51 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "Have you ever visited a website with a custom scrollbar and wondered how they did it? After reading this article you will understand just about everything there is to know about customizing and styling scrollbars using CSS.  In this tutorial you will: Learn the native CSS properties available for styling",
+          "link": "https://www.freecodecamp.org/news/css-scrollbar-tutorial/",
+          "publishedOn": "2021-04-27T00:37:38.000Z",
+          "wordCount": 2356,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "CSS Scrollbar Styling Tutorial – How to Make a Custom Scrollbar"
+        },
+        {
+          "description": "Notifications are an excellent way to engage your users or to get them to go back to your application. You can also use notifications to make users pay attention to something while they're using the app. There are two types of notifications: Push NotificationsLocal NotificationsAs the title of this article",
+          "link": "https://www.freecodecamp.org/news/local-notifications-in-flutter/",
+          "publishedOn": "2021-04-27T00:05:44.000Z",
+          "wordCount": 1962,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Set Up Local Notifications in Flutter"
+        },
+        {
+          "description": "A young Russian developer named Igor Sysoev was frustrated by older web servers' inability to handle more than 10 thousand concurrent requests. This is a problem referred to as the C10k problem. As an answer to this, he started working on a new web server back in 2002. NGINX was",
+          "link": "https://www.freecodecamp.org/news/the-nginx-handbook/",
+          "publishedOn": "2021-04-26T23:56:38.000Z",
+          "wordCount": 14624,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "The NGINX Handbook"
+        },
+        {
+          "description": "The basic command for pushing a local branch to a remote repository is git push. This command has a variety of options and parameters you can pass to it, and in this article you'll learn the ones that you will use the most often. How to push a local Git",
+          "link": "https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/",
+          "publishedOn": "2021-04-26T15:37:54.000Z",
+          "wordCount": 1081,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Git Push to Remote Branch – How to Push a Local Branch to Origin"
+        },
+        {
+          "description": "Today we're going to learn how to use CSS Media Queries to build responsive websites. And we'll practice what we learn by completing three projects. Let's go 🏅 Table of Contents What are CSS Media Queries?Steps to followThe SyntaxPractice ProjectsConclusionTopics to discuss at a glance: You can watch this tutorial",
+          "link": "https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/",
+          "publishedOn": "2021-04-26T15:21:29.000Z",
+          "wordCount": 3284,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn CSS Media Queries by Building Three Projects"
+        },
+        {
           "description": "Whenever I'm starting with a new framework or it's been a while since I've used it, I always end up searching for the same simple things.  I'll Google how to render raw HTML, how to display a component based on a condition, how to assign a class to an element,",
           "link": "https://www.freecodecamp.org/news/react-cheatsheet-html-rendering/",
           "publishedOn": "2021-04-23T21:40:22.000Z",
@@ -390,51 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Learn Django 3 and Start Creating Websites With Python"
-        },
-        {
-          "description": "UML is a standard way to diagram computer systems or databases. UML helps developers visualize the relationships between different pieces of software or hardware so they can more easily plan development.  What does UML Stand for? A UML Definition in Plain EnglishUML stands for Unified Modeling Language. IBM engineer Grady",
-          "link": "https://www.freecodecamp.org/news/uml-diagrams-full-course/",
-          "publishedOn": "2021-04-22T17:17:00.000Z",
-          "wordCount": 367,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "UML Diagram Course – How to Design Databases and Systems"
-        },
-        {
-          "description": "People often learn about data structures out-of-context. It can be helpful to see how they are used in a real-world project. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn foundational data structure concepts by building a real-world API using Python and Flask.",
-          "link": "https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/",
-          "publishedOn": "2021-04-22T16:37:18.000Z",
-          "wordCount": 336,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Data Structures by Building a Flask API with Python"
-        },
-        {
-          "description": "Technical writing helps you share your technical knowledge and experience with others. It also helps you reinforce your knowledge of the topic you're writing about while demonstrating your technical abilities and talents. In this article, I will explain what you need to know to become a technical writer. We'll learn",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-technical-writer/",
-          "publishedOn": "2021-04-21T20:06:00.000Z",
-          "wordCount": 2850,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Become a Technical Writer"
-        },
-        {
-          "description": "In Excel, you might have a column with first names and a column with last names that you want to join. In this tutorial I will explain how you can easily accomplish this. Let's say we have the list of first names in column A and the list of last",
-          "link": "https://www.freecodecamp.org/news/combine-first-last-names-excel/",
-          "publishedOn": "2021-04-21T19:16:31.000Z",
-          "wordCount": 530,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Combine First and Last Name in Excel"
-        },
-        {
-          "description": "In this article, I'm going to show you how to very quickly deploy any React application with the help of Cloudflare pages.  You'll see how to not only build and deploy your app within minutes using just a few tools, but also how to auto-deploy any future changes you make",
-          "link": "https://www.freecodecamp.org/news/how-to-auto-deploy-your-react-apps-with-cloudflare-pages/",
-          "publishedOn": "2021-04-21T18:26:44.000Z",
-          "wordCount": 1486,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Auto-Deploy Your React Apps with Cloudflare Pages"
         }
       ]
     }
