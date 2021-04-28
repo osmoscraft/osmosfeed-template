@@ -4,19 +4,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
-          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the first time. appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
-          "publishedOn": "2021-04-26T21:02:49.000Z",
-          "wordCount": 909,
+          "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/shared-element-transitions/",
+          "publishedOn": "2021-04-27T20:12:04.000Z",
+          "wordCount": 669,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
-          "title": "Exploring color-contrast() for the first time."
+          "title": "Shared Element Transitions"
+        },
+        {
+          "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
+          "publishedOn": "2021-04-27T14:26:16.000Z",
+          "wordCount": 5407,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "A Complete Guide to Custom Properties"
+        },
+        {
+          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the First Time appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
+          "publishedOn": "2021-04-26T21:02:49.000Z",
+          "wordCount": 1032,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Exploring color-contrast() for the First Time"
         },
         {
           "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
           "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 4649,
+          "wordCount": 5386,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Generating (and Solving!) Sudokus in CSS"
@@ -79,7 +97,7 @@
           "description": "It would be nice to be able to animate the transition between pages if we want to on the web without resorting to hacks or full-blown architecture choices to achieve it. I could imagine an API that would run stuff&#8230;\nThe post Still Hoping for Better Native Page Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/still-hoping-for-better-native-page-transitions/",
           "publishedOn": "2021-04-21T22:57:03.000Z",
-          "wordCount": 1375,
+          "wordCount": 1430,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Still Hoping for Better Native Page Transitions"
@@ -106,7 +124,7 @@
           "description": "The way we style text hasn’t changed much over the years. There have been numerous advancements to help make things more flexible, like layouts, but in terms of styling, most finite aspects of our designs, like text, remain relatively unchanged. &#8230;\nThe post Intrinsic Typography is the Future of Styling Text on the Web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/",
           "publishedOn": "2021-04-20T14:24:44.000Z",
-          "wordCount": 3084,
+          "wordCount": 3130,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Intrinsic Typography is the Future of Styling Text on the Web"
@@ -115,34 +133,25 @@
           "description": "Container queries are finally here! Now available behind a flag in the latest version of Chrome Canary, you can go ahead and experiment to your heart’s content. Oh, and if you’re not familiar with container queries then check out &#8230;\nThe post Say Hello to CSS Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://ishadeed.com/article/say-hello-to-css-container-queries/",
           "publishedOn": "2021-04-20T14:21:44.000Z",
-          "wordCount": 2230,
+          "wordCount": 2238,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Say Hello to CSS Container Queries"
-        },
-        {
-          "description": "There is no doubt that CSS plays a huge role in web performance. Milica Mihajlija puts a point on exactly why: \nWhen there is CSS available for a page, whether it’s inline or an external stylesheet,&#160;the browser delays rendering \n&#8230;\nThe post How to Improve CSS Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://calibreapp.com/blog/css-performance",
-          "publishedOn": "2021-04-19T21:33:57.000Z",
-          "wordCount": 2161,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Improve CSS Performance"
-        },
-        {
-          "description": "Need to lay out an element to the right or the left, such that text wraps around it? That’s an easy task for the float property. But what about if you also want to push that element (let’s call it &#8230;\nThe post Float an Element to the Bottom Corner appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/float-an-element-to-the-bottom-corner/",
-          "publishedOn": "2021-04-19T14:17:49.000Z",
-          "wordCount": 1863,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Float an Element to the Bottom Corner"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
+          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
+          "publishedOn": "2021-04-27T12:00:00.000Z",
+          "wordCount": 2623,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Understanding Easing Functions For CSS Animations And Transitions"
+        },
         {
           "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
@@ -340,21 +349,75 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
-        },
-        {
-          "description": "A complete guide to SVG generators &mdash; for everything from SVG shapes and cropping tools to SVG filters, color matrix mixers and SVG to JSX generators.",
-          "link": "https://smashingmagazine.com/2021/03/svg-generators/",
-          "publishedOn": "2021-03-29T09:54:00.000Z",
-          "wordCount": 3669,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "SVG Generators"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
+          "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
+          "publishedOn": "2021-04-27T22:53:14.000Z",
+          "wordCount": 2010,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
+        },
+        {
+          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
+          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
+          "publishedOn": "2021-04-27T19:55:23.000Z",
+          "wordCount": 12960,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
+        },
+        {
+          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
+          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
+          "publishedOn": "2021-04-27T18:21:00.000Z",
+          "wordCount": 1815,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
+        },
+        {
+          "description": "What is Lazy Loading?Lazy loading is the process of loading components, modules, or other assets of a website as they're required.  Since Angular creates a SPA (Single Page Application), all of its components are loaded at once. This means that a lot of unnecessary libraries or modules might be",
+          "link": "https://www.freecodecamp.org/news/lazy-loading-in-angular-intro-to-ngmodules/",
+          "publishedOn": "2021-04-27T18:17:43.000Z",
+          "wordCount": 1178,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Lazy Loading in Angular – A Beginner&#x27;s Guide to NgModules"
+        },
+        {
+          "description": "In this article, we will build a React application using class components. Then we'll convert it to functional components using React Hooks in a step-by-step way. By building this app, you will learn: How to make API callsHow to implement load more functionalityHow to debug application issuesHow to use async/",
+          "link": "https://www.freecodecamp.org/news/build-a-react-application-with-load-more-functionality-react-hooks/",
+          "publishedOn": "2021-04-27T18:12:22.000Z",
+          "wordCount": 3778,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Build a React Application with Load More Functionality using React Hooks"
+        },
+        {
+          "description": "This tutorial will help you to understand how the built-in JavaScript method  setTimeout() works with intuitive code examples. How to Use setTimeout() in JavaScriptThe setTimeout() method allows you to execute a piece of code after a certain amount of time has passed. You can think of the method as a",
+          "link": "https://www.freecodecamp.org/news/javascript-settimeout-how-to-set-a-timer-in-javascript-or-sleep-for-n-seconds/",
+          "publishedOn": "2021-04-27T17:45:49.000Z",
+          "wordCount": 829,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "JavaScript setTimeout() – How to Set a Timer in JavaScript or Sleep for N Seconds"
+        },
+        {
+          "description": "OpenGL is a cross-language, cross-platform graphics API for rendering 2D and 3D scenes using a graphics card. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenGL with C++ to create 3D and 2D graphics. Victor Gordan developed this course. His",
+          "link": "https://www.freecodecamp.org/news/how-to-create-3d-and-2d-graphics-with-opengl-and-cpp/",
+          "publishedOn": "2021-04-27T16:56:37.000Z",
+          "wordCount": 544,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Create 3D and 2D Graphics with OpenGL and C++"
+        },
         {
           "description": "Have you ever visited a website with a custom scrollbar and wondered how they did it? After reading this article you will understand just about everything there is to know about customizing and styling scrollbars using CSS.  In this tutorial you will: Learn the native CSS properties available for styling",
           "link": "https://www.freecodecamp.org/news/css-scrollbar-tutorial/",
@@ -381,69 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "The NGINX Handbook"
-        },
-        {
-          "description": "The basic command for pushing a local branch to a remote repository is git push. This command has a variety of options and parameters you can pass to it, and in this article you'll learn the ones that you will use the most often. How to push a local Git",
-          "link": "https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/",
-          "publishedOn": "2021-04-26T15:37:54.000Z",
-          "wordCount": 1081,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Git Push to Remote Branch – How to Push a Local Branch to Origin"
-        },
-        {
-          "description": "Today we're going to learn how to use CSS Media Queries to build responsive websites. And we'll practice what we learn by completing three projects. Let's go 🏅 Table of Contents What are CSS Media Queries?Steps to followThe SyntaxPractice ProjectsConclusionTopics to discuss at a glance: You can watch this tutorial",
-          "link": "https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/",
-          "publishedOn": "2021-04-26T15:21:29.000Z",
-          "wordCount": 3284,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn CSS Media Queries by Building Three Projects"
-        },
-        {
-          "description": "Whenever I'm starting with a new framework or it's been a while since I've used it, I always end up searching for the same simple things.  I'll Google how to render raw HTML, how to display a component based on a condition, how to assign a class to an element,",
-          "link": "https://www.freecodecamp.org/news/react-cheatsheet-html-rendering/",
-          "publishedOn": "2021-04-23T21:40:22.000Z",
-          "wordCount": 759,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "React Cheatsheet – 9 Common HTML Rendering Cases You Should Know"
-        },
-        {
-          "description": "When you are building a content-driven website for a client, there is often some tension between creating a consistent user experience and adding some flair. If, like I am, you are mostly working in a headless way, you may also want your CMS to capture and serve raw data at",
-          "link": "https://www.freecodecamp.org/news/create-a-data-driven-component-with-wordpress-and-nextjs/",
-          "publishedOn": "2021-04-23T18:34:28.000Z",
-          "wordCount": 2215,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Create a Data-driven Component with WordPress and Next.js"
-        },
-        {
-          "description": "The splice() method is a built-in method for JavaScript Array objects. It lets you change the content of your array by removing or replacing existing elements with new ones.  This method modifies the original array and returns the removed elements as a new array.  In this tutorial, you will learn",
-          "link": "https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/",
-          "publishedOn": "2021-04-23T18:14:00.000Z",
-          "wordCount": 846,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "JavaScript Splice – How to Use the .splice() JS Array Method"
-        },
-        {
-          "description": "Hello developers 👋. If you have built Deep Neural Networks before, you might know that it can involve a lot of experimentation.  In this article, I will share with you some useful tips and guidelines that you can use to better build better deep learning models. These tricks should make it",
-          "link": "https://www.freecodecamp.org/news/how-to-build-better-machine-learning-models/",
-          "publishedOn": "2021-04-23T16:22:43.000Z",
-          "wordCount": 2831,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Build Better Machine Learning Models"
-        },
-        {
-          "description": "Django is the most popular full-stack web framework for Python. It helps people create web apps quickly. We just released a 7-hour course that will teach you how to use the newest version of Django to create web apps. The course also covers pandas, matplotlib, JavaScript, ajax, xhtml2pdf, dropzone.js,",
-          "link": "https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/",
-          "publishedOn": "2021-04-22T20:28:37.000Z",
-          "wordCount": 486,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Django 3 and Start Creating Websites With Python"
         }
       ]
     }
