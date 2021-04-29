@@ -4,10 +4,28 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/your-team-is-not-them/",
+          "publishedOn": "2021-04-28T19:35:32.000Z",
+          "wordCount": 1696,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Your Team is Not “Them”"
+        },
+        {
+          "description": "Click, drag, release: you’ve just selected some text on a webpage — probably to copy and paste it somewhere or to share it. Wouldn&#8217;t it be cool if selecting that text revealed some options that make those tasks easier? That’s &#8230;\nThe post How to Create Actions for Selected Text With the Selection API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/",
+          "publishedOn": "2021-04-28T14:19:54.000Z",
+          "wordCount": 1406,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "How to Create Actions for Selected Text With the Selection API"
+        },
+        {
           "description": "I was just Hoping for Better Native Page&#160;Transitions, and Bramus commented that Chrome is working on something. Looks like it has some fresh enthusiasm for it, as there is a brand new repo, and you can literally test &#8230;\nThe post Shared Element Transitions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/shared-element-transitions/",
           "publishedOn": "2021-04-27T20:12:04.000Z",
-          "wordCount": 669,
+          "wordCount": 1078,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Shared Element Transitions"
@@ -16,7 +34,7 @@
           "description": "Everything important and useful to know about CSS Custom Properties. Like that they are often referred to as \"CSS Variables\" but that's not their real name.\nThe post A Complete Guide to Custom Properties appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-complete-guide-to-custom-properties/",
           "publishedOn": "2021-04-27T14:26:16.000Z",
-          "wordCount": 5407,
+          "wordCount": 5544,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "A Complete Guide to Custom Properties"
@@ -88,7 +106,7 @@
           "description": "Not a typical one, at least. Each character is an HTML element, built with CSS. A true web font!\nLet me elaborate. This is a way to render text without using any font at all. Random text is split with &#8230;\nThe post The Making (and Potential Benefits) of a CSS Font appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/",
           "publishedOn": "2021-04-22T14:30:43.000Z",
-          "wordCount": 4444,
+          "wordCount": 4480,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "The Making (and Potential Benefits) of a CSS Font"
@@ -119,30 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "How to Add a Double Border to SVG Shapes"
-        },
-        {
-          "description": "The way we style text hasn’t changed much over the years. There have been numerous advancements to help make things more flexible, like layouts, but in terms of styling, most finite aspects of our designs, like text, remain relatively unchanged. &#8230;\nThe post Intrinsic Typography is the Future of Styling Text on the Web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/",
-          "publishedOn": "2021-04-20T14:24:44.000Z",
-          "wordCount": 3130,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Intrinsic Typography is the Future of Styling Text on the Web"
-        },
-        {
-          "description": "Container queries are finally here! Now available behind a flag in the latest version of Chrome Canary, you can go ahead and experiment to your heart’s content. Oh, and if you’re not familiar with container queries then check out &#8230;\nThe post Say Hello to CSS Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ishadeed.com/article/say-hello-to-css-container-queries/",
-          "publishedOn": "2021-04-20T14:21:44.000Z",
-          "wordCount": 2238,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Say Hello to CSS Container Queries"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
+          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
+          "publishedOn": "2021-04-28T13:20:00.000Z",
+          "wordCount": 2136,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+        },
         {
           "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
@@ -340,21 +349,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Small Joys Of April (2021 Wallpapers Edition)"
-        },
-        {
-          "description": "In this article, Michael Rispoli explains how he evaluated the decision of whether or not to adopt a serverless database for client projects. This decision will focus on three lenses: the functional aspects of the technology, the developer experience, and the business ramifications of adoption.",
-          "link": "https://smashingmagazine.com/2021/03/choosing-new-serverless-database-technology-agency/",
-          "publishedOn": "2021-03-30T10:30:00.000Z",
-          "wordCount": 5736,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Choosing A New Serverless Database Technology At An Agency (Case Study)"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "In this article, I'll teach you CSS Flexbox basics so you can make your own responsive sites. I'll explain how each of Flexbox's properties work, and I'll give you a cheatsheet that covers everything you can do with Flexbox. Let's Go 🎖️ Table of ContentsFlexbox Architectureflex-directionjustify-contentalign-contentalign-itemsalign-selfflex - grow | shrink | wrap | basisShort",
+          "link": "https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-04-28T19:33:57.000Z",
+          "wordCount": 1289,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet 🎖️"
+        },
+        {
+          "description": "The MERN stack is a popular way to make a full stack web app. MERN stands for MongoDB, Express, React, and Node.js. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the MERN stack by building a restaurant review web",
+          "link": "https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/",
+          "publishedOn": "2021-04-28T14:05:56.000Z",
+          "wordCount": 384,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Create a MERN Stack App with a Serverless Backend"
+        },
         {
           "description": "JavaScript is an easy-to-learn programming language compared to many of its counterparts. However, a few basic concepts need a bit more attention if you want to understand, debug, and write better code.  In this article, we will learn about two such concepts, Execution ContextHoistingAs a beginner to JavaScript, understanding these",
           "link": "https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/",
@@ -426,24 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "CSS Scrollbar Styling Tutorial – How to Make a Custom Scrollbar"
-        },
-        {
-          "description": "Notifications are an excellent way to engage your users or to get them to go back to your application. You can also use notifications to make users pay attention to something while they're using the app. There are two types of notifications: Push NotificationsLocal NotificationsAs the title of this article",
-          "link": "https://www.freecodecamp.org/news/local-notifications-in-flutter/",
-          "publishedOn": "2021-04-27T00:05:44.000Z",
-          "wordCount": 1962,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Set Up Local Notifications in Flutter"
-        },
-        {
-          "description": "A young Russian developer named Igor Sysoev was frustrated by older web servers' inability to handle more than 10 thousand concurrent requests. This is a problem referred to as the C10k problem. As an answer to this, he started working on a new web server back in 2002. NGINX was",
-          "link": "https://www.freecodecamp.org/news/the-nginx-handbook/",
-          "publishedOn": "2021-04-26T23:56:38.000Z",
-          "wordCount": 14624,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "The NGINX Handbook"
         }
       ]
     }
