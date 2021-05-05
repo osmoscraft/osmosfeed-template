@@ -1,6 +1,92 @@
 {
   "sources": [
     {
+      "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "articles": [
+        {
+          "description": "Added: Custom CSS and JavaScript via includes folder. See documentation.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
+          "publishedOn": "2021-05-05T05:27:20.000Z",
+          "wordCount": 285,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.4.0"
+        },
+        {
+          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
+          "publishedOn": "2021-05-05T05:19:57.000Z",
+          "wordCount": 289,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.3.1"
+        },
+        {
+          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
+          "publishedOn": "2021-05-05T05:19:26.000Z",
+          "wordCount": 297,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.3.0"
+        },
+        {
+          "description": "Changed: favicon update.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
+          "publishedOn": "2021-05-05T05:19:03.000Z",
+          "wordCount": 274,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.2.3"
+        },
+        {
+          "description": "Added: Display CLI version in footer.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
+          "publishedOn": "2021-05-05T05:18:52.000Z",
+          "wordCount": 277,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.2.1"
+        },
+        {
+          "description": "Fixed: The output website didn't have favicon.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
+          "publishedOn": "2021-05-05T05:18:40.000Z",
+          "wordCount": 278,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.1.6"
+        },
+        {
+          "description": "Fixed: Item description didn't use the description property from feed item.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
+          "publishedOn": "2021-05-05T05:18:27.000Z",
+          "wordCount": 282,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.1.1"
+        },
+        {
+          "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
+          "publishedOn": "2021-05-05T05:17:37.000Z",
+          "wordCount": 357,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.1.0"
+        },
+        {
+          "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
+          "publishedOn": "2021-05-05T05:16:07.000Z",
+          "wordCount": 343,
+          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+          "sourceTitle": "Release notes from osmosfeed",
+          "title": "v1.0.1"
+        }
+      ]
+    },
+    {
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
@@ -457,5 +543,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
