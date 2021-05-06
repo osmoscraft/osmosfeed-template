@@ -1,4 +1,4 @@
-name: Build site on scheulde or main branch update
+name: Build site on schedule or main branch update
 
 on:
   push:
