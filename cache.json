@@ -7,7 +7,7 @@
           "description": "Added: Basic theme customization: Demo | Source. See documentation.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
           "publishedOn": "2021-05-05T07:20:50.000Z",
-          "wordCount": 284,
+          "wordCount": 280,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.4.0"
@@ -16,7 +16,7 @@
           "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
           "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 289,
+          "wordCount": 285,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.1"
@@ -25,7 +25,7 @@
           "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
           "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 297,
+          "wordCount": 293,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.0"
@@ -34,7 +34,7 @@
           "description": "Changed: favicon update.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
           "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 274,
+          "wordCount": 270,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.3"
@@ -43,7 +43,7 @@
           "description": "Added: Display CLI version in footer.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
           "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 277,
+          "wordCount": 273,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.1"
@@ -52,7 +52,7 @@
           "description": "Fixed: The output website didn't have favicon.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
           "publishedOn": "2021-05-05T05:18:40.000Z",
-          "wordCount": 278,
+          "wordCount": 274,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.6"
@@ -61,7 +61,7 @@
           "description": "Fixed: Item description didn't use the description property from feed item.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
           "publishedOn": "2021-05-05T05:18:27.000Z",
-          "wordCount": 282,
+          "wordCount": 278,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.1"
@@ -70,7 +70,7 @@
           "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
           "publishedOn": "2021-05-05T05:17:37.000Z",
-          "wordCount": 357,
+          "wordCount": 353,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.0"
@@ -79,7 +79,7 @@
           "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
           "publishedOn": "2021-05-05T05:16:07.000Z",
-          "wordCount": 343,
+          "wordCount": 339,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.0.1"
@@ -90,10 +90,19 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
+          "publishedOn": "2021-05-06T14:28:53.000Z",
+          "wordCount": 1025,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Custom State Pseudo-Classes in Chrome"
+        },
+        {
           "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 840,
+          "wordCount": 915,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Astro"
@@ -102,7 +111,7 @@
           "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6690,
+          "wordCount": 6686,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
@@ -111,7 +120,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3080,
+          "wordCount": 3101,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Is Vendor Prefixing Dead?"
@@ -138,7 +147,7 @@
           "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 874,
+          "wordCount": 970,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
@@ -210,25 +219,25 @@
           "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
           "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 2196,
+          "wordCount": 2232,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "You Can Label a JavaScript `if` Statement"
-        },
-        {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1669,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
+          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
+          "publishedOn": "2021-05-06T11:00:00.000Z",
+          "wordCount": 2616,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Improving The Performance Of Shopify Themes (Case Study)"
+        },
         {
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
@@ -444,15 +453,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
-        },
-        {
-          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
-          "publishedOn": "2021-04-06T16:10:00.000Z",
-          "wordCount": 4083,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Don’t Lose Your Head: Evaluating Headless"
         }
       ]
     },
@@ -460,7 +460,25 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
+          "publishedOn": "2021-05-06T16:26:08.000Z",
+          "wordCount": 426,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
+        },
+        {
+          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
+          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
+          "publishedOn": "2021-05-06T16:06:35.000Z",
+          "wordCount": 1775,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
+        },
+        {
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
@@ -530,24 +548,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Keyboard Shortcuts to Improve Your Coding Productivity"
-        },
-        {
-          "description": "In this article, you'll practice your JavaScript skills while streamlining your household chores by creating your very own home inventory system.  I've often found that it's hard to keep track common household items that I buy frequently such as food, spices, medicine, and the like. It's annoying at best and",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/",
-          "publishedOn": "2021-04-30T16:26:24.000Z",
-          "wordCount": 1435,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Node.js and Cloud Firestore Tutorial – How to Build a Home Inventory System"
-        },
-        {
-          "description": "Docker is an open source project that makes it easy to create containers and container-based apps. Docker's lightweight and portable software containers simplify application development, testing, and deployment. We just released a course on the freeCodeCamp.org YouTube channel that will help you learn the core fundamentals of Docker by",
-          "link": "https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/",
-          "publishedOn": "2021-04-29T20:05:04.000Z",
-          "wordCount": 502,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Learn Docker by Building a Node / Express App"
         }
       ]
     }
