@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-09T00:38:13.058Z</id>
+    <id>urn:2021-05-10T00:36:39.066Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T00:38:13.058Z</updated>
+    <updated>2021-05-10T00:36:39.066Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -638,16 +638,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing UX Maturity In Organizations: Education And Training (Part 3)]]></title>
-        <id>https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/</id>
-        <link href="https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/"/>
-        <updated>2021-04-09T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
