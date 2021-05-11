@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T00:36:39.066Z</id>
+    <id>urn:2021-05-11T00:36:32.705Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:36:39.066Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T00:36:32.705Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Topframe]]></title>
+        <id>https://css-tricks.com/?p=340020</id>
+        <link href="https://css-tricks.com/topframe/"/>
+        <updated>2021-05-10T21:14:15.000Z</updated>
+        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
+&#8230;
+The post Topframe appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
+        <id>https://css-tricks.com/?p=340208</id>
+        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
+        <updated>2021-05-10T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ace Your Coding Interview – Advice from a Senior Software Engineer]]></title>
+        <id>60953e202cd0545b5e943a8b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/"/>
+        <updated>2021-05-10T17:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
+        <id>https://css-tricks.com/?p=339203</id>
+        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
+        <updated>2021-05-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
+        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
+        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
+        <updated>2021-05-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.4.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
+        <updated>2021-05-10T08:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.6.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
+        <updated>2021-05-10T08:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
+Added: Store feedUrl and siteUrl for each source in cache.
+Added: Semantic element (&lt;time&gt;) for timestamp on the UI.
+Added: Semantic API for theming the default template. Demo | Source | Docs
+Changed: Moved feed metadata from article level to feed level in cache.
+Fixed: Any html-like text was stripped from title. Fixed with encoded text.
+Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.5.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
@@ -222,16 +306,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-05T07:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source. See documentation.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.3.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
@@ -315,20 +389,6 @@ Fixed: Item…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.0.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1"/>
-        <updated>2021-05-05T05:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.
-Changed: Build target from node12 to node14.
-Changed: Switched to a more robust rss parser: rss-parser
-Fixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.
-Chore: npm dependencies version updates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
         <id>https://css-tricks.com/?p=339455</id>
         <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
@@ -395,18 +455,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
-        <id>https://css-tricks.com/?p=339742</id>
-        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
-        <updated>2021-05-04T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
-The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
         <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
         <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
@@ -417,18 +465,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
-        <id>https://css-tricks.com/?p=339419</id>
-        <link href="https://css-tricks.com/chapter-8-css/"/>
-        <updated>2021-05-03T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
-The post Chapter 8: CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
         <id>6090187c8eb3fb07cf09a060</id>
         <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
@@ -436,28 +472,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
-        <id>608f553c8eb3fb07cf099da7</id>
-        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
-        <updated>2021-05-03T16:40:08.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swipey Image Grids]]></title>
-        <id>https://css-tricks.com/?p=339384</id>
-        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
-        <updated>2021-05-03T14:35:07.000Z</updated>
-        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
-The post Swipey Image Grids appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

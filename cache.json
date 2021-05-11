@@ -1,132 +1,141 @@
 {
   "sources": [
     {
-      "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": "Release notes from osmosfeed",
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 310,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.5.0"
-        },
-        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": "Release notes from osmosfeed",
-          "description": "Added: Basic theme customization: Demo | Source. See documentation.",
+          "author": null,
+          "description": "Added: Basic theme customization: Demo | Source | Docs.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-05T07:20:50.000Z",
+          "publishedOn": "2021-05-10T08:55:42.000Z",
           "wordCount": 276,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.4.0"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
+          "author": null,
+          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (&lt;time&gt;) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
+          "publishedOn": "2021-05-10T08:15:20.000Z",
+          "wordCount": 356,
+          "title": "v1.6.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
+          "author": null,
+          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
+          "publishedOn": "2021-05-08T05:16:47.000Z",
+          "wordCount": 306,
+          "title": "v1.5.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
           "publishedOn": "2021-05-05T05:19:57.000Z",
           "wordCount": 285,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.1"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
           "publishedOn": "2021-05-05T05:19:26.000Z",
           "wordCount": 293,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.0"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Changed: favicon update.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
           "publishedOn": "2021-05-05T05:19:03.000Z",
           "wordCount": 270,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.3"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Added: Display CLI version in footer.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
           "publishedOn": "2021-05-05T05:18:52.000Z",
           "wordCount": 273,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.1"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Fixed: The output website didn't have favicon.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
           "publishedOn": "2021-05-05T05:18:40.000Z",
           "wordCount": 274,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.6"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Fixed: Item description didn't use the description property from feed item.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
           "publishedOn": "2021-05-05T05:18:27.000Z",
           "wordCount": 278,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.1"
         },
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
-          "author": "Release notes from osmosfeed",
+          "author": null,
           "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
           "publishedOn": "2021-05-05T05:17:37.000Z",
           "wordCount": 353,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
-          "author": "Release notes from osmosfeed",
-          "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
-          "publishedOn": "2021-05-05T05:16:07.000Z",
-          "wordCount": 339,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.0.1"
         }
       ]
     },
     {
-      "href": "https://css-tricks.com/feed/",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340020",
+          "author": "Chris Coyier",
+          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/topframe/",
+          "publishedOn": "2021-05-10T21:14:15.000Z",
+          "wordCount": 568,
+          "title": "Topframe"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340208",
+          "author": "Chris Coyier",
+          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
+          "publishedOn": "2021-05-10T21:13:23.000Z",
+          "wordCount": 2948,
+          "title": "Migrating from Parcel to Snowpack"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339203",
+          "author": "Ana Tudor",
+          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
+          "publishedOn": "2021-05-10T14:13:12.000Z",
+          "wordCount": 2838,
+          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
+        },
         {
           "id": "https://css-tricks.com/?p=339781",
           "author": "Chris Coyier",
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 2031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3313,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -136,8 +145,6 @@
           "link": "https://css-tricks.com/links-on-typography/",
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Links on Typography"
         },
         {
@@ -147,8 +154,6 @@
           "link": "https://www.caniemail.com/",
           "publishedOn": "2021-05-07T02:38:56.000Z",
           "wordCount": 324,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Can I Email…"
         },
         {
@@ -157,9 +162,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 1523,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -168,9 +171,7 @@
           "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
           "publishedOn": "2021-05-06T19:57:40.000Z",
-          "wordCount": 2518,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 2599,
           "title": "What Google’s New Page Experience Update Means for Images on Your Website"
         },
         {
@@ -180,8 +181,6 @@
           "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Custom State Pseudo-Classes in Chrome"
         },
         {
@@ -191,8 +190,6 @@
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 920,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Astro"
         },
         {
@@ -202,8 +199,6 @@
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
           "wordCount": 6686,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
         },
         {
@@ -212,9 +207,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3101,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
         },
         {
@@ -223,9 +216,7 @@
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 676,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 758,
           "title": "16px or Larger Text Prevents iOS Form Zoom"
         },
         {
@@ -235,8 +226,6 @@
           "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
           "publishedOn": "2021-05-04T21:15:57.000Z",
           "wordCount": 450,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
         },
         {
@@ -246,48 +235,24 @@
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
           "wordCount": 970,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339742",
-          "author": "Chris Coyier",
-          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
-          "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1276,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating Colorful, Smart Shadows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339419",
-          "author": "Jay Hoffmann",
-          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-8-css/",
-          "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6672,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Chapter 8: CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339384",
-          "author": "Chris Coyier",
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
+          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "publishedOn": "2021-05-10T11:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Get Started With React By Building A Whac-A-Mole Game"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "author": "hello@smashingmagazine.com (Valeriia Panina)",
@@ -295,8 +260,6 @@
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -306,8 +269,6 @@
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -317,8 +278,6 @@
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
           "wordCount": 2296,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -328,8 +287,6 @@
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Undoing Mistakes With Git"
         },
         {
@@ -339,8 +296,6 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         },
         {
@@ -350,8 +305,6 @@
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
           "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -361,8 +314,6 @@
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -372,8 +323,6 @@
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
           "wordCount": 5325,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -383,8 +332,6 @@
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
           "wordCount": 2130,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -394,8 +341,6 @@
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
           "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
         },
         {
@@ -405,8 +350,6 @@
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         },
         {
@@ -416,8 +359,6 @@
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -427,8 +368,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         },
         {
@@ -438,8 +377,6 @@
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         },
         {
@@ -449,8 +386,6 @@
           "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         },
         {
@@ -460,8 +395,6 @@
           "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Making GraphQL Work In WordPress"
         },
         {
@@ -471,8 +404,6 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
         },
         {
@@ -482,8 +413,6 @@
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         },
         {
@@ -493,8 +422,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
           "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Get Web Design Clients Fast (Part 2)"
         },
         {
@@ -504,8 +431,6 @@
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
           "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
         },
         {
@@ -515,8 +440,6 @@
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
           "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
         },
         {
@@ -526,8 +449,6 @@
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         },
         {
@@ -537,15 +458,24 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
           "wordCount": 3142,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60953e202cd0545b5e943a8b",
+          "author": "",
+          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
+          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+          "publishedOn": "2021-05-10T17:04:31.000Z",
+          "wordCount": 1254,
+          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+        },
         {
           "id": "609558382cd0545b5e943c6f",
           "author": "",
@@ -553,8 +483,6 @@
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
           "wordCount": 1065,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
@@ -564,8 +492,6 @@
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
@@ -575,8 +501,6 @@
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
           "wordCount": 1349,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
@@ -586,8 +510,6 @@
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
           "wordCount": 426,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
@@ -597,8 +519,6 @@
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
@@ -608,8 +528,6 @@
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
@@ -619,8 +537,6 @@
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
           "wordCount": 2241,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
@@ -630,8 +546,6 @@
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
@@ -641,23 +555,10 @@
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
           "wordCount": 2501,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "How to Fetch Data in React from a GraphQL API"
-        },
-        {
-          "id": "608f553c8eb3fb07cf099da7",
-          "author": "",
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1164,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
