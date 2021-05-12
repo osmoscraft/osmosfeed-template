@@ -1,10 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-11T00:36:32.705Z</id>
+    <id>urn:2021-05-12T00:38:11.871Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:36:32.705Z</updated>
+    <updated>2021-05-12T00:38:11.871Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
+        <id>6096aafe2cd0545b5e944430</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
+        <updated>2021-05-11T22:53:43.000Z</updated>
+        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
+        <id>https://css-tricks.com/?p=340359</id>
+        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
+        <updated>2021-05-11T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;
+The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could build this during the weekend]]></title>
+        <id>https://css-tricks.com/?p=340186</id>
+        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
+        <updated>2021-05-11T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;
+The post I could build this during the weekend appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
+        <id>6093929601fc34080ef81a0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
+        <updated>2021-05-11T19:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
+        <id>609a73156008950828b3f2ce</id>
+        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
+        <updated>2021-05-11T17:50:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
+        <id>609552842cd0545b5e943bcd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
+        <updated>2021-05-11T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
+        <id>60856789dd38b9088c2bf4ff</id>
+        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
+        <updated>2021-05-11T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
+        <id>60977de12cd0545b5e944661</id>
+        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
+        <updated>2021-05-11T15:22:27.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
+        <id>https://css-tricks.com/?p=339138</id>
+        <link href="https://css-tricks.com/next-gen-css-container/"/>
+        <updated>2021-05-11T14:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;
+The post Next Gen CSS: @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
+        <id>https://css-tricks.com/?p=340106</id>
+        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
+        <updated>2021-05-11T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;
+The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
+        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
+        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
+        <updated>2021-05-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
+        <id>60998ee76008950828b3ed10</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
+        <updated>2021-05-11T12:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
+        <updated>2021-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
+        <id>605cf4879618b008528a77e2</id>
+        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
+        <updated>2021-05-11T01:38:36.000Z</updated>
+        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topframe]]></title>
         <id>https://css-tricks.com/?p=340020</id>
@@ -114,16 +263,6 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
-        <id>609551f02cd0545b5e943bc0</id>
-        <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
-        <updated>2021-05-07T16:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
         <id>https://css-tricks.com/?p=339781</id>
         <link href="https://css-tricks.com/is-css-a-programming-language/"/>
@@ -170,16 +309,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is &quot;Lifting State Up&quot; in React?]]></title>
-        <id>609409c201fc34080ef81f97</id>
-        <link href="https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/"/>
-        <updated>2021-05-06T21:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Here is a simple and practical example what it means to "lift state up" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
         <id>https://css-tricks.com/?p=340015</id>
         <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
@@ -203,26 +332,6 @@ The post What Google’s New Page Experience Update Means for Images on Your Web
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use the Chrome DevTools to Troubleshoot Websites]]></title>
-        <id>609415eb2cd0545b5e943534</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/"/>
-        <updated>2021-05-06T16:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optional Types in Swift – How to Use and Unwrap Optionals]]></title>
-        <id>60939bde01fc34080ef81a19</id>
-        <link href="https://www.freecodecamp.org/news/optional-types-in-swift/"/>
-        <updated>2021-05-06T16:06:35.000Z</updated>
-        <summary type="html"><![CDATA[If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or "optionals". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -261,16 +370,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
-        <id>609307e801fc34080ef8191e</id>
-        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
-        <updated>2021-05-05T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
         <id>https://css-tricks.com/?p=339954</id>
         <link href="https://infrequently.org/2021/04/progress-delayed/"/>
@@ -280,19 +379,6 @@ The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
-        <id>https://css-tricks.com/?p=339518</id>
-        <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
-        <updated>2021-05-05T14:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!
-It‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;
-The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Rob O'Leary</name>
         </author>
     </entry>
     <entry>
@@ -389,50 +475,6 @@ Fixed: Item…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
-        <id>https://css-tricks.com/?p=339455</id>
-        <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
-        <updated>2021-05-04T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;
-The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders]]></title>
-        <id>https://css-tricks.com/?p=339867</id>
-        <link href="https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/"/>
-        <updated>2021-05-04T21:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;
-The post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -443,18 +485,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s use (X, X, X, X) for talking about specificity]]></title>
-        <id>https://css-tricks.com/?p=339449</id>
-        <link href="https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/"/>
-        <updated>2021-05-04T14:19:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
-The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
         <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
         <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
@@ -462,16 +492,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
-        <id>6090187c8eb3fb07cf09a060</id>
-        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
-        <updated>2021-05-03T17:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -642,16 +662,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deven Rathore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To HTML Email]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/"/>
-        <updated>2021-04-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
