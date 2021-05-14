@@ -1,16 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-13T00:45:51.964Z</id>
+    <id>urn:2021-05-14T00:47:45.927Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:45:51.964Z</updated>
+    <updated>2021-05-14T00:47:45.927Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
+&#8230;
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
+        <id>609414f32cd0545b5e943526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
+        <updated>2021-05-13T21:19:40.000Z</updated>
+        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects]]></title>
+        <id>609952396008950828b3ea8d</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-testing/"/>
+        <updated>2021-05-13T19:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
+        <id>609bcc6a62ab9107fe5a9f08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
+        <updated>2021-05-13T18:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
+        <id>609ccb0d62ab9107fe5aa0ce</id>
+        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
+        <updated>2021-05-13T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify]]></title>
         <id>5fde208ae6787e09839407c3</id>
         <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
         <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
+        <summary type="html"><![CDATA[In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a]]></summary>
         <author>
             <name/>
         </author>
@@ -123,26 +213,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
-        <id>60856789dd38b9088c2bf4ff</id>
-        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
-        <updated>2021-05-11T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
-        <id>60977de12cd0545b5e944661</id>
-        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
-        <updated>2021-05-11T15:22:27.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
         <id>https://css-tricks.com/?p=339138</id>
         <link href="https://css-tricks.com/next-gen-css-container/"/>
@@ -178,16 +248,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
-        <id>60998ee76008950828b3ed10</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
-        <updated>2021-05-11T12:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
         <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
         <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
@@ -195,16 +255,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
-        <id>605cf4879618b008528a77e2</id>
-        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
-        <updated>2021-05-11T01:38:36.000Z</updated>
-        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -342,44 +392,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
-        <id>https://css-tricks.com/?p=340015</id>
-        <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
-        <updated>2021-05-06T20:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:
-When you think about it, DNS configuration is actually a 
-&#8230;
-The post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Google’s New Page Experience Update Means for Images on Your Website]]></title>
-        <id>https://css-tricks.com/?p=339936</id>
-        <link href="https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/"/>
-        <updated>2021-05-06T19:57:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;
-The post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom State Pseudo-Classes in Chrome]]></title>
-        <id>https://css-tricks.com/?p=339586</id>
-        <link href="https://css-tricks.com/custom-state-pseudo-classes-in-chrome/"/>
-        <updated>2021-05-06T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;
-The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
@@ -387,19 +399,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro]]></title>
-        <id>https://css-tricks.com/?p=339563</id>
-        <link href="https://css-tricks.com/astro/"/>
-        <updated>2021-05-05T21:49:23.000Z</updated>
-        <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
-I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
-The post Astro appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -663,26 +662,6 @@ Fixed: Item…]]></summary>
         <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overflow Issues In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/04/css-overflow-issues/</id>
-        <link href="https://smashingmagazine.com/2021/04/css-overflow-issues/"/>
-        <updated>2021-04-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Video Streaming App With Nuxt.js, Node And Express]]></title>
-        <id>https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</id>
-        <link href="https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/"/>
-        <updated>2021-04-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Deven Rathore)</name>
         </author>
     </entry>
 </feed>
