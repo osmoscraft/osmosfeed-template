@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T00:47:45.927Z</id>
+    <id>urn:2021-05-15T00:44:24.615Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:47:45.927Z</updated>
+    <updated>2021-05-15T00:44:24.615Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
+        <id>https://css-tricks.com/?p=340136</id>
+        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
+        <updated>2021-05-14T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;
+The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
+        <id>609d63e962ab9107fe5aa2ce</id>
+        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
+        <updated>2021-05-14T20:31:30.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React for Beginners: Complete React Cheatsheet for 2021]]></title>
+        <id>609ea83362ab9107fe5aa920</id>
+        <link href="https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/"/>
+        <updated>2021-05-14T20:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
+        <id>609e8c2162ab9107fe5aa77d</id>
+        <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
+        <updated>2021-05-14T17:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line &#8230;
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Boilerplates]]></title>
+        <id>https://css-tricks.com/?p=340403</id>
+        <link href="https://css-tricks.com/html-boilerplates/"/>
+        <updated>2021-05-14T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;
+The post HTML Boilerplates appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
+        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
+        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
+        <updated>2021-05-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
         <id>https://css-tricks.com/?p=340490</id>
@@ -183,36 +261,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
-        <id>6093929601fc34080ef81a0f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
-        <updated>2021-05-11T19:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
-        <id>609a73156008950828b3f2ce</id>
-        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
-        <updated>2021-05-11T17:50:09.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
-        <id>609552842cd0545b5e943bcd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
-        <updated>2021-05-11T17:29:13.000Z</updated>
-        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
         <id>https://css-tricks.com/?p=339138</id>
         <link href="https://css-tricks.com/next-gen-css-container/"/>
@@ -346,30 +394,6 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=339781</id>
-        <link href="https://css-tricks.com/is-css-a-programming-language/"/>
-        <updated>2021-05-07T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
-The post Is CSS a Programming Language? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=339574</id>
-        <link href="https://css-tricks.com/links-on-typography/"/>
-        <updated>2021-05-07T13:54:01.000Z</updated>
-        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
-The post Links on Typography appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
         <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
         <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
@@ -377,18 +401,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I Email…]]></title>
-        <id>https://css-tricks.com/?p=339822</id>
-        <link href="https://www.caniemail.com/"/>
-        <updated>2021-05-07T02:38:56.000Z</updated>
-        <summary type="html"><![CDATA[While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;
-The post Can I Email&#8230; appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -642,26 +654,6 @@ Fixed: Item…]]></summary>
         <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emma Bostian)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Web Design Clients Fast (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/"/>
-        <updated>2021-04-15T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephen Roe)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Cats With Love: New Navigation, Guides And Workshops]]></title>
-        <id>https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/</id>
-        <link href="https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/"/>
-        <updated>2021-04-15T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

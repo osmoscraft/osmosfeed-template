@@ -103,6 +103,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
           "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -117,7 +144,7 @@
           "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
           "publishedOn": "2021-05-13T22:55:35.000Z",
-          "wordCount": 557,
+          "wordCount": 605,
           "title": "2021 Design Systems (Survey/Courses)"
         },
         {
@@ -126,7 +153,7 @@
           "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
           "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2717,
+          "wordCount": 2745,
           "title": "Advanced CSS Animation Using cubic-bezier()"
         },
         {
@@ -135,7 +162,7 @@
           "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
           "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 925,
+          "wordCount": 986,
           "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
         },
         {
@@ -144,7 +171,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2700,
+          "wordCount": 2771,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -180,7 +207,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1441,
+          "wordCount": 1446,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -198,7 +225,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2950,
+          "wordCount": 2953,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -209,33 +236,6 @@
           "publishedOn": "2021-05-10T14:13:12.000Z",
           "wordCount": 3158,
           "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339781",
-          "author": "Chris Coyier",
-          "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-css-a-programming-language/",
-          "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 3693,
-          "title": "Is CSS a Programming Language?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339574",
-          "author": "Chris Coyier",
-          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography/",
-          "publishedOn": "2021-05-07T13:54:01.000Z",
-          "wordCount": 952,
-          "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339822",
-          "author": "Chris Coyier",
-          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.caniemail.com/",
-          "publishedOn": "2021-05-07T02:38:56.000Z",
-          "wordCount": 326,
-          "title": "Can I Email…"
         }
       ]
     },
@@ -244,6 +244,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
+          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "publishedOn": "2021-05-14T10:30:00.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -450,24 +459,6 @@
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "author": "hello@smashingmagazine.com (Stephen Roe)",
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
         }
       ]
     },
@@ -476,6 +467,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "609d63e962ab9107fe5aa2ce",
+          "author": "",
+          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
+          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
+          "publishedOn": "2021-05-14T20:31:30.000Z",
+          "wordCount": 1293,
+          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+        },
+        {
+          "id": "609ea83362ab9107fe5aa920",
+          "author": "",
+          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
+          "publishedOn": "2021-05-14T20:17:37.000Z",
+          "wordCount": 3252,
+          "title": "React for Beginners: Complete React Cheatsheet for 2021"
+        },
+        {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
         {
           "id": "609414f32cd0545b5e943526",
           "author": "",
@@ -538,33 +556,6 @@
           "publishedOn": "2021-05-11T22:53:43.000Z",
           "wordCount": 1358,
           "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
-        },
-        {
-          "id": "6093929601fc34080ef81a0f",
-          "author": "",
-          "description": "Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/",
-          "publishedOn": "2021-05-11T19:40:31.000Z",
-          "wordCount": 1815,
-          "title": "How to Write a Résumé – Practical Guide with Example Résumé"
-        },
-        {
-          "id": "609a73156008950828b3f2ce",
-          "author": "",
-          "description": "In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As",
-          "link": "https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/",
-          "publishedOn": "2021-05-11T17:50:09.000Z",
-          "wordCount": 1096,
-          "title": "How to Build Beautiful Page Transitions in Angular"
-        },
-        {
-          "id": "609552842cd0545b5e943bcd",
-          "author": "",
-          "description": "The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/",
-          "publishedOn": "2021-05-11T17:29:13.000Z",
-          "wordCount": 1373,
-          "title": "How to Get a Job by Building Relationships – Advice from a Senior Software Engineer"
         }
       ]
     }
