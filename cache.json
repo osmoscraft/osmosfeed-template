@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "author": null,
+          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "publishedOn": "2021-05-15T09:35:54.000Z",
+          "wordCount": 286,
+          "title": "v1.7.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
           "author": null,
           "description": "Added: Basic theme customization: Demo | Source | Docs.",
@@ -17,10 +26,10 @@
         {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
           "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (&lt;time&gt;) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
+          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
           "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 356,
+          "wordCount": 352,
           "title": "v1.6.0"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-05T05:18:27.000Z",
           "wordCount": 278,
           "title": "v1.1.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
-          "author": null,
-          "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
-          "publishedOn": "2021-05-05T05:17:37.000Z",
-          "wordCount": 353,
-          "title": "v1.1.0"
         }
       ]
     },
@@ -105,16 +105,16 @@
         {
           "id": "https://css-tricks.com/?p=340136",
           "author": "Chris Coyier",
-          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 1881,
+          "wordCount": 1934,
           "title": "Auto-Generated Social Media Images"
         },
         {
           "id": "https://css-tricks.com/?p=340343",
           "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
           "publishedOn": "2021-05-14T14:14:34.000Z",
           "wordCount": 1344,
@@ -123,7 +123,7 @@
         {
           "id": "https://css-tricks.com/?p=340403",
           "author": "Chris Coyier",
-          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/html-boilerplates/",
           "publishedOn": "2021-05-14T14:13:07.000Z",
           "wordCount": 749,
@@ -132,7 +132,7 @@
         {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
           "publishedOn": "2021-05-13T23:22:45.000Z",
           "wordCount": 1594,
@@ -141,7 +141,7 @@
         {
           "id": "https://css-tricks.com/?p=340573",
           "author": "Chris Coyier",
-          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
           "publishedOn": "2021-05-13T22:55:35.000Z",
           "wordCount": 605,
@@ -150,7 +150,7 @@
         {
           "id": "https://css-tricks.com/?p=340036",
           "author": "Temani Afif",
-          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
           "publishedOn": "2021-05-13T14:24:42.000Z",
           "wordCount": 2745,
@@ -159,16 +159,16 @@
         {
           "id": "https://css-tricks.com/?p=340118",
           "author": "Chris Coyier",
-          "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
           "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 986,
+          "wordCount": 942,
           "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
         },
         {
           "id": "https://css-tricks.com/?p=339960",
           "author": "Sandrina Pereira",
-          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
           "wordCount": 2771,
@@ -177,7 +177,7 @@
         {
           "id": "https://css-tricks.com/?p=340359",
           "author": "Chris Coyier",
-          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
           "wordCount": 441,
@@ -186,7 +186,7 @@
         {
           "id": "https://css-tricks.com/?p=340186",
           "author": "Geoff Graham",
-          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
           "publishedOn": "2021-05-11T21:04:32.000Z",
           "wordCount": 1416,
@@ -195,7 +195,7 @@
         {
           "id": "https://css-tricks.com/?p=339138",
           "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
           "wordCount": 1419,
@@ -204,7 +204,7 @@
         {
           "id": "https://css-tricks.com/?p=340106",
           "author": "Chris Coyier",
-          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
           "wordCount": 1446,
@@ -213,7 +213,7 @@
         {
           "id": "https://css-tricks.com/?p=340020",
           "author": "Chris Coyier",
-          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you \n…\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/topframe/",
           "publishedOn": "2021-05-10T21:14:15.000Z",
           "wordCount": 727,
@@ -222,7 +222,7 @@
         {
           "id": "https://css-tricks.com/?p=340208",
           "author": "Chris Coyier",
-          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
           "wordCount": 2953,
@@ -231,7 +231,7 @@
         {
           "id": "https://css-tricks.com/?p=339203",
           "author": "Ana Tudor",
-          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
           "publishedOn": "2021-05-10T14:13:12.000Z",
           "wordCount": 3158,
@@ -283,7 +283,7 @@
         {
           "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?",
+          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
           "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "publishedOn": "2021-05-11T10:00:00.000Z",
           "wordCount": 1958,
@@ -391,7 +391,7 @@
         {
           "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
+          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
@@ -450,15 +450,6 @@
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "author": "hello@smashingmagazine.com (Emma Bostian)",
-          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
-          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
-          "publishedOn": "2021-04-16T09:00:00.000Z",
-          "wordCount": 2912,
-          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         }
       ]
     },
@@ -524,10 +515,10 @@
         {
           "id": "609ccb0d62ab9107fe5aa0ce",
           "author": "",
-          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before",
+          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to",
           "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
           "publishedOn": "2021-05-13T16:25:03.000Z",
-          "wordCount": 4002,
+          "wordCount": 4024,
           "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
         },
         {
@@ -536,7 +527,7 @@
           "description": "In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a",
           "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
           "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 25080,
+          "wordCount": 24536,
           "title": "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
         },
         {
@@ -560,5 +551,5 @@
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }
