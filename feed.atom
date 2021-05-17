@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-16T00:48:59.944Z</id>
+    <id>urn:2021-05-17T00:44:55.230Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:48:59.944Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:44:55.230Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
+        <updated>2021-05-16T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.7.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-15T09:35:54.000Z</updated>
+        <updated>2021-05-16T01:42:24.000Z</updated>
         <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
+Chore: rendering logic refactoring. Adopting functional paradigm.
+Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
@@ -486,16 +497,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6"/>
         <updated>2021-05-05T05:18:40.000Z</updated>
         <summary type="html"><![CDATA[Fixed: The output website didn't have favicon.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1"/>
-        <updated>2021-05-05T05:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Item description didn't use the description property from feed item.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

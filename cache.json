@@ -6,11 +6,20 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
+          "author": null,
+          "description": "Fixed: static files were unnecessarily copied for custom templates.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
+          "publishedOn": "2021-05-16T02:33:58.000Z",
+          "wordCount": 280,
+          "title": "v1.7.1"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
           "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.",
+          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-15T09:35:54.000Z",
+          "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
         },
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-05T05:18:40.000Z",
           "wordCount": 274,
           "title": "v1.1.6"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
-          "author": null,
-          "description": "Fixed: Item description didn't use the description property from feed item.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
-          "publishedOn": "2021-05-05T05:18:27.000Z",
-          "wordCount": 278,
-          "title": "v1.1.1"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 1934,
+          "wordCount": 2173,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -126,7 +126,7 @@
           "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/html-boilerplates/",
           "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 749,
+          "wordCount": 781,
           "title": "HTML Boilerplates"
         },
         {
@@ -162,7 +162,7 @@
           "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
           "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 942,
+          "wordCount": 986,
           "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
         },
         {
@@ -180,7 +180,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 441,
+          "wordCount": 498,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -198,7 +198,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1419,
+          "wordCount": 1441,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -225,7 +225,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2953,
+          "wordCount": 2933,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -551,5 +551,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
