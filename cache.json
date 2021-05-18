@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
+          "author": null,
+          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
+          "publishedOn": "2021-05-17T05:32:19.000Z",
+          "wordCount": 340,
+          "title": "v1.7.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
           "author": null,
           "description": "Fixed: static files were unnecessarily copied for custom templates.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
           "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 280,
+          "wordCount": 276,
           "title": "v1.7.1"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-05T05:18:52.000Z",
           "wordCount": 273,
           "title": "v1.2.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
-          "author": null,
-          "description": "Fixed: The output website didn't have favicon.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
-          "publishedOn": "2021-05-05T05:18:40.000Z",
-          "wordCount": 274,
-          "title": "v1.1.6"
         }
       ]
     },
@@ -103,12 +103,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339522",
+          "author": "Ashley Kolodziej",
+          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
+          "publishedOn": "2021-05-17T14:27:22.000Z",
+          "wordCount": 1356,
+          "title": "A Love Letter to HTML & CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340594",
+          "author": "Chris Coyier",
+          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.euismod.dev/",
+          "publishedOn": "2021-05-17T14:27:13.000Z",
+          "wordCount": 3,
+          "title": "Euismod"
+        },
+        {
           "id": "https://css-tricks.com/?p=340136",
           "author": "Chris Coyier",
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2173,
+          "wordCount": 2273,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -171,7 +198,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2771,
+          "wordCount": 2886,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -198,7 +225,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1441,
+          "wordCount": 1498,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -209,33 +236,6 @@
           "publishedOn": "2021-05-11T14:33:10.000Z",
           "wordCount": 1446,
           "title": "Distributed Persistent Rendering (DPR)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340020",
-          "author": "Chris Coyier",
-          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you \n…\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/topframe/",
-          "publishedOn": "2021-05-10T21:14:15.000Z",
-          "wordCount": 727,
-          "title": "Topframe"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340208",
-          "author": "Chris Coyier",
-          "description": "I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
-          "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2933,
-          "title": "Migrating from Parcel to Snowpack"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339203",
-          "author": "Ana Tudor",
-          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
-          "publishedOn": "2021-05-10T14:13:12.000Z",
-          "wordCount": 3158,
-          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
         }
       ]
     },
@@ -244,6 +244,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
+          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
+          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "publishedOn": "2021-05-17T11:30:00.000Z",
+          "wordCount": 2906,
+          "title": "How We Improved Our Core Web Vitals (Case Study)"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -459,6 +468,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a2771762ab9107fe5ab383",
+          "author": "",
+          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
+          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
+          "publishedOn": "2021-05-17T21:11:58.000Z",
+          "wordCount": 1169,
+          "title": "HTML vs JSX – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60a16df162ab9107fe5ab01b",
+          "author": "",
+          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
+          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
+          "publishedOn": "2021-05-17T17:45:50.000Z",
+          "wordCount": 1282,
+          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
+        },
+        {
+          "id": "609f552e62ab9107fe5aaba0",
+          "author": "",
+          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
+          "publishedOn": "2021-05-17T16:25:22.000Z",
+          "wordCount": 1076,
+          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
+        },
+        {
+          "id": "609cb90262ab9107fe5aa026",
+          "author": "",
+          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
+          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
+          "publishedOn": "2021-05-17T14:39:55.000Z",
+          "wordCount": 1233,
+          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
+        },
+        {
           "id": "609d63e962ab9107fe5aa2ce",
           "author": "",
           "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
@@ -511,45 +556,9 @@
           "publishedOn": "2021-05-13T18:17:49.000Z",
           "wordCount": 1775,
           "title": "React Tutorial – How to Work with Multiple Checkboxes"
-        },
-        {
-          "id": "609ccb0d62ab9107fe5aa0ce",
-          "author": "",
-          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but that's what I have been doing for the past year. I'm working remotely until COVID subsides and we can move to San Francisco.  In this article I'm going to",
-          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
-          "publishedOn": "2021-05-13T16:25:03.000Z",
-          "wordCount": 4024,
-          "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
-        },
-        {
-          "id": "5fde208ae6787e09839407c3",
-          "author": "",
-          "description": "In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a",
-          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
-          "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 24536,
-          "title": "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
-        },
-        {
-          "id": "609c215862ab9107fe5a9fa9",
-          "author": "",
-          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
-          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
-          "publishedOn": "2021-05-12T18:49:36.000Z",
-          "wordCount": 571,
-          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
-        },
-        {
-          "id": "6096aafe2cd0545b5e944430",
-          "author": "",
-          "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
-          "link": "https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/",
-          "publishedOn": "2021-05-11T22:53:43.000Z",
-          "wordCount": 1358,
-          "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
         }
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }
