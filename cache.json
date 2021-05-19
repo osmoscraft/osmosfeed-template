@@ -103,6 +103,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340613",
+          "author": "Chris Coyier",
+          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
+          "publishedOn": "2021-05-18T19:14:53.000Z",
+          "wordCount": 973,
+          "title": "Pinned Audio WordPress Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340420",
+          "author": "Silvia O'Dwyer",
+          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "publishedOn": "2021-05-18T14:31:25.000Z",
+          "wordCount": 2100,
+          "title": "How to Create Neon Text With CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=340716",
           "author": "Chris Coyier",
           "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -117,7 +135,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1356,
+          "wordCount": 2174,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -135,7 +153,7 @@
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2273,
+          "wordCount": 2298,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -198,7 +216,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2886,
+          "wordCount": 2994,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -218,24 +236,6 @@
           "publishedOn": "2021-05-11T21:04:32.000Z",
           "wordCount": 1416,
           "title": "I could build this during the weekend"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339138",
-          "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/next-gen-css-container/",
-          "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1498,
-          "title": "Next Gen CSS: @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340106",
-          "author": "Chris Coyier",
-          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
-          "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1446,
-          "title": "Distributed Persistent Rendering (DPR)"
         }
       ]
     },
@@ -244,6 +244,24 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
+          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "publishedOn": "2021-05-18T10:30:00.000Z",
+          "wordCount": 1796,
+          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "publishedOn": "2021-05-18T05:00:00.000Z",
+          "wordCount": 9250,
+          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "author": "hello@smashingmagazine.com (Beau Hartshorne)",
@@ -450,15 +468,6 @@
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
           "title": "Making GraphQL Work In WordPress"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
-          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
-          "publishedOn": "2021-04-19T08:30:00.000Z",
-          "wordCount": 7206,
-          "title": "An In-Depth Guide To Measuring Core Web Vitals"
         }
       ]
     },
@@ -467,6 +476,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a3780f906c5207e3a7db5f",
+          "author": "",
+          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
+          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-05-18T17:12:59.000Z",
+          "wordCount": 1973,
+          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+        },
+        {
+          "id": "6068f146d5756f080ba9402d",
+          "author": "",
+          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
+          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
+          "publishedOn": "2021-05-18T16:50:36.000Z",
+          "wordCount": 3309,
+          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
+        },
+        {
+          "id": "609bea6b62ab9107fe5a9f89",
+          "author": "",
+          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
+          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
+          "publishedOn": "2021-05-18T16:36:22.000Z",
+          "wordCount": 1938,
+          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
+        },
+        {
+          "id": "609fc4cc62ab9107fe5aac91",
+          "author": "",
+          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
+          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
+          "publishedOn": "2021-05-18T16:18:18.000Z",
+          "wordCount": 2037,
+          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
+        },
+        {
+          "id": "60685767d5756f080ba93df4",
+          "author": "",
+          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
+          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
+          "publishedOn": "2021-05-18T16:08:27.000Z",
+          "wordCount": 4368,
+          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
+        },
         {
           "id": "60a2771762ab9107fe5ab383",
           "author": "",
@@ -511,51 +565,6 @@
           "publishedOn": "2021-05-14T20:31:30.000Z",
           "wordCount": 1293,
           "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
-        },
-        {
-          "id": "609ea83362ab9107fe5aa920",
-          "author": "",
-          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
-          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
-          "publishedOn": "2021-05-14T20:17:37.000Z",
-          "wordCount": 3252,
-          "title": "React for Beginners: Complete React Cheatsheet for 2021"
-        },
-        {
-          "id": "609e8c2162ab9107fe5aa77d",
-          "author": "",
-          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
-          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
-          "publishedOn": "2021-05-14T17:13:14.000Z",
-          "wordCount": 1598,
-          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
-        },
-        {
-          "id": "609414f32cd0545b5e943526",
-          "author": "",
-          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
-          "publishedOn": "2021-05-13T21:19:40.000Z",
-          "wordCount": 1733,
-          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
-        },
-        {
-          "id": "609952396008950828b3ea8d",
-          "author": "",
-          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
-          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
-          "publishedOn": "2021-05-13T19:27:45.000Z",
-          "wordCount": 1826,
-          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
-        },
-        {
-          "id": "609bcc6a62ab9107fe5a9f08",
-          "author": "",
-          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
-          "publishedOn": "2021-05-13T18:17:49.000Z",
-          "wordCount": 1775,
-          "title": "React Tutorial – How to Work with Multiple Checkboxes"
         }
       ]
     }
