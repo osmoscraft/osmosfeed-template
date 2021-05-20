@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-19T00:44:40.559Z</id>
+    <id>urn:2021-05-20T00:41:14.369Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T00:44:40.559Z</updated>
+    <updated>2021-05-20T00:41:14.369Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notion API]]></title>
+        <id>https://css-tricks.com/?p=340731</id>
+        <link href="https://css-tricks.com/notion-api/"/>
+        <updated>2021-05-19T23:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
+The post Notion API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
+        <id>60a42386906c5207e3a7dfe2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
+        <updated>2021-05-19T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/?p=340692</id>
+        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
+        <updated>2021-05-19T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
+The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
+        <updated>2021-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
+        <id>60a53182906c5207e3a7e588</id>
+        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
+        <updated>2021-05-18T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
         <id>https://css-tricks.com/?p=340613</id>
@@ -125,31 +189,11 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
-        <id>60a16df162ab9107fe5ab01b</id>
-        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
-        <updated>2021-05-17T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
-        <id>609f552e62ab9107fe5aaba0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
-        <updated>2021-05-17T16:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
-        <id>609cb90262ab9107fe5aa026</id>
-        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
-        <updated>2021-05-17T14:39:55.000Z</updated>
-        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
+        <id>60a536e1906c5207e3a7e6b5</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
+        <updated>2021-05-17T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
         <author>
             <name/>
         </author>
@@ -231,16 +275,6 @@ The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
-        <id>609d63e962ab9107fe5aa2ce</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
-        <updated>2021-05-14T20:31:30.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -360,30 +394,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
-        <id>https://css-tricks.com/?p=340359</id>
-        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
-        <updated>2021-05-11T22:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
-The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I could build this during the weekend]]></title>
-        <id>https://css-tricks.com/?p=340186</id>
-        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
-        <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
-The post I could build this during the weekend appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -650,16 +660,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
-        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
-        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
-        <updated>2021-04-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
         </author>
     </entry>
 </feed>

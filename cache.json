@@ -103,12 +103,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340731",
+          "author": "Chris Coyier",
+          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/notion-api/",
+          "publishedOn": "2021-05-19T23:18:42.000Z",
+          "wordCount": 1042,
+          "title": "Notion API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340692",
+          "author": "Shubham Jain",
+          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
+          "publishedOn": "2021-05-19T14:28:19.000Z",
+          "wordCount": 1417,
+          "title": "svg-loader: A Different Way to Work With External SVG"
+        },
+        {
           "id": "https://css-tricks.com/?p=340613",
           "author": "Chris Coyier",
           "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
           "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 973,
+          "wordCount": 1082,
           "title": "Pinned Audio WordPress Theme"
         },
         {
@@ -117,7 +135,7 @@
           "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
           "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2100,
+          "wordCount": 2364,
           "title": "How to Create Neon Text With CSS"
         },
         {
@@ -135,7 +153,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2174,
+          "wordCount": 2463,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -216,26 +234,8 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2994,
+          "wordCount": 3015,
           "title": "Making Disabled Buttons More Inclusive"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340359",
-          "author": "Chris Coyier",
-          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
-          "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
-          "title": "CSS Pie Timer Re-Revisited"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340186",
-          "author": "Geoff Graham",
-          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
-          "publishedOn": "2021-05-11T21:04:32.000Z",
-          "wordCount": 1416,
-          "title": "I could build this during the weekend"
         }
       ]
     },
@@ -244,6 +244,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
+          "publishedOn": "2021-05-19T11:40:00.000Z",
+          "wordCount": 4986,
+          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
@@ -459,15 +468,6 @@
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
-          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
-          "publishedOn": "2021-04-20T09:00:00.000Z",
-          "wordCount": 3482,
-          "title": "Making GraphQL Work In WordPress"
         }
       ]
     },
@@ -476,6 +476,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a42386906c5207e3a7dfe2",
+          "author": "",
+          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "publishedOn": "2021-05-19T21:09:01.000Z",
+          "wordCount": 2086,
+          "title": "What is Web3? The Decentralized Internet of the Future Explained"
+        },
+        {
+          "id": "60a469ec906c5207e3a7e1b9",
+          "author": "",
+          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
+          "publishedOn": "2021-05-19T17:30:08.000Z",
+          "wordCount": 1981,
+          "title": "How to Optimize for Change in Software Development"
+        },
+        {
+          "id": "60a53182906c5207e3a7e588",
+          "author": "",
+          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
+          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
+          "publishedOn": "2021-05-18T21:04:00.000Z",
+          "wordCount": 2258,
+          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
+        },
         {
           "id": "60a3780f906c5207e3a7db5f",
           "author": "",
@@ -531,40 +558,13 @@
           "title": "HTML vs JSX – What&#x27;s the Difference?"
         },
         {
-          "id": "60a16df162ab9107fe5ab01b",
+          "id": "60a536e1906c5207e3a7e6b5",
           "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
-        },
-        {
-          "id": "609f552e62ab9107fe5aaba0",
-          "author": "",
-          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "publishedOn": "2021-05-17T16:25:22.000Z",
-          "wordCount": 1076,
-          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
-        },
-        {
-          "id": "609cb90262ab9107fe5aa026",
-          "author": "",
-          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
-          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
-          "publishedOn": "2021-05-17T14:39:55.000Z",
-          "wordCount": 1233,
-          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
-        },
-        {
-          "id": "609d63e962ab9107fe5aa2ce",
-          "author": "",
-          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
-          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
-          "publishedOn": "2021-05-14T20:31:30.000Z",
-          "wordCount": 1293,
-          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
+          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
+          "publishedOn": "2021-05-17T20:45:00.000Z",
+          "wordCount": 4218,
+          "title": "The Complete Guide to Full Stack Ethereum Development"
         }
       ]
     }
