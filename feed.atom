@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-20T00:41:14.369Z</id>
+    <id>urn:2021-05-21T00:45:49.383Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T00:41:14.369Z</updated>
+    <updated>2021-05-21T00:45:49.383Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JSON in CSS]]></title>
+        <id>https://css-tricks.com/?p=340599</id>
+        <link href="https://css-tricks.com/json-in-css/"/>
+        <updated>2021-05-20T22:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
+The post JSON in CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS!]]></title>
+        <id>https://css-tricks.com/?p=340933</id>
+        <link href="https://web.dev/learn/css/"/>
+        <updated>2021-05-20T21:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
+The post Learn CSS! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
+        <id>60a6b3ab906c5207e3a7f5fa</id>
+        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
+        <updated>2021-05-20T19:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
+        <id>60a694ab906c5207e3a7f544</id>
+        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
+        <updated>2021-05-20T17:12:29.000Z</updated>
+        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
+        <id>60a4b5c7906c5207e3a7e2bb</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
+        <updated>2021-05-20T15:20:53.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
+        <id>60a36742906c5207e3a7da6e</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
+        <updated>2021-05-20T14:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
+        <id>https://css-tricks.com/?p=340715</id>
+        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
+        <updated>2021-05-20T14:24:12.000Z</updated>
+        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
+The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
+        <id>https://css-tricks.com/?p=340897</id>
+        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
+        <updated>2021-05-20T14:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
+The post fit-content and fit-content() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
+        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
+        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
+        <updated>2021-05-20T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
+        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
+        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
+        <updated>2021-05-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion API]]></title>
         <id>https://css-tricks.com/?p=340731</id>
@@ -15,6 +123,16 @@ The post Notion API appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
+        <id>60a341f5906c5207e3a7da61</id>
+        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
+        <updated>2021-05-19T23:17:21.000Z</updated>
+        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
+        <author>
+            <name/>
         </author>
     </entry>
     <entry>
@@ -103,36 +221,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
-        <id>609bea6b62ab9107fe5a9f89</id>
-        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
-        <updated>2021-05-18T16:36:22.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
-        <id>609fc4cc62ab9107fe5aac91</id>
-        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
-        <updated>2021-05-18T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
-        <id>60685767d5756f080ba93df4</id>
-        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
-        <updated>2021-05-18T16:08:27.000Z</updated>
-        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
         <id>https://css-tricks.com/?p=340420</id>
         <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
@@ -176,26 +264,6 @@ The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tric
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
-        <id>60a2771762ab9107fe5ab383</id>
-        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
-        <updated>2021-05-17T21:11:58.000Z</updated>
-        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
-        <id>60a536e1906c5207e3a7e6b5</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
-        <updated>2021-05-17T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
     <entry>
@@ -325,55 +393,6 @@ The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
-        <id>https://css-tricks.com/?p=340573</id>
-        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
-        <updated>2021-05-13T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
-The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=340036</id>
-        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
-        <updated>2021-05-13T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
-The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
-        <id>https://css-tricks.com/?p=340118</id>
-        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
-        <updated>2021-05-13T14:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
-The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
-        <id>https://css-tricks.com/?p=339960</id>
-        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
-        <updated>2021-05-12T14:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
-There are lots of …
-The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sandrina Pereira</name>
         </author>
     </entry>
     <entry>
@@ -650,16 +669,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lee Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
-        <updated>2021-04-21T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Saunders)</name>
         </author>
     </entry>
 </feed>
