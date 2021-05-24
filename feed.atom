@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T00:51:32.431Z</id>
+    <id>urn:2021-05-24T00:48:39.171Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:51:32.431Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:48:39.171Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.8.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
+        <updated>2021-05-23T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
+        <updated>2021-05-23T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
+Thank you: @LooperXX.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
         <id>https://css-tricks.com/?p=340991</id>
@@ -24,7 +45,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-21T15:33:45.000Z</updated>
         <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -94,7 +115,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T19:14:48.000Z</updated>
         <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -104,7 +125,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T17:12:29.000Z</updated>
         <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -114,7 +135,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T15:20:53.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -124,7 +145,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T14:53:38.000Z</updated>
         <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -190,7 +211,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:17:21.000Z</updated>
         <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -200,7 +221,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T21:09:01.000Z</updated>
         <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -210,7 +231,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T17:30:08.000Z</updated>
         <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -242,7 +263,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T21:04:00.000Z</updated>
         <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -265,7 +286,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T17:12:59.000Z</updated>
         <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -545,26 +566,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
 Added: Documentation for osmosfeed.yaml.
 Fixed: More intuitive logging during build.
 Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

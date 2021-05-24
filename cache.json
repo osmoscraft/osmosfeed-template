@@ -6,12 +6,30 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "author": null,
+          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "publishedOn": "2021-05-23T05:40:12.000Z",
+          "wordCount": 282,
+          "title": "v1.8.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "author": null,
+          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "publishedOn": "2021-05-23T05:12:08.000Z",
+          "wordCount": 341,
+          "title": "v1.8.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
           "author": null,
           "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
           "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 340,
+          "wordCount": 336,
           "title": "v1.7.2"
         },
         {
@@ -76,24 +94,6 @@
           "publishedOn": "2021-05-05T05:19:26.000Z",
           "wordCount": 293,
           "title": "v1.3.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "author": null,
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 270,
-          "title": "v1.2.3"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "author": null,
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 273,
-          "title": "v1.2.1"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
           "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1166,
+          "wordCount": 1168,
           "title": "Should DevTools teach the CSS cascade?"
         },
         {
@@ -117,7 +117,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3256,
+          "wordCount": 3343,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -135,7 +135,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
+          "wordCount": 1030,
           "title": "JSON in CSS"
         },
         {
@@ -216,7 +216,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2908,
+          "wordCount": 2963,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -469,7 +469,7 @@
       "articles": [
         {
           "id": "6098ce302cd0545b5e944d0b",
-          "author": "",
+          "author": null,
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
           "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
           "publishedOn": "2021-05-21T15:33:45.000Z",
@@ -478,7 +478,7 @@
         },
         {
           "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
+          "author": null,
           "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
           "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
           "publishedOn": "2021-05-20T19:14:48.000Z",
@@ -487,7 +487,7 @@
         },
         {
           "id": "60a694ab906c5207e3a7f544",
-          "author": "",
+          "author": null,
           "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
           "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
           "publishedOn": "2021-05-20T17:12:29.000Z",
@@ -496,7 +496,7 @@
         },
         {
           "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
+          "author": null,
           "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
           "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
           "publishedOn": "2021-05-20T15:20:53.000Z",
@@ -505,7 +505,7 @@
         },
         {
           "id": "60a36742906c5207e3a7da6e",
-          "author": "",
+          "author": null,
           "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
           "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
           "publishedOn": "2021-05-20T14:53:38.000Z",
@@ -514,7 +514,7 @@
         },
         {
           "id": "60a341f5906c5207e3a7da61",
-          "author": "",
+          "author": null,
           "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
           "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
           "publishedOn": "2021-05-19T23:17:21.000Z",
@@ -523,7 +523,7 @@
         },
         {
           "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
+          "author": null,
           "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
           "link": "https://www.freecodecamp.org/news/what-is-web3/",
           "publishedOn": "2021-05-19T21:09:01.000Z",
@@ -532,7 +532,7 @@
         },
         {
           "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
+          "author": null,
           "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
           "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
           "publishedOn": "2021-05-19T17:30:08.000Z",
@@ -541,7 +541,7 @@
         },
         {
           "id": "60a53182906c5207e3a7e588",
-          "author": "",
+          "author": null,
           "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
           "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
           "publishedOn": "2021-05-18T21:04:00.000Z",
@@ -550,7 +550,7 @@
         },
         {
           "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
+          "author": null,
           "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
           "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
           "publishedOn": "2021-05-18T17:12:59.000Z",
@@ -560,5 +560,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
