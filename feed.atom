@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T00:48:39.171Z</id>
+    <id>urn:2021-05-25T00:48:15.996Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:48:39.171Z</updated>
+    <updated>2021-05-25T00:48:15.997Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
+        <id>60a5248c906c5207e3a7e54b</id>
+        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
+        <updated>2021-05-24T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
+        <id>https://css-tricks.com/?p=340626</id>
+        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
+        <updated>2021-05-24T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
+The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.8.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
@@ -205,36 +306,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
         <id>https://css-tricks.com/?p=340692</id>
         <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
@@ -257,16 +328,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
         <id>https://css-tricks.com/?p=340613</id>
         <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
@@ -277,16 +338,6 @@ The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -336,30 +387,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ashley Kolodziej</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
         <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
@@ -400,18 +427,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>

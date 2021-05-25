@@ -103,6 +103,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340808",
+          "author": "Chris Coyier",
+          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance/",
+          "publishedOn": "2021-05-24T22:03:30.000Z",
+          "wordCount": 817,
+          "title": "Links on Performance"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341153",
+          "author": "Chris Coyier",
+          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.com/justjavac/proxy-www",
+          "publishedOn": "2021-05-24T19:09:59.000Z",
+          "wordCount": 527,
+          "title": "proxy-www"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2851,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
+        {
           "id": "https://css-tricks.com/?p=340991",
           "author": "Chris Coyier",
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -117,7 +144,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3343,
+          "wordCount": 3530,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -135,7 +162,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1030,
+          "wordCount": 1044,
           "title": "JSON in CSS"
         },
         {
@@ -153,7 +180,7 @@
           "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
           "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
+          "wordCount": 1747,
           "title": "Can We Create a “Resize Hack” With Container Queries?"
         },
         {
@@ -171,7 +198,7 @@
           "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/notion-api/",
           "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1042,
+          "wordCount": 1127,
           "title": "Notion API"
         },
         {
@@ -180,7 +207,7 @@
           "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1606,
+          "wordCount": 1803,
           "title": "svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -209,33 +236,6 @@
           "publishedOn": "2021-05-17T22:38:06.000Z",
           "wordCount": 5325,
           "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2963,
-          "title": "A Love Letter to HTML & CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
         }
       ]
     },
@@ -244,6 +244,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
+          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "publishedOn": "2021-05-24T11:30:00.000Z",
+          "wordCount": 2665,
+          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
@@ -468,6 +477,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
+          "id": "60aaba5911ffb70827ef5ffc",
+          "author": null,
+          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
+          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
+          "publishedOn": "2021-05-24T21:30:43.000Z",
+          "wordCount": 1835,
+          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+        },
+        {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
+          "id": "60aa161211ffb70827ef5f2c",
+          "author": null,
+          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
+          "publishedOn": "2021-05-24T19:40:36.000Z",
+          "wordCount": 2263,
+          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+        },
+        {
+          "id": "60a5248c906c5207e3a7e54b",
+          "author": null,
+          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
+          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
+          "publishedOn": "2021-05-24T14:54:42.000Z",
+          "wordCount": 2493,
+          "title": "The Best No-Code Tools for Developers in 2021"
+        },
+        {
           "id": "6098ce302cd0545b5e944d0b",
           "author": null,
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
@@ -511,51 +565,6 @@
           "publishedOn": "2021-05-20T14:53:38.000Z",
           "wordCount": 1202,
           "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": null,
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": null,
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": null,
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": null,
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": null,
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
         }
       ]
     }
