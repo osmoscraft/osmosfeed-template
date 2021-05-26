@@ -103,12 +103,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340759",
+          "author": "Josh Collinsworth",
+          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
+          "publishedOn": "2021-05-25T14:25:06.000Z",
+          "wordCount": 7475,
+          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341383",
+          "author": "Ahmed Bouchefra",
+          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
+          "publishedOn": "2021-05-25T11:00:00.000Z",
+          "wordCount": 1386,
+          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
+        },
+        {
           "id": "https://css-tricks.com/?p=340808",
           "author": "Chris Coyier",
           "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-performance/",
           "publishedOn": "2021-05-24T22:03:30.000Z",
-          "wordCount": 817,
+          "wordCount": 874,
           "title": "Links on Performance"
         },
         {
@@ -126,7 +144,7 @@
           "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
           "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2851,
+          "wordCount": 2872,
           "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
         },
         {
@@ -144,7 +162,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3530,
+          "wordCount": 3658,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -162,7 +180,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1044,
+          "wordCount": 1092,
           "title": "JSON in CSS"
         },
         {
@@ -218,24 +236,6 @@
           "publishedOn": "2021-05-18T19:14:53.000Z",
           "wordCount": 1082,
           "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2401,
-          "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
         }
       ]
     },
@@ -245,12 +245,30 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
+          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "publishedOn": "2021-05-25T14:00:00.000Z",
+          "wordCount": 2116,
+          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "publishedOn": "2021-05-25T09:30:00.000Z",
+          "wordCount": 2062,
+          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2665,
+          "wordCount": 2707,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
         },
         {
@@ -259,7 +277,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
+          "wordCount": 9449,
           "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
         },
         {
@@ -286,7 +304,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
+          "wordCount": 5028,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
         },
         {
@@ -322,7 +340,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
+          "wordCount": 2444,
           "title": "Tree-Shaking: A Reference Guide"
         },
         {
@@ -331,7 +349,7 @@
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
+          "wordCount": 3485,
           "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
         },
         {
@@ -385,7 +403,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -394,7 +412,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2347,
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -403,8 +421,8 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
+          "wordCount": 1832,
+          "title": "A Guide To Undoing Mistakes With Git (Part 1)"
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
@@ -421,7 +439,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
+          "wordCount": 2192,
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -430,7 +448,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2181,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -439,7 +457,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
+          "wordCount": 5373,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -448,7 +466,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2121,
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -457,17 +475,8 @@
           "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
+          "wordCount": 2665,
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         }
       ]
     },
@@ -477,10 +486,46 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
+        },
+        {
+          "id": "60a93b0011ffb70827ef5b0d",
+          "author": null,
+          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
+          "publishedOn": "2021-05-25T20:26:38.000Z",
+          "wordCount": 1752,
+          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
+        },
+        {
+          "id": "608706aedd38b9088c2c012c",
+          "author": null,
+          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
+          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
+          "publishedOn": "2021-05-25T16:51:37.000Z",
+          "wordCount": 1940,
+          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+        },
+        {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
           "id": "60626dc29618b008528a9589",
           "author": null,
           "description": "Walkthrough for Hack The Box Nibbles machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
           "publishedOn": "2021-05-25T00:20:22.000Z",
           "wordCount": 1905,
           "title": "Keep Calm and Hack The Box – Nibbles"
@@ -529,42 +574,6 @@
           "publishedOn": "2021-05-21T15:33:45.000Z",
           "wordCount": 4309,
           "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": null,
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": null,
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": null,
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": null,
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
         }
       ]
     }
