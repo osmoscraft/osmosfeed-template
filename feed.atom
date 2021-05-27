@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T00:57:50.756Z</id>
+    <id>urn:2021-05-27T01:01:14.294Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T00:57:50.756Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:01:14.294Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
+        <id>60a44b9f906c5207e3a7e098</id>
+        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
+        <updated>2021-05-26T21:44:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
+        <id>60abe7fb11ffb70827ef63a6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
+        <updated>2021-05-26T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
+        <id>606f4f5fd5756f080ba96b65</id>
+        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
+        <updated>2021-05-26T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
+        <id>https://css-tricks.com/?p=339759</id>
+        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
+        <updated>2021-05-26T17:56:34.000Z</updated>
+        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
+The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Web Components]]></title>
+        <id>https://css-tricks.com/?p=340901</id>
+        <link href="https://css-tricks.com/links-on-web-components/"/>
+        <updated>2021-05-26T17:56:12.000Z</updated>
+        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
+…
+The post Links on Web Components appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
+        <id>60abc59d11ffb70827ef6304</id>
+        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
+        <updated>2021-05-26T16:34:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
+        <id>60aced0011ffb70827ef6d96</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
+        <updated>2021-05-26T14:12:27.000Z</updated>
+        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/?p=340705</id>
+        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
+        <updated>2021-05-26T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
+We tested 10 different …
+The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andrei Pfeiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
+        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
+        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
+        <updated>2021-05-26T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
         <id>60ac3a2711ffb70827ef6aec</id>
@@ -116,36 +231,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
-        <id>60aaba5911ffb70827ef5ffc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
-        <updated>2021-05-24T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
-        <id>60ac07ec11ffb70827ef66e4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
-        <updated>2021-05-24T20:36:07.000Z</updated>
-        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
-        <id>60aa161211ffb70827ef5f2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
-        <updated>2021-05-24T19:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[proxy-www]]></title>
         <id>https://css-tricks.com/?p=341153</id>
         <link href="https://github.com/justjavac/proxy-www"/>
@@ -159,16 +244,6 @@ The post proxy-www appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
-        <id>60a5248c906c5207e3a7e54b</id>
-        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
-        <updated>2021-05-24T14:54:42.000Z</updated>
-        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -224,16 +299,6 @@ The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
-        <id>6098ce302cd0545b5e944d0b</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
-        <updated>2021-05-21T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -341,30 +406,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shubham Jain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
         <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
@@ -372,19 +413,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -594,19 +622,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -664,16 +679,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
