@@ -1,10 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T01:01:14.294Z</id>
+    <id>urn:2021-05-28T01:08:32.212Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:01:14.294Z</updated>
+    <updated>2021-05-28T01:08:32.212Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
+        <id>https://css-tricks.com/?p=341298</id>
+        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
+        <updated>2021-05-27T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
+Like this:
+$ brew install somepackage
+The point of that is that it …
+The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
+        <id>60af931811ffb70827ef85d3</id>
+        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
+        <updated>2021-05-27T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
         <id>60a44b9f906c5207e3a7e098</id>
@@ -131,7 +210,7 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
+        <title type="html"><![CDATA[Chakra UI and React-Hook-Form –How to Build Beautiful Forms]]></title>
         <id>60a93b0011ffb70827ef5b0d</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
         <updated>2021-05-25T20:26:38.000Z</updated>
@@ -141,7 +220,7 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <title type="html"><![CDATA[How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers]]></title>
         <id>608706aedd38b9088c2c012c</id>
         <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
         <updated>2021-05-25T16:51:37.000Z</updated>
@@ -195,26 +274,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
-        <id>60abc6d011ffb70827ef630f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
-        <updated>2021-05-25T00:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
-        <id>60626dc29618b008528a9589</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
-        <updated>2021-05-25T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -344,42 +403,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T22:29:53.000Z</updated>
         <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
 The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
