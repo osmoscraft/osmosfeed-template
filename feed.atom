@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T01:21:21.514Z</id>
+    <id>urn:2021-05-30T01:31:53.468Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T01:21:21.514Z</updated>
+    <updated>2021-05-30T01:31:53.468Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -682,16 +682,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

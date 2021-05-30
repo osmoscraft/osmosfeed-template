@@ -117,7 +117,7 @@
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
           "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1288,
+          "wordCount": 1464,
           "title": "To $ or Not to $: Displaying Terminal Code Snippets"
         },
         {
@@ -180,7 +180,7 @@
           "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
           "publishedOn": "2021-05-25T11:00:00.000Z",
-          "wordCount": 1386,
+          "wordCount": 1425,
           "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
         },
         {
@@ -198,7 +198,7 @@
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://github.com/justjavac/proxy-www",
           "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
+          "wordCount": 507,
           "title": "proxy-www"
         },
         {
@@ -225,7 +225,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -250,7 +250,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10214,
+          "wordCount": 10175,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -264,7 +264,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
+          "wordCount": 3738,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -306,7 +306,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2126,
+          "wordCount": 2130,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -348,7 +348,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9441,
+          "wordCount": 9433,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -376,7 +376,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1958,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -446,7 +446,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2438,
+          "wordCount": 2440,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -544,7 +544,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2668,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -558,7 +558,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2343,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -572,7 +572,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1837,
+          "wordCount": 1842,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -606,20 +606,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2178,
-          "title": "May Is In The Air (2021 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
