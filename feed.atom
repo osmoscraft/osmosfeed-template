@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T01:31:53.468Z</id>
+    <id>urn:2021-05-31T01:43:14.379Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:31:53.468Z</updated>
+    <updated>2021-05-31T01:43:14.379Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,7 +127,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
         <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
         <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
         <updated>2021-05-27T09:30:00.000Z</updated>
