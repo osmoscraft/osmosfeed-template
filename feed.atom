@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T02:02:03.373Z</id>
+    <id>urn:2021-06-02T02:09:03.463Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T02:02:03.373Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T02:09:03.463Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
+        <id>60b1eed311ffb70827ef9504</id>
+        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
+        <updated>2021-06-01T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
+        <id>60b668c0acb62507dd1d710b</id>
+        <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
+        <updated>2021-06-01T17:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
+        <updated>2021-06-01T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
+        <id>60aff2d711ffb70827ef8829</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
+        <updated>2021-06-01T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
+        <id>https://css-tricks.com/?p=341342</id>
+        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
+        <updated>2021-06-01T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
+The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Evgeny Klimenchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
+        <id>https://css-tricks.com/?p=341296</id>
+        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
+        <updated>2021-06-01T14:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
+The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
+        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
+        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
+        <updated>2021-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.10.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
+        <updated>2021-06-01T04:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
+        <id>607f5fafdd38b9088c2bd0c9</id>
+        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
+        <updated>2021-06-01T04:19:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
         <id>https://css-tricks.com/?p=340465</id>
@@ -165,36 +291,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
         <id>https://css-tricks.com/?p=339759</id>
         <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
@@ -217,26 +313,6 @@ The post Links on Web Components appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -277,16 +353,6 @@ Fixed: the articles in template data were not sorted.
 Thank you @Zenigata]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
-        <id>60ac3a2711ffb70827ef6aec</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
-        <updated>2021-05-25T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -350,34 +416,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[proxy-www]]></title>
-        <id>https://css-tricks.com/?p=341153</id>
-        <link href="https://github.com/justjavac/proxy-www"/>
-        <updated>2021-05-24T19:09:59.000Z</updated>
-        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
-www.codepen.io.then((response) ={
-  console.log(response);
-});
-That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
-The post proxy-www appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
-        <id>https://css-tricks.com/?p=340626</id>
-        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
-        <updated>2021-05-24T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
-The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
         <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
         <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
@@ -406,18 +444,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 Thank you: @LooperXX.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-        <id>https://css-tricks.com/?p=340991</id>
-        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
-        <updated>2021-05-21T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
-The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -654,19 +680,6 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -684,16 +697,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
         </author>
     </entry>
 </feed>
