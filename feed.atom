@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T02:09:03.463Z</id>
+    <id>urn:2021-06-03T01:47:41.788Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T02:09:03.463Z</updated>
+    <updated>2021-06-03T01:47:41.788Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
+        <id>60afce3011ffb70827ef869c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
+        <updated>2021-06-02T23:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
+        <id>60b3a25211ffb70827ef9b39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
+        <updated>2021-06-02T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
+        <id>60b3ccee11ffb70827ef9bc0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
+        <updated>2021-06-02T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
+        <id>https://css-tricks.com/?p=341724</id>
+        <link href="https://css-tricks.com/debugging-ios-safari/"/>
+        <updated>2021-06-02T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[How do I debug Safari on iOS?
+These are my general steps, starting with not even using iOS Safari.
+1. Is this just a small-screen problem?
+Lemme just use the device mode in Chrome quick.
+Note that this does a …
+The post Debugging iOS Safari appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
+        <id>60a699b0906c5207e3a7f5ab</id>
+        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
+        <updated>2021-06-02T20:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
+        <id>60b0f11411ffb70827ef8dbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
+        <updated>2021-06-02T19:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
+        <id>60b4ff4711ffb70827ef9eb2</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
+        <updated>2021-06-02T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/?p=341442</id>
+        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
+        <updated>2021-06-02T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
+The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Dmitry Mayorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
+        <id>https://css-tricks.com/?p=341572</id>
+        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
+        <updated>2021-06-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
+The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
+        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
+        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
+        <updated>2021-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
         <id>60b5025111ffb70827ef9ebe</id>
@@ -43,26 +173,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
         <updated>2021-06-01T17:43:56.000Z</updated>
         <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
-        <updated>2021-06-01T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
-        <id>60aff2d711ffb70827ef8829</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
-        <updated>2021-06-01T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -122,16 +232,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
-        <id>607f5fafdd38b9088c2bd0c9</id>
-        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
-        <updated>2021-06-01T04:19:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
         <id>https://css-tricks.com/?p=340465</id>
         <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
@@ -170,16 +270,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
         <id>https://css-tricks.com/?p=341163</id>
         <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
@@ -189,16 +279,6 @@ The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Thomas Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -224,26 +304,6 @@ The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on C
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
-        <id>60a325c6906c5207e3a7da25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
-        <updated>2021-05-27T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -356,21 +416,6 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
-        <id>https://css-tricks.com/?p=340759</id>
-        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
-        <updated>2021-05-25T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
-Table of contents
-What’s the game 
-…
-The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
@@ -381,18 +426,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
-        <id>https://css-tricks.com/?p=341383</id>
-        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
-        <updated>2021-05-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
-The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ahmed Bouchefra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
         <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
         <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
@@ -400,19 +433,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Performance]]></title>
-        <id>https://css-tricks.com/?p=340808</id>
-        <link href="https://css-tricks.com/links-on-performance/"/>
-        <updated>2021-05-24T22:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
-…
-The post Links on Performance appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -687,16 +707,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
