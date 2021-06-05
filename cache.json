@@ -103,12 +103,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
           "id": "https://css-tricks.com/?p=341584",
           "author": "Temani Afif",
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
           "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 4971,
+          "wordCount": 5032,
           "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
         },
         {
@@ -117,7 +135,7 @@
           "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
           "publishedOn": "2021-06-03T14:25:19.000Z",
-          "wordCount": 865,
+          "wordCount": 955,
           "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
         },
         {
@@ -126,7 +144,7 @@
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/debugging-ios-safari/",
           "publishedOn": "2021-06-02T21:15:28.000Z",
-          "wordCount": 1039,
+          "wordCount": 1066,
           "title": "Debugging iOS Safari"
         },
         {
@@ -135,7 +153,7 @@
           "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
           "publishedOn": "2021-06-02T13:35:53.000Z",
-          "wordCount": 4169,
+          "wordCount": 4168,
           "title": "A Crash Course in WordPress Block Filters"
         },
         {
@@ -144,7 +162,7 @@
           "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
           "publishedOn": "2021-06-02T13:35:40.000Z",
-          "wordCount": 1058,
+          "wordCount": 1057,
           "title": "Are Custom Properties a “Menu of What Will Change”?"
         },
         {
@@ -162,7 +180,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 4077,
+          "wordCount": 4076,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -180,7 +198,7 @@
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 2069,
+          "wordCount": 2068,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -189,7 +207,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 1243,
+          "wordCount": 1242,
           "title": "Local: Always Getting Better"
         },
         {
@@ -198,7 +216,7 @@
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
           "publishedOn": "2021-05-28T14:36:47.000Z",
-          "wordCount": 1838,
+          "wordCount": 1837,
           "title": "Dynamic Favicons for WordPress"
         },
         {
@@ -207,7 +225,7 @@
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
           "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1581,
+          "wordCount": 1580,
           "title": "To $ or Not to $: Displaying Terminal Code Snippets"
         },
         {
@@ -216,26 +234,8 @@
           "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-show-images-on-click/",
           "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1725,
+          "wordCount": 1724,
           "title": "How to Show Images on Click"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340910",
-          "author": "Michael Rispoli",
-          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
-          "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2494,
-          "title": "Rethinking Postgres in a Post-Server World"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339759",
-          "author": "Chris Coyier",
-          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/awesome-standalone-web-components/",
-          "publishedOn": "2021-05-26T17:56:34.000Z",
-          "wordCount": 1389,
-          "title": "Awesome Standalone (Web Components)"
         }
       ]
     },
@@ -245,12 +245,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3510,
+          "wordCount": 3498,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -264,7 +278,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4347,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -348,7 +362,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3741,
+          "wordCount": 3735,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -390,7 +404,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2116,
+          "wordCount": 2121,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -432,7 +446,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9439,
+          "wordCount": 9445,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -460,7 +474,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1961,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -516,7 +530,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2957,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -530,7 +544,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -600,7 +614,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6352,
+          "wordCount": 6355,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -614,24 +628,10 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4164,
+          "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2662,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -644,6 +644,51 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
+          "id": "60ba33d7acb62507dd1d9050",
+          "author": null,
+          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
+          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
+          "publishedOn": "2021-06-04T20:58:07.000Z",
+          "wordCount": 1544,
+          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
+        },
+        {
+          "id": "60b8f5c7acb62507dd1d8500",
+          "author": null,
+          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "publishedOn": "2021-06-04T20:41:29.000Z",
+          "wordCount": 2163,
+          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
+        },
+        {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
+        {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
           "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
@@ -655,10 +700,10 @@
         {
           "id": "60afd68611ffb70827ef86d8",
           "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called \"Schofield's",
           "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
           "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
+          "wordCount": 1595,
           "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
         },
         {
@@ -687,51 +732,6 @@
           "publishedOn": "2021-06-03T16:51:37.000Z",
           "wordCount": 1453,
           "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
-        },
-        {
-          "id": "5fff3d3098be260817e495bd",
-          "author": null,
-          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
-          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
-          "publishedOn": "2021-06-03T16:21:19.000Z",
-          "wordCount": 2747,
-          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
-        },
-        {
-          "id": "60afce3011ffb70827ef869c",
-          "author": null,
-          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
-          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
-          "publishedOn": "2021-06-02T23:14:01.000Z",
-          "wordCount": 2282,
-          "title": "What is Commit Signing in Git?"
-        },
-        {
-          "id": "60b3a25211ffb70827ef9b39",
-          "author": null,
-          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
-          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
-          "publishedOn": "2021-06-02T22:54:18.000Z",
-          "wordCount": 1415,
-          "title": "How to Use Environment Variables in VanillaJS"
-        },
-        {
-          "id": "60b3ccee11ffb70827ef9bc0",
-          "author": null,
-          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
-          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
-          "publishedOn": "2021-06-02T21:18:15.000Z",
-          "wordCount": 2365,
-          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
-        },
-        {
-          "id": "60a699b0906c5207e3a7f5ab",
-          "author": null,
-          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
-          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
-          "publishedOn": "2021-06-02T20:44:22.000Z",
-          "wordCount": 3441,
-          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
         }
       ]
     }
