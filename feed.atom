@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T01:02:37.583Z</id>
+    <id>urn:2021-06-07T01:04:33.401Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T01:02:37.583Z</updated>
+    <updated>2021-06-07T01:04:33.401Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -673,20 +673,6 @@ Added: Semantic API for theming the default template. Demo | Source | Docs
 Changed: Moved feed metadata from article level to feed level in cache.
 Fixed: Any html-like text was stripped from title. Fixed with encoded text.
 Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
