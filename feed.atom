@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T01:02:29.905Z</id>
+    <id>urn:2021-06-09T00:43:32.148Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T01:02:29.905Z</updated>
+    <updated>2021-06-09T00:43:32.148Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
         <id>60bbd28eacb62507dd1d99fb</id>
@@ -126,16 +191,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
-        <id>60b2a4c611ffb70827ef9842</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
-        <updated>2021-06-04T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can I :has()]]></title>
         <id>https://css-tricks.com/?p=341968</id>
         <link href="https://bkardell.com/blog/canihas.html"/>
@@ -155,26 +210,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
-        <id>60b98ebfacb62507dd1d8ec4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
-        <updated>2021-06-04T02:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>60b11ff811ffb70827ef8f94</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2021-06-03T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -355,18 +390,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
-        <id>https://css-tricks.com/?p=341482</id>
-        <link href="https://css-tricks.com/local-always-getting-better/"/>
-        <updated>2021-05-31T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
-The post Local: Always Getting Better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
         <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
@@ -374,18 +397,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
         </author>
     </entry>
     <entry>
@@ -647,42 +658,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
