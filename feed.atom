@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T00:43:32.148Z</id>
+    <id>urn:2021-06-10T00:41:28.854Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:43:32.148Z</updated>
+    <updated>2021-06-10T00:41:28.854Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
+        <id>60b357ad11ffb70827ef9a90</id>
+        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
+        <updated>2021-06-09T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
+        <id>60c10a1dd3126007592d5988</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
+        <updated>2021-06-09T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
         <id>60bfd986d3126007592d53a1</id>
@@ -71,7 +148,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
+        <title type="html"><![CDATA[Full Stack Development with Next.js and Supabase – The Complete Guide]]></title>
         <id>60bbd28eacb62507dd1d99fb</id>
         <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
         <updated>2021-06-07T23:33:30.000Z</updated>
@@ -114,16 +191,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
-        <id>60b136d911ffb70827ef912b</id>
-        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
-        <updated>2021-06-07T15:01:26.000Z</updated>
-        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
         <id>https://css-tricks.com/?p=340390</id>
         <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
@@ -143,36 +210,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
-        <id>60ba33d7acb62507dd1d9050</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
-        <updated>2021-06-04T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
-        <id>60b8f5c7acb62507dd1d8500</id>
-        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
-        <updated>2021-06-04T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -332,18 +369,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
-        <id>https://css-tricks.com/?p=341296</id>
-        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
-        <updated>2021-06-01T14:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
-The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
         <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
@@ -371,22 +396,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-        <id>https://css-tricks.com/?p=340465</id>
-        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
-        <updated>2021-05-31T17:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
-building modern, accessible user interfaces
-creating interactive elements and complex animations
-managing complex application state
-…
-The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jason Lengstorf</name>
         </author>
     </entry>
     <entry>
@@ -648,16 +657,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
         </author>
     </entry>
 </feed>
