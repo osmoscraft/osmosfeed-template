@@ -49,24 +49,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 336,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
         }
       ]
     },
@@ -76,21 +58,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342294",
+          "author": "Chris Coyier",
+          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
+          "publishedOn": "2021-06-14T22:04:41.000Z",
+          "wordCount": 711,
+          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342229",
+          "author": "Chris Coyier",
+          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
+          "publishedOn": "2021-06-14T18:20:17.000Z",
+          "wordCount": 730,
+          "title": "CSS-Tricks Chronicle XXXX"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342070",
+          "author": "Khari McMillian",
+          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
+          "publishedOn": "2021-06-14T13:30:27.000Z",
+          "wordCount": 3261,
+          "title": "Securing Your Website With Subresource Integrity"
+        },
+        {
           "id": "https://css-tricks.com/?p=342429",
           "author": "Chris Coyier",
           "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
           "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 876,
+          "wordCount": 1155,
           "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
         },
         {
           "id": "https://css-tricks.com/?p=342237",
           "author": "Chris Coyier",
-          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nRSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nUpdate: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. \nRSS …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-possibilities-of-syndication/",
           "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 643,
+          "wordCount": 734,
           "title": "The Possibilities of Syndication"
         },
         {
@@ -99,7 +108,7 @@
           "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
           "publishedOn": "2021-06-11T14:30:29.000Z",
-          "wordCount": 2375,
+          "wordCount": 2679,
           "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
         },
         {
@@ -117,7 +126,7 @@
           "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
           "publishedOn": "2021-06-10T14:34:22.000Z",
-          "wordCount": 4649,
+          "wordCount": 4673,
           "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
         },
         {
@@ -126,7 +135,7 @@
           "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
           "publishedOn": "2021-06-10T14:26:47.000Z",
-          "wordCount": 2972,
+          "wordCount": 3006,
           "title": "Building a Headless CMS with Fauna and Vercel Functions"
         },
         {
@@ -144,7 +153,7 @@
           "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/targetblank/",
           "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 1345,
+          "wordCount": 1469,
           "title": "target=blank"
         },
         {
@@ -180,35 +189,8 @@
           "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/vs-code-extensions-for-html/",
           "publishedOn": "2021-06-07T14:13:50.000Z",
-          "wordCount": 1789,
+          "wordCount": 1805,
           "title": "VS Code Extensions for HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341793",
-          "author": "Chris Coyier",
-          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
-          "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1112,
-          "title": "Principles for user-centered front-end development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341968",
-          "author": "Chris Coyier",
-          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://bkardell.com/blog/canihas.html",
-          "publishedOn": "2021-06-04T14:37:59.000Z",
-          "wordCount": 1327,
-          "title": "Can I :has()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341584",
-          "author": "Temani Afif",
-          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
-          "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 5226,
-          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
         }
       ]
     },
@@ -218,12 +200,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
+          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "publishedOn": "2021-06-14T10:30:00.000Z",
+          "wordCount": 3665,
+          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1550,
+          "wordCount": 1736,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -237,7 +233,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4869,
+          "wordCount": 5104,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -251,7 +247,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 747,
+          "wordCount": 864,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -265,7 +261,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2603,
+          "wordCount": 2773,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -279,7 +275,7 @@
           "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
           "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
           "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2102,
+          "wordCount": 2347,
           "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
@@ -293,7 +289,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2239,
+          "wordCount": 2426,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -307,7 +303,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4415,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -321,7 +317,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3532,
+          "wordCount": 3669,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -335,7 +331,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4378,
+          "wordCount": 4580,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -349,7 +345,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5414,
+          "wordCount": 5645,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -363,7 +359,7 @@
           "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
           "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
           "publishedOn": "2021-06-01T14:00:00.000Z",
-          "wordCount": 7115,
+          "wordCount": 7321,
           "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
@@ -377,7 +373,7 @@
           "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
           "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
           "publishedOn": "2021-06-01T09:00:00.000Z",
-          "wordCount": 1362,
+          "wordCount": 1513,
           "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
@@ -391,7 +387,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2524,
+          "wordCount": 2765,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -405,7 +401,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10247,
+          "wordCount": 10594,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -419,7 +415,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3769,
+          "wordCount": 4048,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -433,7 +429,7 @@
           "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
           "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
           "publishedOn": "2021-05-27T09:30:00.000Z",
-          "wordCount": 2676,
+          "wordCount": 2842,
           "title": "How To Build And Launch Powerful Responsive Websites With Editor X",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
@@ -447,7 +443,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1579,
+          "wordCount": 1743,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -461,7 +457,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2158,
+          "wordCount": 2318,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -475,7 +471,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2108,
+          "wordCount": 2250,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -489,7 +485,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2739,
+          "wordCount": 2928,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -503,7 +499,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9473,
+          "wordCount": 9792,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -517,7 +513,7 @@
           "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
           "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
+          "wordCount": 966,
           "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
@@ -531,7 +527,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1990,
+          "wordCount": 2181,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -545,7 +541,7 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5058,
+          "wordCount": 5303,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
@@ -559,7 +555,7 @@
           "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
           "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
+          "wordCount": 1943,
           "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e69194b-9e57-4713-bed2-d2f18dd6c914/create-animate-svg-graphics-svgator3-image-7.png",
@@ -573,7 +569,7 @@
           "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
           "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
+          "wordCount": 9506,
           "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e26ce3b7-49e1-45d7-8411-ecc5b2d696cd/smashing-podcast-episode-37.jpg",
@@ -587,7 +583,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2985,
+          "wordCount": 3157,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -602,6 +598,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60bce373acb62507dd1d9f19",
+          "author": null,
+          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
+          "publishedOn": "2021-06-14T22:39:00.000Z",
+          "wordCount": 2563,
+          "title": "How to Build a Custom Pagination Component in React"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
+        {
+          "id": "60c794e64dc1a607ed7b25ba",
+          "author": null,
+          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
+          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
+          "publishedOn": "2021-06-14T19:19:42.000Z",
+          "wordCount": 2588,
+          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
+        },
+        {
+          "id": "60c4b35ed3126007592d71bc",
+          "author": null,
+          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
+          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
+          "publishedOn": "2021-06-14T18:37:44.000Z",
+          "wordCount": 1599,
+          "title": "10 Best African Language Datasets for Data Science Projects"
+        },
         {
           "id": "60b72d5facb62507dd1d777b",
           "author": null,
@@ -646,51 +687,6 @@
           "publishedOn": "2021-06-11T16:04:46.000Z",
           "wordCount": 1323,
           "title": "How to Level Up Your React Conditionals"
-        },
-        {
-          "id": "60b93afaacb62507dd1d8915",
-          "author": null,
-          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
-          "publishedOn": "2021-06-10T11:35:00.000Z",
-          "wordCount": 583,
-          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
-        },
-        {
-          "id": "60b357ad11ffb70827ef9a90",
-          "author": null,
-          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
-          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
-          "publishedOn": "2021-06-09T21:55:16.000Z",
-          "wordCount": 3477,
-          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
-        },
-        {
-          "id": "60c0ccbed3126007592d5781",
-          "author": null,
-          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
-          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
-          "publishedOn": "2021-06-09T19:45:20.000Z",
-          "wordCount": 1731,
-          "title": "The Skills You Need to Start Freelancing as a Developer"
-        },
-        {
-          "id": "60c10a1dd3126007592d5988",
-          "author": null,
-          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
-          "publishedOn": "2021-06-09T18:43:07.000Z",
-          "wordCount": 339,
-          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
-        },
-        {
-          "id": "60bfa4d4d3126007592d5160",
-          "author": null,
-          "description": "One night in June, 2017 I stumbled across a website called freecodecamp.org. I was a teacher at the time who was looking for a career change. But I assumed being a programmer was out of my reach. After all, I didn’t consider myself a math whiz, never went",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
-          "publishedOn": "2021-06-08T23:47:43.000Z",
-          "wordCount": 9491,
-          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
         }
       ]
     }

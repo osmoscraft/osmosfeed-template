@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T00:36:48.599Z</id>
+    <id>urn:2021-06-15T00:38:42.651Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:36:48.599Z</updated>
+    <updated>2021-06-15T00:38:42.651Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
+        <id>60873d1fdd38b9088c2c0842</id>
+        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
+        <updated>2021-06-14T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
+        <id>60bce373acb62507dd1d9f19</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
+        <updated>2021-06-14T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+        <id>https://css-tricks.com/?p=342294</id>
+        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
+        <updated>2021-06-14T22:04:41.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
+The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
+        <id>60c3b862d3126007592d689b</id>
+        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
+        <updated>2021-06-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
+        <id>60c794e64dc1a607ed7b25ba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
+        <updated>2021-06-14T19:19:42.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
+        <id>60c4b35ed3126007592d71bc</id>
+        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
+        <updated>2021-06-14T18:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXX]]></title>
+        <id>https://css-tricks.com/?p=342229</id>
+        <link href="https://css-tricks.com/css-tricks-chronicle-xxxx/"/>
+        <updated>2021-06-14T18:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. 
+DevJourney Podcast
+#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘
+Chris took us from playing on 
+…
+The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Website With Subresource Integrity]]></title>
+        <id>https://css-tricks.com/?p=342070</id>
+        <link href="https://css-tricks.com/securing-your-website-with-subresource-integrity/"/>
+        <updated>2021-06-14T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …
+The post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Khari McMillian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
+        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
+        <updated>2021-06-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
         <id>60b72d5facb62507dd1d777b</id>
@@ -35,7 +135,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-11T21:25:56.000Z</updated>
         <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
 Really Simple Syndication.
-RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
+Update: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. 
+RSS …
 The post The Possibilities of Syndication appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -154,16 +255,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
-        <id>60b93afaacb62507dd1d8915</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
-        <updated>2021-06-10T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
         <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
         <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
@@ -171,16 +262,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
-        <id>60b357ad11ffb70827ef9a90</id>
-        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
-        <updated>2021-06-09T21:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -193,26 +274,6 @@ The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
-        <id>60c0ccbed3126007592d5781</id>
-        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
-        <updated>2021-06-09T19:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
-        <id>60c10a1dd3126007592d5988</id>
-        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
-        <updated>2021-06-09T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -238,16 +299,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
-        <id>60bfa4d4d3126007592d5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
-        <updated>2021-06-08T23:47:43.000Z</updated>
-        <summary type="html"><![CDATA[One night in June, 2017 I stumbled across a website called freecodecamp.org. I was a teacher at the time who was looking for a career change. But I assumed being a programmer was out of my reach. After all, I didn’t consider myself a math whiz, never went]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -321,33 +372,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
-        <id>https://css-tricks.com/?p=341793</id>
-        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
-        <updated>2021-06-04T20:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Colin Oakley:
-• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
-• Agnostic — Build 
-…
-The post Principles for user-centered front-end development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I :has()]]></title>
-        <id>https://css-tricks.com/?p=341968</id>
-        <link href="https://bkardell.com/blog/canihas.html"/>
-        <updated>2021-06-04T14:37:59.000Z</updated>
-        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
-The post Can I :has() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Started With Webpack]]></title>
         <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
         <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
@@ -355,18 +379,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
-        <id>https://css-tricks.com/?p=341584</id>
-        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
-        <updated>2021-06-03T14:25:57.000Z</updated>
-        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
-The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -624,28 +636,6 @@ Thank you: @LooperXX.]]></summary>
         <updated>2021-05-17T05:32:19.000Z</updated>
         <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
