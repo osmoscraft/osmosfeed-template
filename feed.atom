@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T00:38:58.566Z</id>
+    <id>urn:2021-06-17T00:37:16.488Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:38:58.566Z</updated>
+    <updated>2021-06-17T00:37:16.488Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
+        <id>60c088e5d3126007592d56f1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
+        <updated>2021-06-16T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
+        <id>https://css-tricks.com/?p=342358</id>
+        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
+        <updated>2021-06-16T21:11:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
+I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
+— Sam 
+
+…
+The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
+        <id>60b8cb0aacb62507dd1d82ea</id>
+        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
+        <updated>2021-06-16T20:56:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
+        <id>60ca25704dc1a607ed7b408c</id>
+        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
+        <updated>2021-06-16T20:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
+        <id>https://css-tricks.com/?p=342630</id>
+        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
+        <updated>2021-06-16T19:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen: 
+If somebody says a comment isn’t adding any value, I would ask: to whom?
+Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
+Jim showed …
+The post Useful and Useless Code Comments appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
+        <id>60ca30af4dc1a607ed7b4197</id>
+        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
+        <updated>2021-06-16T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
+        <id>https://css-tricks.com/?p=342353</id>
+        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
+        <updated>2021-06-16T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
+The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Okiki Ojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
+        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
+        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
+        <updated>2021-06-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nic Chan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
         <id>https://css-tricks.com/?p=342198</id>
@@ -92,26 +185,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL Aggregate Functions – With Example Data Queries for Beginners]]></title>
-        <id>60c6aec3d3126007592d7bd5</id>
-        <link href="https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/"/>
-        <updated>2021-06-15T15:48:09.000Z</updated>
-        <summary type="html"><![CDATA[What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Full Stack? How to Become a Full Stack Developer]]></title>
-        <id>60bbdd8dacb62507dd1d9a2d</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-fullstack-developer/"/>
-        <updated>2021-06-15T15:35:39.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen the term "full stack developer" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
         <id>https://css-tricks.com/?p=342248</id>
         <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
@@ -142,26 +215,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
-        <id>60873d1fdd38b9088c2c0842</id>
-        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
-        <updated>2021-06-14T22:46:31.000Z</updated>
-        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
-        <id>60bce373acb62507dd1d9f19</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
-        <updated>2021-06-14T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -324,33 +377,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
-        <id>https://css-tricks.com/?p=340967</id>
-        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
-        <updated>2021-06-09T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
-The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[target=blank]]></title>
-        <id>https://css-tricks.com/?p=341916</id>
-        <link href="https://css-tricks.com/targetblank/"/>
-        <updated>2021-06-09T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
-<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
-</a
-Welp, that’s correct syntax!…
-The post target=blank appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
         <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
         <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
@@ -358,18 +384,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
-        <id>https://css-tricks.com/?p=341982</id>
-        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
-        <updated>2021-06-08T18:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
-The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Todd Libby</name>
         </author>
     </entry>
     <entry>
@@ -618,26 +632,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>

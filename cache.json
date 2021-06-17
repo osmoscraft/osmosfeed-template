@@ -49,12 +49,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342358",
+          "author": "Chris Coyier",
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
+          "publishedOn": "2021-06-16T21:11:02.000Z",
+          "wordCount": 604,
+          "title": "Inline Styles as Classes (lol)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342630",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2409,
+          "title": "How I Used the WAAPI to Build an Animation Library"
+        },
+        {
           "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
           "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/detect-unused-classes-in-html/",
           "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 741,
+          "wordCount": 798,
           "title": "Detect Unused Classes in… HTML"
         },
         {
@@ -63,7 +90,7 @@
           "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
           "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 1907,
+          "wordCount": 2234,
           "title": "Media Queries in Times of @container"
         },
         {
@@ -72,7 +99,7 @@
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 1844,
+          "wordCount": 2721,
           "title": "Just How Niche is Headless WordPress?"
         },
         {
@@ -81,7 +108,7 @@
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
           "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 875,
+          "wordCount": 890,
           "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
         },
         {
@@ -135,7 +162,7 @@
           "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
           "publishedOn": "2021-06-11T00:16:28.000Z",
-          "wordCount": 667,
+          "wordCount": 683,
           "title": "Put a Background on Open Details Elements"
         },
         {
@@ -155,33 +182,6 @@
           "publishedOn": "2021-06-10T14:26:47.000Z",
           "wordCount": 3006,
           "title": "Building a Headless CMS with Fauna and Vercel Functions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340967",
-          "author": "Geoff Graham",
-          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
-          "publishedOn": "2021-06-09T20:37:00.000Z",
-          "wordCount": 1539,
-          "title": "A Cornucopia of Container Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341916",
-          "author": "Chris Coyier",
-          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/targetblank/",
-          "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 1469,
-          "title": "target=blank"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341982",
-          "author": "Todd Libby",
-          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
-          "publishedOn": "2021-06-08T18:31:08.000Z",
-          "wordCount": 3431,
-          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
         }
       ]
     },
@@ -190,6 +190,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "author": "hello@smashingmagazine.com (Nic Chan)",
+          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
+          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "publishedOn": "2021-06-16T10:30:00.000Z",
+          "wordCount": 4102,
+          "title": "A Complete Guide To Accessibility Tooling",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
@@ -238,7 +252,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1699,
+          "wordCount": 1737,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -252,7 +266,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5108,
+          "wordCount": 5148,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -266,7 +280,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 864,
+          "wordCount": 826,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -308,7 +322,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2443,
+          "wordCount": 2391,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -322,7 +336,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4415,
+          "wordCount": 4421,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -336,7 +350,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3719,
+          "wordCount": 3727,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -364,7 +378,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5648,
+          "wordCount": 5656,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -406,7 +420,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2721,
+          "wordCount": 2773,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -420,7 +434,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10552,
+          "wordCount": 10604,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -434,7 +448,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4058,
+          "wordCount": 4044,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -462,7 +476,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1749,
+          "wordCount": 1747,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -476,7 +490,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2283,
+          "wordCount": 2322,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -504,7 +518,7 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2932,
+          "wordCount": 2930,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
@@ -518,7 +532,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9796,
+          "wordCount": 9789,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -546,7 +560,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 2180,
+          "wordCount": 2196,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -560,40 +574,12 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5307,
+          "wordCount": 5305,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1943,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e69194b-9e57-4713-bed2-d2f18dd6c914/create-animate-svg-graphics-svgator3-image-7.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9506,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e26ce3b7-49e1-45d7-8411-ecc5b2d696cd/smashing-podcast-episode-37.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -603,6 +589,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c088e5d3126007592d56f1",
+          "author": null,
+          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+          "publishedOn": "2021-06-16T21:19:08.000Z",
+          "wordCount": 1696,
+          "title": "JavaScript Split – How to Split a String into an Array in JS"
+        },
+        {
+          "id": "60b8cb0aacb62507dd1d82ea",
+          "author": null,
+          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
+          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
+          "publishedOn": "2021-06-16T20:56:49.000Z",
+          "wordCount": 2502,
+          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
+        },
+        {
+          "id": "60ca25704dc1a607ed7b408c",
+          "author": null,
+          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
+          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
+          "publishedOn": "2021-06-16T20:55:03.000Z",
+          "wordCount": 1525,
+          "title": "Build Better React Apps with These Simple Tricks"
+        },
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
         {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
@@ -656,42 +678,6 @@
           "publishedOn": "2021-06-15T16:06:54.000Z",
           "wordCount": 1714,
           "title": "How to Open Any Repo in VS Code Without Cloning It"
-        },
-        {
-          "id": "60c6aec3d3126007592d7bd5",
-          "author": null,
-          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
-          "publishedOn": "2021-06-15T15:48:09.000Z",
-          "wordCount": 888,
-          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
-        },
-        {
-          "id": "60bbdd8dacb62507dd1d9a2d",
-          "author": null,
-          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
-          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
-          "publishedOn": "2021-06-15T15:35:39.000Z",
-          "wordCount": 2706,
-          "title": "What is Full Stack? How to Become a Full Stack Developer"
-        },
-        {
-          "id": "60873d1fdd38b9088c2c0842",
-          "author": null,
-          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
-          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
-          "publishedOn": "2021-06-14T22:46:31.000Z",
-          "wordCount": 2704,
-          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
-        },
-        {
-          "id": "60bce373acb62507dd1d9f19",
-          "author": null,
-          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
-          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
-          "publishedOn": "2021-06-14T22:39:00.000Z",
-          "wordCount": 2563,
-          "title": "How to Build a Custom Pagination Component in React"
         }
       ]
     }
