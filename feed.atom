@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T00:37:16.488Z</id>
+    <id>urn:2021-06-18T00:37:37.622Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:37:16.488Z</updated>
+    <updated>2021-06-18T00:37:37.622Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
+        <id>https://css-tricks.com/?p=341948</id>
+        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
+        <updated>2021-06-17T14:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
+Those …
+The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Louis Hoebregts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
+        <id>https://css-tricks.com/?p=342257</id>
+        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
+        <updated>2021-06-17T14:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
+However, web performance is also a growing problem for most websites. And images are at the heart of many web …
+The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
+        <id>60c2aa56d3126007592d6226</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
+        <updated>2021-06-17T12:02:47.000Z</updated>
+        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
+        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-06-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
+        <id>60c88bbc4dc1a607ed7b2ffa</id>
+        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
+        <updated>2021-06-17T00:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
         <id>60c088e5d3126007592d56f1</id>
@@ -115,7 +171,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>60c91b2b4dc1a607ed7b389a</id>
         <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
         <updated>2021-06-15T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
+        <summary type="html"><![CDATA[DevOps is one of the highest-paying roles you can get at a software company. And even if you aren't working as a DevOps, knowing how it works will make you a more productive developer. We just published a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -160,26 +216,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
         <updated>2021-06-15T17:57:54.000Z</updated>
         <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
-        <id>602aaaf60a2838549dcc5c7f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
-        <updated>2021-06-15T17:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
-        <id>60b7cb6aacb62507dd1d7c1a</id>
-        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
-        <updated>2021-06-15T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -339,31 +375,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
-        <id>https://css-tricks.com/?p=341894</id>
-        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
-        <updated>2021-06-10T14:34:22.000Z</updated>
-        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
-Let’s break those two down and see how they work together.
-The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Kevin Powell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
-        <id>https://css-tricks.com/?p=342182</id>
-        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
-        <updated>2021-06-10T14:26:47.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
-The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ikeh Akinyemi</name>
         </author>
     </entry>
     <entry>
@@ -622,16 +633,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
