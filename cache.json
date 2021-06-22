@@ -22,24 +22,6 @@
           "publishedOn": "2021-05-26T06:02:55.000Z",
           "wordCount": 413,
           "title": "v1.9.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "author": null,
-          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "publishedOn": "2021-05-23T05:40:12.000Z",
-          "wordCount": 278,
-          "title": "v1.8.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "author": null,
-          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "publishedOn": "2021-05-23T05:12:08.000Z",
-          "wordCount": 341,
-          "title": "v1.8.0"
         }
       ]
     },
@@ -49,12 +31,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342887",
+          "author": "Chris Coyier",
+          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/new-responsive/",
+          "publishedOn": "2021-06-21T21:22:33.000Z",
+          "wordCount": 2285,
+          "title": "Are we in a new era of web design? What do we call it?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342448",
+          "author": "Preethi",
+          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
+          "publishedOn": "2021-06-21T14:32:45.000Z",
+          "wordCount": 1598,
+          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
+        },
+        {
           "id": "https://css-tricks.com/?p=341511",
           "author": "Carter Li",
           "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
           "publishedOn": "2021-06-18T20:38:59.000Z",
-          "wordCount": 974,
+          "wordCount": 1083,
           "title": "Using the `outline` Property as a Collapsable Border"
         },
         {
@@ -72,7 +72,7 @@
           "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
           "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1650,
+          "wordCount": 1691,
           "title": "Perfect Tooltips With CSS Clipping and Masking"
         },
         {
@@ -90,7 +90,7 @@
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
           "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 1256,
+          "wordCount": 1367,
           "title": "Inline Styles as Classes (lol)"
         },
         {
@@ -135,7 +135,7 @@
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 2869,
+          "wordCount": 2883,
           "title": "Just How Niche is Headless WordPress?"
         },
         {
@@ -144,7 +144,7 @@
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
           "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 937,
+          "wordCount": 970,
           "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
         },
         {
@@ -164,24 +164,6 @@
           "publishedOn": "2021-06-14T13:30:27.000Z",
           "wordCount": 3330,
           "title": "Securing Your Website With Subresource Integrity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342429",
-          "author": "Chris Coyier",
-          "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
-          "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 1155,
-          "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342237",
-          "author": "Chris Coyier",
-          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nUpdate: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. \nRSS …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-possibilities-of-syndication/",
-          "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 734,
-          "title": "The Possibilities of Syndication"
         }
       ]
     },
@@ -191,12 +173,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
+          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
+          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
+          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
+          "publishedOn": "2021-06-21T14:30:00.000Z",
+          "wordCount": 5354,
+          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "author": "hello@smashingmagazine.com (Ottomatias Peura)",
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3375,
+          "wordCount": 3414,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -224,7 +220,7 @@
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
           "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1639,
+          "wordCount": 1638,
           "title": "Your Image Is Probably Not Decorative",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
@@ -238,7 +234,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4110,
+          "wordCount": 4102,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -280,7 +276,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3669,
+          "wordCount": 3671,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -294,7 +290,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1702,
+          "wordCount": 1739,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -308,7 +304,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5158,
+          "wordCount": 5154,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -322,7 +318,7 @@
           "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
           "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 878,
+          "wordCount": 872,
           "title": "Three Front-End Auditing Tools I Discovered Recently",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
@@ -336,7 +332,7 @@
           "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
           "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2779,
+          "wordCount": 2780,
           "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
@@ -364,7 +360,7 @@
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
           "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2431,
           "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
@@ -378,7 +374,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4410,
+          "wordCount": 4407,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -392,7 +388,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3723,
+          "wordCount": 3716,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -406,7 +402,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4586,
+          "wordCount": 4585,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -420,7 +416,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5612,
+          "wordCount": 5611,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -462,7 +458,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2766,
+          "wordCount": 2770,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -476,7 +472,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10608,
+          "wordCount": 10597,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -490,7 +486,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 4057,
+          "wordCount": 4046,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -518,7 +514,7 @@
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
           "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1752,
           "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
@@ -532,7 +528,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2284,
+          "wordCount": 2321,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -546,7 +542,7 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2256,
+          "wordCount": 2257,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
@@ -576,6 +572,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c81f774dc1a607ed7b2f66",
+          "author": null,
+          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
+          "publishedOn": "2021-06-21T21:52:43.000Z",
+          "wordCount": 1785,
+          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
+        },
+        {
+          "id": "60bce157acb62507dd1d9f11",
+          "author": null,
+          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
+          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
+          "publishedOn": "2021-06-21T21:25:11.000Z",
+          "wordCount": 1085,
+          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
+        },
+        {
+          "id": "60cccd6e4dc1a607ed7b4f81",
+          "author": null,
+          "description": "Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
+          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
+          "publishedOn": "2021-06-21T21:01:42.000Z",
+          "wordCount": 1659,
+          "title": "Learn Redux by Making a Counter Application"
+        },
+        {
+          "id": "60d0d0ff6e1a1407b6b0a506",
+          "author": null,
+          "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
+          "link": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
+          "publishedOn": "2021-06-21T18:15:53.000Z",
+          "wordCount": 3729,
+          "title": "How to Build a Portfolio Website with React"
+        },
+        {
+          "id": "60cda7104dc1a607ed7b5588",
+          "author": null,
+          "description": "Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially",
+          "link": "https://www.freecodecamp.org/news/figma-crash-course/",
+          "publishedOn": "2021-06-21T17:52:21.000Z",
+          "wordCount": 1194,
+          "title": "What is Figma? A Design Crash Course [2021 Tutorial]"
+        },
+        {
+          "id": "60a55b37906c5207e3a7ea78",
+          "author": null,
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
+        },
+        {
+          "id": "6063b9e19618b008528a9d9a",
+          "author": null,
+          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "publishedOn": "2021-06-21T16:36:14.000Z",
+          "wordCount": 1153,
+          "title": "How the CSS Position Property Works – Explained with Code Examples"
+        },
+        {
           "id": "60b46dbd11ffb70827ef9dea",
           "author": null,
           "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
@@ -601,69 +660,6 @@
           "publishedOn": "2021-06-18T13:56:04.000Z",
           "wordCount": 13842,
           "title": "Understanding Sorting Algorithms"
-        },
-        {
-          "id": "60c2aa56d3126007592d6226",
-          "author": null,
-          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
-          "publishedOn": "2021-06-17T12:02:47.000Z",
-          "wordCount": 41178,
-          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
-        },
-        {
-          "id": "60c88bbc4dc1a607ed7b2ffa",
-          "author": null,
-          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
-          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
-          "publishedOn": "2021-06-17T00:53:04.000Z",
-          "wordCount": 1966,
-          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
-        },
-        {
-          "id": "60c088e5d3126007592d56f1",
-          "author": null,
-          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
-          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
-          "publishedOn": "2021-06-16T21:19:08.000Z",
-          "wordCount": 1696,
-          "title": "JavaScript Split – How to Split a String into an Array in JS"
-        },
-        {
-          "id": "60b8cb0aacb62507dd1d82ea",
-          "author": null,
-          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
-          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
-          "publishedOn": "2021-06-16T20:56:49.000Z",
-          "wordCount": 2502,
-          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
-        },
-        {
-          "id": "60ca25704dc1a607ed7b408c",
-          "author": null,
-          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
-          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
-          "publishedOn": "2021-06-16T20:55:03.000Z",
-          "wordCount": 1525,
-          "title": "Build Better React Apps with These Simple Tricks"
-        },
-        {
-          "id": "60ca30af4dc1a607ed7b4197",
-          "author": null,
-          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
-          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
-          "publishedOn": "2021-06-16T17:19:31.000Z",
-          "wordCount": 6237,
-          "title": "Teach Yourself Data Analytics in 30 Days"
-        },
-        {
-          "id": "60c91b2b4dc1a607ed7b389a",
-          "author": null,
-          "description": "DevOps is one of the highest-paying roles you can get at a software company. And even if you aren't working as a DevOps, knowing how it works will make you a more productive developer. We just published a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about",
-          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
-          "publishedOn": "2021-06-15T21:33:17.000Z",
-          "wordCount": 22606,
-          "title": "DevOps Engineering Course for Beginners"
         }
       ]
     }

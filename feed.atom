@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T00:39:50.643Z</id>
+    <id>urn:2021-06-22T00:36:09.507Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T00:39:50.643Z</updated>
+    <updated>2021-06-22T00:36:09.507Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
+        <id>60c81f774dc1a607ed7b2f66</id>
+        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
+        <updated>2021-06-21T21:52:43.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
+        <id>60bce157acb62507dd1d9f11</id>
+        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
+        <updated>2021-06-21T21:25:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
+        <id>https://css-tricks.com/?p=342887</id>
+        <link href="https://web.dev/new-responsive/"/>
+        <updated>2021-06-21T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
+The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
+        <id>60cccd6e4dc1a607ed7b4f81</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
+        <updated>2021-06-21T21:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
+        <id>60d0d0ff6e1a1407b6b0a506</id>
+        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
+        <updated>2021-06-21T18:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
+        <id>60cda7104dc1a607ed7b5588</id>
+        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
+        <updated>2021-06-21T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
+        <id>60a55b37906c5207e3a7ea78</id>
+        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
+        <updated>2021-06-21T16:38:36.000Z</updated>
+        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the CSS Position Property Works – Explained with Code Examples]]></title>
+        <id>6063b9e19618b008528a9d9a</id>
+        <link href="https://www.freecodecamp.org/news/css-position-property-explained/"/>
+        <updated>2021-06-21T16:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
+        <id>https://css-tricks.com/?p=342448</id>
+        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
+        <updated>2021-06-21T14:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
+The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
+        <updated>2021-06-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
         <id>https://css-tricks.com/?p=341511</id>
@@ -107,16 +211,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
-        <id>60c2aa56d3126007592d6226</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
-        <updated>2021-06-17T12:02:47.000Z</updated>
-        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
         <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
         <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
@@ -124,26 +218,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
-        <id>60c88bbc4dc1a607ed7b2ffa</id>
-        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
-        <updated>2021-06-17T00:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
-        <id>60c088e5d3126007592d56f1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
-        <updated>2021-06-16T21:19:08.000Z</updated>
-        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -163,26 +237,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
-        <id>60b8cb0aacb62507dd1d82ea</id>
-        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
-        <updated>2021-06-16T20:56:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
-        <id>60ca25704dc1a607ed7b408c</id>
-        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
-        <updated>2021-06-16T20:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
         <id>https://css-tricks.com/?p=342630</id>
         <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
@@ -195,16 +249,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
-        <id>60ca30af4dc1a607ed7b4197</id>
-        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
-        <updated>2021-06-16T17:19:31.000Z</updated>
-        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -239,16 +283,6 @@ The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
-        <id>60c91b2b4dc1a607ed7b389a</id>
-        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
-        <updated>2021-06-15T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[DevOps is one of the highest-paying roles you can get at a software company. And even if you aren't working as a DevOps, knowing how it works will make you a more productive developer. We just published a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -346,34 +380,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
-        <id>https://css-tricks.com/?p=342429</id>
-        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
-        <updated>2021-06-11T21:38:48.000Z</updated>
-        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
-Perhaps the most noticeable thing there …
-The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
-        <id>https://css-tricks.com/?p=342237</id>
-        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
-        <updated>2021-06-11T21:25:56.000Z</updated>
-        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
-Really Simple Syndication.
-Update: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. 
-RSS …
-The post The Possibilities of Syndication appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -601,27 +607,6 @@ Thank you @Zenigata]]></summary>
         <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
