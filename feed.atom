@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T00:36:09.507Z</id>
+    <id>urn:2021-06-23T00:36:08.270Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:36:09.507Z</updated>
+    <updated>2021-06-23T00:36:08.270Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
+        <id>https://css-tricks.com/?p=342930</id>
+        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
+        <updated>2021-06-22T21:20:20.000Z</updated>
+        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
+The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
+        <id>60d2323d6e1a1407b6b0ac4f</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
+        <updated>2021-06-22T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
+        <id>60cac8ff4dc1a607ed7b4592</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
+        <updated>2021-06-22T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
+        <id>60c13e71d3126007592d5be2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
+        <updated>2021-06-22T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
+        <id>60cfff5a4dc1a607ed7b5e58</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
+        <updated>2021-06-22T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
+        <id>https://css-tricks.com/?p=342634</id>
+        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
+        <updated>2021-06-22T14:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
+The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Rich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
+        <id>https://css-tricks.com/?p=342925</id>
+        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
+        <updated>2021-06-22T14:33:41.000Z</updated>
+        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
+The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
+        <updated>2021-06-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
         <id>60c81f774dc1a607ed7b2f66</id>
@@ -31,8 +114,7 @@
         <link href="https://web.dev/new-responsive/"/>
         <updated>2021-06-21T21:22:33.000Z</updated>
         <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
-The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -78,23 +160,12 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the CSS Position Property Works – Explained with Code Examples]]></title>
-        <id>6063b9e19618b008528a9d9a</id>
-        <link href="https://www.freecodecamp.org/news/css-position-property-explained/"/>
-        <updated>2021-06-21T16:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
         <id>https://css-tricks.com/?p=342448</id>
         <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
         <updated>2021-06-21T14:32:45.000Z</updated>
         <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Preethi</name>
         </author>
@@ -115,30 +186,9 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
         <updated>2021-06-18T20:38:59.000Z</updated>
         <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
-The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Carter Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
-        <id>60b46dbd11ffb70827ef9dea</id>
-        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
-        <updated>2021-06-18T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
-        <id>60cc5a904dc1a607ed7b4c54</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
-        <updated>2021-06-18T15:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -152,24 +202,13 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
-        <id>60cca3294dc1a607ed7b4c76</id>
-        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
-        <updated>2021-06-18T13:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Links on Typography]]></title>
         <id>https://css-tricks.com/?p=342326</id>
         <link href="https://css-tricks.com/links-on-typography-2/"/>
         <updated>2021-06-18T13:44:17.000Z</updated>
         <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
 …
-The post Links on Typography appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -191,8 +230,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-17T14:45:57.000Z</updated>
         <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
 Those …
-The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Louis Hoebregts</name>
         </author>
@@ -204,8 +242,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-17T14:38:42.000Z</updated>
         <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
 However, web performance is also a growing problem for most websites. And images are at the heart of many web …
-The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>ImageEngine</name>
         </author>
@@ -230,8 +267,7 @@ I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
 — Sam 
 
 …
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -245,8 +281,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 If somebody says a comment isn’t adding any value, I would ask: to whom?
 Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
 Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -257,8 +292,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
         <updated>2021-06-16T14:26:58.000Z</updated>
         <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
-The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Okiki Ojo</name>
         </author>
@@ -279,8 +313,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
         <updated>2021-06-15T23:24:20.000Z</updated>
         <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
-The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -293,8 +326,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
 I took the bait and had a look at some of my projects – 
 …
-The post Media Queries in Times of @container appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -306,8 +338,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-15T14:31:34.000Z</updated>
         <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
 Is it… big? The future …
-The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -330,46 +361,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
-        <id>https://css-tricks.com/?p=342294</id>
-        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
-        <updated>2021-06-14T22:04:41.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
-The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXX]]></title>
-        <id>https://css-tricks.com/?p=342229</id>
-        <link href="https://css-tricks.com/css-tricks-chronicle-xxxx/"/>
-        <updated>2021-06-14T18:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. 
-DevJourney Podcast
-#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘
-Chris took us from playing on 
-…
-The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Your Website With Subresource Integrity]]></title>
-        <id>https://css-tricks.com/?p=342070</id>
-        <link href="https://css-tricks.com/securing-your-website-with-subresource-integrity/"/>
-        <updated>2021-06-14T13:30:27.000Z</updated>
-        <summary type="html"><![CDATA[When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …
-The post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Khari McMillian</name>
         </author>
     </entry>
     <entry>
@@ -597,16 +588,6 @@ Thank you @Zenigata]]></summary>
         <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
