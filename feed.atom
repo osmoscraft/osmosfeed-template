@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T00:36:08.270Z</id>
+    <id>urn:2021-06-24T00:30:15.599Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:36:08.270Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:30:15.599Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
+        <id>605abca5687d62084bf6b7cd</id>
+        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/"/>
+        <updated>2021-06-24T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
+        <id>6072ffd4d5756f080ba98b27</id>
+        <link href="https://www.freecodecamp.org/news/microservices-architecture-for-humans/"/>
+        <updated>2021-06-23T21:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TablesNG — Improvements to table rendering in Chromium]]></title>
+        <id>https://css-tricks.com/?p=343076</id>
+        <link href="https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/"/>
+        <updated>2021-06-23T21:37:14.000Z</updated>
+        <summary type="html"><![CDATA[When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…
+The post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
+        <id>https://css-tricks.com/?p=342750</id>
+        <link href="https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/"/>
+        <updated>2021-06-23T19:10:54.000Z</updated>
+        <summary type="html"><![CDATA[The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…
+The post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
+        <id>60d36eb66e1a1407b6b0b16d</id>
+        <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
+        <updated>2021-06-23T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Great Technical Course]]></title>
+        <id>60a406bd906c5207e3a7dfcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/"/>
+        <updated>2021-06-23T17:19:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Weak declaration”]]></title>
+        <id>https://css-tricks.com/?p=342669</id>
+        <link href="https://css-tricks.com/weak-declaration/"/>
+        <updated>2021-06-23T14:27:14.000Z</updated>
+        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
+The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
+        <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
+        <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
+        <updated>2021-06-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Screen Reader Testing On macOS Using Auto VO]]></title>
+        <id>https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/</id>
+        <link href="https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/"/>
+        <updated>2021-06-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
+        <updated>2021-06-23T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+
+Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
+Videos are embedded via iframe and loading accelerated by youtube-lite-embed
+Ads are reduced thanks to YouTube's policy for embedded videos 🙃
+Works on mobile devices with butter smooth horizontal scroll.
+Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
+Changed: Default HTML template meta tag adjusted to match convention
+Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
+Thank you @PiyushLosalka]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
         <id>https://css-tricks.com/?p=342930</id>
@@ -117,46 +229,6 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
 The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
-        <id>60cccd6e4dc1a607ed7b4f81</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
-        <updated>2021-06-21T21:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
-        <id>60d0d0ff6e1a1407b6b0a506</id>
-        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
-        <updated>2021-06-21T18:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
-        <id>60cda7104dc1a607ed7b5588</id>
-        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
-        <updated>2021-06-21T17:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
-        <id>60a55b37906c5207e3a7ea78</id>
-        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
-        <updated>2021-06-21T16:38:36.000Z</updated>
-        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -305,42 +377,6 @@ The post How I Used the WAAPI to Build an Animation Library appeared first on CS
         <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nic Chan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
-        <id>https://css-tricks.com/?p=342198</id>
-        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
-        <updated>2021-06-15T23:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
-The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
-        <id>https://css-tricks.com/?p=342519</id>
-        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
-        <updated>2021-06-15T19:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
-I took the bait and had a look at some of my projects – 
-…
-The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
-        <id>https://css-tricks.com/?p=342248</id>
-        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
-        <updated>2021-06-15T14:31:34.000Z</updated>
-        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
-Is it… big? The future …
-The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -578,16 +614,6 @@ Thank you @Zenigata]]></summary>
         <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
-        <updated>2021-05-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
