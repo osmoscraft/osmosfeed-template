@@ -31,12 +31,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343470",
+          "author": "Chris Coyier",
+          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
+          "publishedOn": "2021-06-29T22:43:50.000Z",
+          "wordCount": 672,
+          "title": "What does `font: 110%/1.4 system-ui` mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343260",
+          "author": "Chris Coyier",
+          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
+          "publishedOn": "2021-06-29T20:25:00.000Z",
+          "wordCount": 3316,
+          "title": "Chromium spelling and grammar features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342736",
+          "author": "Chris Coyier",
+          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
+          "publishedOn": "2021-06-29T14:37:21.000Z",
+          "wordCount": 747,
+          "title": ":nth-child Between Two Fixed Indexes"
+        },
+        {
           "id": "https://css-tricks.com/?p=343040",
           "author": "Chris Coyier",
-          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I think we’re all largely aware of colors like this:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them are …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/system-things/",
           "publishedOn": "2021-06-28T22:14:22.000Z",
-          "wordCount": 959,
+          "wordCount": 1225,
           "title": "System *Things"
         },
         {
@@ -54,7 +81,7 @@
           "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
           "publishedOn": "2021-06-28T14:25:33.000Z",
-          "wordCount": 2338,
+          "wordCount": 2356,
           "title": "Positioning Overlay Content with CSS Grid"
         },
         {
@@ -147,33 +174,6 @@
           "publishedOn": "2021-06-22T14:37:50.000Z",
           "wordCount": 3090,
           "title": "Using Custom Elements in Svelte"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342925",
-          "author": "Chris Coyier",
-          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
-          "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 3563,
-          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342887",
-          "author": "Chris Coyier",
-          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/new-responsive/",
-          "publishedOn": "2021-06-21T21:22:33.000Z",
-          "wordCount": 2304,
-          "title": "Are we in a new era of web design? What do we call it?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342448",
-          "author": "Preethi",
-          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
-          "publishedOn": "2021-06-21T14:32:45.000Z",
-          "wordCount": 1598,
-          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
         }
       ]
     },
@@ -183,12 +183,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
+          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "publishedOn": "2021-06-29T11:00:00.000Z",
+          "wordCount": 2454,
+          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "publishedOn": "2021-06-29T05:30:00.000Z",
+          "wordCount": 6617,
+          "title": "Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "author": "hello@smashingmagazine.com (Manuel Matuzović)",
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2474,
+          "wordCount": 2514,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -202,7 +230,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5442,
+          "wordCount": 5440,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -216,7 +244,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3535,
+          "wordCount": 3481,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -286,7 +314,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5354,
+          "wordCount": 5314,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -300,7 +328,7 @@
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
           "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3424,
+          "wordCount": 3414,
           "title": "An Alternative Voice UI To Voice Assistants",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
@@ -314,7 +342,7 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3966,
+          "wordCount": 3952,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
@@ -342,7 +370,7 @@
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
           "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4099,
+          "wordCount": 4059,
           "title": "A Complete Guide To Accessibility Tooling",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
@@ -384,7 +412,7 @@
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
           "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3671,
+          "wordCount": 3672,
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
@@ -398,7 +426,7 @@
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
           "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1742,
+          "wordCount": 1752,
           "title": "Web Design Done Well: Making Use Of Audio",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
@@ -412,7 +440,7 @@
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
           "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5163,
           "title": "Useful Front-End Boilerplates And Starter Kits",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
@@ -482,7 +510,7 @@
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
           "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4421,
+          "wordCount": 4423,
           "title": "Getting Started With Webpack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
@@ -496,7 +524,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3724,
+          "wordCount": 3719,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -510,7 +538,7 @@
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
           "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4585,
+          "wordCount": 4587,
           "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
@@ -524,7 +552,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5613,
+          "wordCount": 5651,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -559,20 +587,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
-          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2766,
-          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -581,6 +595,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60db519527f80207bcdbb6fa",
+          "author": null,
+          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
+          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
+          "publishedOn": "2021-06-29T20:00:32.000Z",
+          "wordCount": 908,
+          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
+        },
+        {
+          "id": "604b8c6ea7946308b7687683",
+          "author": null,
+          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
+          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
+          "publishedOn": "2021-06-29T19:47:13.000Z",
+          "wordCount": 1079,
+          "title": "Linux List Processes – How to Check Running Processes"
+        },
+        {
+          "id": "60daf29027f80207bcdbb3fe",
+          "author": null,
+          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
+          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
+          "publishedOn": "2021-06-29T18:25:52.000Z",
+          "wordCount": 926,
+          "title": "How to Use timedelta Objects in Python to Work with Dates"
+        },
+        {
+          "id": "60d76f6f6e1a1407b6b0c521",
+          "author": null,
+          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "publishedOn": "2021-06-29T13:24:44.000Z",
+          "wordCount": 684,
+          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
+        },
         {
           "id": "60d61acc6e1a1407b6b0bd46",
           "author": null,
@@ -634,42 +684,6 @@
           "publishedOn": "2021-06-28T13:44:39.000Z",
           "wordCount": 806,
           "title": "Why You Should Learn Data Analytics"
-        },
-        {
-          "id": "60d3ee396e1a1407b6b0b6ef",
-          "author": null,
-          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
-          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
-          "publishedOn": "2021-06-24T17:01:44.000Z",
-          "wordCount": 1511,
-          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
-        },
-        {
-          "id": "60d4b5e96e1a1407b6b0bac4",
-          "author": null,
-          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
-          "publishedOn": "2021-06-24T16:50:36.000Z",
-          "wordCount": 9777,
-          "title": "How to Use OpenTelemetry to Understand Software Performance"
-        },
-        {
-          "id": "605abca5687d62084bf6b7cd",
-          "author": null,
-          "description": "Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it",
-          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
-          "publishedOn": "2021-06-24T00:11:01.000Z",
-          "wordCount": 8363,
-          "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
-        },
-        {
-          "id": "6072ffd4d5756f080ba98b27",
-          "author": null,
-          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
-          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
-          "publishedOn": "2021-06-23T21:52:08.000Z",
-          "wordCount": 2975,
-          "title": "Microservices Architecture – Explained in Plain English"
         }
       ]
     }

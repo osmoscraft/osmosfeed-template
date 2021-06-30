@@ -1,20 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T00:38:14.905Z</id>
+    <id>urn:2021-06-30T00:42:33.935Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:38:14.905Z</updated>
+    <updated>2021-06-30T00:42:33.935Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
+        <id>https://css-tricks.com/?p=343470</id>
+        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
+        <updated>2021-06-29T22:43:50.000Z</updated>
+        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
+html {
+  font: 110%/1.4 system-ui;
+}
+…
+The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
+        <id>https://css-tricks.com/?p=343260</id>
+        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
+        <updated>2021-06-29T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
+The squiggly lines that indicate possible spelling or grammar errors 
+…
+The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>60db519527f80207bcdbb6fa</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
+        <updated>2021-06-29T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
+        <id>604b8c6ea7946308b7687683</id>
+        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
+        <updated>2021-06-29T19:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
+        <id>60daf29027f80207bcdbb3fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
+        <updated>2021-06-29T18:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
+        <id>https://css-tricks.com/?p=342736</id>
+        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
+        <updated>2021-06-29T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
+The answer, it …
+The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
+        <id>60d76f6f6e1a1407b6b0c521</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
+        <updated>2021-06-29T13:24:44.000Z</updated>
+        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
+        <updated>2021-06-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
+        <updated>2021-06-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System *Things]]></title>
         <id>https://css-tricks.com/?p=343040</id>
         <link href="https://css-tricks.com/system-things/"/>
         <updated>2021-06-28T22:14:22.000Z</updated>
-        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+        <summary type="html"><![CDATA[I think we’re all largely aware of colors like this:
 color: OldLace;
 background: rebeccapurple;
 I guess you’d just call those “named colors” in CSS. 
-Those aren’t the only kind of named colors there are though. Some of them …
+Those aren’t the only kind of named colors there are though. Some of them are …
 The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -171,26 +271,6 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
-        <id>60d3ee396e1a1407b6b0b6ef</id>
-        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
-        <updated>2021-06-24T17:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
-        <id>60d4b5e96e1a1407b6b0bac4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
-        <updated>2021-06-24T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chapter 9: Community]]></title>
         <id>https://css-tricks.com/?p=342818</id>
         <link href="https://css-tricks.com/chapter-9-community/"/>
@@ -211,26 +291,6 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
-        <id>605abca5687d62084bf6b7cd</id>
-        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/"/>
-        <updated>2021-06-24T00:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
-        <id>6072ffd4d5756f080ba98b27</id>
-        <link href="https://www.freecodecamp.org/news/microservices-architecture-for-humans/"/>
-        <updated>2021-06-23T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -328,17 +388,6 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
-        <id>https://css-tricks.com/?p=342925</id>
-        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
-        <updated>2021-06-22T14:33:41.000Z</updated>
-        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
-The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
         <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
         <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
@@ -346,28 +395,6 @@ The post If we’re gonna criticize utility-class frameworks, let’s be fair ab
         <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
-        <id>https://css-tricks.com/?p=342887</id>
-        <link href="https://web.dev/new-responsive/"/>
-        <updated>2021-06-21T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
-The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
-        <id>https://css-tricks.com/?p=342448</id>
-        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
-        <updated>2021-06-21T14:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -578,16 +605,6 @@ The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appe
         <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
-        <updated>2021-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
