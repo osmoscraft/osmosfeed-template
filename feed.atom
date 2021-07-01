@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T00:42:33.935Z</id>
+    <id>urn:2021-07-01T00:41:21.708Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:42:33.935Z</updated>
+    <updated>2021-07-01T00:41:21.708Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
+        <id>https://css-tricks.com/?p=343224</id>
+        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
+        <updated>2021-06-30T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
+The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
+        <id>6063b8d69618b008528a9d79</id>
+        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
+        <updated>2021-06-30T18:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Click is Not Just a Click]]></title>
+        <id>https://css-tricks.com/?p=343064</id>
+        <link href="https://css-tricks.com/when-a-click-is-not-just-a-click/"/>
+        <updated>2021-06-30T14:45:42.000Z</updated>
+        <summary type="html"><![CDATA[The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…
+The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Travis Almand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a Bug in Low-Resolution Mode]]></title>
+        <id>https://css-tricks.com/?p=343182</id>
+        <link href="https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/"/>
+        <updated>2021-06-30T14:44:54.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
+The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
+        <id>6055c55b687d62084bf68804</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
+        <updated>2021-06-30T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router]]></title>
+        <id>60d5ea736e1a1407b6b0bc8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
+        <updated>2021-06-30T14:01:01.000Z</updated>
+        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Surma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
+        <updated>2021-06-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
         <id>https://css-tricks.com/?p=343470</id>
@@ -90,7 +173,7 @@ The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You 
         <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
         <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
@@ -162,16 +245,6 @@ The post Working around the viewport-based fluid typography bug in Safari appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
-        <id>60d675ac6e1a1407b6b0bea1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
-        <updated>2021-06-28T18:45:21.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
         <id>https://css-tricks.com/?p=342971</id>
         <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
@@ -181,26 +254,6 @@ Recently, I have been experimenting with CSS Grid and alignment properties to cr
 The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ryan Mulligan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
-        <id>60d4d3d86e1a1407b6b0bb25</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
-        <updated>2021-06-28T13:50:35.000Z</updated>
-        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
-        <id>60d4ea756e1a1407b6b0bb71</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
-        <updated>2021-06-28T13:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -316,17 +369,6 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Weak declaration”]]></title>
-        <id>https://css-tricks.com/?p=342669</id>
-        <link href="https://css-tricks.com/weak-declaration/"/>
-        <updated>2021-06-23T14:27:14.000Z</updated>
-        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
-The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
         <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
         <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
@@ -363,28 +405,6 @@ Changed: sources in template data is now ordered by last update timestamp (as op
 Thank you @PiyushLosalka]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
-        <id>https://css-tricks.com/?p=342930</id>
-        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
-        <updated>2021-06-22T21:20:20.000Z</updated>
-        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
-The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
-        <id>https://css-tricks.com/?p=342634</id>
-        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
-        <updated>2021-06-22T14:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
-The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Rich</name>
         </author>
     </entry>
     <entry>
@@ -585,26 +605,6 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
-        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
-        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
-        <updated>2021-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.10.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
-        <updated>2021-06-01T04:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
