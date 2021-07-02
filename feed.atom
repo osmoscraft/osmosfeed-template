@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T00:41:21.708Z</id>
+    <id>urn:2021-07-02T00:38:11.686Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T00:41:21.708Z</updated>
+    <updated>2021-07-02T00:38:11.686Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=343637</id>
+        <link href="https://web.dev/css-web-vitals/"/>
+        <updated>2021-07-01T18:54:45.000Z</updated>
+        <summary type="html"><![CDATA[The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …
+The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
+        <id>https://css-tricks.com/?p=342591</id>
+        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
+        <updated>2021-07-01T18:54:12.000Z</updated>
+        <summary type="html"><![CDATA[This is new stuff from DO.
+App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
+The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
+        <id>60dc72b527f80207bcdbbd8f</id>
+        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
+        <updated>2021-07-01T18:19:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
+        <id>60c0897ad3126007592d5701</id>
+        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
+        <updated>2021-07-01T18:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
+        <id>60d5e7ae6e1a1407b6b0bc5a</id>
+        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
+        <updated>2021-07-01T16:51:30.000Z</updated>
+        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
+        <id>https://css-tricks.com/?p=343092</id>
+        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
+        <updated>2021-07-01T14:40:14.000Z</updated>
+        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
+
+Clicking the button above lets me (or you!) instantly …
+The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Cassidy Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
+        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
+        <updated>2021-07-01T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
+        <id>60dc78e927f80207bcdbbddc</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
+        <updated>2021-07-01T04:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
         <id>https://css-tricks.com/?p=343224</id>
@@ -159,16 +245,6 @@ The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
-        <id>60d76f6f6e1a1407b6b0c521</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
-        <updated>2021-06-29T13:24:44.000Z</updated>
-        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
         <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
@@ -212,36 +288,6 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
 The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
-        <id>60d61acc6e1a1407b6b0bd46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
-        <updated>2021-06-28T21:17:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
-        <id>60d9766b6e1a1407b6b0cb4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
-        <updated>2021-06-28T20:35:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
-        <id>60d07b4578f45307fee80aef</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
-        <updated>2021-06-28T20:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -324,19 +370,6 @@ The post How to Cancel Pending API Requests to Show Correct Data appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chapter 9: Community]]></title>
-        <id>https://css-tricks.com/?p=342818</id>
-        <link href="https://css-tricks.com/chapter-9-community/"/>
-        <updated>2021-06-24T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.
-We have decided to discontinue the process of allowing new customers to sign up 
-…
-The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
         <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
         <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
@@ -344,28 +377,6 @@ The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TablesNG — Improvements to table rendering in Chromium]]></title>
-        <id>https://css-tricks.com/?p=343076</id>
-        <link href="https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/"/>
-        <updated>2021-06-23T21:37:14.000Z</updated>
-        <summary type="html"><![CDATA[When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…
-The post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
-        <id>https://css-tricks.com/?p=342750</id>
-        <link href="https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/"/>
-        <updated>2021-06-23T19:10:54.000Z</updated>
-        <summary type="html"><![CDATA[The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…
-The post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
         </author>
     </entry>
     <entry>
@@ -575,36 +586,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
-        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
-        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
-        <updated>2021-06-02T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
-        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
-        <updated>2021-06-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
-        <updated>2021-06-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
