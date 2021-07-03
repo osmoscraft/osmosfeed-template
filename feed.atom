@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-02T00:38:11.686Z</id>
+    <id>urn:2021-07-03T00:38:44.111Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T00:38:11.686Z</updated>
+    <updated>2021-07-03T00:38:44.111Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Width Space]]></title>
+        <id>https://css-tricks.com/?p=343435</id>
+        <link href="https://css-tricks.com/zero-width-space/"/>
+        <updated>2021-07-02T20:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
+The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Meetings]]></title>
+        <id>https://css-tricks.com/?p=342995</id>
+        <link href="https://css-tricks.com/good-meetings/"/>
+        <updated>2021-07-02T14:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …
+The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Drasner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
+        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
+        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
+        <updated>2021-07-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
+        <id>60de3cf127f80207bcdbc9af</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
+        <updated>2021-07-02T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
+        <id>https://css-tricks.com/?p=342994</id>
+        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
+        <updated>2021-07-02T00:02:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
+The setup is that you can use WooCommerce to sell things on a WordPress …
+The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS for Web Vitals]]></title>
         <id>https://css-tricks.com/?p=343637</id>
@@ -76,7 +130,7 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
         <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
         <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
         <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
@@ -223,16 +277,6 @@ The post Chromium spelling and grammar features appeared first on CSS-Tricks. Yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
-        <id>60daf29027f80207bcdbb3fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
-        <updated>2021-06-29T18:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
         <id>https://css-tricks.com/?p=342736</id>
         <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
@@ -303,20 +347,6 @@ The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
-        <id>https://css-tricks.com/?p=343072</id>
-        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
-        <updated>2021-06-28T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[To make some terminology clear here:
-CMS = Content Management System
-CRM = Customer Relationship Management
-Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
-The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
         <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
         <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
@@ -324,29 +354,6 @@ The post Scaling Organizations Should Consider Building a Website Backed by a CR
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
-        <id>https://css-tricks.com/?p=342718</id>
-        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
-        <updated>2021-06-25T18:39:46.000Z</updated>
-        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
-The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
-        <id>https://css-tricks.com/?p=342911</id>
-        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
-        <updated>2021-06-25T14:33:33.000Z</updated>
-        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
-One problem quickly became evident: …
-The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Georgi Nikoloff</name>
         </author>
     </entry>
     <entry>
@@ -576,16 +583,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
-        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
-        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
-        <updated>2021-06-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
         </author>
     </entry>
 </feed>
