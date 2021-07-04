@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-03T00:38:44.111Z</id>
+    <id>urn:2021-07-04T00:39:40.260Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T00:38:44.111Z</updated>
+    <updated>2021-07-04T00:39:40.260Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -573,16 +573,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
-        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
-        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
-        <updated>2021-06-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nwani Victory)</name>
         </author>
     </entry>
 </feed>
