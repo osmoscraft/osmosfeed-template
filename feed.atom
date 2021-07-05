@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-04T00:39:40.260Z</id>
+    <id>urn:2021-07-05T00:35:54.203Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:39:40.260Z</updated>
+    <updated>2021-07-05T00:35:54.203Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
+        <id>https://css-tricks.com/?p=343496</id>
+        <link href="https://css-tricks.com/the-fourteenth-fourth/"/>
+        <updated>2021-07-04T13:29:01.000Z</updated>
+        <summary type="html"><![CDATA[It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. 
+I’m writing this just days after my current home state of Oregon has …
+The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero-Width Space]]></title>
         <id>https://css-tricks.com/?p=343435</id>
@@ -332,18 +344,6 @@ The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks
 The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=342971</id>
-        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
-        <updated>2021-06-28T14:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
-Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
-The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ryan Mulligan</name>
         </author>
     </entry>
     <entry>
