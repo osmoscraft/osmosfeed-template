@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T00:35:54.203Z</id>
+    <id>urn:2021-07-06T00:40:21.775Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:35:54.203Z</updated>
+    <updated>2021-07-06T00:40:21.775Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
+        <id>https://css-tricks.com/?p=343166</id>
+        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
+        <updated>2021-07-05T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
+As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
+The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Lari Maza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
+        <id>https://css-tricks.com/?p=343671</id>
+        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
+        <updated>2021-07-05T14:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
+The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
+        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
+        <updated>2021-07-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
         <id>https://css-tricks.com/?p=343496</id>
@@ -311,39 +344,13 @@ The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
+        <title type="html"><![CDATA[Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?]]></title>
         <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
         <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
         <updated>2021-06-29T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System *Things]]></title>
-        <id>https://css-tricks.com/?p=343040</id>
-        <link href="https://css-tricks.com/system-things/"/>
-        <updated>2021-06-28T22:14:22.000Z</updated>
-        <summary type="html"><![CDATA[I think we’re all largely aware of colors like this:
-color: OldLace;
-background: rebeccapurple;
-I guess you’d just call those “named colors” in CSS. 
-Those aren’t the only kind of named colors there are though. Some of them are …
-The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
-        <id>https://css-tricks.com/?p=343139</id>
-        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
-        <updated>2021-06-28T21:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
-The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
