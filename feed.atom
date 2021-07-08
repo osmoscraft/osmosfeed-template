@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-07T00:40:44.176Z</id>
+    <id>urn:2021-07-08T00:37:18.783Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T00:40:44.176Z</updated>
+    <updated>2021-07-08T00:37:18.783Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
+        <id>60e521aa134ad707be00e41d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
+        <updated>2021-07-07T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at Building with Astro]]></title>
+        <id>https://css-tricks.com/?p=343495</id>
+        <link href="https://css-tricks.com/a-look-at-building-with-astro/"/>
+        <updated>2021-07-07T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …
+The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
+        <id>60ccd1794dc1a607ed7b4feb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
+        <updated>2021-07-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
+        <id>60e25e17134ad707be00d947</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
+        <updated>2021-07-07T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
+        <id>60c38e76d3126007592d66cd</id>
+        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
+        <updated>2021-07-07T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Web’s Worst Default]]></title>
+        <id>https://css-tricks.com/?p=343388</id>
+        <link href="https://css-tricks.com/the-webs-worst-default/"/>
+        <updated>2021-07-07T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…
+The post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Binary Search?]]></title>
+        <id>60d5ec446e1a1407b6b0bcae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
+        <updated>2021-07-07T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
+        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
+        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
+        <updated>2021-07-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
         <id>60e16e1b134ad707be00d6bc</id>
@@ -78,6 +160,16 @@ The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks.
         <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
         <updated>2021-07-06T14:27:26.000Z</updated>
         <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
+        <id>60df6dd827f80207bcdbcf06</id>
+        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
+        <updated>2021-07-06T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -170,16 +262,6 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
-        <id>60de3cf127f80207bcdbc9af</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
-        <updated>2021-07-02T04:55:18.000Z</updated>
-        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
         <id>https://css-tricks.com/?p=342994</id>
         <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
@@ -215,36 +297,6 @@ The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
-        <id>60dc72b527f80207bcdbbd8f</id>
-        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
-        <updated>2021-07-01T18:19:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
-        <id>60c0897ad3126007592d5701</id>
-        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
-        <updated>2021-07-01T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
-        <id>60d5e7ae6e1a1407b6b0bc5a</id>
-        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
-        <updated>2021-07-01T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
         <id>https://css-tricks.com/?p=343092</id>
         <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
@@ -268,54 +320,12 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It]]></title>
-        <id>60dc78e927f80207bcdbbddc</id>
-        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey/"/>
-        <updated>2021-07-01T04:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
         <id>https://css-tricks.com/?p=343224</id>
         <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
         <updated>2021-06-30T20:36:52.000Z</updated>
         <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
 The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
-        <id>6063b8d69618b008528a9d79</id>
-        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
-        <updated>2021-06-30T18:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When a Click is Not Just a Click]]></title>
-        <id>https://css-tricks.com/?p=343064</id>
-        <link href="https://css-tricks.com/when-a-click-is-not-just-a-click/"/>
-        <updated>2021-06-30T14:45:42.000Z</updated>
-        <summary type="html"><![CDATA[The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…
-The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Travis Almand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing a Bug in Low-Resolution Mode]]></title>
-        <id>https://css-tricks.com/?p=343182</id>
-        <link href="https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/"/>
-        <updated>2021-06-30T14:44:54.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
-The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -567,16 +577,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
-        <updated>2021-06-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
