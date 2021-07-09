@@ -1,16 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T00:37:18.783Z</id>
+    <id>urn:2021-07-09T00:40:12.497Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T00:37:18.783Z</updated>
+    <updated>2021-07-09T00:40:12.497Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
+        <id>https://css-tricks.com/?p=344024</id>
+        <link href="https://wesbos.com/javascript"/>
+        <updated>2021-07-08T22:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
+The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes]]></title>
+        <id>60e59724134ad707be00e5d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/"/>
+        <updated>2021-07-08T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Vue Applications]]></title>
+        <id>60e3ae66134ad707be00dbdb</id>
+        <link href="https://www.freecodecamp.org/news/build-accessible-vue-applications/"/>
+        <updated>2021-07-08T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React JS in This Free 7-Hour Course]]></title>
+        <id>60df723627f80207bcdbcf36</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/"/>
+        <updated>2021-07-08T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
+        <id>https://css-tricks.com/?p=343623</id>
+        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
+        <updated>2021-07-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
+The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Command Line Tool with Nodejs and Fauna]]></title>
+        <id>https://css-tricks.com/?p=343574</id>
+        <link href="https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/"/>
+        <updated>2021-07-08T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …
+The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Fortune Ikechi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
+        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
+        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
+        <updated>2021-07-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Uma Victor)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
         <id>60e521aa134ad707be00e41d</id>
         <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
         <updated>2021-07-07T22:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
+        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in JavaScript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -134,16 +207,6 @@ The post I’ve got one question about Jetpack for you. appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
-        <id>60df35f027f80207bcdbccea</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
-        <updated>2021-07-06T15:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
         <id>https://css-tricks.com/?p=343149</id>
         <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
@@ -152,26 +215,6 @@ The post I’ve got one question about Jetpack for you. appeared first on CSS-Tr
 The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Martin Lexelius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
-        <id>60aa196411ffb70827ef5f43</id>
-        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
-        <updated>2021-07-06T14:27:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
-        <id>60df6dd827f80207bcdbcf06</id>
-        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
-        <updated>2021-07-06T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -285,31 +328,6 @@ The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
-        <id>https://css-tricks.com/?p=342591</id>
-        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
-        <updated>2021-07-01T18:54:12.000Z</updated>
-        <summary type="html"><![CDATA[This is new stuff from DO.
-App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
-The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
-        <id>https://css-tricks.com/?p=343092</id>
-        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
-        <updated>2021-07-01T14:40:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
-
-Clicking the button above lets me (or you!) instantly …
-The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Cassidy Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
         <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
         <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
@@ -317,17 +335,6 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
         <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
-        <id>https://css-tricks.com/?p=343224</id>
-        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
-        <updated>2021-06-30T20:36:52.000Z</updated>
-        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
-The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -567,16 +574,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
-        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
-        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-06-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
