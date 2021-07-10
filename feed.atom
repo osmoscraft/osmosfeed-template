@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T00:40:12.497Z</id>
+    <id>urn:2021-07-10T00:37:11.623Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:40:12.497Z</updated>
+    <updated>2021-07-10T00:37:11.623Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
+        <id>60e8864de8ee9b08300ecc3f</id>
+        <link href="https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/"/>
+        <updated>2021-07-09T20:06:31.000Z</updated>
+        <summary type="html"><![CDATA[There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
+        <id>https://css-tricks.com/?p=344334</id>
+        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
+        <updated>2021-07-09T18:53:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
+The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More]]></title>
+        <id>60e81c50134ad707be00f79f</id>
+        <link href="https://www.freecodecamp.org/news/whats-new-in-react-18/"/>
+        <updated>2021-07-09T18:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Generate C# Code Snippets in Visual Studio]]></title>
+        <id>60dcb93727f80207bcdbc17e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/"/>
+        <updated>2021-07-09T18:28:18.000Z</updated>
+        <summary type="html"><![CDATA[When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[760+ Free Online Programming &amp; Computer Science Courses You Can Start This July]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-07-09T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a NoSQL Database with RavenDB]]></title>
+        <id>60ae6b0d11ffb70827ef7fe6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/"/>
+        <updated>2021-07-09T15:06:24.000Z</updated>
+        <summary type="html"><![CDATA[If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
+        <id>https://css-tricks.com/?p=343598</id>
+        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
+        <updated>2021-07-09T14:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
+The task is more non-trivial than you might think. As we will see in this …
+The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philippe Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
+        <updated>2021-07-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Todd Libby)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
         <id>https://css-tricks.com/?p=344024</id>
@@ -110,26 +193,6 @@ The post A Look at Building with Astro appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
-        <id>60e25e17134ad707be00d947</id>
-        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
-        <updated>2021-07-07T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
-        <id>60c38e76d3126007592d66cd</id>
-        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
-        <updated>2021-07-07T15:43:17.000Z</updated>
-        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Web’s Worst Default]]></title>
         <id>https://css-tricks.com/?p=343388</id>
         <link href="https://css-tricks.com/the-webs-worst-default/"/>
@@ -141,16 +204,6 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Binary Search?]]></title>
-        <id>60d5ec446e1a1407b6b0bcae</id>
-        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
-        <updated>2021-07-07T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
         <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
         <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
@@ -158,16 +211,6 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
-        <id>60e16e1b134ad707be00d6bc</id>
-        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
-        <updated>2021-07-06T21:08:39.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -194,16 +237,6 @@ Automattic, the makers of Jetpack and many other WordPress-y things, have sponso
 The post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
-        <id>60b22e9611ffb70827ef9547</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
-        <updated>2021-07-06T16:02:13.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -302,29 +335,6 @@ The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks 
         <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
-        <id>https://css-tricks.com/?p=342994</id>
-        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
-        <updated>2021-07-02T00:02:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
-The setup is that you can use WooCommerce to sell things on a WordPress …
-The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=343637</id>
-        <link href="https://web.dev/css-web-vitals/"/>
-        <updated>2021-07-01T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …
-The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -564,16 +574,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
-        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
-        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
-        <updated>2021-06-10T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Judis)</name>
         </author>
     </entry>
 </feed>
