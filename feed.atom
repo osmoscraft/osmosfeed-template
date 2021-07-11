@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T00:37:11.623Z</id>
+    <id>urn:2021-07-11T00:43:28.837Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T00:37:11.623Z</updated>
+    <updated>2021-07-11T00:43:28.837Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -564,16 +564,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
-        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
-        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
-        <updated>2021-06-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
