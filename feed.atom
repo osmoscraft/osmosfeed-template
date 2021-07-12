@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T00:43:28.837Z</id>
+    <id>urn:2021-07-12T00:37:51.708Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T00:43:28.837Z</updated>
+    <updated>2021-07-12T00:37:51.708Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -554,16 +554,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
-        <updated>2021-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
