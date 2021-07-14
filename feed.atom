@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T00:41:47.180Z</id>
+    <id>urn:2021-07-14T00:36:09.632Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:41:47.180Z</updated>
+    <updated>2021-07-14T00:36:09.632Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
+        <id>https://css-tricks.com/?p=344316</id>
+        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
+        <updated>2021-07-13T19:57:10.000Z</updated>
+        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
+The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
+        <id>https://css-tricks.com/?p=343850</id>
+        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
+        <updated>2021-07-13T14:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
+The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Manuel Matuzovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
+        <id>https://css-tricks.com/?p=344542</id>
+        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
+        <updated>2021-07-13T14:34:48.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
+The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Git Branches Work]]></title>
+        <id>60e73db9134ad707be00f206</id>
+        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
+        <updated>2021-07-13T13:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
+        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
+        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
+        <updated>2021-07-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
+        <updated>2021-07-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
+        <id>609692d82cd0545b5e9441ab</id>
+        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
+        <updated>2021-07-13T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
+        <id>60e9c888e8ee9b08300ed212</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
+        <updated>2021-07-13T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
+        <id>60e5b284134ad707be00e5e0</id>
+        <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
+        <updated>2021-07-13T02:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
         <id>https://css-tricks.com/?p=344355</id>
@@ -115,26 +209,6 @@ The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[760+ Free Online Programming &amp; Computer Science Courses You Can Start This July]]></title>
-        <id>5f9c986d740569d1a4ca1a04</id>
-        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
-        <updated>2021-07-09T18:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a NoSQL Database with RavenDB]]></title>
-        <id>60ae6b0d11ffb70827ef7fe6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/"/>
-        <updated>2021-07-09T15:06:24.000Z</updated>
-        <summary type="html"><![CDATA[If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SVG Favicons in Action]]></title>
         <id>https://css-tricks.com/?p=343598</id>
         <link href="https://css-tricks.com/svg-favicons-in-action/"/>
@@ -165,26 +239,6 @@ The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CS
 The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes]]></title>
-        <id>60e59724134ad707be00e5d1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/"/>
-        <updated>2021-07-08T17:13:58.000Z</updated>
-        <summary type="html"><![CDATA[This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Accessible Vue Applications]]></title>
-        <id>60e3ae66134ad707be00dbdb</id>
-        <link href="https://www.freecodecamp.org/news/build-accessible-vue-applications/"/>
-        <updated>2021-07-08T16:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -299,29 +353,6 @@ The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
-        <id>https://css-tricks.com/?p=343166</id>
-        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
-        <updated>2021-07-05T14:17:33.000Z</updated>
-        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
-As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
-The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Lari Maza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
-        <id>https://css-tricks.com/?p=343671</id>
-        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
-        <updated>2021-07-05T14:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
-The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
         <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
         <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
@@ -329,18 +360,6 @@ The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on 
         <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
-        <id>https://css-tricks.com/?p=343496</id>
-        <link href="https://css-tricks.com/the-fourteenth-fourth/"/>
-        <updated>2021-07-04T13:29:01.000Z</updated>
-        <summary type="html"><![CDATA[It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. 
-I’m writing this just days after my current home state of Oregon has …
-The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -560,16 +579,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
-        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
-        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
-        <updated>2021-06-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
