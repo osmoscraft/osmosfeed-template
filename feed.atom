@@ -1,16 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T00:39:34.808Z</id>
+    <id>urn:2021-07-16T00:39:29.312Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:39:34.808Z</updated>
+    <updated>2021-07-16T00:39:29.312Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
+        <id>https://css-tricks.com/?p=344273</id>
+        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
+        <updated>2021-07-15T14:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
+Most of those examples, though, use …
+The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
+        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
+        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
+        <updated>2021-07-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
+        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
+        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
+        <updated>2021-07-15T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
+        <id>60e74160134ad707be00f23f</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
+        <updated>2021-07-15T13:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
+        <id>60ead07ee8ee9b08300ed387</id>
+        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
+        <updated>2021-07-15T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
         <id>60d4e7596e1a1407b6b0bb56</id>
         <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
         <updated>2021-07-14T17:51:43.000Z</updated>
         <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
+        <id>5ff5461e7af2371468bb7ece</id>
+        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
+        <updated>2021-07-14T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -48,7 +110,7 @@ The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction to Web Server Scanning With Nikto]]></title>
+        <title type="html"><![CDATA[Web Server Scanning With Nikto – A Beginner&#x27;s Guide]]></title>
         <id>60ebb55be8ee9b08300ed731</id>
         <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
         <updated>2021-07-14T07:18:59.000Z</updated>
@@ -58,11 +120,11 @@ The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redis Crash Course]]></title>
+        <title type="html"><![CDATA[What is Redis? How to Install and Basic Commands]]></title>
         <id>60eb2a69e8ee9b08300ed5b3</id>
         <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
         <updated>2021-07-14T06:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
+        <summary type="html"><![CDATA[Redis is a type of database that you can add to your production level applicaiton to make it more performant.  In this article, I'll go over some Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -156,7 +218,7 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         <id>60e5b284134ad707be00e5e0</id>
         <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
         <updated>2021-07-13T02:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining]]></summary>
+        <summary type="html"><![CDATA[Have you noticed how User Interface and User Experience design are considered different topics nowadays?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining increased momentum, with more and more developers getting involved]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -190,16 +252,6 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
-        <id>60e753aa134ad707be00f2c1</id>
-        <link href="https://www.freecodecamp.org/news/spss-full-course/"/>
-        <updated>2021-07-12T13:34:03.000Z</updated>
-        <summary type="html"><![CDATA[SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
         <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
@@ -207,26 +259,6 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?]]></title>
-        <id>60e981aae8ee9b08300ed1ae</id>
-        <link href="https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/"/>
-        <updated>2021-07-12T11:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets]]></title>
-        <id>60e76d88134ad707be00f347</id>
-        <link href="https://www.freecodecamp.org/news/google-bigquery-beginners-guide/"/>
-        <updated>2021-07-12T11:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -335,20 +367,6 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Body Toggle]]></title>
-        <id>https://css-tricks.com/?p=343438</id>
-        <link href="https://css-tricks.com/body-toggle/"/>
-        <updated>2021-07-06T20:55:45.000Z</updated>
-        <summary type="html"><![CDATA[I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:
-It’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.
-<body onclick="this.classList.toggle("active");"
-Could …
-The post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -558,16 +576,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
-        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
-        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
-        <updated>2021-06-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nic Chan)</name>
         </author>
     </entry>
 </feed>
