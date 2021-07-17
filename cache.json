@@ -22,12 +22,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344217",
+          "author": "Chris Coyier",
+          "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/",
+          "publishedOn": "2021-07-16T20:27:46.000Z",
+          "wordCount": 670,
+          "title": "WordPress Admin Warnings in the Block Editor"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344147",
+          "author": "Mate Marschalko",
+          "description": "Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!\nHere’s a quick look at the clocks …\nThe post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/",
+          "publishedOn": "2021-07-16T14:43:01.000Z",
+          "wordCount": 4450,
+          "title": "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344411",
+          "author": "Chris Coyier",
+          "description": "Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a \n…\nThe post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/some-typography-links-3/",
+          "publishedOn": "2021-07-16T14:42:40.000Z",
+          "wordCount": 727,
+          "title": "Some Typography Links"
+        },
+        {
           "id": "https://css-tricks.com/?p=344273",
           "author": "Georgi Nikoloff",
           "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
           "publishedOn": "2021-07-15T14:40:03.000Z",
-          "wordCount": 1780,
+          "wordCount": 1984,
           "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
         },
         {
@@ -45,7 +72,7 @@
           "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
           "publishedOn": "2021-07-14T14:25:08.000Z",
-          "wordCount": 2654,
+          "wordCount": 2673,
           "title": "A Bashful Button Worth $8 Million"
         },
         {
@@ -81,7 +108,7 @@
           "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "publishedOn": "2021-07-12T19:45:00.000Z",
-          "wordCount": 2794,
+          "wordCount": 2792,
           "title": "Meet `:has`, A Native CSS Parent Selector"
         },
         {
@@ -128,33 +155,6 @@
           "publishedOn": "2021-07-08T14:35:38.000Z",
           "wordCount": 2007,
           "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343574",
-          "author": "Fortune Ikechi",
-          "description": "Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …\nThe post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/",
-          "publishedOn": "2021-07-08T14:35:09.000Z",
-          "wordCount": 1407,
-          "title": "Building a Command Line Tool with Nodejs and Fauna"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343495",
-          "author": "Chris Coyier",
-          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
-          "publishedOn": "2021-07-07T21:06:35.000Z",
-          "wordCount": 2876,
-          "title": "A Look at Building with Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343388",
-          "author": "Robin Rendle",
-          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-webs-worst-default/",
-          "publishedOn": "2021-07-07T14:30:34.000Z",
-          "wordCount": 1562,
-          "title": "The Web’s Worst Default"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
+          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
+          "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
+          "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
+          "publishedOn": "2021-07-16T13:00:00.000Z",
+          "wordCount": 4802,
+          "title": "Three Insights I Gained While Researching Vue.js Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "author": "hello@smashingmagazine.com (Cassidy Williams)",
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1071,
+          "wordCount": 1063,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -197,7 +211,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5287,
+          "wordCount": 5288,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -211,7 +225,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3270,
+          "wordCount": 3273,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -239,7 +253,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3623,
+          "wordCount": 3622,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -253,7 +267,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2970,
+          "wordCount": 2971,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -267,7 +281,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4801,
+          "wordCount": 4797,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -281,7 +295,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4061,
+          "wordCount": 4066,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -309,7 +323,7 @@
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
           "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1598,
+          "wordCount": 1597,
           "title": "Using HSL Colors In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
@@ -323,7 +337,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4212,
+          "wordCount": 4213,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -337,7 +351,7 @@
           "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
           "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
           "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4780,
+          "wordCount": 4783,
           "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
@@ -351,7 +365,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4755,
+          "wordCount": 4744,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -365,7 +379,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3729,
+          "wordCount": 3733,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -407,7 +421,7 @@
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
           "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2526,
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
@@ -421,7 +435,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5469,
+          "wordCount": 5452,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -435,7 +449,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3536,
+          "wordCount": 3535,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -449,7 +463,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4184,
+          "wordCount": 4186,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -505,7 +519,7 @@
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
           "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5364,
+          "wordCount": 5381,
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
@@ -533,24 +547,10 @@
           "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
           "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
           "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3966,
+          "wordCount": 3974,
           "title": "Client-Side Routing In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1651,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -562,6 +562,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60eef23666c61b07d458d43c",
+          "author": null,
+          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
+          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
+          "publishedOn": "2021-07-16T18:41:57.000Z",
+          "wordCount": 2999,
+          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
+        },
         {
           "id": "60e74160134ad707be00f23f",
           "author": null,
@@ -577,7 +586,7 @@
           "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
           "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
           "publishedOn": "2021-07-15T13:13:02.000Z",
-          "wordCount": 7098,
+          "wordCount": 7095,
           "title": "The Apache Cassandra Beginner Tutorial"
         },
         {
@@ -642,15 +651,6 @@
           "publishedOn": "2021-07-13T07:36:28.000Z",
           "wordCount": 2519,
           "title": "How To Use Axios With React: The Definitive Guide (2021)"
-        },
-        {
-          "id": "60e5b284134ad707be00e5e0",
-          "author": null,
-          "description": "Have you noticed how User Interface and User Experience design are considered different topics nowadays?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining increased momentum, with more and more developers getting involved",
-          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
-          "publishedOn": "2021-07-13T02:14:52.000Z",
-          "wordCount": 2252,
-          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
         }
       ]
     }

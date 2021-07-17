@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T00:39:29.312Z</id>
+    <id>urn:2021-07-17T00:38:45.657Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:39:29.312Z</updated>
+    <updated>2021-07-17T00:38:45.657Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
+        <id>https://css-tricks.com/?p=344217</id>
+        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
+        <updated>2021-07-16T20:27:46.000Z</updated>
+        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
+The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
+        <id>60eef23666c61b07d458d43c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
+        <updated>2021-07-16T18:41:57.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
+        <id>https://css-tricks.com/?p=344147</id>
+        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
+        <updated>2021-07-16T14:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
+Here’s a quick look at the clocks …
+The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mate Marschalko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links]]></title>
+        <id>https://css-tricks.com/?p=344411</id>
+        <link href="https://css-tricks.com/some-typography-links-3/"/>
+        <updated>2021-07-16T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
+…
+The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
+        <updated>2021-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
         <id>https://css-tricks.com/?p=344273</id>
@@ -214,16 +269,6 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
-        <id>60e5b284134ad707be00e5e0</id>
-        <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
-        <updated>2021-07-13T02:14:52.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed how User Interface and User Experience design are considered different topics nowadays?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining increased momentum, with more and more developers getting involved]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
         <id>https://css-tricks.com/?p=344355</id>
         <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
@@ -317,17 +362,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Command Line Tool with Nodejs and Fauna]]></title>
-        <id>https://css-tricks.com/?p=343574</id>
-        <link href="https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/"/>
-        <updated>2021-07-08T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …
-The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Fortune Ikechi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
         <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
         <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
@@ -335,28 +369,6 @@ The post Building a Command Line Tool with Nodejs and Fauna appeared first on CS
         <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Uma Victor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Look at Building with Astro]]></title>
-        <id>https://css-tricks.com/?p=343495</id>
-        <link href="https://css-tricks.com/a-look-at-building-with-astro/"/>
-        <updated>2021-07-07T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …
-The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web’s Worst Default]]></title>
-        <id>https://css-tricks.com/?p=343388</id>
-        <link href="https://css-tricks.com/the-webs-worst-default/"/>
-        <updated>2021-07-07T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…
-The post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
@@ -566,16 +578,6 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
-        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-06-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
         </author>
     </entry>
 </feed>
