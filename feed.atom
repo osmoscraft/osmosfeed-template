@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-19T00:40:20.053Z</id>
+    <id>urn:2021-07-20T00:41:57.358Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:40:20.053Z</updated>
+    <updated>2021-07-20T00:41:57.358Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Images are hard.]]></title>
+        <id>https://css-tricks.com/?p=344404</id>
+        <link href="https://css-tricks.com/images-are-hard/"/>
+        <updated>2021-07-19T20:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
+The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
+        <id>60f53af066c61b07d458ed0a</id>
+        <link href="https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/"/>
+        <updated>2021-07-19T19:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Native? The Cloud Computing Delivery Model Explained]]></title>
+        <id>60f2829d66c61b07d458e58f</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-cloud-native/"/>
+        <updated>2021-07-19T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
+        <id>60e7d016134ad707be00f47c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
+        <updated>2021-07-19T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines]]></title>
+        <id>https://css-tricks.com/?p=343893</id>
+        <link href="https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/"/>
+        <updated>2021-07-19T14:43:29.000Z</updated>
+        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.
+In this post, we take a …
+The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bramus Van Damme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
+        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
+        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
+        <updated>2021-07-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Colby Fayock)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
         <id>https://css-tricks.com/?p=344217</id>
@@ -113,26 +216,6 @@ The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
-        <id>60d4e7596e1a1407b6b0bb56</id>
-        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
-        <updated>2021-07-14T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
-        <id>5ff5461e7af2371468bb7ece</id>
-        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
-        <updated>2021-07-14T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
         <id>https://css-tricks.com/?p=344249</id>
         <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
@@ -162,26 +245,6 @@ The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Server Scanning With Nikto – A Beginner&#x27;s Guide]]></title>
-        <id>60ebb55be8ee9b08300ed731</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
-        <updated>2021-07-14T07:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Redis? How to Install and Basic Commands]]></title>
-        <id>60eb2a69e8ee9b08300ed5b3</id>
-        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
-        <updated>2021-07-14T06:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Redis is a type of database that you can add to your production level applicaiton to make it more performant.  In this article, I'll go over some Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -219,16 +282,6 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Git Branches Work]]></title>
-        <id>60e73db9134ad707be00f206</id>
-        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
-        <updated>2021-07-13T13:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
         <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
         <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
@@ -246,26 +299,6 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
-        <id>609692d82cd0545b5e9441ab</id>
-        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
-        <updated>2021-07-13T07:54:34.000Z</updated>
-        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
-        <id>60e9c888e8ee9b08300ed212</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
-        <updated>2021-07-13T07:36:28.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -337,28 +370,6 @@ The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Todd Libby)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
-        <id>https://css-tricks.com/?p=344024</id>
-        <link href="https://wesbos.com/javascript"/>
-        <updated>2021-07-08T22:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
-The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
-        <id>https://css-tricks.com/?p=343623</id>
-        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
-        <updated>2021-07-08T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
-The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
     <entry>
