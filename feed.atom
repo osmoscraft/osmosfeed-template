@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T00:41:57.358Z</id>
+    <id>urn:2021-07-21T00:40:45.665Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:41:57.358Z</updated>
+    <updated>2021-07-21T00:40:45.665Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
+        <id>605301d528094f59be257c67</id>
+        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
+        <updated>2021-07-20T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
+        <id>60f2dbac66c61b07d458e5c9</id>
+        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
+        <updated>2021-07-20T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
+        <id>60ed44c866c61b07d458d023</id>
+        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
+        <updated>2021-07-20T19:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
+        <id>60e009e527f80207bcdbd00a</id>
+        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
+        <updated>2021-07-20T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
+        <id>60f1d20a66c61b07d458e4a3</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
+        <updated>2021-07-20T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
         <id>60f3e5ca66c61b07d458eb2d</id>
@@ -61,7 +158,7 @@ The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tric
         <id>60e7d016134ad707be00f47c</id>
         <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
         <updated>2021-07-19T15:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Excel to calculate percentage change, and also how to find the increase and decrease in percentage values.  Let's get into it.  How to Calculate Percentage Change in Excel To calculate percentage change in Excel, you'll need to use a formula.  For example,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -71,31 +168,11 @@ The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tric
         <id>https://css-tricks.com/?p=343893</id>
         <link href="https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/"/>
         <updated>2021-07-19T14:43:29.000Z</updated>
-        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.
-In this post, we take a …
+        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Thanks to the @scroll-timeline at-rule and animation-timeline property this specification provides, you can control the time position of regular CSS Animations by scrolling.
+In this post, we’ll take …
 The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Bramus Van Damme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
-        <id>60dbcc7c27f80207bcdbbcff</id>
-        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
-        <updated>2021-07-19T14:34:59.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
-        <id>60f18a9666c61b07d458e2b0</id>
-        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
-        <updated>2021-07-19T13:56:48.000Z</updated>
-        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -117,16 +194,6 @@ The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Tim
 The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
-        <id>60eef23666c61b07d458d43c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
-        <updated>2021-07-16T18:41:57.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -193,26 +260,6 @@ The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tr
         <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
-        <id>60e74160134ad707be00f23f</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
-        <updated>2021-07-15T13:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
-        <id>60ead07ee8ee9b08300ed387</id>
-        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
-        <updated>2021-07-15T13:13:02.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -313,23 +360,6 @@ The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
-        <id>https://css-tricks.com/?p=343613</id>
-        <link href="https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/"/>
-        <updated>2021-07-12T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about you, but I write these three declarations many times in my CSS:
-ul {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-You might yell at me and say I can just put those in my CSS …
-The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
         <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
@@ -337,29 +367,6 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
-        <id>https://css-tricks.com/?p=344334</id>
-        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
-        <updated>2021-07-09T18:53:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
-The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
-        <id>https://css-tricks.com/?p=343598</id>
-        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
-        <updated>2021-07-09T14:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
-The task is more non-trivial than you might think. As we will see in this …
-The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Philippe Bernard</name>
         </author>
     </entry>
     <entry>
