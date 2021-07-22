@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T00:40:45.665Z</id>
+    <id>urn:2021-07-22T00:40:09.618Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T00:40:45.665Z</updated>
+    <updated>2021-07-22T00:40:09.618Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
+        <id>60f55f3e66c61b07d458ee8c</id>
+        <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
+        <updated>2021-07-21T22:39:42.000Z</updated>
+        <summary type="html"><![CDATA[The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Use EditorConfig to Standardize Code Styles]]></title>
+        <id>60f5ecb966c61b07d458f479</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/"/>
+        <updated>2021-07-21T21:28:55.000Z</updated>
+        <summary type="html"><![CDATA[You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Mobile Context Menu With No Indication it Can Scroll]]></title>
+        <id>https://css-tricks.com/?p=344950</id>
+        <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
+        <updated>2021-07-21T21:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …
+The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript proposal: JSON modules]]></title>
+        <id>https://css-tricks.com/?p=344948</id>
+        <link href="https://2ality.com/2021/06/json-modules.html"/>
+        <updated>2021-07-21T21:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. 
+import configData from './config-data.json' assert {type: 
+…
+The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
+        <id>60f81c021d2b080797b80d44</id>
+        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
+        <updated>2021-07-21T21:02:54.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
+        <id>60f83b421d2b080797b80f10</id>
+        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
+        <updated>2021-07-21T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
+        <id>60f7eeda1d2b080797b80b31</id>
+        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
+        <updated>2021-07-21T15:39:28.000Z</updated>
+        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
+        <id>60f5c9b866c61b07d458f2af</id>
+        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
+        <updated>2021-07-21T15:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
+        <id>60f66b6f66c61b07d458f93c</id>
+        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
+        <updated>2021-07-21T15:20:18.000Z</updated>
+        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
+        <id>https://css-tricks.com/?p=344337</id>
+        <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
+        <updated>2021-07-21T14:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …
+The post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Tools And Resources]]></title>
+        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
+        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
+        <updated>2021-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Nine States of Design]]></title>
         <id>https://css-tricks.com/?p=345062</id>
@@ -62,16 +177,6 @@ The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
-        <id>60e009e527f80207bcdbd00a</id>
-        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
-        <updated>2021-07-20T17:09:20.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
         <id>https://css-tricks.com/?p=344497</id>
         <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
@@ -80,16 +185,6 @@ The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You
 The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Murtuzaali Surti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
-        <id>60f1d20a66c61b07d458e4a3</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
-        <updated>2021-07-20T13:18:33.000Z</updated>
-        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -103,16 +198,6 @@ The post Typewriter Animation That Handles Anything You Throw at It appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
-        <id>60f3e5ca66c61b07d458eb2d</id>
-        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
-        <updated>2021-07-19T22:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Images are hard.]]></title>
         <id>https://css-tricks.com/?p=344404</id>
         <link href="https://css-tricks.com/images-are-hard/"/>
@@ -121,46 +206,6 @@ The post Typewriter Animation That Handles Anything You Throw at It appeared fir
 The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
-        <id>60f53af066c61b07d458ed0a</id>
-        <link href="https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/"/>
-        <updated>2021-07-19T19:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Cloud Native? The Cloud Computing Delivery Model Explained]]></title>
-        <id>60f2829d66c61b07d458e58f</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-cloud-native/"/>
-        <updated>2021-07-19T18:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
-        <id>60ec528ce8ee9b08300edb9e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
-        <updated>2021-07-19T16:50:30.000Z</updated>
-        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
-        <id>60e7d016134ad707be00f47c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
-        <updated>2021-07-19T15:25:39.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Excel to calculate percentage change, and also how to find the increase and decrease in percentage values.  Let's get into it.  How to Calculate Percentage Change in Excel To calculate percentage change in Excel, you'll need to use a formula.  For example,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -306,29 +351,6 @@ The post Links on React and JavaScript appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
-        <id>https://css-tricks.com/?p=343850</id>
-        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
-        <updated>2021-07-13T14:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
-The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Manuel Matuzovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
-        <id>https://css-tricks.com/?p=344542</id>
-        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
-        <updated>2021-07-13T14:34:48.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
-The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
         <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
         <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
@@ -346,17 +368,6 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
-        <id>https://css-tricks.com/?p=344355</id>
-        <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-07-12T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …
-The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -556,26 +567,6 @@ Changed: sources in template data is now ordered by last update timestamp (as op
 Thank you @PiyushLosalka]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
-        <updated>2021-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
-        <updated>2021-06-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
         </author>
     </entry>
 </feed>

@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344950",
+          "author": "Chris Coyier",
+          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
+          "publishedOn": "2021-07-21T21:08:17.000Z",
+          "wordCount": 513,
+          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344948",
+          "author": "Chris Coyier",
+          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://2ality.com/2021/06/json-modules.html",
+          "publishedOn": "2021-07-21T21:08:08.000Z",
+          "wordCount": 634,
+          "title": "ECMAScript proposal: JSON modules"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344337",
+          "author": "Mark Noonan",
+          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
+          "publishedOn": "2021-07-21T14:37:07.000Z",
+          "wordCount": 4131,
+          "title": "A Step-By-Step Process for Turning Designs Into Code"
+        },
+        {
           "id": "https://css-tricks.com/?p=345062",
           "author": "Robin Rendle",
           "description": "Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:\nModern UI teams are designing components \n…\nThe post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -45,7 +72,7 @@
           "description": "I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …\nThe post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/",
           "publishedOn": "2021-07-20T15:03:40.000Z",
-          "wordCount": 3131,
+          "wordCount": 3182,
           "title": "Typewriter Animation That Handles Anything You Throw at It"
         },
         {
@@ -54,7 +81,7 @@
           "description": "Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …\nThe post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/images-are-hard/",
           "publishedOn": "2021-07-19T20:51:07.000Z",
-          "wordCount": 943,
+          "wordCount": 965,
           "title": "Images are hard."
         },
         {
@@ -128,33 +155,6 @@
           "publishedOn": "2021-07-13T19:57:10.000Z",
           "wordCount": 1003,
           "title": "Links on React and JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343850",
-          "author": "Manuel Matuzovic",
-          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
-          "publishedOn": "2021-07-13T14:58:33.000Z",
-          "wordCount": 2735,
-          "title": "Meta Theme Color and Trickery"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344542",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
-          "publishedOn": "2021-07-13T14:34:48.000Z",
-          "wordCount": 142,
-          "title": "Jamstack Community Survey 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344355",
-          "author": "Chris Coyier",
-          "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-07-12T19:45:00.000Z",
-          "wordCount": 2786,
-          "title": "Meet `:has`, A Native CSS Parent Selector"
         }
       ]
     },
@@ -163,6 +163,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/color-tools-resources/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
+          "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
+          "publishedOn": "2021-07-21T13:00:00.000Z",
+          "wordCount": 3060,
+          "title": "Color Tools And Resources",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/",
           "author": "hello@smashingmagazine.com (Alba Silvente)",
@@ -183,7 +197,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4476,
+          "wordCount": 4488,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -197,7 +211,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4791,
+          "wordCount": 4804,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -211,7 +225,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1063,
+          "wordCount": 1078,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -239,7 +253,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5282,
+          "wordCount": 5281,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -253,7 +267,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3264,
+          "wordCount": 3254,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -281,7 +295,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3616,
+          "wordCount": 3615,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -295,7 +309,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2949,
+          "wordCount": 2964,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -309,7 +323,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4795,
+          "wordCount": 4788,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -323,7 +337,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4062,
+          "wordCount": 4063,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -365,7 +379,7 @@
           "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
           "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4220,
+          "wordCount": 4204,
           "title": "Email Testing Flow As It Should Be",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
@@ -379,7 +393,7 @@
           "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
           "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
           "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4768,
+          "wordCount": 4770,
           "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
@@ -393,7 +407,7 @@
           "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
           "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4734,
+          "wordCount": 4733,
           "title": "The State Of Web Workers In 2021",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
@@ -407,7 +421,7 @@
           "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
           "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3727,
+          "wordCount": 3728,
           "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
@@ -463,7 +477,7 @@
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
           "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5452,
+          "wordCount": 5446,
           "title": "Creating A Multi-Author Blog With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
@@ -477,7 +491,7 @@
           "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
           "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
           "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3527,
+          "wordCount": 3541,
           "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
@@ -491,7 +505,7 @@
           "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
           "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4176,
+          "wordCount": 4180,
           "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
@@ -519,38 +533,10 @@
           "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
           "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
           "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1400,
+          "wordCount": 1411,
           "title": "Automating Screen Reader Testing On macOS Using Auto VO",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
-          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "publishedOn": "2021-06-22T09:00:00.000Z",
-          "wordCount": 2891,
-          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
-          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
-          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5369,
-          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -562,6 +548,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f55f3e66c61b07d458ee8c",
+          "author": null,
+          "description": "The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’",
+          "link": "https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/",
+          "publishedOn": "2021-07-21T22:39:42.000Z",
+          "wordCount": 1311,
+          "title": "10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)"
+        },
+        {
+          "id": "60f5ecb966c61b07d458f479",
+          "author": null,
+          "description": "You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement",
+          "link": "https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/",
+          "publishedOn": "2021-07-21T21:28:55.000Z",
+          "wordCount": 1654,
+          "title": "Why You Should Use EditorConfig to Standardize Code Styles"
+        },
+        {
+          "id": "60f81c021d2b080797b80d44",
+          "author": null,
+          "description": "You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when",
+          "link": "https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/",
+          "publishedOn": "2021-07-21T21:02:54.000Z",
+          "wordCount": 1132,
+          "title": "What is about:blank? Chrome Blank Homepage Guide"
+        },
+        {
+          "id": "60f83b421d2b080797b80f10",
+          "author": null,
+          "description": "Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.",
+          "link": "https://www.freecodecamp.org/news/low-code-tutorial/",
+          "publishedOn": "2021-07-21T15:40:35.000Z",
+          "wordCount": 441,
+          "title": "Low-Code Tutorial – Build 3 Financial Apps"
+        },
+        {
+          "id": "60f7eeda1d2b080797b80b31",
+          "author": null,
+          "description": "React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never",
+          "link": "https://www.freecodecamp.org/news/react-context-for-beginners/",
+          "publishedOn": "2021-07-21T15:39:28.000Z",
+          "wordCount": 1684,
+          "title": "React Context for Beginners – The Complete Guide (2021)"
+        },
+        {
+          "id": "60f5c9b866c61b07d458f2af",
+          "author": null,
+          "description": "Article by @study_web_dev",
+          "link": "https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/",
+          "publishedOn": "2021-07-21T15:24:57.000Z",
+          "wordCount": 2572,
+          "title": "13 Freelance Developer Portfolios to Inspire You"
+        },
+        {
+          "id": "60f66b6f66c61b07d458f93c",
+          "author": null,
+          "description": "What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing",
+          "link": "https://www.freecodecamp.org/news/css-background-image-with-html-example-code/",
+          "publishedOn": "2021-07-21T15:20:18.000Z",
+          "wordCount": 1624,
+          "title": "CSS Background Image – With HTML Example Code"
+        },
         {
           "id": "605301d528094f59be257c67",
           "author": null,
@@ -588,69 +637,6 @@
           "publishedOn": "2021-07-20T19:26:45.000Z",
           "wordCount": 1209,
           "title": "How to Scale a System With Process Splitting and Redis"
-        },
-        {
-          "id": "60e009e527f80207bcdbd00a",
-          "author": null,
-          "description": "If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media",
-          "link": "https://www.freecodecamp.org/news/css-properties-examples/",
-          "publishedOn": "2021-07-20T17:09:20.000Z",
-          "wordCount": 835,
-          "title": "CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples"
-        },
-        {
-          "id": "60f1d20a66c61b07d458e4a3",
-          "author": null,
-          "description": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/",
-          "publishedOn": "2021-07-20T13:18:33.000Z",
-          "wordCount": 15838,
-          "title": "Learn to Use the MySQL Database"
-        },
-        {
-          "id": "60f3e5ca66c61b07d458eb2d",
-          "author": null,
-          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
-          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
-          "publishedOn": "2021-07-19T22:25:44.000Z",
-          "wordCount": 1246,
-          "title": "How to Install Xcode Command Line Tools on a Mac"
-        },
-        {
-          "id": "60f53af066c61b07d458ed0a",
-          "author": null,
-          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
-          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
-          "publishedOn": "2021-07-19T19:00:35.000Z",
-          "wordCount": 1566,
-          "title": "RGB Color – HTML and CSS Guide"
-        },
-        {
-          "id": "60f2829d66c61b07d458e58f",
-          "author": null,
-          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
-          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
-          "publishedOn": "2021-07-19T18:12:13.000Z",
-          "wordCount": 1358,
-          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
-        },
-        {
-          "id": "60ec528ce8ee9b08300edb9e",
-          "author": null,
-          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
-          "publishedOn": "2021-07-19T16:50:30.000Z",
-          "wordCount": 2311,
-          "title": "How to Scrape Websites with Node.js and Cheerio"
-        },
-        {
-          "id": "60e7d016134ad707be00f47c",
-          "author": null,
-          "description": "In this article, you'll learn how to use Excel to calculate percentage change, and also how to find the increase and decrease in percentage values.  Let's get into it.  How to Calculate Percentage Change in Excel To calculate percentage change in Excel, you'll need to use a formula.  For example,",
-          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
-          "publishedOn": "2021-07-19T15:25:39.000Z",
-          "wordCount": 958,
-          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
         }
       ]
     }
