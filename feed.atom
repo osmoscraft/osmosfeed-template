@@ -1,12 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T00:40:09.618Z</id>
+    <id>urn:2021-07-23T00:39:59.846Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T00:40:09.618Z</updated>
+    <updated>2021-07-23T00:39:59.846Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
+        <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
+        <id>https://css-tricks.com/?p=344960</id>
+        <link href="https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/"/>
+        <updated>2021-07-22T22:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Eric, again not mincin’ no words with blog post titles. This is me:
+The most common CSS declaration organization technique I come across is none whatsoever.
+Almost none, anyway. I tend to group them by whatever dumps out of my …
+The post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut]]></title>
+        <id>60f969ee1d2b080797b8160a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/"/>
+        <updated>2021-07-22T22:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Box Model Properties – Explained With Examples ✨]]></title>
+        <id>6063b98a9618b008528a9d92</id>
+        <link href="https://www.freecodecamp.org/news/css-box-model-explained-with-examples/"/>
+        <updated>2021-07-22T17:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Detect Music Onsets]]></title>
+        <id>60f716ab1d2b080797b80532</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/"/>
+        <updated>2021-07-22T16:56:17.000Z</updated>
+        <summary type="html"><![CDATA[In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide]]></title>
+        <id>60af854611ffb70827ef8526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/"/>
+        <updated>2021-07-22T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Google Drive as a CMS]]></title>
+        <id>https://css-tricks.com/?p=344580</id>
+        <link href="https://css-tricks.com/using-google-drive-as-a-cms/"/>
+        <updated>2021-07-22T14:44:26.000Z</updated>
+        <summary type="html"><![CDATA[We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …
+The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashnode: A Blogging Platform for Developers]]></title>
+        <id>https://css-tricks.com/?p=344330</id>
+        <link href="https://css-tricks.com/hashnode-a-blogging-platform-for-developers/"/>
+        <updated>2021-07-22T14:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.
+The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Flexbox in This Crash Course]]></title>
+        <id>60f245ca66c61b07d458e512</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-flexbox/"/>
+        <updated>2021-07-22T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
+        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
+        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
+        <updated>2021-07-22T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project]]></title>
         <id>60f55f3e66c61b07d458ee8c</id>
         <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
         <updated>2021-07-21T22:39:42.000Z</updated>
@@ -80,26 +175,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
-        <id>60f5c9b866c61b07d458f2af</id>
-        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
-        <updated>2021-07-21T15:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
-        <id>60f66b6f66c61b07d458f93c</id>
-        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
-        <updated>2021-07-21T15:20:18.000Z</updated>
-        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
         <id>https://css-tricks.com/?p=344337</id>
         <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
@@ -134,26 +209,6 @@ The post The Nine States of Design appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
-        <id>605301d528094f59be257c67</id>
-        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
-        <updated>2021-07-20T22:48:13.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
-        <id>60f2dbac66c61b07d458e5c9</id>
-        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
-        <updated>2021-07-20T20:04:12.000Z</updated>
-        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
         <id>https://css-tricks.com/?p=344944</id>
         <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
@@ -164,16 +219,6 @@ In modern web design and development, displaying an image is a highly intentiona
 The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
-        <id>60ed44c866c61b07d458d023</id>
-        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
-        <updated>2021-07-20T19:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -202,7 +247,7 @@ The post Typewriter Animation That Handles Anything You Throw at It appeared fir
         <id>https://css-tricks.com/?p=344404</id>
         <link href="https://css-tricks.com/images-are-hard/"/>
         <updated>2021-07-19T20:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
+        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img> and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
 The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -308,28 +353,6 @@ The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=344249</id>
-        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
-        <updated>2021-07-14T14:31:02.000Z</updated>
-        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
-The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
-        <id>https://css-tricks.com/?p=344407</id>
-        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
-        <updated>2021-07-14T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
-The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
         <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
         <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
@@ -337,17 +360,6 @@ The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
-        <id>https://css-tricks.com/?p=344316</id>
-        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
-        <updated>2021-07-13T19:57:10.000Z</updated>
-        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
-The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -538,35 +550,6 @@ The post Links on React and JavaScript appeared first on CSS-Tricks. You can sup
         <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Screen Reader Testing On macOS Using Auto VO]]></title>
-        <id>https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/</id>
-        <link href="https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/"/>
-        <updated>2021-06-23T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cameron Cundiff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
