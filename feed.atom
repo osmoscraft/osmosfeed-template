@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-23T00:39:59.846Z</id>
+    <id>urn:2021-07-24T00:38:57.993Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T00:39:59.846Z</updated>
+    <updated>2021-07-24T00:38:57.993Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
+        <id>60faae4d1d2b080797b82046</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/"/>
+        <updated>2021-07-23T21:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python zip() Function – Explained with Code Examples]]></title>
+        <id>60f5aca466c61b07d458f119</id>
+        <link href="https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/"/>
+        <updated>2021-07-23T17:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
+        <id>https://css-tricks.com/?p=344019</id>
+        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
+        <updated>2021-07-23T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
+The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Farai Gandiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My petite-vue review]]></title>
+        <id>https://css-tricks.com/?p=345209</id>
+        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
+        <updated>2021-07-23T15:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Dave:
+petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
+…
+The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
+        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
+        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
+        <updated>2021-07-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
         <id>https://css-tricks.com/?p=344960</id>
@@ -155,26 +209,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
-        <id>60f83b421d2b080797b80f10</id>
-        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
-        <updated>2021-07-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
-        <id>60f7eeda1d2b080797b80b31</id>
-        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
-        <updated>2021-07-21T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
         <id>https://css-tricks.com/?p=344337</id>
         <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
@@ -299,18 +333,6 @@ The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Typography Links]]></title>
-        <id>https://css-tricks.com/?p=344411</id>
-        <link href="https://css-tricks.com/some-typography-links-3/"/>
-        <updated>2021-07-16T14:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
-…
-The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
         <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
         <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
@@ -318,18 +340,6 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
-        <id>https://css-tricks.com/?p=344273</id>
-        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
-        <updated>2021-07-15T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
-Most of those examples, though, use …
-The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Georgi Nikoloff</name>
         </author>
     </entry>
     <entry>
@@ -540,16 +550,6 @@ The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tr
         <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josh Singer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Online Workshops (July-October 2021)]]></title>
-        <id>https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/</id>
-        <link href="https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/"/>
-        <updated>2021-06-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
