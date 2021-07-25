@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-24T00:38:57.993Z</id>
+    <id>urn:2021-07-25T00:41:02.579Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T00:38:57.993Z</updated>
+    <updated>2021-07-25T00:41:02.579Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -179,7 +179,7 @@ The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tric
         <id>https://css-tricks.com/?p=344950</id>
         <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
         <updated>2021-07-21T21:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …
+        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible because it was out …
 The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -520,36 +520,6 @@ The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! app
         <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
-        <updated>2021-06-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dom Habersack)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
-        <updated>2021-06-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
-        <updated>2021-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josh Singer)</name>
         </author>
     </entry>
 </feed>
