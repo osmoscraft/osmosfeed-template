@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T00:38:44.884Z</id>
+    <id>urn:2021-07-27T00:41:34.707Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T00:38:44.884Z</updated>
+    <updated>2021-07-27T00:41:34.707Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Demystifying styled-components]]></title>
+        <id>https://css-tricks.com/?p=345297</id>
+        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
+        <updated>2021-07-27T00:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
+styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
+The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
+        <id>60fc070722b0e2078fcd0ae1</id>
+        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
+        <updated>2021-07-26T23:01:30.000Z</updated>
+        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
+        <id>60f746ee1d2b080797b807f6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
+        <updated>2021-07-26T21:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
+        <id>60fa671e1d2b080797b81cd4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
+        <updated>2021-07-26T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
+        <id>60fe9a5222b0e2078fcd154f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/"/>
+        <updated>2021-07-26T19:23:37.000Z</updated>
+        <summary type="html"><![CDATA[You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
+        <id>https://css-tricks.com/?p=344653</id>
+        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
+        <updated>2021-07-26T14:36:13.000Z</updated>
+        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
+The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Luke Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slinkity]]></title>
+        <id>https://css-tricks.com/?p=345288</id>
+        <link href="https://slinkity.dev/"/>
+        <updated>2021-07-26T14:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
+The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
+        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
+        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
+        <updated>2021-07-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
         <id>60faae4d1d2b080797b82046</id>
@@ -135,16 +219,6 @@ The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS Flexbox in This Crash Course]]></title>
-        <id>60f245ca66c61b07d458e512</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-flexbox/"/>
-        <updated>2021-07-22T13:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
         <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
         <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
@@ -152,26 +226,6 @@ The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tric
         <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Cheat Sheet – 10 Tricks to Improve Your Next Coding Project]]></title>
-        <id>60f55f3e66c61b07d458ee8c</id>
-        <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
-        <updated>2021-07-21T22:39:42.000Z</updated>
-        <summary type="html"><![CDATA[The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use EditorConfig to Standardize Code Styles]]></title>
-        <id>60f5ecb966c61b07d458f479</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/"/>
-        <updated>2021-07-21T21:28:55.000Z</updated>
-        <summary type="html"><![CDATA[You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -196,16 +250,6 @@ import configData from './config-data.json' assert {type:
 The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
-        <id>60f81c021d2b080797b80d44</id>
-        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
-        <updated>2021-07-21T21:02:54.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -288,18 +332,6 @@ The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines]]></title>
-        <id>https://css-tricks.com/?p=343893</id>
-        <link href="https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/"/>
-        <updated>2021-07-19T14:43:29.000Z</updated>
-        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Thanks to the @scroll-timeline at-rule and animation-timeline property this specification provides, you can control the time position of regular CSS Animations by scrolling.
-In this post, we’ll take …
-The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Bramus Van Damme</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
         <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
         <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
@@ -307,29 +339,6 @@ The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Tim
         <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Colby Fayock)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
-        <id>https://css-tricks.com/?p=344217</id>
-        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
-        <updated>2021-07-16T20:27:46.000Z</updated>
-        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
-The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
-        <id>https://css-tricks.com/?p=344147</id>
-        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
-        <updated>2021-07-16T14:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
-Here’s a quick look at the clocks …
-The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mate Marschalko</name>
         </author>
     </entry>
     <entry>
