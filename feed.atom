@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-27T00:41:34.707Z</id>
+    <id>urn:2021-07-28T00:40:50.192Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T00:41:34.707Z</updated>
+    <updated>2021-07-28T00:40:50.192Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=345169</id>
+        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
+        <updated>2021-07-27T23:18:33.000Z</updated>
+        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
+The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES2021 Features]]></title>
+        <id>https://css-tricks.com/?p=345400</id>
+        <link href="https://h3manth.com/ES2021/"/>
+        <updated>2021-07-27T23:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
+There are new things like “arbitrarily chuck underscores …
+The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
+        <id>60ffec493306a507d1bf98f4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
+        <updated>2021-07-27T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
+        <id>60ff23533306a507d1bf9345</id>
+        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
+        <updated>2021-07-27T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
+        <id>60dabcb327f80207bcdbb316</id>
+        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
+        <updated>2021-07-27T17:53:47.000Z</updated>
+        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Immutability – Frozen Objects in JS Explained with Examples]]></title>
+        <id>60fa5ec41d2b080797b81bf8</id>
+        <link href="https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/"/>
+        <updated>2021-07-27T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Substring – How to Slice a String]]></title>
+        <id>60fbe07822b0e2078fcd09bc</id>
+        <link href="https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/"/>
+        <updated>2021-07-27T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is "we meet on Friday at 08:00 am". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
+        <id>https://css-tricks.com/?p=344815</id>
+        <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
+        <updated>2021-07-27T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …
+The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
+        <updated>2021-07-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demystifying styled-components]]></title>
         <id>https://css-tricks.com/?p=345297</id>
@@ -100,16 +194,6 @@ The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by be
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python zip() Function – Explained with Code Examples]]></title>
-        <id>60f5aca466c61b07d458f119</id>
-        <link href="https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/"/>
-        <updated>2021-07-23T17:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
         <id>https://css-tricks.com/?p=344019</id>
         <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
@@ -154,46 +238,6 @@ Almost none, anyway. I tend to group them by whatever dumps out of my …
 The post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut]]></title>
-        <id>60f969ee1d2b080797b8160a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/"/>
-        <updated>2021-07-22T22:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Box Model Properties – Explained With Examples ✨]]></title>
-        <id>6063b98a9618b008528a9d92</id>
-        <link href="https://www.freecodecamp.org/news/css-box-model-explained-with-examples/"/>
-        <updated>2021-07-22T17:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python to Detect Music Onsets]]></title>
-        <id>60f716ab1d2b080797b80532</id>
-        <link href="https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/"/>
-        <updated>2021-07-22T16:56:17.000Z</updated>
-        <summary type="html"><![CDATA[In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide]]></title>
-        <id>60af854611ffb70827ef8526</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/"/>
-        <updated>2021-07-22T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -287,30 +331,6 @@ The post The Nine States of Design appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://css-tricks.com/?p=344944</id>
-        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-07-20T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
-In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
-…
-The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
-        <id>https://css-tricks.com/?p=344497</id>
-        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
-        <updated>2021-07-20T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
-The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Murtuzaali Surti</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
         <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
         <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
@@ -318,17 +338,6 @@ The post Typewriter Animation That Handles Anything You Throw at It appeared fir
         <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alba Silvente)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Images are hard.]]></title>
-        <id>https://css-tricks.com/?p=344404</id>
-        <link href="https://css-tricks.com/images-are-hard/"/>
-        <updated>2021-07-19T20:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img> and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
-The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -519,16 +528,6 @@ The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tric
         <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
-        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
-        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
-        <updated>2021-06-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
         </author>
     </entry>
 </feed>
