@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-28T00:40:50.192Z</id>
+    <id>urn:2021-07-29T00:38:05.351Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T00:40:50.192Z</updated>
+    <updated>2021-07-29T00:38:05.351Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
+        <id>https://css-tricks.com/?p=345404</id>
+        <link href="https://css-tricks.com/safari-15-opinions/"/>
+        <updated>2021-07-28T20:21:55.000Z</updated>
+        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
+The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
+        <id>60f993f51d2b080797b818a7</id>
+        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
+        <updated>2021-07-28T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
+        <id>60fec60822b0e2078fcd16f0</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
+        <updated>2021-07-28T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
+        <id>https://css-tricks.com/?p=320544</id>
+        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
+        <updated>2021-07-28T14:37:34.000Z</updated>
+        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
+The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
+        <id>60e74b9c134ad707be00f284</id>
+        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
+        <updated>2021-07-28T14:18:37.000Z</updated>
+        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
+        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
+        <updated>2021-07-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
         <id>https://css-tricks.com/?p=345169</id>
@@ -132,26 +194,6 @@ The post Demystifying styled-components appeared first on CSS-Tricks. You can su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations using React, React Hooks, and Axios]]></title>
-        <id>60fa671e1d2b080797b81cd4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/"/>
-        <updated>2021-07-26T21:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Pseudocode? How to Use Pseudocode to Solve Coding Problems]]></title>
-        <id>60fe9a5222b0e2078fcd154f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/"/>
-        <updated>2021-07-26T19:23:37.000Z</updated>
-        <summary type="html"><![CDATA[You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
         <id>https://css-tricks.com/?p=344653</id>
         <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
@@ -181,16 +223,6 @@ The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by be
         <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
-        <id>60faae4d1d2b080797b82046</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/"/>
-        <updated>2021-07-23T21:42:07.000Z</updated>
-        <summary type="html"><![CDATA[Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -297,17 +329,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
-        <id>https://css-tricks.com/?p=344337</id>
-        <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
-        <updated>2021-07-21T14:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …
-The post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mark Noonan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Tools And Resources]]></title>
         <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
         <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
@@ -315,19 +336,6 @@ The post A Step-By-Step Process for Turning Designs Into Code appeared first on 
         <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nine States of Design]]></title>
-        <id>https://css-tricks.com/?p=345062</id>
-        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
-        <updated>2021-07-20T23:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
-Modern UI teams are designing components 
-…
-The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
@@ -508,26 +516,6 @@ The post The Nine States of Design appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
-        <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
-        <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
