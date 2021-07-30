@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-29T00:38:05.351Z</id>
+    <id>urn:2021-07-30T00:39:39.764Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:38:05.351Z</updated>
+    <updated>2021-07-30T00:39:39.764Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
+        <id>60f0501b66c61b07d458df00</id>
+        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
+        <updated>2021-07-29T22:36:44.000Z</updated>
+        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
+        <id>60f534ec66c61b07d458ecfe</id>
+        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
+        <updated>2021-07-29T18:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
+        <id>6102ccd03306a507d1bfb150</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
+        <updated>2021-07-29T15:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
+        <id>60fc708a22b0e2078fcd0cdc</id>
+        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
+        <updated>2021-07-29T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
+        <id>61018d5c3306a507d1bfa74a</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
+        <updated>2021-07-29T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
+        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
+        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
+        <updated>2021-07-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elad Shechter)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safari 15 Opinions]]></title>
         <id>https://css-tricks.com/?p=345404</id>
@@ -111,36 +206,6 @@ The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
-        <id>60dabcb327f80207bcdbb316</id>
-        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
-        <updated>2021-07-27T17:53:47.000Z</updated>
-        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Immutability – Frozen Objects in JS Explained with Examples]]></title>
-        <id>60fa5ec41d2b080797b81bf8</id>
-        <link href="https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/"/>
-        <updated>2021-07-27T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Substring – How to Slice a String]]></title>
-        <id>60fbe07822b0e2078fcd09bc</id>
-        <link href="https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/"/>
-        <updated>2021-07-27T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is "we meet on Friday at 08:00 am". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
         <id>https://css-tricks.com/?p=344815</id>
         <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
@@ -171,26 +236,6 @@ styled-components seems like the biggest player in the CSS-in-React market. Desp
 The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Doodle Games – Baseball, PacMan, and More]]></title>
-        <id>60fc070722b0e2078fcd0ae1</id>
-        <link href="https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/"/>
-        <updated>2021-07-26T23:01:30.000Z</updated>
-        <summary type="html"><![CDATA[The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find Remote Jobs – 25 Websites To Help You Work from Home Online]]></title>
-        <id>60f746ee1d2b080797b807f6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-remote-jobs/"/>
-        <updated>2021-07-26T21:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -284,17 +329,6 @@ The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can suppo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hashnode: A Blogging Platform for Developers]]></title>
-        <id>https://css-tricks.com/?p=344330</id>
-        <link href="https://css-tricks.com/hashnode-a-blogging-platform-for-developers/"/>
-        <updated>2021-07-22T14:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.
-The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
         <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
         <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
@@ -302,30 +336,6 @@ The post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tric
         <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yet Another Mobile Context Menu With No Indication it Can Scroll]]></title>
-        <id>https://css-tricks.com/?p=344950</id>
-        <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
-        <updated>2021-07-21T21:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible because it was out …
-The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript proposal: JSON modules]]></title>
-        <id>https://css-tricks.com/?p=344948</id>
-        <link href="https://2ality.com/2021/06/json-modules.html"/>
-        <updated>2021-07-21T21:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. 
-import configData from './config-data.json' assert {type: 
-…
-The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -496,26 +506,6 @@ The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
