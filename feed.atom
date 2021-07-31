@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T00:39:39.764Z</id>
+    <id>urn:2021-07-31T00:40:14.771Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T00:39:39.764Z</updated>
+    <updated>2021-07-31T00:40:14.771Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project]]></title>
+        <id>6053023028094f59be257c79</id>
+        <link href="https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/"/>
+        <updated>2021-07-30T22:41:08.000Z</updated>
+        <summary type="html"><![CDATA[When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Text Function – How to Convert a Number to Text Format]]></title>
+        <id>60f534d266c61b07d458ecf8</id>
+        <link href="https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/"/>
+        <updated>2021-07-30T22:22:23.000Z</updated>
+        <summary type="html"><![CDATA[If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course]]></title>
+        <id>610478b63306a507d1bfbb23</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/"/>
+        <updated>2021-07-30T22:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Hyperlink? Definition for HTML Link Beginners]]></title>
+        <id>6102c9803306a507d1bfb0f4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/"/>
+        <updated>2021-07-30T22:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc]]></title>
+        <id>60f5350266c61b07d458ed04</id>
+        <link href="https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/"/>
+        <updated>2021-07-30T20:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
+        <id>https://css-tricks.com/?p=345628</id>
+        <link href="https://katydecorah.com/code/eslint-config/"/>
+        <updated>2021-07-30T20:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …
+The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conjuring Generative Blobs With The CSS Paint API]]></title>
+        <id>https://css-tricks.com/?p=345256</id>
+        <link href="https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/"/>
+        <updated>2021-07-30T14:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …
+The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
+        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
+        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
+        <updated>2021-07-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
         <id>60f0501b66c61b07d458df00</id>
@@ -112,26 +194,6 @@ The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
-        <id>60f993f51d2b080797b818a7</id>
-        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
-        <updated>2021-07-28T17:24:21.000Z</updated>
-        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
-        <id>60fec60822b0e2078fcd16f0</id>
-        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
-        <updated>2021-07-28T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
         <id>https://css-tricks.com/?p=320544</id>
         <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
@@ -140,16 +202,6 @@ The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tr
 The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
-        <id>60e74b9c134ad707be00f284</id>
-        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
-        <updated>2021-07-28T14:18:37.000Z</updated>
-        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -183,26 +235,6 @@ There are new things like “arbitrarily chuck underscores …
 The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
-        <id>60ffec493306a507d1bf98f4</id>
-        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
-        <updated>2021-07-27T22:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
-        <id>60ff23533306a507d1bf9345</id>
-        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
-        <updated>2021-07-27T19:59:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -302,30 +334,6 @@ The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-
         <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
-        <id>https://css-tricks.com/?p=344960</id>
-        <link href="https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/"/>
-        <updated>2021-07-22T22:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Eric, again not mincin’ no words with blog post titles. This is me:
-The most common CSS declaration organization technique I come across is none whatsoever.
-Almost none, anyway. I tend to group them by whatever dumps out of my …
-The post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Google Drive as a CMS]]></title>
-        <id>https://css-tricks.com/?p=344580</id>
-        <link href="https://css-tricks.com/using-google-drive-as-a-cms/"/>
-        <updated>2021-07-22T14:44:26.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …
-The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Nathan Babcock</name>
         </author>
     </entry>
     <entry>
@@ -496,16 +504,6 @@ The post Using Google Drive as a CMS appeared first on CSS-Tricks. You can suppo
         <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
-        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
-        <updated>2021-07-01T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
 </feed>
