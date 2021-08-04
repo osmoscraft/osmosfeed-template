@@ -12,12 +12,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345744",
+          "author": "Chris Coyier",
+          "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-as-proxies/",
+          "publishedOn": "2021-08-03T20:23:32.000Z",
+          "wordCount": 1029,
+          "title": "Serverless Functions as Proxies"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345807",
+          "author": "Rewind",
+          "description": "Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
+          "publishedOn": "2021-08-03T20:22:34.000Z",
+          "wordCount": 231,
+          "title": "Automatic Daily GitHub Backups, Restored in Seconds"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345154",
+          "author": "Paul Ratcliffe",
+          "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
+          "publishedOn": "2021-08-03T14:35:48.000Z",
+          "wordCount": 2684,
+          "title": "A Deep Dive on Skipping to Content"
+        },
+        {
           "id": "https://css-tricks.com/?p=345756",
           "author": "Chris Coyier",
           "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-modules-the-native-ones/",
           "publishedOn": "2021-08-02T18:28:28.000Z",
-          "wordCount": 838,
+          "wordCount": 867,
           "title": "CSS Modules (The Native Ones)"
         },
         {
@@ -26,7 +53,7 @@
           "description": "With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …\nThe post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-code-a-playable-synth-keyboard/",
           "publishedOn": "2021-08-02T14:36:09.000Z",
-          "wordCount": 2817,
+          "wordCount": 2912,
           "title": "How to Code a Playable Synth Keyboard"
         },
         {
@@ -89,7 +116,7 @@
           "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
           "publishedOn": "2021-07-28T14:37:34.000Z",
-          "wordCount": 6716,
+          "wordCount": 6780,
           "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
         },
         {
@@ -118,33 +145,6 @@
           "publishedOn": "2021-07-27T15:02:43.000Z",
           "wordCount": 2763,
           "title": "CSS Logical Properties and Values"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345297",
-          "author": "Chris Coyier",
-          "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "publishedOn": "2021-07-27T00:17:01.000Z",
-          "wordCount": 2758,
-          "title": "Demystifying styled-components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344653",
-          "author": "Luke Edwards",
-          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-          "publishedOn": "2021-07-26T14:36:13.000Z",
-          "wordCount": 4351,
-          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345288",
-          "author": "Chris Coyier",
-          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://slinkity.dev/",
-          "publishedOn": "2021-07-26T14:36:04.000Z",
-          "wordCount": 550,
-          "title": "Slinkity"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
+          "author": "hello@smashingmagazine.com (Callum Hart)",
+          "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
+          "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
+          "publishedOn": "2021-08-03T11:00:00.000Z",
+          "wordCount": 2937,
+          "title": "How To Build Resilient JavaScript UIs",
+          "enclosure": {
+            "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
+            "length": "0",
+            "type": "image/com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5987,
+          "wordCount": 5973,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -173,7 +187,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2512,
+          "wordCount": 2507,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -187,7 +201,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12529,
+          "wordCount": 12537,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -201,7 +215,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2948,
+          "wordCount": 2946,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -229,7 +243,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3558,
+          "wordCount": 3557,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -243,7 +257,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3086,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -257,7 +271,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3397,
+          "wordCount": 3403,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -285,7 +299,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3054,
+          "wordCount": 3057,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -313,7 +327,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4478,
+          "wordCount": 4472,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -327,7 +341,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4785,
+          "wordCount": 4799,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -341,7 +355,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1064,
+          "wordCount": 1066,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -369,7 +383,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5303,
+          "wordCount": 5301,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -383,7 +397,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3261,
+          "wordCount": 3248,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -425,7 +439,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2948,
+          "wordCount": 2962,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -439,7 +453,7 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4788,
+          "wordCount": 4782,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
@@ -453,7 +467,7 @@
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
           "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4046,
+          "wordCount": 4063,
           "title": "An Introduction To Figma Interactive Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
@@ -474,20 +488,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1585,
-          "title": "Using HSL Colors In CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -497,12 +497,57 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61079f873306a507d1bfc360",
+          "author": null,
+          "description": "There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and",
+          "link": "https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/",
+          "publishedOn": "2021-08-03T19:53:47.000Z",
+          "wordCount": 1113,
+          "title": "JavaScript For Loop – How to Loop Through an Array in JS"
+        },
+        {
+          "id": "6104ec2f3306a507d1bfbc24",
+          "author": null,
+          "description": "Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed",
+          "link": "https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/",
+          "publishedOn": "2021-08-03T19:33:16.000Z",
+          "wordCount": 3176,
+          "title": "Developer Communities to Join to Help You Grow Your Tech Career"
+        },
+        {
+          "id": "610948d93306a507d1bfd0d5",
+          "author": null,
+          "description": "The copy and paste functionality on Android smartphones might seem to be a \"one-time\" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/",
+          "publishedOn": "2021-08-03T19:10:40.000Z",
+          "wordCount": 980,
+          "title": "How to Access Clipboard in Android (and Clear it)"
+        },
+        {
+          "id": "610640c03306a507d1bfbfcf",
+          "author": null,
+          "description": "A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help",
+          "link": "https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/",
+          "publishedOn": "2021-08-03T15:11:05.000Z",
+          "wordCount": 1095,
+          "title": "12 Free Coding Games to Learn Programming for Beginners"
+        },
+        {
+          "id": "61084aac3306a507d1bfc81c",
+          "author": null,
+          "description": "Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get",
+          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/",
+          "publishedOn": "2021-08-03T15:04:13.000Z",
+          "wordCount": 1080,
+          "title": "Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum"
+        },
+        {
           "id": "61082bc93306a507d1bfc7b9",
           "author": null,
-          "description": "The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is",
+          "description": "The internet is a big part of our daily lives and we use it constantly. But how does it actually work? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works along with basic networking principles.  Ian Frost teaches this course.",
           "link": "https://www.freecodecamp.org/news/how-does-the-internet-work/",
           "publishedOn": "2021-08-02T17:39:24.000Z",
-          "wordCount": 362,
+          "wordCount": 366,
           "title": "How does the internet work?"
         },
         {
@@ -540,51 +585,6 @@
           "publishedOn": "2021-07-30T22:07:57.000Z",
           "wordCount": 1528,
           "title": "What is a Hyperlink? Definition for HTML Link Beginners"
-        },
-        {
-          "id": "60f5350266c61b07d458ed04",
-          "author": null,
-          "description": "Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature",
-          "link": "https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/",
-          "publishedOn": "2021-07-30T20:09:13.000Z",
-          "wordCount": 740,
-          "title": "Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc"
-        },
-        {
-          "id": "60f0501b66c61b07d458df00",
-          "author": null,
-          "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
-          "link": "https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/",
-          "publishedOn": "2021-07-29T22:36:44.000Z",
-          "wordCount": 2472,
-          "title": "Android Camera2 – How to Use the Camera2 API to Take Photos and Videos"
-        },
-        {
-          "id": "60f534ec66c61b07d458ecfe",
-          "author": null,
-          "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",
-          "link": "https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/",
-          "publishedOn": "2021-07-29T18:27:33.000Z",
-          "wordCount": 781,
-          "title": "Not Equal Sign – How to Type the Does Not Equal Symbol"
-        },
-        {
-          "id": "6102ccd03306a507d1bfb150",
-          "author": null,
-          "description": "Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
-          "publishedOn": "2021-07-29T15:52:57.000Z",
-          "wordCount": 10161,
-          "title": "Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud"
-        },
-        {
-          "id": "60fc708a22b0e2078fcd0cdc",
-          "author": null,
-          "description": "I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will",
-          "link": "https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/",
-          "publishedOn": "2021-07-29T15:35:00.000Z",
-          "wordCount": 4719,
-          "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
         }
       ]
     }

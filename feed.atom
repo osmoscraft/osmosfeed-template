@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-03T00:44:13.673Z</id>
+    <id>urn:2021-08-04T00:37:46.526Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T00:44:13.673Z</updated>
+    <updated>2021-08-04T00:37:46.526Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions as Proxies]]></title>
+        <id>https://css-tricks.com/?p=345744</id>
+        <link href="https://css-tricks.com/serverless-functions-as-proxies/"/>
+        <updated>2021-08-03T20:23:32.000Z</updated>
+        <summary type="html"><![CDATA[The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …
+The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Daily GitHub Backups, Restored in Seconds]]></title>
+        <id>https://css-tricks.com/?p=345807</id>
+        <link href="https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT"/>
+        <updated>2021-08-03T20:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …
+The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Rewind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – How to Loop Through an Array in JS]]></title>
+        <id>61079f873306a507d1bfc360</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/"/>
+        <updated>2021-08-03T19:53:47.000Z</updated>
+        <summary type="html"><![CDATA[There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Communities to Join to Help You Grow Your Tech Career]]></title>
+        <id>6104ec2f3306a507d1bfbc24</id>
+        <link href="https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/"/>
+        <updated>2021-08-03T19:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Clipboard in Android (and Clear it)]]></title>
+        <id>610948d93306a507d1bfd0d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
+        <updated>2021-08-03T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
+        <id>610640c03306a507d1bfbfcf</id>
+        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
+        <updated>2021-08-03T15:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
+        <id>61084aac3306a507d1bfc81c</id>
+        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
+        <updated>2021-08-03T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive on Skipping to Content]]></title>
+        <id>https://css-tricks.com/?p=345154</id>
+        <link href="https://css-tricks.com/a-deep-dive-on-skipping-to-content/"/>
+        <updated>2021-08-03T14:35:48.000Z</updated>
+        <summary type="html"><![CDATA[While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …
+The post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Paul Ratcliffe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Resilient JavaScript UIs]]></title>
+        <id>https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/</id>
+        <link href="https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/"/>
+        <updated>2021-08-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Callum Hart)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Modules (The Native Ones)]]></title>
         <id>https://css-tricks.com/?p=345756</id>
@@ -22,7 +115,7 @@ The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can sup
         <id>61082bc93306a507d1bfc7b9</id>
         <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
         <updated>2021-08-02T17:39:24.000Z</updated>
-        <summary type="html"><![CDATA[The internet is a part of our daily life and we use it constantly. But how does it actually work? We just released a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works and basic networking principles.  Ian Frost teaches this course. He is]]></summary>
+        <summary type="html"><![CDATA[The internet is a big part of our daily lives and we use it constantly. But how does it actually work? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works along with basic networking principles.  Ian Frost teaches this course.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -99,16 +192,6 @@ The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc]]></title>
-        <id>60f5350266c61b07d458ed04</id>
-        <link href="https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/"/>
-        <updated>2021-07-30T20:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
         <id>https://css-tricks.com/?p=345628</id>
         <link href="https://katydecorah.com/code/eslint-config/"/>
@@ -141,16 +224,6 @@ The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
-        <id>60f0501b66c61b07d458df00</id>
-        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
-        <updated>2021-07-29T22:36:44.000Z</updated>
-        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
         <id>https://css-tricks.com/?p=345518</id>
         <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
@@ -161,36 +234,6 @@ The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS
 The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
-        <id>60f534ec66c61b07d458ecfe</id>
-        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
-        <updated>2021-07-29T18:27:33.000Z</updated>
-        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
-        <id>6102ccd03306a507d1bfb150</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
-        <updated>2021-07-29T15:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
-        <id>60fc708a22b0e2078fcd0cdc</id>
-        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
-        <updated>2021-07-29T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -299,40 +342,6 @@ The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying styled-components]]></title>
-        <id>https://css-tricks.com/?p=345297</id>
-        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
-        <updated>2021-07-27T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
-styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
-The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
-        <id>https://css-tricks.com/?p=344653</id>
-        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
-        <updated>2021-07-26T14:36:13.000Z</updated>
-        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
-The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Luke Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slinkity]]></title>
-        <id>https://css-tricks.com/?p=345288</id>
-        <link href="https://slinkity.dev/"/>
-        <updated>2021-07-26T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
-The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -503,16 +512,6 @@ The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by be
         <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
-        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
-        <updated>2021-07-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
         </author>
     </entry>
 </feed>
