@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-04T00:37:46.526Z</id>
+    <id>urn:2021-08-05T00:40:12.498Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T00:37:46.526Z</updated>
+    <updated>2021-08-05T00:40:12.498Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://css-tricks.com/?p=345866</id>
+        <link href="https://www.smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-08-04T23:44:06.000Z</updated>
+        <summary type="html"><![CDATA[You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:
+[…] regardless 
+…
+The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Border – Style and HTML Code Examples]]></title>
+        <id>610afe863306a507d1bfdf1e</id>
+        <link href="https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/"/>
+        <updated>2021-08-04T23:25:30.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Padding – CSS Padding Order]]></title>
+        <id>6106575b3306a507d1bfc104</id>
+        <link href="https://www.freecodecamp.org/news/html-padding-css-padding-order/"/>
+        <updated>2021-08-04T21:33:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Where – Clause Examples]]></title>
+        <id>6106638c3306a507d1bfc15c</id>
+        <link href="https://www.freecodecamp.org/news/sql-where-clause-examples/"/>
+        <updated>2021-08-04T15:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
+        <id>610a56153306a507d1bfd5f0</id>
+        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
+        <updated>2021-08-04T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
+        <id>610641743306a507d1bfbfd4</id>
+        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
+        <updated>2021-08-04T14:46:14.000Z</updated>
+        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
+        <id>https://css-tricks.com/?p=345274</id>
+        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
+        <updated>2021-08-04T14:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
+The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Children And Iteration Methods]]></title>
+        <id>https://smashingmagazine.com/2021/08/react-children-iteration-methods/</id>
+        <link href="https://smashingmagazine.com/2021/08/react-children-iteration-methods/"/>
+        <updated>2021-08-04T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Arihant Verma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Algorithms for Technical Interviews]]></title>
+        <id>6109eca73306a507d1bfd3d2</id>
+        <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
+        <updated>2021-08-04T01:35:10.000Z</updated>
+        <summary type="html"><![CDATA[During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Dictionary with React and Material UI]]></title>
+        <id>6109e5233306a507d1bfd3ad</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
+        <updated>2021-08-04T01:03:03.000Z</updated>
+        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Functions as Proxies]]></title>
         <id>https://css-tricks.com/?p=345744</id>
@@ -21,7 +125,8 @@ The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can s
         <id>https://css-tricks.com/?p=345807</id>
         <link href="https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT"/>
         <updated>2021-08-03T20:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result …
 The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Rewind</name>
@@ -53,26 +158,6 @@ The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on C
         <link href="https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/"/>
         <updated>2021-08-03T19:10:40.000Z</updated>
         <summary type="html"><![CDATA[The copy and paste functionality on Android smartphones might seem to be a "one-time" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Free Coding Games to Learn Programming for Beginners]]></title>
-        <id>610640c03306a507d1bfbfcf</id>
-        <link href="https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/"/>
-        <updated>2021-08-03T15:11:05.000Z</updated>
-        <summary type="html"><![CDATA[A lot of beginners can become intimidated when they're learning how to code. But learning through coding games can be fun and educational.  According to True Education Partnerships,  Gamification in learning involves using game-based elements such as point scoring, peer competition, team work, and score tables to drive engagement, help]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Coding Bootcamp Based on freeCodeCamp&#x27;s Curriculum]]></title>
-        <id>61084aac3306a507d1bfc81c</id>
-        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-based-on-freecodecamp/"/>
-        <updated>2021-08-03T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Now you can join a free part-time, remote coding bootcamp. You'll learn freeCodeCamp's entire Responsive Web Design certification, together with friendly people around the world. 👋 Hi, I’m Jess. A long time ago, I was an educator who worked in special education and language education.  When I wanted to get]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -111,16 +196,6 @@ The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How does the internet work?]]></title>
-        <id>61082bc93306a507d1bfc7b9</id>
-        <link href="https://www.freecodecamp.org/news/how-does-the-internet-work/"/>
-        <updated>2021-08-02T17:39:24.000Z</updated>
-        <summary type="html"><![CDATA[The internet is a big part of our daily lives and we use it constantly. But how does it actually work? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how the internet works along with basic networking principles.  Ian Frost teaches this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Code a Playable Synth Keyboard]]></title>
         <id>https://css-tricks.com/?p=345178</id>
         <link href="https://css-tricks.com/how-to-code-a-playable-synth-keyboard/"/>
@@ -149,46 +224,6 @@ The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project]]></title>
-        <id>6053023028094f59be257c79</id>
-        <link href="https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/"/>
-        <updated>2021-07-30T22:41:08.000Z</updated>
-        <summary type="html"><![CDATA[When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Text Function – How to Convert a Number to Text Format]]></title>
-        <id>60f534d266c61b07d458ecf8</id>
-        <link href="https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/"/>
-        <updated>2021-07-30T22:22:23.000Z</updated>
-        <summary type="html"><![CDATA[If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course]]></title>
-        <id>610478b63306a507d1bfbb23</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/"/>
-        <updated>2021-07-30T22:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Hyperlink? Definition for HTML Link Beginners]]></title>
-        <id>6102c9803306a507d1bfb0f4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/"/>
-        <updated>2021-07-30T22:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -252,7 +287,8 @@ The post So you want to self-publish books and courses on programming appeared f
         <id>https://css-tricks.com/?p=345260</id>
         <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
         <updated>2021-07-29T14:47:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is …
 The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -305,33 +341,11 @@ The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared f
         <id>https://css-tricks.com/?p=345169</id>
         <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
         <updated>2021-07-27T23:18:33.000Z</updated>
-        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points …
 The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES2021 Features]]></title>
-        <id>https://css-tricks.com/?p=345400</id>
-        <link href="https://h3manth.com/ES2021/"/>
-        <updated>2021-07-27T23:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
-There are new things like “arbitrarily chuck underscores …
-The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
-        <id>https://css-tricks.com/?p=344815</id>
-        <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
-        <updated>2021-07-27T15:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …
-The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
         </author>
     </entry>
     <entry>
@@ -502,16 +516,6 @@ The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
         </author>
     </entry>
 </feed>
