@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345418",
+          "author": "Hugh Haworth",
+          "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/",
+          "publishedOn": "2021-08-05T14:24:36.000Z",
+          "wordCount": 3842,
+          "title": "Three Buggy React Code Examples and How to Fix Them"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345552",
+          "author": "Fauna",
+          "description": "(This is a sponsored post.)\nFlutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …\nThe post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/",
+          "publishedOn": "2021-08-05T09:23:00.000Z",
+          "wordCount": 3141,
+          "title": "How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL"
+        },
+        {
           "id": "https://css-tricks.com/?p=345866",
           "author": "Chris Coyier",
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-08-04T23:44:06.000Z",
-          "wordCount": 4742,
+          "wordCount": 4730,
           "title": "The State Of Web Workers In 2021"
         },
         {
@@ -26,7 +44,7 @@
           "description": "Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …\nThe post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/",
           "publishedOn": "2021-08-04T14:13:45.000Z",
-          "wordCount": 1444,
+          "wordCount": 1496,
           "title": "Using CSS Shapes for Interesting User Controls and Navigation"
         },
         {
@@ -35,7 +53,7 @@
           "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-as-proxies/",
           "publishedOn": "2021-08-03T20:23:32.000Z",
-          "wordCount": 1143,
+          "wordCount": 1214,
           "title": "Serverless Functions as Proxies"
         },
         {
@@ -62,7 +80,7 @@
           "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-modules-the-native-ones/",
           "publishedOn": "2021-08-02T18:28:28.000Z",
-          "wordCount": 867,
+          "wordCount": 823,
           "title": "CSS Modules (The Native Ones)"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2021-07-28T20:21:55.000Z",
           "wordCount": 1390,
           "title": "Safari 15 Opinions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=320544",
-          "author": "Ana Tudor",
-          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
-          "publishedOn": "2021-07-28T14:37:34.000Z",
-          "wordCount": 6780,
-          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345169",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nI got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/",
-          "publishedOn": "2021-07-27T23:18:33.000Z",
-          "wordCount": 1821,
-          "title": "Learnings From a WebPageTest Session on CSS-Tricks"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
+          "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "publishedOn": "2021-08-05T13:30:00.000Z",
+          "wordCount": 6565,
+          "title": "Frustrating Design Patterns: Disabled Buttons",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "author": "hello@smashingmagazine.com (Arihant Verma)",
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3282,
+          "wordCount": 3331,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -173,7 +187,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2936,
+          "wordCount": 2940,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -187,7 +201,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5974,
+          "wordCount": 5975,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -201,7 +215,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2510,
+          "wordCount": 2509,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -215,7 +229,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12525,
+          "wordCount": 12534,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -229,7 +243,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2947,
+          "wordCount": 2948,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -243,7 +257,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3069,
+          "wordCount": 3070,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -257,7 +271,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3567,
+          "wordCount": 3562,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -271,7 +285,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3076,
+          "wordCount": 3085,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -285,7 +299,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3391,
+          "wordCount": 3390,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -313,7 +327,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3058,
+          "wordCount": 3054,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -341,7 +355,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4486,
+          "wordCount": 4469,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -355,7 +369,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4787,
+          "wordCount": 4800,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -369,7 +383,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1079,
+          "wordCount": 1066,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -397,7 +411,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5302,
+          "wordCount": 5301,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -411,7 +425,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3254,
+          "wordCount": 3262,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -439,7 +453,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3612,
+          "wordCount": 3608,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -453,7 +467,7 @@
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
           "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2961,
+          "wordCount": 2953,
           "title": "Making A Strong Case For Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
@@ -467,24 +481,10 @@
           "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
           "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4775,
+          "wordCount": 4780,
           "title": "Tools And Practices To Speed Up The Vue.js Development Process",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
-          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
-          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4061,
-          "title": "An Introduction To Figma Interactive Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -496,6 +496,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "610be0ea3306a507d1bfe4b1",
+          "author": null,
+          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
+          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
+          "publishedOn": "2021-08-05T21:33:51.000Z",
+          "wordCount": 1047,
+          "title": "&lt;pre&gt; Tag in HTML – Example Code"
+        },
+        {
+          "id": "6108233d3306a507d1bfc731",
+          "author": null,
+          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
+          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
+          "publishedOn": "2021-08-05T16:37:56.000Z",
+          "wordCount": 1409,
+          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
+        },
+        {
+          "id": "60db390127f80207bcdbb455",
+          "author": null,
+          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
+          "link": "https://www.freecodecamp.org/news/html-crash-course/",
+          "publishedOn": "2021-08-05T14:19:09.000Z",
+          "wordCount": 1180,
+          "title": "HTML for Beginners"
+        },
         {
           "id": "610afe863306a507d1bfdf1e",
           "author": null,
@@ -544,47 +571,20 @@
         {
           "id": "6109eca73306a507d1bfd3d2",
           "author": null,
-          "description": "During technical interviews it is common for people to be asked to solve coding challenges. It is important to have a good understanding of graph algorithms if you  want to make sure to do well on these challenges. We just released a course on the freeCodeCamp.org YouTube channel that",
+          "description": "During technical interviews it is common for your interviewer to ask you to solve coding challenges. And you should have a good understanding of graph algorithms if you want to do well on these challenges. We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
           "link": "https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/",
           "publishedOn": "2021-08-04T01:35:10.000Z",
-          "wordCount": 25761,
+          "wordCount": 25759,
           "title": "Graph Algorithms for Technical Interviews"
         },
         {
           "id": "6109e5233306a507d1bfd3ad",
           "author": null,
-          "description": "React continues to be a popular front-end JavaScript library. Improve your skills by building a dictionary project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to create a dictionary",
+          "description": "React continues to be a popular front-end JavaScript library. And you can improve your skills by building a dictionary project. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to",
           "link": "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
           "publishedOn": "2021-08-04T01:03:03.000Z",
-          "wordCount": 12944,
-          "title": "Code a Dictionary with React and Material UI"
-        },
-        {
-          "id": "61079f873306a507d1bfc360",
-          "author": null,
-          "description": "There are various types of loops in JavaScript, and all of them essentially do the same thing: they repeat an action again and again.  Loops come in handy if you want to repeat the same block of code for a certain number of times. Basically, they are a fast and",
-          "link": "https://www.freecodecamp.org/news/javascript-for-loop-how-to-loop-through-an-array-in-js/",
-          "publishedOn": "2021-08-03T19:53:47.000Z",
-          "wordCount": 1113,
-          "title": "JavaScript For Loop – How to Loop Through an Array in JS"
-        },
-        {
-          "id": "6104ec2f3306a507d1bfbc24",
-          "author": null,
-          "description": "Alone, we can do so little; together, we can do so much.  Helen Keller  It’s true – when you lend someone a helping hand, you feel a lot better about yourself, and you will likely learn something new.  Helping others feels so rewarding because you know that you have contributed",
-          "link": "https://www.freecodecamp.org/news/developer-communities-to-join-to-grow-your-career/",
-          "publishedOn": "2021-08-03T19:33:16.000Z",
-          "wordCount": 3176,
-          "title": "Developer Communities to Join to Help You Grow Your Tech Career"
-        },
-        {
-          "id": "610948d93306a507d1bfd0d5",
-          "author": null,
-          "description": "The copy and paste functionality on Android smartphones might seem to be a \"one-time\" thing. Once you copy a snippet of text, you need to paste it before copying or cutting another. If you don't, you won't have access to it anymore.  Also, if you copy text and",
-          "link": "https://www.freecodecamp.org/news/how-to-access-clipboard-in-android-and-clear-it/",
-          "publishedOn": "2021-08-03T19:10:40.000Z",
-          "wordCount": 980,
-          "title": "How to Access Clipboard in Android (and Clear it)"
+          "wordCount": 12949,
+          "title": "React and Material UI Course – Code a Dictionary"
         }
       ]
     }
