@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-06T00:41:54.275Z</id>
+    <id>urn:2021-08-07T00:36:03.544Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T00:41:54.275Z</updated>
+    <updated>2021-08-07T00:36:03.544Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Update Statement – Update Query in SQL]]></title>
+        <id>61067c973306a507d1bfc1ba</id>
+        <link href="https://www.freecodecamp.org/news/sql-update-statement-update-query-in-sql/"/>
+        <updated>2021-08-06T21:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Once you have created a table in a database, it will rarely need to stay the same forever. You will likely need to modify the records in it.  And to help you do that, there is a useful statement, aptly named UPDATE, that you can use to change the records]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Row VS Column in Excel – What is the Difference?]]></title>
+        <id>610cebc13306a507d1bfeca9</id>
+        <link href="https://www.freecodecamp.org/news/row-vs-column-in-excel-what-is-the-difference/"/>
+        <updated>2021-08-06T21:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel displays data in tabular format. This means that information is arranged in a table consisting of rows and columns.  Rows and columns are different properties that together make up a table.  These are the two most important features of Excel that allow users to store and manipulate their]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Gobbler]]></title>
+        <id>https://css-tricks.com/?p=346259</id>
+        <link href="https://css-tricks.com/svg-gobbler/"/>
+        <updated>2021-08-06T19:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Great little project from Ross Moody: 
+SVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.
+…
+The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – SQL Insert Statement Example]]></title>
+        <id>6107c0593306a507d1bfc565</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/"/>
+        <updated>2021-08-06T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Switch Case – JS Switch Statement Example]]></title>
+        <id>610658bf3306a507d1bfc110</id>
+        <link href="https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/"/>
+        <updated>2021-08-06T15:18:55.000Z</updated>
+        <summary type="html"><![CDATA[There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()]]></title>
+        <id>https://css-tricks.com/?p=345467</id>
+        <link href="https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/"/>
+        <updated>2021-08-06T14:55:06.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …
+The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andy Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gridless.design]]></title>
+        <id>https://css-tricks.com/?p=345878</id>
+        <link href="https://gridless.design/"/>
+        <updated>2021-08-06T14:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Donnie D’Amato built a whole site around the thesis that “digital designers still expect to use the grid while experienced layout engineers have moved beyond it.” The idea isn’t that we should never literally use display: grid; but rather that …
+The post gridless.design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
+        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
+        <updated>2021-08-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&lt;pre&gt; Tag in HTML – Example Code]]></title>
         <id>610be0ea3306a507d1bfe4b1</id>
@@ -65,7 +150,7 @@ The post Three Buggy React Code Examples and How to Fix Them appeared first on C
 Flutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …
 The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>Fauna</name>
+            <name>Shadid Haque</name>
         </author>
     </entry>
     <entry>
@@ -112,26 +197,6 @@ The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Vertical Align – How to Center a Div, Text, or an Image [Example Code]]]></title>
-        <id>610a56153306a507d1bfd5f0</id>
-        <link href="https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/"/>
-        <updated>2021-08-04T15:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Even with helpful tools like CSS Grid and Flexbox, centering elements in CSS remains notoriously challenging.  It's been the subject of many jokes and memes, and when you successfully center something, you'll want to brag about it.  Why is Centering CSS Elements So Hard? CSS can be tricky to work]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Background Color – How to Change the Background Color in HTML]]></title>
-        <id>610641743306a507d1bfbfd4</id>
-        <link href="https://www.freecodecamp.org/news/css-background-color-how-to-change-the-background-color-in-html/"/>
-        <updated>2021-08-04T14:46:14.000Z</updated>
-        <summary type="html"><![CDATA[You have started creating your HTML page, and you want to give it some color – maybe change the color of the text or set a nice background. So how do you do that? In this article I'll show you how you can change the background color of a page in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
         <id>https://css-tricks.com/?p=345274</id>
         <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
@@ -150,26 +215,6 @@ The post Using CSS Shapes for Interesting User Controls and Navigation appeared 
         <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Arihant Verma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Algorithms for Technical Interviews]]></title>
-        <id>6109eca73306a507d1bfd3d2</id>
-        <link href="https://www.freecodecamp.org/news/graph-algorithms-for-technical-interviews/"/>
-        <updated>2021-08-04T01:35:10.000Z</updated>
-        <summary type="html"><![CDATA[During technical interviews it is common for your interviewer to ask you to solve coding challenges. And you should have a good understanding of graph algorithms if you want to do well on these challenges. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React and Material UI Course – Code a Dictionary]]></title>
-        <id>6109e5233306a507d1bfd3ad</id>
-        <link href="https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/"/>
-        <updated>2021-08-04T01:03:03.000Z</updated>
-        <summary type="html"><![CDATA[React continues to be a popular front-end JavaScript library. And you can improve your skills by building a dictionary project. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dictionary app with React and Material UI. You will learn to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -305,29 +350,6 @@ The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
-        <id>https://css-tricks.com/?p=344993</id>
-        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
-        <updated>2021-07-29T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
-The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Loren Sands-Ramshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
-        <id>https://css-tricks.com/?p=345260</id>
-        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
-        <updated>2021-07-29T14:47:47.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is …
-The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
         <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
         <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
@@ -335,17 +357,6 @@ The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You 
         <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Elad Shechter)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
-        <id>https://css-tricks.com/?p=345404</id>
-        <link href="https://css-tricks.com/safari-15-opinions/"/>
-        <updated>2021-07-28T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
-The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -506,16 +517,6 @@ The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tr
         <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Todd Libby)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
         </author>
     </entry>
 </feed>
