@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346368",
+          "author": "Chris Coyier",
+          "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
+          "publishedOn": "2021-08-09T21:23:44.000Z",
+          "wordCount": 1627,
+          "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346316",
+          "author": "Chris Coyier",
+          "description": "We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …\nThe post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
+          "publishedOn": "2021-08-09T20:37:39.000Z",
+          "wordCount": 1999,
+          "title": "The Large, Small, and Dynamic Viewports"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345642",
+          "author": "Temani Afif",
+          "description": "In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …\nThe post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/",
+          "publishedOn": "2021-08-09T14:27:18.000Z",
+          "wordCount": 2534,
+          "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
+        },
+        {
           "id": "https://css-tricks.com/?p=346259",
           "author": "Chris Coyier",
           "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -21,12 +48,21 @@
           "title": "SVG Gobbler"
         },
         {
+          "id": "https://css-tricks.com/?p=346290",
+          "author": "Sarah Drasner",
+          "description": "Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …\nThe post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/new-nuxt-features-past-v2-10/",
+          "publishedOn": "2021-08-06T15:43:44.000Z",
+          "wordCount": 1089,
+          "title": "New Nuxt Features past v2.10"
+        },
+        {
           "id": "https://css-tricks.com/?p=345467",
           "author": "Andy Ford",
           "description": "I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …\nThe post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/",
           "publishedOn": "2021-08-06T14:55:06.000Z",
-          "wordCount": 1892,
+          "wordCount": 1974,
           "title": "Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()"
         },
         {
@@ -62,7 +98,7 @@
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/06/web-workers-2021/",
           "publishedOn": "2021-08-04T23:44:06.000Z",
-          "wordCount": 4752,
+          "wordCount": 4735,
           "title": "The State Of Web Workers In 2021"
         },
         {
@@ -89,7 +125,7 @@
           "description": "(This is a sponsored post.)\nAny company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
           "publishedOn": "2021-08-03T20:22:34.000Z",
-          "wordCount": 231,
+          "wordCount": 230,
           "title": "Automatic Daily GitHub Backups, Restored in Seconds"
         },
         {
@@ -98,7 +134,7 @@
           "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
           "publishedOn": "2021-08-03T14:35:48.000Z",
-          "wordCount": 2729,
+          "wordCount": 2979,
           "title": "A Deep Dive on Skipping to Content"
         },
         {
@@ -109,42 +145,6 @@
           "publishedOn": "2021-08-02T18:28:28.000Z",
           "wordCount": 823,
           "title": "CSS Modules (The Native Ones)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345178",
-          "author": "Bret Cameron",
-          "description": "With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …\nThe post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-code-a-playable-synth-keyboard/",
-          "publishedOn": "2021-08-02T14:36:09.000Z",
-          "wordCount": 2986,
-          "title": "How to Code a Playable Synth Keyboard"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345628",
-          "author": "Chris Coyier",
-          "description": "Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …\nThe post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://katydecorah.com/code/eslint-config/",
-          "publishedOn": "2021-07-30T20:07:06.000Z",
-          "wordCount": 237,
-          "title": "A Shared ESLint Configuration"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345256",
-          "author": "George Francis",
-          "description": "The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …\nThe post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/",
-          "publishedOn": "2021-07-30T14:54:36.000Z",
-          "wordCount": 5804,
-          "title": "Conjuring Generative Blobs With The CSS Paint API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345518",
-          "author": "Chris Coyier",
-          "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://github.blog/2021-06-22-framework-building-open-graph-images/",
-          "publishedOn": "2021-07-29T19:49:32.000Z",
-          "wordCount": 1729,
-          "title": "GitHub Explains the Open Graph Images"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+          "author": "hello@smashingmagazine.com (Robin Marx)",
+          "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
+          "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
+          "publishedOn": "2021-08-09T11:00:00.000Z",
+          "wordCount": 6864,
+          "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 571,
+          "wordCount": 586,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -187,7 +201,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3329,
+          "wordCount": 3328,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -201,7 +215,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2938,
+          "wordCount": 2940,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -215,7 +229,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5977,
+          "wordCount": 5979,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -229,7 +243,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2519,
+          "wordCount": 2514,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -243,7 +257,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12543,
+          "wordCount": 12532,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -257,7 +271,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2951,
+          "wordCount": 2950,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -271,7 +285,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3086,
+          "wordCount": 3081,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -285,7 +299,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3557,
+          "wordCount": 3558,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -299,7 +313,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3082,
+          "wordCount": 3080,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -313,7 +327,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3397,
+          "wordCount": 3392,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -369,7 +383,7 @@
           "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
           "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
           "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4473,
+          "wordCount": 4482,
           "title": "Maintaining End-To-End Quality With Visual Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
@@ -383,7 +397,7 @@
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
           "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "publishedOn": "2021-07-16T13:00:00.000Z",
-          "wordCount": 4802,
+          "wordCount": 4792,
           "title": "Three Insights I Gained While Researching Vue.js Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
@@ -397,7 +411,7 @@
           "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
           "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "publishedOn": "2021-07-15T14:00:00.000Z",
-          "wordCount": 1070,
+          "wordCount": 1068,
           "title": "ISR vs DPR: Big Words, Quick Explanation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
@@ -425,7 +439,7 @@
           "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
           "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5304,
+          "wordCount": 5303,
           "title": "Frustrating Design Patterns: Broken Filters",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
@@ -439,7 +453,7 @@
           "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
           "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3268,
+          "wordCount": 3254,
           "title": "Building A Dynamic Header With Intersection Observer",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
@@ -467,7 +481,7 @@
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
           "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3616,
+          "wordCount": 3613,
           "title": "Refactoring CSS: Introduction (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
@@ -482,6 +496,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "610a44f83306a507d1bfd44e",
+          "author": null,
+          "description": "SQL stands for Structured Query Language and is a language that you use to manage data in databases. SQL consists of commands and declarative statements that act as instructions to the database so it can perform tasks.  You can use SQL commands to create a table in a database, to",
+          "link": "https://www.freecodecamp.org/news/learn-sql-queries-database-query-tutorial-for-beginners/",
+          "publishedOn": "2021-08-10T00:05:46.000Z",
+          "wordCount": 2043,
+          "title": "Learn SQL Queries – Database Query Tutorial for Beginners"
+        },
+        {
+          "id": "610657e03306a507d1bfc108",
+          "author": null,
+          "description": "There will be times where you will want to write commands that handle different decisions in your code.  For example, if you are coding a bot, you can have it respond with different messages based on a set of commands it receives.  In this article, I will explain what an",
+          "link": "https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/",
+          "publishedOn": "2021-08-09T23:21:21.000Z",
+          "wordCount": 1482,
+          "title": "JavaScript If-Else and If-Then – JS Conditional Statements"
+        },
+        {
+          "id": "610e257e3306a507d1bffc96",
+          "author": null,
+          "description": "Google Colab and VS Code are two popular editor tools that many Python developers use. They're great for developing efficient tech solutions or systems especially in the areas of Machine Learning and Data Science. If you're a Python developer or data scientist, you might already know how to use Google",
+          "link": "https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/",
+          "publishedOn": "2021-08-09T22:24:53.000Z",
+          "wordCount": 841,
+          "title": "How to Use Google Colab with VS Code"
+        },
+        {
+          "id": "610d55bf3306a507d1bff496",
+          "author": null,
+          "description": "Pure functions and impure functions are two programming terms you will often see in functional programming. Once core difference between these two types of functions is whether or not they have side effects. In this article, you will learn what side effects are and we'll discuss the differences between pure",
+          "link": "https://www.freecodecamp.org/news/pure-function-vs-impure-function/",
+          "publishedOn": "2021-08-09T21:06:46.000Z",
+          "wordCount": 1278,
+          "title": "Pure vs Impure Functions in Functional Programming – What&#x27;s the Difference?"
+        },
+        {
+          "id": "5fff3dd898be260817e495cf",
+          "author": null,
+          "description": "Cross Site Scripting is the second most prevalent issue in the Open Source Foundation for Application Security (OWASP) top 10 – it's found in roughly 2/3 of all applications.  While automated tools can find some of these problems, there are also automated tools designed to detect and exploit these vulnerabilities.",
+          "link": "https://www.freecodecamp.org/news/cross-site-scripting-what-is-xss/",
+          "publishedOn": "2021-08-09T17:27:40.000Z",
+          "wordCount": 1419,
+          "title": "What is Cross Site Scripting? How to Protect against XSS Attacks"
+        },
+        {
+          "id": "610d9b6a3306a507d1bff9f0",
+          "author": null,
+          "description": "You can use HTML's <a> tag to link to different parts of a website, to another web page, or to a separate website entirely.  By default, it is underlined and given a bluish color, but you can override these style defaults with CSS (which a lot of people",
+          "link": "https://www.freecodecamp.org/news/html-a-tag-anchor-link-href-example/",
+          "publishedOn": "2021-08-09T15:15:04.000Z",
+          "wordCount": 1172,
+          "title": "HTML &lt;a&gt; Tag – Anchor Link HREF Example"
+        },
+        {
+          "id": "610682ee3306a507d1bfc210",
+          "author": null,
+          "description": "You have created your database and your tables, and after all this work, you notice that you need to add or rename a column. Well, you can use the ALTER TABLE statement to do so. Just keep in mind that you need to be really careful when you do this.",
+          "link": "https://www.freecodecamp.org/news/alter-table-in-sql-how-to-add-a-column-or-rename-a-column-in-sql/",
+          "publishedOn": "2021-08-09T15:14:48.000Z",
+          "wordCount": 1057,
+          "title": "Alter Table in SQL – How to Add a Column or Rename a Column in SQL"
+        },
+        {
+          "id": "610aabc23306a507d1bfdc7d",
+          "author": null,
+          "description": "Learn how to pass the Google Cloud Digital Leader Certification with this free 6-hour course! This is a significant milestone for free cloud certifications courses, since we now have on freeCodeCamp all the three major cloud service providers (AWS, Azure and GCP). What is the Google Cloud Certified Cloud Digital",
+          "link": "https://www.freecodecamp.org/news/google-cloud-digital-leader-course/",
+          "publishedOn": "2021-08-09T13:02:15.000Z",
+          "wordCount": 561,
+          "title": "Google Cloud Digital Leader Certification Study Course – Pass the Exam With This Free 6 Hour Course"
+        },
         {
           "id": "61067c973306a507d1bfc1ba",
           "author": null,
@@ -499,78 +585,6 @@
           "publishedOn": "2021-08-06T21:17:04.000Z",
           "wordCount": 754,
           "title": "Row VS Column in Excel – What is the Difference?"
-        },
-        {
-          "id": "6107c0593306a507d1bfc565",
-          "author": null,
-          "description": "If you've created an empty table in your database you'll need to add records to it. In this article you will learn how you can add records to your tables using the INSERT statement in SQL. Keep in mind that if the syntax presented here doesn't work, you can check",
-          "link": "https://www.freecodecamp.org/news/insert-into-sql-sql-insert-statement-example/",
-          "publishedOn": "2021-08-06T16:10:39.000Z",
-          "wordCount": 837,
-          "title": "Insert Into SQL – SQL Insert Statement Example"
-        },
-        {
-          "id": "610658bf3306a507d1bfc110",
-          "author": null,
-          "description": "There are times in JavaScript where you might consider using a switch statement instead of an if else statement.   switch statements can have a cleaner syntax over complicated if else statements.  Take a look at the example below – instead of using this long if else statement, you might choose to",
-          "link": "https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/",
-          "publishedOn": "2021-08-06T15:18:55.000Z",
-          "wordCount": 1278,
-          "title": "JavaScript Switch Case – JS Switch Statement Example"
-        },
-        {
-          "id": "610be0ea3306a507d1bfe4b1",
-          "author": null,
-          "description": "The HTML <pre> tag defines a preformatted block of text. It comes in handy when you want to display text where the typographical formatting affects the meaning of the content, such as code snippets and poems.  By default, browsers ignore white space of any kind – extra text space,",
-          "link": "https://www.freecodecamp.org/news/pre-tag-in-html-example-code/",
-          "publishedOn": "2021-08-05T21:33:51.000Z",
-          "wordCount": 1047,
-          "title": "&lt;pre&gt; Tag in HTML – Example Code"
-        },
-        {
-          "id": "6108233d3306a507d1bfc731",
-          "author": null,
-          "description": "Containers have exploded in popularity in recent years. And as more developers are using these containers, they need more tools to manage them and their interactions with them effectively.  To help manage all this, many devs use Kubernetes. And it has become the de facto standard for container orchestration. While",
-          "link": "https://www.freecodecamp.org/news/kubernetes-security-dynamic-admission-control/",
-          "publishedOn": "2021-08-05T16:37:56.000Z",
-          "wordCount": 1409,
-          "title": "Kubernetes Security – How to Use Dynamic Admission Control to Secure Your Container Supply Chain"
-        },
-        {
-          "id": "60db390127f80207bcdbb455",
-          "author": null,
-          "description": "HTML is used to create web pages.  This article will teach you the basics of HTML. I also created a 45-minute video course on the freeCodeCamp.org YouTube channel that teaches you HTML in the context of creating an actual web page. If you are just learning HTML, I recommend",
-          "link": "https://www.freecodecamp.org/news/html-crash-course/",
-          "publishedOn": "2021-08-05T14:19:09.000Z",
-          "wordCount": 1180,
-          "title": "HTML for Beginners"
-        },
-        {
-          "id": "610afe863306a507d1bfdf1e",
-          "author": null,
-          "description": "In CSS, everything is a box. And each box – whether it's text, an image, a div, a span, or any other element – has a border that separates its edges from other boxes around it.  The CSS border property allows us to do several things with the border of individual boxes.",
-          "link": "https://www.freecodecamp.org/news/css-border-style-and-html-code-examples/",
-          "publishedOn": "2021-08-04T23:25:30.000Z",
-          "wordCount": 1180,
-          "title": "CSS Border – Style and HTML Code Examples"
-        },
-        {
-          "id": "6106575b3306a507d1bfc104",
-          "author": null,
-          "description": "In this article, we are going to learn about CSS padding properties, the shorthand property, and how padding differs from margin.  What is padding in CSS?CSS padding creates space around the element's content. This space is within the element's border and margin.  Let's take a look at the CSS",
-          "link": "https://www.freecodecamp.org/news/html-padding-css-padding-order/",
-          "publishedOn": "2021-08-04T21:33:13.000Z",
-          "wordCount": 731,
-          "title": "HTML Padding – CSS Padding Order"
-        },
-        {
-          "id": "6106638c3306a507d1bfc15c",
-          "author": null,
-          "description": "Sometimes when you're working with SQL, you don't need to operate on an entire range of records. Or it would be really bad if you accidentally changed or deleted everything. In these cases, you'll need to select only the part of the records on which you want to work, those",
-          "link": "https://www.freecodecamp.org/news/sql-where-clause-examples/",
-          "publishedOn": "2021-08-04T15:32:26.000Z",
-          "wordCount": 1691,
-          "title": "SQL Where – Clause Examples"
         }
       ]
     }
