@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-11T00:43:01.855Z</id>
+    <id>urn:2021-08-12T00:39:09.847Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-11T00:43:01.855Z</updated>
+    <updated>2021-08-12T00:39:09.847Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
+        <id>61025c793306a507d1bfad64</id>
+        <link href="https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/"/>
+        <updated>2021-08-11T23:50:28.000Z</updated>
+        <summary type="html"><![CDATA[I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement iOS-Specific Components and APIs]]></title>
+        <id>610d4a303306a507d1bff2ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/"/>
+        <updated>2021-08-11T23:31:34.000Z</updated>
+        <summary type="html"><![CDATA[One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Podcasts for Flutter Developers]]></title>
+        <id>611091a63306a507d1c00a1c</id>
+        <link href="https://www.freecodecamp.org/news/best-podcasts-for-flutter-developers/"/>
+        <updated>2021-08-11T20:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Podcasts are a great way to consume digital information. They've become quite popular because you can listen to them anywhere, any time.  Podcasts deliver educational, entertaining, and engaging content on all kinds of topics – tech topics included. The hosts and their guests talk and share ideas, each in their own]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static vs Dynamic Web Pages – What&#x27;s the Difference?]]></title>
+        <id>611126603306a507d1c00fd2</id>
+        <link href="https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/"/>
+        <updated>2021-08-11T19:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you're interviewing for your dream job and the interviewer drops this question for you: “So can you distinguish between a static web page and a dynamic web page?” What would your reaction be? If you don’t know the answer to that question, or are struggling to think]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Props in Vue.js]]></title>
+        <id>610eb7f03306a507d1c001f5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-props-in-vuejs/"/>
+        <updated>2021-08-11T19:51:52.000Z</updated>
+        <summary type="html"><![CDATA[We use props to pass information/data from a parent component to child components. In this article, I will explain everything you need to know about props and why you should use props in Vue.js. Here's a brief outline of what we'll cover in this guide: What are props]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna see a whiter white?]]></title>
+        <id>https://css-tricks.com/?p=346388</id>
+        <link href="https://kidi.ng/wanna-see-a-whiter-white/"/>
+        <updated>2021-08-11T19:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Heck of a CSS trick here from Dongsung Kim. 
+There are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% 
+…
+The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&lt;img&gt; HTML – Image Tag Tutorial]]></title>
+        <id>6112913c72231b077cdacc4d</id>
+        <link href="https://www.freecodecamp.org/news/img-html-image-tag-tutorial/"/>
+        <updated>2021-08-11T15:28:58.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, you use the <img> tag to add images to websites. It is an inline and empty element, which means that it doesn't start on a new line and doesn't take a closing tag (unlike the paragraph (<p>) tag, for instance).  The <img>]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Node.js Database using Prisma and SQLite]]></title>
+        <id>610ee8443306a507d1c00249</id>
+        <link href="https://www.freecodecamp.org/news/build-nodejs-database-using-prisma-orm/"/>
+        <updated>2021-08-11T15:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Lately I've been seeing many tweets and articles about Prisma. It's a modern ORM (Object-Relational-Mapping tool) that works with Node.jsand TypeScript. Yes, this library will help you build and manage your Node.js database – and it's compatible with TypeScript! It will generate all the types of your entities automatically.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static vs. Dynamic vs. Jamstack: Where’s The Line?]]></title>
+        <id>https://css-tricks.com/?p=345889</id>
+        <link href="https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/"/>
+        <updated>2021-08-11T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …
+The post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mike Neumegen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napkin]]></title>
+        <id>https://css-tricks.com/?p=346384</id>
+        <link href="https://www.napkin.io/"/>
+        <updated>2021-08-11T14:31:13.000Z</updated>
+        <summary type="html"><![CDATA[We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …
+The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Smashing Workshops on Front-End & Design]]></title>
+        <id>https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/</id>
+        <link href="https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/"/>
+        <updated>2021-08-11T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Complex Graphics with OpenGL]]></title>
+        <id>610d8f383306a507d1bff9c3</id>
+        <link href="https://www.freecodecamp.org/news/create-complex-graphics-with-opengl/"/>
+        <updated>2021-08-11T12:40:12.000Z</updated>
+        <summary type="html"><![CDATA[OpenGL can be used to create complex 2D and 3D graphics effects.  We just released an advanced OpenGL course on the freeCodeCamp.org YouTube channel. Victor Gordan created this course. Before this course he created one of the most popular OpenGL course on YouTube. Now, he will help you take]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handling Mounting And Unmounting Of Navigation Routes In React Native]]></title>
+        <id>https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/</id>
+        <link href="https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/"/>
+        <updated>2021-08-11T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Don)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Destructuring and the Spread Operator – Explained with Example Code]]></title>
         <id>610e151e3306a507d1bffb32</id>
@@ -18,7 +153,7 @@
     <entry>
         <title type="html"><![CDATA[View Source (on Mobile)]]></title>
         <id>https://css-tricks.com/?p=346392</id>
-        <link href="https://css-tricks.com/view-source-on-mobile/"/>
+        <link href="https://neatnik.net/view-source/"/>
         <updated>2021-08-10T21:26:34.000Z</updated>
         <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
 The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
@@ -32,76 +167,6 @@ The post View Source (on Mobile) appeared first on CSS-Tricks. You can support C
         <link href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/"/>
         <updated>2021-08-10T21:02:00.000Z</updated>
         <summary type="html"><![CDATA[If you are learning web development, you will come across terms like HTML, CSS, and JavaScript. These are often called the building blocks of the Web.  These three tools dominate web development. Every library or tool seems to be centered around HTML, CSS, and JS. So if you want to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Way to Learn Python – Python Programming Tutorial for Beginners]]></title>
-        <id>610642353306a507d1bfbfe4</id>
-        <link href="https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/"/>
-        <updated>2021-08-10T20:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Python is a great programming language to learn and you can use it in a variety of areas in software development. You can use Python for web development, data analysis, machine learning, artificial intelligence, and more.  With the vast amount of resources to choose from, sometimes it is hard to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python any() and all() Functions – Explained with Examples]]></title>
-        <id>6108f8453306a507d1bfce17</id>
-        <link href="https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/"/>
-        <updated>2021-08-10T20:26:25.000Z</updated>
-        <summary type="html"><![CDATA[When coding in Python, have you ever had to check if any item or all items in an iterable evaluate to True? The next time you need to do so, be sure to use the nifty functions any() and all(). In this tutorial, we'll learn about Python's any() and all(]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Coding? Computer Coding Definition]]></title>
-        <id>61122afb72231b077cdac810</id>
-        <link href="https://www.freecodecamp.org/news/what-is-coding/"/>
-        <updated>2021-08-10T19:54:45.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting your coding journey, one of the most exciting – and at times overwhelming – things about it is just how much there is to learn.  You'll discover different languages, frameworks, libraries, inventions and conventions.  One technology often requires knowledge of another one, and everything seems to be interconnected and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 VS Code Extensions to Increase Your Productivity]]></title>
-        <id>610ef4fc3306a507d1c00257</id>
-        <link href="https://www.freecodecamp.org/news/10-vscode-extensions-to-increase-productivity/"/>
-        <updated>2021-08-10T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the best things about VS Code is the rich library of extensions you can use to speed up your coding and make your life easier.  Some of these extensions are paid, but there are tons of quality options that are available for free in the VS Code Marketplace.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Web Scraping Tutorial – How to Scrape Data From Any Website with Python]]></title>
-        <id>610ce4f83306a507d1bfeba5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/"/>
-        <updated>2021-08-10T17:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping is the process of extracting specific data from the internet automatically. It has many use cases, like getting data for a machine learning project, creating a price comparison tool, or any other innovative idea that requires an immense amount of data. While you can theoretically do data extraction]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Against DDoS Attacks]]></title>
-        <id>5fff3e3798be260817e495df</id>
-        <link href="https://www.freecodecamp.org/news/protect-against-ddos-attacks/"/>
-        <updated>2021-08-10T17:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Distributed Denial of Service (DDoS) attacks aim to take an organization or service offline and originate from multiple, distributed hosts.  The difficult part of defending against DDoS attacks is that the hosts are distributed – if it were a single host or small group, you could easily block the traffic with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format a String in Python]]></title>
-        <id>60f7aef31d2b080797b80a01</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-a-string-in-python/"/>
-        <updated>2021-08-10T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Formatting a string is something you'll do all the time when you're coding in Python. For every variable, tuple, and dictionary and the logic that we define, we eventually have to either print or display it in some form.  And each of these, without exception, require us to format the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -141,16 +206,6 @@ div
 The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Big O Notation]]></title>
-        <id>610abfc03306a507d1bfde47</id>
-        <link href="https://www.freecodecamp.org/news/learn-big-o-notation/"/>
-        <updated>2021-08-10T13:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Big O notation is an important tools for computer scientists to analyze the cost of an algorithm. Most software engineers should have an understanding of it. We just released a course on the freeCodeCamp.org YouTube channel that will help you understand Big O Notation. Georgio Tunson, aka selikapro, created]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -293,42 +348,6 @@ The post Three Buggy React Code Examples and How to Fix Them appeared first on C
         <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL]]></title>
-        <id>https://css-tricks.com/?p=345552</id>
-        <link href="https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/"/>
-        <updated>2021-08-05T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Flutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …
-The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shadid Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://css-tricks.com/?p=345866</id>
-        <link href="https://www.smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-08-04T23:44:06.000Z</updated>
-        <summary type="html"><![CDATA[You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:
-[…] regardless 
-…
-The post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
-        <id>https://css-tricks.com/?p=345274</id>
-        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
-        <updated>2021-08-04T14:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
-The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -509,36 +528,6 @@ The post Using CSS Shapes for Interesting User Controls and Navigation appeared 
         <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
-        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
-        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
-        <updated>2021-07-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
-        <updated>2021-07-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
-        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
-        <updated>2021-07-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
