@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-13T00:40:34.054Z</id>
+    <id>urn:2021-08-14T00:36:36.026Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-13T00:40:34.054Z</updated>
+    <updated>2021-08-14T00:36:36.026Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unicode Arrows]]></title>
+        <id>https://css-tricks.com/?p=346665</id>
+        <link href="https://unicodearrows.com/"/>
+        <updated>2021-08-13T18:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
+Reminds …
+The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Cool Front End Thing Generator]]></title>
+        <id>https://css-tricks.com/?p=345944</id>
+        <link href="https://css-tricks.com/building-a-cool-front-end-thing-generator/"/>
+        <updated>2021-08-13T14:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …
+The post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Polacek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay alert]]></title>
         <id>https://css-tricks.com/?p=346608</id>
@@ -320,28 +343,6 @@ The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Nuxt Features past v2.10]]></title>
-        <id>https://css-tricks.com/?p=346290</id>
-        <link href="https://css-tricks.com/new-nuxt-features-past-v2-10/"/>
-        <updated>2021-08-06T15:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …
-The post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarah Drasner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()]]></title>
-        <id>https://css-tricks.com/?p=345467</id>
-        <link href="https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/"/>
-        <updated>2021-08-06T14:55:06.000Z</updated>
-        <summary type="html"><![CDATA[I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …
-The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andy Ford</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
         <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
         <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
@@ -529,16 +530,6 @@ The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties a
         <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
