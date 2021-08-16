@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T00:39:36.881Z</id>
+    <id>urn:2021-08-16T00:38:58.506Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:39:36.881Z</updated>
+    <updated>2021-08-16T00:38:58.506Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,8 +10,7 @@
         <id>https://css-tricks.com/?p=346665</id>
         <link href="https://unicodearrows.com/"/>
         <updated>2021-08-13T18:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. 
-Reminds …
+        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. …
 The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -500,16 +499,6 @@ The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by
         <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Colby Fayock)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
