@@ -1,10 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-16T00:38:58.506Z</id>
+    <id>urn:2021-08-17T00:39:12.678Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-16T00:38:58.506Z</updated>
+    <updated>2021-08-17T00:39:12.678Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Tree Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>6119348e72231b077cdb0a55</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-tree-traversal-crash-course-the-only-one-youll-ever-need/"/>
+        <updated>2021-08-16T23:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for coding interviews? I designed a crash course series to help you out.  I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the second course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Hyperlink? HTML Links Explained with Examples]]></title>
+        <id>6114c87172231b077cdae3f2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-beginners/"/>
+        <updated>2021-08-16T23:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Let's begin with a quick question: How did you land on this article and this site today?  Well, quite literally, by clicking or tapping on a link, right? That's how powerful this element is – it will get you to any part of the Internet just by clicking on a link.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tabs in HTML?]]></title>
+        <id>https://css-tricks.com/?p=346418</id>
+        <link href="https://bkardell.com/blog/SpicySections.html"/>
+        <updated>2021-08-16T23:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Brian Kardell shares a bit about the progress of bringing "Tabs" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.
+The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Promise? JavaScript Promises for Beginners]]></title>
+        <id>611a2ac772231b077cdb0e58</id>
+        <link href="https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/"/>
+        <updated>2021-08-16T22:56:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're a JavaScript beginner, you might be struggling to understand what a promise really is.  I recently published this as a thread on Twitter and was blown away by the responses. So I decided to expand this into an introductory tutorial on JavaScript promises. I have read a lot]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutouts]]></title>
+        <id>https://css-tricks.com/?p=346686</id>
+        <link href="https://ishadeed.com/article/thinking-about-the-cut-out-effect/"/>
+        <updated>2021-08-16T20:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. 
+The first thing …
+The post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Actions to Automate Android App Development]]></title>
+        <id>61167e3d72231b077cdafc14</id>
+        <link href="https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/"/>
+        <updated>2021-08-16T20:18:40.000Z</updated>
+        <summary type="html"><![CDATA[There are many repetitive tasks that we have to do every day. And they can be a bit boring, difficult, and monotonous.  But instead of laboring away at those daily tasks, you can delegate them so someone or something else does them for you. That way, you can have more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Button onclick – JavaScript Click Event Tutorial]]></title>
+        <id>611772ea72231b077cdafd56</id>
+        <link href="https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/"/>
+        <updated>2021-08-16T17:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you visit a website, you'll probably click on something like a link or button.  Links take you to a certain part of the page, another page of the website, or another website entirely. Buttons, on the other hand, are usually manipulated by JavaScript events so they can trigger certain]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IF Statement Excel – If Function Examples]]></title>
+        <id>6107bffb3306a507d1bfc543</id>
+        <link href="https://www.freecodecamp.org/news/if-statement-excel-if-function-examples/"/>
+        <updated>2021-08-16T16:10:37.000Z</updated>
+        <summary type="html"><![CDATA[If you are analysing data in Excel and need to set the value of a cell conditionally, you can use an IF statement to do so. The syntax is IF(logical_test, [value_if_true], [value_if_false]), where: logical_test is an expression that evaluates to TRUE or FALSE,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Web Development? How to Become a Web Developer [2021 Career Path]]]></title>
+        <id>6106498a3306a507d1bfbff1</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/"/>
+        <updated>2021-08-16T16:10:01.000Z</updated>
+        <summary type="html"><![CDATA[You have just decided to learn how to code and you want to pursue a career in web development. But what exactly is web development? Where can you start learning? How much do web developers make? How do you get a job as a web developer? When I first started]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML is Not a Programming Language?]]></title>
+        <id>https://css-tricks.com/?p=346318</id>
+        <link href="https://css-tricks.com/html-is-not-a-programming-language/"/>
+        <updated>2021-08-16T14:44:35.000Z</updated>
+        <summary type="html"><![CDATA[HTML is not a programming language.
+I’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …
+The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Alvaro Montoro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup Babel in Node.js]]></title>
+        <id>6114b68972231b077cdae2e6</id>
+        <link href="https://www.freecodecamp.org/news/setup-babel-in-nodejs/"/>
+        <updated>2021-08-16T13:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is one of the most popular back-end technologies out there right now. It is friendly, robust, and well-maintained and it's not going anywhere anytime soon.  To help you learn how to use it effectively, in this article we will create a simple server using Node with Babel configured]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Learning to Code is Hard – And How to Make it Easier]]></title>
+        <id>6040a6a7a7946308b768148c</id>
+        <link href="https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/"/>
+        <updated>2021-08-16T13:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Are you struggling to learn to code? If you are, I want to help. So I have collected some tips from my personal experience to guide you so that you won't struggle unnecessarily again.‌‌ Why is Learning to Code Hard?Learning to code can be very hard especially for beginners.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is HTTPS? HTTP vs HTTPS Meaning and How it Works]]></title>
+        <id>6114ce1f72231b077cdae411</id>
+        <link href="https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/"/>
+        <updated>2021-08-16T13:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed the "HTTP" or "HTTPS" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Develop Your Business’ Technology Roadmap]]></title>
+        <id>https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/</id>
+        <link href="https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/"/>
+        <updated>2021-08-16T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cache Merril)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unicode Arrows]]></title>
         <id>https://css-tricks.com/?p=346665</id>
@@ -39,76 +184,6 @@ The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Online – HTML, CSS, and JS Code Editor List [Browser IDE Tools]]]></title>
-        <id>610655c93306a507d1bfc0e6</id>
-        <link href="https://www.freecodecamp.org/news/javascript-online-html-css-js-code-editor-list-browser-ide-tools/"/>
-        <updated>2021-08-12T19:31:16.000Z</updated>
-        <summary type="html"><![CDATA[There are many benefits to coding in an online IDE or code editor. With these tools you don't need to set anything up locally, you can easily share your work, and they are often free to use. In this article, you'll learn what a code editor and an IDE are.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML and CSS – Inline Style, External Stylesheet, CSS Code Examples]]></title>
-        <id>6115261272231b077cdaebfe</id>
-        <link href="https://www.freecodecamp.org/news/html-and-css-inline-style-external-stylesheet-css-code-examples/"/>
-        <updated>2021-08-12T18:47:27.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning about web development, you probably hear about HTML and CSS pretty quickly. Well, what are these tools and how do you use them?  You can think of HTML as the structure and framing of a house. And when you want to make that structure look good, you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Websites Where You Can Learn How to Code for Free]]></title>
-        <id>6107c0203306a507d1bfc551</id>
-        <link href="https://www.freecodecamp.org/news/coding-websites-where-you-can-learn-how-to-code-for-free/"/>
-        <updated>2021-08-12T18:11:29.000Z</updated>
-        <summary type="html"><![CDATA[In this day and age, it seems like everyone is learning to code. Maybe you want to know how websites work, or you think back fondly on the old blogging platforms where you could hack together some HTML to personalize them. Or maybe you are curious to learn what all]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laravel Authentication Tutorial – How to Set Up Basic Auth in Laravel 8]]></title>
-        <id>610fefc23306a507d1c00896</id>
-        <link href="https://www.freecodecamp.org/news/basic-authentication-in-laravel8-using-laravel-breeze/"/>
-        <updated>2021-08-12T15:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is an important feature and basic requirement in web applications these days. And developers spend lots of time building authentication modules for every application they create.  But this manual approach can get tiring and is a bit unproductive. This is where Laravel really shines. It, along with Laravel Breeze,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install and Set Up Flutter on Ubuntu 16.04+]]></title>
-        <id>610e15c63306a507d1bffb45</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-and-setup-flutter-on-ubuntu/"/>
-        <updated>2021-08-12T15:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a Dart-based toolkit that helps you build the front end of your apps. It really shines in cross-platform mobile app development and aims to be a viable option for web and desktop as well.  In its mobile app flavor, Flutter provides many UI abstractions to build interfaces. You]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Modern Clean Architecture]]></title>
-        <id>6112e3c972231b077cdad299</id>
-        <link href="https://www.freecodecamp.org/news/modern-clean-architecture/"/>
-        <updated>2021-08-12T15:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Clean Architecture is a term coined by Robert C. Martin. The main idea is that entities and use cases are independent of frameworks, UI, the database, and external services. A Clean Architecture style has a positive effect on maintainability because: We can test domain entities and use cases without a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Form – Input Type and Submit Button Example]]></title>
-        <id>6113ee6272231b077cdadbd3</id>
-        <link href="https://www.freecodecamp.org/news/html-form-input-type-and-submit-button-example/"/>
-        <updated>2021-08-12T15:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Forms are one of the most important parts of the web. Without them, there wouldn't be an easy way to collect data, search for resources, or sign up to receive valuable information.  You can embed forms on websites with the HTML form element. Inside the form element, several inputs are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Web Components in WordPress is Easier Than You Think]]></title>
         <id>https://css-tricks.com/?p=345687</id>
         <link href="https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/"/>
@@ -128,36 +203,6 @@ The post Using Web Components in WordPress is Easier Than You Think appeared fir
         <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Janet John)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI Course – Code APIs Quickly]]></title>
-        <id>610aec303306a507d1bfdf07</id>
-        <link href="https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/"/>
-        <updated>2021-08-12T13:07:37.000Z</updated>
-        <summary type="html"><![CDATA[FastAPI makes it quicker and easier to develop APIs with Python. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to use FastAPI.  Tomi Tokko developed this course. Tomi has made many popular courses both on his own channel and the freeCodeCamp]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search Tree Algorithms for JavaScript Beginners]]></title>
-        <id>61025c793306a507d1bfad64</id>
-        <link href="https://www.freecodecamp.org/news/binary-tree-algorithms-for-javascript-beginners/"/>
-        <updated>2021-08-11T23:50:28.000Z</updated>
-        <summary type="html"><![CDATA[I recently had the chance to teach high school students how to code. There are not that many beginner-friendly tutorials on algorithms coded in JavaScript which is the language they were learning. So I decided to make one. In this article, I will try my best to explain some core]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement iOS-Specific Components and APIs]]></title>
-        <id>610d4a303306a507d1bff2ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-ios-components-apis/"/>
-        <updated>2021-08-11T23:31:34.000Z</updated>
-        <summary type="html"><![CDATA[One of the end goals of a React Native project is to have a minimal amount of platform-specific logic and code. Most APIs can be built so the platform-specific code is abstracted away by the framework. This gives you a single way to interact with them and easily create cross-platform]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -297,28 +342,6 @@ The post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Large, Small, and Dynamic Viewports]]></title>
-        <id>https://css-tricks.com/?p=346316</id>
-        <link href="https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/"/>
-        <updated>2021-08-09T20:37:39.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …
-The post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Image Fragmentation Effect]]></title>
-        <id>https://css-tricks.com/?p=345642</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/"/>
-        <updated>2021-08-09T14:27:18.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …
-The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTP/3 From A To Z: Core Concepts (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/08/http3-core-concepts-part1/</id>
         <link href="https://smashingmagazine.com/2021/08/http3-core-concepts-part1/"/>
@@ -326,19 +349,6 @@ The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first 
         <summary type="html"><![CDATA[What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Gobbler]]></title>
-        <id>https://css-tricks.com/?p=346259</id>
-        <link href="https://css-tricks.com/svg-gobbler/"/>
-        <updated>2021-08-06T19:32:54.000Z</updated>
-        <summary type="html"><![CDATA[Great little project from Ross Moody: 
-SVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.
-…
-The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
