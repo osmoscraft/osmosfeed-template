@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-17T00:39:12.678Z</id>
+    <id>urn:2021-08-18T00:38:43.381Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-17T00:39:12.678Z</updated>
+    <updated>2021-08-18T00:38:43.381Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DX, to Whom?]]></title>
+        <id>https://css-tricks.com/?p=346697</id>
+        <link href="https://css-tricks.com/dx-to-whom/"/>
+        <updated>2021-08-17T21:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Dave points to Sarah’s post on Developer Experience (DX) at Netlify. Part of what Sarah did there is lay out what the role means. It’s a three-part thing:
+Integrations Engineering (e.g. features)
+Developer Experience Engineering (e.g. building integrations 
+…
+The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Screen Brightness on Windows 10 – Brightness Settings and How to Turn Brightness Down]]></title>
+        <id>611c1448e884de0752180af9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/"/>
+        <updated>2021-08-17T21:03:08.000Z</updated>
+        <summary type="html"><![CDATA[If your screen is too bright, it can give you eye problems – especially if you sit in front of a computer coding all day.  This is because a too-bright screen can cause eye strain and fatigue, which can lead to headaches and other maladies.  If you're a regular computer user,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code – Coding for Beginners and How to Learn Programming for Free]]></title>
+        <id>611b91d2e884de07521804a5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/"/>
+        <updated>2021-08-17T18:06:09.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are a lot resources out there for learning how to code. And many of them are readily available online for free – so choosing one can be overwhelming.  But there's definitely an upside: you don't need to attend a paid bootcamp or university anymore in order to learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Open Source Software? OSS Explained in Plain English]]></title>
+        <id>610652013306a507d1bfc088</id>
+        <link href="https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/"/>
+        <updated>2021-08-17T18:05:47.000Z</updated>
+        <summary type="html"><![CDATA[During your programming journey, you might have heard of the term "Open Source". But what does that actually mean? In this article, I will explain what Open Source Software is and talk about how it differs from other types of software. I'll also discuss the positives of Open Source Software]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Search Filter using React and React Hooks]]></title>
+        <id>6117d59672231b077cdaffad</id>
+        <link href="https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/"/>
+        <updated>2021-08-17T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[When you send a GET request to an API, you get the response data back from the server. But sometimes managing this data can be a problem. In this blog post, I will show you how to create a search filter in React. It will search for a particular term]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Function Examples – How to Declare and Invoke with Parameters]]></title>
+        <id>611a247372231b077cdb0d85</id>
+        <link href="https://www.freecodecamp.org/news/python-function-examples-how-to-declare-and-invoke-with-parameters/"/>
+        <updated>2021-08-17T17:34:07.000Z</updated>
+        <summary type="html"><![CDATA[When you first start to learn Python, you'll see that there are a wealth of built-in functions. You have functions like print() to print output to the console, input() to recieve input from the user, and many more.  But Python also gives you the freedom to create your own functions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Programs – 152 Coding Classes You can Take for Free Online]]></title>
+        <id>611057a03306a507d1c00a16</id>
+        <link href="https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online/"/>
+        <updated>2021-08-17T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[In May of 2021, I wrote an article titled Coding Programs – 101 Ways to Learn to Code for Free. But since then, many more free courses have come out that should be added to the list.  In this article, I'm going to show you 152 more courses where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo]]></title>
+        <id>https://css-tricks.com/?p=346449</id>
+        <link href="https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/"/>
+        <updated>2021-08-17T14:53:41.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been working on the same project for several years. Its initial version was a huge monolithic app containing thousands of files. It was poorly architected and non-reusable, but was hosted in a single repo making it easy to work …
+The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Leonardo Losoviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Google APIs with Python Django]]></title>
+        <id>6116b66b72231b077cdafc35</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/"/>
+        <updated>2021-08-17T13:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Google has a bunch of different APIs. It can be tricky to figure out how to incorporate them into a Django project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Django app that uses multiple Google APIs. Bobby Stearman]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Open-Source Icons]]></title>
+        <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
+        <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
+        <updated>2021-08-17T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Interview Tree Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
         <id>6119348e72231b077cdb0a55</id>
@@ -59,46 +164,6 @@ The post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by bei
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use GitHub Actions to Automate Android App Development]]></title>
-        <id>61167e3d72231b077cdafc14</id>
-        <link href="https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/"/>
-        <updated>2021-08-16T20:18:40.000Z</updated>
-        <summary type="html"><![CDATA[There are many repetitive tasks that we have to do every day. And they can be a bit boring, difficult, and monotonous.  But instead of laboring away at those daily tasks, you can delegate them so someone or something else does them for you. That way, you can have more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Button onclick – JavaScript Click Event Tutorial]]></title>
-        <id>611772ea72231b077cdafd56</id>
-        <link href="https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/"/>
-        <updated>2021-08-16T17:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Whenever you visit a website, you'll probably click on something like a link or button.  Links take you to a certain part of the page, another page of the website, or another website entirely. Buttons, on the other hand, are usually manipulated by JavaScript events so they can trigger certain]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IF Statement Excel – If Function Examples]]></title>
-        <id>6107bffb3306a507d1bfc543</id>
-        <link href="https://www.freecodecamp.org/news/if-statement-excel-if-function-examples/"/>
-        <updated>2021-08-16T16:10:37.000Z</updated>
-        <summary type="html"><![CDATA[If you are analysing data in Excel and need to set the value of a cell conditionally, you can use an IF statement to do so. The syntax is IF(logical_test, [value_if_true], [value_if_false]), where: logical_test is an expression that evaluates to TRUE or FALSE,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Web Development? How to Become a Web Developer [2021 Career Path]]]></title>
-        <id>6106498a3306a507d1bfbff1</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/"/>
-        <updated>2021-08-16T16:10:01.000Z</updated>
-        <summary type="html"><![CDATA[You have just decided to learn how to code and you want to pursue a career in web development. But what exactly is web development? Where can you start learning? How much do web developers make? How do you get a job as a web developer? When I first started]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTML is Not a Programming Language?]]></title>
         <id>https://css-tricks.com/?p=346318</id>
         <link href="https://css-tricks.com/html-is-not-a-programming-language/"/>
@@ -108,36 +173,6 @@ I’ve heard that sentence so many times and it’s tiring. Normally, it is foll
 The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Alvaro Montoro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Setup Babel in Node.js]]></title>
-        <id>6114b68972231b077cdae2e6</id>
-        <link href="https://www.freecodecamp.org/news/setup-babel-in-nodejs/"/>
-        <updated>2021-08-16T13:58:10.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is one of the most popular back-end technologies out there right now. It is friendly, robust, and well-maintained and it's not going anywhere anytime soon.  To help you learn how to use it effectively, in this article we will create a simple server using Node with Babel configured]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Learning to Code is Hard – And How to Make it Easier]]></title>
-        <id>6040a6a7a7946308b768148c</id>
-        <link href="https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/"/>
-        <updated>2021-08-16T13:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Are you struggling to learn to code? If you are, I want to help. So I have collected some tips from my personal experience to guide you so that you won't struggle unnecessarily again.‌‌ Why is Learning to Code Hard?Learning to code can be very hard especially for beginners.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HTTPS? HTTP vs HTTPS Meaning and How it Works]]></title>
-        <id>6114ce1f72231b077cdae411</id>
-        <link href="https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/"/>
-        <updated>2021-08-16T13:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever noticed the "HTTP" or "HTTPS" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -296,19 +331,6 @@ The post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Nesting, specificity, and you]]></title>
-        <id>https://css-tricks.com/?p=346355</id>
-        <link href="https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/"/>
-        <updated>2021-08-10T14:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:
-div 
-…
-The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cookieless Alternative To Embed HTML, CSS And JS Code Snippets]]></title>
         <id>https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/</id>
         <link href="https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/"/>
@@ -326,19 +348,6 @@ The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[In this episode, we’re talking about designing for safety. What does it mean to consider vulnerable users in our designs? Drew McLellan talks to expert Eva PenzeyMoog to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choice Words about the Upcoming Deprecation of JavaScript Dialogs]]></title>
-        <id>https://css-tricks.com/?p=346368</id>
-        <link href="https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/"/>
-        <updated>2021-08-09T21:23:44.000Z</updated>
-        <summary type="html"><![CDATA[It might be the very first thing a lot of people learn in JavaScript:
-alert("Hello, World");
-One day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …
-The post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -499,16 +508,6 @@ The post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appea
         <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alba Silvente)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
-        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
-        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
-        <updated>2021-07-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Colby Fayock)</name>
         </author>
     </entry>
 </feed>

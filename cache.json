@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346697",
+          "author": "Chris Coyier",
+          "description": "Dave points to Sarah’s post on Developer Experience (DX) at Netlify. Part of what Sarah did there is lay out what the role means. It’s a three-part thing:\nIntegrations Engineering (e.g. features)\nDeveloper Experience Engineering (e.g. building integrations \n…\nThe post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dx-to-whom/",
+          "publishedOn": "2021-08-17T21:09:32.000Z",
+          "wordCount": 542,
+          "title": "DX, to Whom?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346449",
+          "author": "Leonardo Losoviz",
+          "description": "I’ve been working on the same project for several years. Its initial version was a huge monolithic app containing thousands of files. It was poorly architected and non-reusable, but was hosted in a single repo making it easy to work …\nThe post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/",
+          "publishedOn": "2021-08-17T14:53:41.000Z",
+          "wordCount": 3874,
+          "title": "From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo"
+        },
+        {
           "id": "https://css-tricks.com/?p=346418",
           "author": "Chris Coyier",
           "description": "Brian Kardell shares a bit about the progress of bringing \"Tabs\" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.\nThe post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -35,7 +53,7 @@
           "description": "HTML is not a programming language.\nI’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …\nThe post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/html-is-not-a-programming-language/",
           "publishedOn": "2021-08-16T14:44:35.000Z",
-          "wordCount": 3453,
+          "wordCount": 4249,
           "title": "HTML is Not a Programming Language?"
         },
         {
@@ -89,7 +107,7 @@
           "description": "You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …\nThe post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
           "publishedOn": "2021-08-11T14:31:20.000Z",
-          "wordCount": 4034,
+          "wordCount": 4491,
           "title": "Static vs. Dynamic vs. Jamstack: Where’s The Line?"
         },
         {
@@ -125,26 +143,8 @@
           "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
           "publishedOn": "2021-08-10T14:54:56.000Z",
-          "wordCount": 1338,
+          "wordCount": 1321,
           "title": "WooCommerce With Apple Pay and Google Pay"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346355",
-          "author": "Robin Rendle",
-          "description": "Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:\ndiv \n…\nThe post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/",
-          "publishedOn": "2021-08-10T14:51:39.000Z",
-          "wordCount": 2378,
-          "title": "CSS Nesting, specificity, and you"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346368",
-          "author": "Chris Coyier",
-          "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
-          "publishedOn": "2021-08-09T21:23:44.000Z",
-          "wordCount": 2300,
-          "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/open-source-icons/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
+          "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
+          "publishedOn": "2021-08-17T07:25:00.000Z",
+          "wordCount": 1866,
+          "title": "Free Open-Source Icons",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "author": "hello@smashingmagazine.com (Cache Merril)",
           "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
           "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2962,
+          "wordCount": 2961,
           "title": "How To Develop Your Business’ Technology Roadmap",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
@@ -173,7 +187,7 @@
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
           "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6655,
+          "wordCount": 6651,
           "title": "Useful Figma Plugins And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
@@ -201,7 +215,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5043,
+          "wordCount": 5044,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -243,7 +257,7 @@
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6880,
+          "wordCount": 6884,
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
@@ -257,7 +271,7 @@
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 586,
+          "wordCount": 579,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -271,7 +285,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6579,
+          "wordCount": 6582,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -285,7 +299,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3332,
+          "wordCount": 3335,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -313,7 +327,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5996,
+          "wordCount": 5994,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -327,7 +341,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2529,
+          "wordCount": 2537,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -341,7 +355,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12543,
+          "wordCount": 12552,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -355,7 +369,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2964,
+          "wordCount": 2967,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -369,7 +383,7 @@
           "description": "Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.",
           "link": "https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
           "publishedOn": "2021-07-28T11:00:00.000Z",
-          "wordCount": 3102,
+          "wordCount": 3096,
           "title": "Creating An Accessible Dialog From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ef51448-125a-4906-98f1-11af0e3fad58/accessible-dialog-from-scratch.jpg",
@@ -383,7 +397,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3582,
+          "wordCount": 3585,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -397,7 +411,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3114,
+          "wordCount": 3098,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
@@ -411,7 +425,7 @@
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
           "link": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "publishedOn": "2021-07-23T11:00:00.000Z",
-          "wordCount": 3408,
+          "wordCount": 3422,
           "title": "A Guide To Attracting Clients To Your Agency",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
@@ -439,7 +453,7 @@
           "description": "Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "publishedOn": "2021-07-21T13:00:00.000Z",
-          "wordCount": 3073,
+          "wordCount": 3074,
           "title": "Color Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/17380a77-f247-450e-be45-2b2e139f7a33/cool-backgrounds.png",
@@ -460,20 +474,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
-          "author": "hello@smashingmagazine.com (Colby Fayock)",
-          "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
-          "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
-          "publishedOn": "2021-07-19T10:30:00.000Z",
-          "wordCount": 4503,
-          "title": "Maintaining End-To-End Quality With Visual Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -482,6 +482,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "611c1448e884de0752180af9",
+          "author": null,
+          "description": "If your screen is too bright, it can give you eye problems – especially if you sit in front of a computer coding all day.  This is because a too-bright screen can cause eye strain and fatigue, which can lead to headaches and other maladies.  If you're a regular computer user,",
+          "link": "https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/",
+          "publishedOn": "2021-08-17T21:03:08.000Z",
+          "wordCount": 885,
+          "title": "How to Change Screen Brightness on Windows 10 – Brightness Settings and How to Turn Brightness Down"
+        },
+        {
+          "id": "611b91d2e884de07521804a5",
+          "author": null,
+          "description": "These days, there are a lot resources out there for learning how to code. And many of them are readily available online for free – so choosing one can be overwhelming.  But there's definitely an upside: you don't need to attend a paid bootcamp or university anymore in order to learn",
+          "link": "https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/",
+          "publishedOn": "2021-08-17T18:06:09.000Z",
+          "wordCount": 1426,
+          "title": "How to Code – Coding for Beginners and How to Learn Programming for Free"
+        },
+        {
+          "id": "610652013306a507d1bfc088",
+          "author": null,
+          "description": "During your programming journey, you might have heard of the term \"Open Source\". But what does that actually mean? In this article, I will explain what Open Source Software is and talk about how it differs from other types of software. I'll also discuss the positives of Open Source Software",
+          "link": "https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/",
+          "publishedOn": "2021-08-17T18:05:47.000Z",
+          "wordCount": 1213,
+          "title": "What is Open Source Software? OSS Explained in Plain English"
+        },
+        {
+          "id": "6117d59672231b077cdaffad",
+          "author": null,
+          "description": "When you send a GET request to an API, you get the response data back from the server. But sometimes managing this data can be a problem. In this blog post, I will show you how to create a search filter in React. It will search for a particular term",
+          "link": "https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/",
+          "publishedOn": "2021-08-17T17:56:15.000Z",
+          "wordCount": 1409,
+          "title": "How to Build a Search Filter using React and React Hooks"
+        },
+        {
+          "id": "611a247372231b077cdb0d85",
+          "author": null,
+          "description": "When you first start to learn Python, you'll see that there are a wealth of built-in functions. You have functions like print() to print output to the console, input() to recieve input from the user, and many more.  But Python also gives you the freedom to create your own functions",
+          "link": "https://www.freecodecamp.org/news/python-function-examples-how-to-declare-and-invoke-with-parameters/",
+          "publishedOn": "2021-08-17T17:34:07.000Z",
+          "wordCount": 1735,
+          "title": "Python Function Examples – How to Declare and Invoke with Parameters"
+        },
+        {
+          "id": "611057a03306a507d1c00a16",
+          "author": null,
+          "description": "In May of 2021, I wrote an article titled Coding Programs – 101 Ways to Learn to Code for Free. But since then, many more free courses have come out that should be added to the list.  In this article, I'm going to show you 152 more courses where you can",
+          "link": "https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online/",
+          "publishedOn": "2021-08-17T17:00:03.000Z",
+          "wordCount": 5039,
+          "title": "Coding Programs – 152 Coding Classes You can Take for Free Online"
+        },
+        {
+          "id": "6116b66b72231b077cdafc35",
+          "author": null,
+          "description": "Google has a bunch of different APIs. It can be tricky to figure out how to incorporate them into a Django project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Django app that uses multiple Google APIs. Bobby Stearman",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/",
+          "publishedOn": "2021-08-17T13:32:18.000Z",
+          "wordCount": 21004,
+          "title": "How to Integrate Google APIs with Python Django"
+        },
         {
           "id": "6119348e72231b077cdb0a55",
           "author": null,
@@ -508,69 +571,6 @@
           "publishedOn": "2021-08-16T22:56:20.000Z",
           "wordCount": 1738,
           "title": "What is a Promise? JavaScript Promises for Beginners"
-        },
-        {
-          "id": "61167e3d72231b077cdafc14",
-          "author": null,
-          "description": "There are many repetitive tasks that we have to do every day. And they can be a bit boring, difficult, and monotonous.  But instead of laboring away at those daily tasks, you can delegate them so someone or something else does them for you. That way, you can have more",
-          "link": "https://www.freecodecamp.org/news/use-github-actions-to-automate-android-development/",
-          "publishedOn": "2021-08-16T20:18:40.000Z",
-          "wordCount": 2038,
-          "title": "How to Use GitHub Actions to Automate Android App Development"
-        },
-        {
-          "id": "611772ea72231b077cdafd56",
-          "author": null,
-          "description": "Whenever you visit a website, you'll probably click on something like a link or button.  Links take you to a certain part of the page, another page of the website, or another website entirely. Buttons, on the other hand, are usually manipulated by JavaScript events so they can trigger certain",
-          "link": "https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/",
-          "publishedOn": "2021-08-16T17:58:05.000Z",
-          "wordCount": 2613,
-          "title": "HTML Button onclick – JavaScript Click Event Tutorial"
-        },
-        {
-          "id": "6107bffb3306a507d1bfc543",
-          "author": null,
-          "description": "If you are analysing data in Excel and need to set the value of a cell conditionally, you can use an IF statement to do so. The syntax is IF(logical_test, [value_if_true], [value_if_false]), where: logical_test is an expression that evaluates to TRUE or FALSE,",
-          "link": "https://www.freecodecamp.org/news/if-statement-excel-if-function-examples/",
-          "publishedOn": "2021-08-16T16:10:37.000Z",
-          "wordCount": 808,
-          "title": "IF Statement Excel – If Function Examples"
-        },
-        {
-          "id": "6106498a3306a507d1bfbff1",
-          "author": null,
-          "description": "You have just decided to learn how to code and you want to pursue a career in web development. But what exactly is web development? Where can you start learning? How much do web developers make? How do you get a job as a web developer? When I first started",
-          "link": "https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/",
-          "publishedOn": "2021-08-16T16:10:01.000Z",
-          "wordCount": 1538,
-          "title": "What is Web Development? How to Become a Web Developer [2021 Career Path]"
-        },
-        {
-          "id": "6114b68972231b077cdae2e6",
-          "author": null,
-          "description": "Node.js is one of the most popular back-end technologies out there right now. It is friendly, robust, and well-maintained and it's not going anywhere anytime soon.  To help you learn how to use it effectively, in this article we will create a simple server using Node with Babel configured",
-          "link": "https://www.freecodecamp.org/news/setup-babel-in-nodejs/",
-          "publishedOn": "2021-08-16T13:58:10.000Z",
-          "wordCount": 1038,
-          "title": "How to Setup Babel in Node.js"
-        },
-        {
-          "id": "6040a6a7a7946308b768148c",
-          "author": null,
-          "description": "Are you struggling to learn to code? If you are, I want to help. So I have collected some tips from my personal experience to guide you so that you won't struggle unnecessarily again.‌‌ Why is Learning to Code Hard?Learning to code can be very hard especially for beginners.",
-          "link": "https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/",
-          "publishedOn": "2021-08-16T13:58:01.000Z",
-          "wordCount": 2566,
-          "title": "Why Learning to Code is Hard – And How to Make it Easier"
-        },
-        {
-          "id": "6114ce1f72231b077cdae411",
-          "author": null,
-          "description": "Have you ever noticed the \"HTTP\" or \"HTTPS\" at the beginning of a URL in your browser? Well, what is HTTP and what is HTTPS? How are they different?  In order to understand the differences, it helps to demistify to meaning of these two terms and",
-          "link": "https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/",
-          "publishedOn": "2021-08-16T13:57:44.000Z",
-          "wordCount": 1813,
-          "title": "What is HTTPS? HTTP vs HTTPS Meaning and How it Works"
         }
       ]
     }
