@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-18T00:38:43.381Z</id>
+    <id>urn:2021-08-19T00:33:55.859Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-18T00:38:43.381Z</updated>
+    <updated>2021-08-19T00:33:55.859Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“We had 90% unused CSS because everybody was afraid to touch the old stuff”]]></title>
+        <id>https://css-tricks.com/?p=348288</id>
+        <link href="https://css-tricks.com/we-had-90-unused-css-because-everybody-was-afraid-to-touch-the-old-stuff/"/>
+        <updated>2021-08-18T22:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Over at the JS Party poundcast:
+[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And 
+…
+The post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Site with Next.js and TailwindCSS]]></title>
+        <id>61135a3472231b077cdad609</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/"/>
+        <updated>2021-08-18T18:02:02.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Tips for Software Developers – How to Become a Better Tech Writer]]></title>
+        <id>610d63b33306a507d1bff79f</id>
+        <link href="https://www.freecodecamp.org/news/writing-tips-software-developers/"/>
+        <updated>2021-08-18T16:48:00.000Z</updated>
+        <summary type="html"><![CDATA[You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby]]></title>
+        <id>https://css-tricks.com/?p=346147</id>
+        <link href="https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/"/>
+        <updated>2021-08-18T14:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Have you already tried using WordPress headlessly with Gatsby? If you haven’t, you might check this article around the new Gatsby source plugin for WordPress; gatsby-source-wordpress is the official source plugin introduced in March 2021 as a part of the …
+The post Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Paulina Hetman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Interactive Gantt Chart Component With Vanilla JavaScript]]></title>
+        <id>https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/</id>
+        <link href="https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/"/>
+        <updated>2021-08-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anna Prenzel)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DX, to Whom?]]></title>
         <id>https://css-tricks.com/?p=346697</id>
@@ -55,16 +109,6 @@ The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks b
         <link href="https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/"/>
         <updated>2021-08-17T17:56:15.000Z</updated>
         <summary type="html"><![CDATA[When you send a GET request to an API, you get the response data back from the server. But sometimes managing this data can be a problem. In this blog post, I will show you how to create a search filter in React. It will search for a particular term]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Function Examples – How to Declare and Invoke with Parameters]]></title>
-        <id>611a247372231b077cdb0d85</id>
-        <link href="https://www.freecodecamp.org/news/python-function-examples-how-to-declare-and-invoke-with-parameters/"/>
-        <updated>2021-08-17T17:34:07.000Z</updated>
-        <summary type="html"><![CDATA[When you first start to learn Python, you'll see that there are a wealth of built-in functions. You have functions like print() to print output to the console, input() to recieve input from the user, and many more.  But Python also gives you the freedom to create your own functions]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -139,16 +183,6 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
 The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Promise? JavaScript Promises for Beginners]]></title>
-        <id>611a2ac772231b077cdb0e58</id>
-        <link href="https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/"/>
-        <updated>2021-08-16T22:56:20.000Z</updated>
-        <summary type="html"><![CDATA[If you're a JavaScript beginner, you might be struggling to understand what a promise really is.  I recently published this as a thread on Twitter and was blown away by the responses. So I decided to expand this into an introductory tutorial on JavaScript promises. I have read a lot]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -302,30 +336,6 @@ The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by bein
         <updated>2021-08-10T21:26:34.000Z</updated>
         <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
 The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible Markdown in Next.js]]></title>
-        <id>https://css-tricks.com/?p=345861</id>
-        <link href="https://css-tricks.com/responsible-markdown-in-next-js/"/>
-        <updated>2021-08-10T14:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.
-That being said: parsing, processing, …
-The post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Kitty Giraudel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WooCommerce With Apple Pay and Google Pay]]></title>
-        <id>https://css-tricks.com/?p=345799</id>
-        <link href="https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/"/>
-        <updated>2021-08-10T14:54:56.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Got a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …
-The post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -498,16 +508,6 @@ The post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks.
         <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
-        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
-        <updated>2021-07-20T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
         </author>
     </entry>
 </feed>
