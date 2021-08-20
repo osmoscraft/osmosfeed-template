@@ -1,17 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-19T00:33:55.859Z</id>
+    <id>urn:2021-08-20T00:38:33.319Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T00:33:55.859Z</updated>
+    <updated>2021-08-20T00:38:33.319Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
+        <id>611e8bac3bccf807612a34df</id>
+        <link href="https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/"/>
+        <updated>2021-08-19T23:23:07.000Z</updated>
+        <summary type="html"><![CDATA[When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS Display Property – Display None, Display Table, Inline Block and More]]></title>
+        <id>611d436ee884de0752181044</id>
+        <link href="https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/"/>
+        <updated>2021-08-19T20:47:14.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical Scope in JavaScript – What Exactly Is Scope in JS?]]></title>
+        <id>611e4447e884de0752181578</id>
+        <link href="https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/"/>
+        <updated>2021-08-19T19:56:48.000Z</updated>
+        <summary type="html"><![CDATA[The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Gotcha With Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=350054</id>
+        <link href="https://css-tricks.com/the-big-gotcha-with-custom-properties/"/>
+        <updated>2021-08-19T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.
+Let’s chuck a couple of custom properties into CSS:
+html {
+  --color-1: red;
+  --color-2: blue;
+}
+Let’s use them right …
+The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity]]></title>
+        <id>611e3f8ee884de0752181566</id>
+        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/"/>
+        <updated>2021-08-19T17:29:46.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()]]></title>
+        <id>611d2ad1e884de0752180f58</id>
+        <link href="https://www.freecodecamp.org/news/array-map-tutorial/"/>
+        <updated>2021-08-19T16:16:57.000Z</updated>
+        <summary type="html"><![CDATA[When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Nuxt and Supabase for  a Multi-User Blogging App]]></title>
+        <id>https://css-tricks.com/?p=346563</id>
+        <link href="https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/"/>
+        <updated>2021-08-19T14:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Nuxt is a JavaScript framework that extends the existing functionality of Vue.js with features like server-side rendering, static page generation, file-based routing, and automatic code splitting among other things.
+I’ve been enjoying using frameworks like Nuxt and Next because they …
+The post Using Nuxt and Supabase for  a Multi-User Blogging App appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a single GraphQL across multiple data sources]]></title>
+        <id>https://css-tricks.com/?p=350035</id>
+        <link href="https://css-tricks.com/implementing-a-single-graphql-across-multiple-data-sources/"/>
+        <updated>2021-08-19T14:30:41.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In this article, we will discuss how we can apply schema stitching across multiple Fauna instances. We will also discuss how to combine other GraphQL services and data sources with Fauna in one graph.…
+The post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shadid Haque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Java Native Interface - Free 28-Hour Course]]></title>
+        <id>6116c31e72231b077cdafc89</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/"/>
+        <updated>2021-08-19T12:43:56.000Z</updated>
+        <summary type="html"><![CDATA[The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
+        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
+        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
+        <updated>2021-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devin Harold)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“We had 90% unused CSS because everybody was afraid to touch the old stuff”]]></title>
         <id>https://css-tricks.com/?p=348288</id>
         <link href="https://css-tricks.com/we-had-90-unused-css-because-everybody-was-afraid-to-touch-the-old-stuff/"/>
         <updated>2021-08-18T22:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Over at the JS Party poundcast:
-[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And 
+        <summary type="html"><![CDATA[Over at the JS Party podcast:
+[Kend C. Dodds]: […] ask anybody who’s done regular, old CSS and they’ll tell you that “I don’t know if it’s okay for me to change this, so I’m gonna duplicate it.” And now 
 …
 The post “We had 90% unused CSS because everybody was afraid to touch the old stuff” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -94,36 +205,6 @@ The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Open Source Software? OSS Explained in Plain English]]></title>
-        <id>610652013306a507d1bfc088</id>
-        <link href="https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/"/>
-        <updated>2021-08-17T18:05:47.000Z</updated>
-        <summary type="html"><![CDATA[During your programming journey, you might have heard of the term "Open Source". But what does that actually mean? In this article, I will explain what Open Source Software is and talk about how it differs from other types of software. I'll also discuss the positives of Open Source Software]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Search Filter using React and React Hooks]]></title>
-        <id>6117d59672231b077cdaffad</id>
-        <link href="https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/"/>
-        <updated>2021-08-17T17:56:15.000Z</updated>
-        <summary type="html"><![CDATA[When you send a GET request to an API, you get the response data back from the server. But sometimes managing this data can be a problem. In this blog post, I will show you how to create a search filter in React. It will search for a particular term]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Programs – 152 Coding Classes You can Take for Free Online]]></title>
-        <id>611057a03306a507d1c00a16</id>
-        <link href="https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online/"/>
-        <updated>2021-08-17T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[In May of 2021, I wrote an article titled Coding Programs – 101 Ways to Learn to Code for Free. But since then, many more free courses have come out that should be added to the list.  In this article, I'm going to show you 152 more courses where you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo]]></title>
         <id>https://css-tricks.com/?p=346449</id>
         <link href="https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/"/>
@@ -135,16 +216,6 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Integrate Google APIs with Python Django]]></title>
-        <id>6116b66b72231b077cdafc35</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-google-apis-with-python-django/"/>
-        <updated>2021-08-17T13:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Google has a bunch of different APIs. It can be tricky to figure out how to incorporate them into a Django project. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Django app that uses multiple Google APIs. Bobby Stearman]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Open-Source Icons]]></title>
         <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
         <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
@@ -152,26 +223,6 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Tree Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>6119348e72231b077cdb0a55</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-tree-traversal-crash-course-the-only-one-youll-ever-need/"/>
-        <updated>2021-08-16T23:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for coding interviews? I designed a crash course series to help you out.  I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the second course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Hyperlink? HTML Links Explained with Examples]]></title>
-        <id>6114c87172231b077cdae3f2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-beginners/"/>
-        <updated>2021-08-16T23:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Let's begin with a quick question: How did you land on this article and this site today?  Well, quite literally, by clicking or tapping on a link, right? That's how powerful this element is – it will get you to any part of the Internet just by clicking on a link.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -288,28 +339,6 @@ The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static vs. Dynamic vs. Jamstack: Where’s The Line?]]></title>
-        <id>https://css-tricks.com/?p=345889</id>
-        <link href="https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/"/>
-        <updated>2021-08-11T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …
-The post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mike Neumegen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Napkin]]></title>
-        <id>https://css-tricks.com/?p=346384</id>
-        <link href="https://www.napkin.io/"/>
-        <updated>2021-08-11T14:31:13.000Z</updated>
-        <summary type="html"><![CDATA[We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …
-The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Smashing Workshops on Front-End & Design]]></title>
         <id>https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/</id>
         <link href="https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/"/>
@@ -327,17 +356,6 @@ The post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by bein
         <summary type="html"><![CDATA[Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Don)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[View Source (on Mobile)]]></title>
-        <id>https://css-tricks.com/?p=346392</id>
-        <link href="https://neatnik.net/view-source/"/>
-        <updated>2021-08-10T21:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
-The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
