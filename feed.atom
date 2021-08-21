@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-20T00:38:33.319Z</id>
+    <id>urn:2021-08-21T00:38:14.174Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-20T00:38:33.319Z</updated>
+    <updated>2021-08-21T00:38:14.174Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
+        <id>https://css-tricks.com/?p=350186</id>
+        <link href="https://css-tricks.com/disambiguating-tailwind/"/>
+        <updated>2021-08-20T19:59:47.000Z</updated>
+        <summary type="html"><![CDATA[I appreciated this bit of nuance from a post on Viget’s blog:
+There could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:
+1. Stock tailwind, ie. no changes to the 
+…
+The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
+        <id>611fd94c3bccf807612a4160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
+        <updated>2021-08-20T18:20:42.000Z</updated>
+        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
+        <id>611bf4f8e884de0752180979</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
+        <updated>2021-08-20T17:54:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
+        <id>611f9b083bccf807612a3df0</id>
+        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
+        <updated>2021-08-20T17:21:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Headless WordPress Site With Frontity]]></title>
+        <id>https://css-tricks.com/?p=346702</id>
+        <link href="https://css-tricks.com/creating-headless-wordpress-site-with-frontity/"/>
+        <updated>2021-08-20T14:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …
+The post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
+        <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
+        <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
+        <updated>2021-08-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mike Neumegen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning]]></title>
+        <id>611d56d3e884de07521810f9</id>
+        <link href="https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/"/>
+        <updated>2021-08-20T03:21:20.000Z</updated>
+        <summary type="html"><![CDATA[At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
         <id>611e8bac3bccf807612a34df</id>
@@ -130,26 +205,6 @@ The post “We had 90% unused CSS because everybody was afraid to touch the old 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Next.js and TailwindCSS]]></title>
-        <id>61135a3472231b077cdad609</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/"/>
-        <updated>2021-08-18T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, it's important for you to have a personal portfolio website – especially when you're applying for jobs.  If you have a nice online portfolio site, you'll have a better chance of getting attention from recruiters than if you don't. Instead of sending your CV and asking]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Tips for Software Developers – How to Become a Better Tech Writer]]></title>
-        <id>610d63b33306a507d1bff79f</id>
-        <link href="https://www.freecodecamp.org/news/writing-tips-software-developers/"/>
-        <updated>2021-08-18T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[You might think that software development is all about writing code, but that's not true. A huge part of the job is communicating with others. And as we all move towards more remote work, written communication is becoming increasingly important. “In their ﬁrst few years on the job, engineers spend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby]]></title>
         <id>https://css-tricks.com/?p=346147</id>
         <link href="https://css-tricks.com/native-search-vs-jetpack-instant-search-in-headless-wordpress-with-gatsby/"/>
@@ -182,26 +237,6 @@ Developer Experience Engineering (e.g. building integrations
 The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Screen Brightness on Windows 10 – Brightness Settings and How to Turn Brightness Down]]></title>
-        <id>611c1448e884de0752180af9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-screen-brightness-on-windows-10/"/>
-        <updated>2021-08-17T21:03:08.000Z</updated>
-        <summary type="html"><![CDATA[If your screen is too bright, it can give you eye problems – especially if you sit in front of a computer coding all day.  This is because a too-bright screen can cause eye strain and fatigue, which can lead to headaches and other maladies.  If you're a regular computer user,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code – Coding for Beginners and How to Learn Programming for Free]]></title>
-        <id>611b91d2e884de07521804a5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-coding-for-beginners-and-how-to-learn-programming-for-free/"/>
-        <updated>2021-08-17T18:06:09.000Z</updated>
-        <summary type="html"><![CDATA[These days, there are a lot resources out there for learning how to code. And many of them are readily available online for free – so choosing one can be overwhelming.  But there's definitely an upside: you don't need to attend a paid bootcamp or university anymore in order to learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -304,18 +339,6 @@ The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Web Components in WordPress is Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=345687</id>
-        <link href="https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/"/>
-        <updated>2021-08-12T14:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Now that we’ve seen that web components and interactive web components are both easier than you think, let’s take a look at adding them to a content management system, namely WordPress.
-There are three major ways we can add them. …
-The post Using Web Components in WordPress is Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
         <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
         <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
@@ -323,19 +346,6 @@ The post Using Web Components in WordPress is Easier Than You Think appeared fir
         <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Janet John)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna see a whiter white?]]></title>
-        <id>https://css-tricks.com/?p=346388</id>
-        <link href="https://kidi.ng/wanna-see-a-whiter-white/"/>
-        <updated>2021-08-11T19:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Heck of a CSS trick here from Dongsung Kim. 
-There are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% 
-…
-The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -506,26 +516,6 @@ The post Wanna see a whiter white? appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
-        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
-        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
-        <updated>2021-07-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
