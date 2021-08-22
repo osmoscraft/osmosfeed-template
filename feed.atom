@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-21T00:38:14.174Z</id>
+    <id>urn:2021-08-22T00:38:10.135Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-21T00:38:14.174Z</updated>
+    <updated>2021-08-22T00:38:10.135Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -506,16 +506,6 @@ The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by 
         <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
-        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
-        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
-        <updated>2021-07-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
