@@ -143,7 +143,7 @@
           "description": "A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …\nThe post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://dev.to/richharris/stay-alert-d",
           "publishedOn": "2021-08-12T21:10:22.000Z",
-          "wordCount": 9938,
+          "wordCount": 9941,
           "title": "Stay alert"
         }
       ]
@@ -159,7 +159,7 @@
           "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
           "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
           "publishedOn": "2021-08-20T08:00:00.000Z",
-          "wordCount": 4605,
+          "wordCount": 4596,
           "title": "Jamstack CMS: The Past, The Present and The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
@@ -173,7 +173,7 @@
           "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
           "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "publishedOn": "2021-08-19T10:00:00.000Z",
-          "wordCount": 5340,
+          "wordCount": 5338,
           "title": "How To Build An Ethical User Research Practice At Any Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
@@ -187,7 +187,7 @@
           "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
           "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "publishedOn": "2021-08-18T08:00:00.000Z",
-          "wordCount": 3315,
+          "wordCount": 3316,
           "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
@@ -201,7 +201,7 @@
           "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "publishedOn": "2021-08-17T07:25:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1865,
           "title": "Free Open-Source Icons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
@@ -215,7 +215,7 @@
           "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
           "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2947,
+          "wordCount": 2954,
           "title": "How To Develop Your Business’ Technology Roadmap",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
@@ -229,7 +229,7 @@
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
           "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6651,
+          "wordCount": 6665,
           "title": "Useful Figma Plugins And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
@@ -257,7 +257,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5028,
+          "wordCount": 5030,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -299,7 +299,7 @@
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6880,
+          "wordCount": 6883,
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
@@ -327,7 +327,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6581,
+          "wordCount": 6584,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -341,7 +341,7 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3348,
+          "wordCount": 3341,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
@@ -355,7 +355,7 @@
           "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
           "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
           "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2958,
+          "wordCount": 2955,
           "title": "How To Build Resilient JavaScript UIs",
           "enclosure": {
             "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
@@ -369,7 +369,7 @@
           "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
           "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5990,
+          "wordCount": 5996,
           "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
@@ -383,7 +383,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.",
           "link": "https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/",
           "publishedOn": "2021-07-31T07:15:00.000Z",
-          "wordCount": 2525,
+          "wordCount": 2528,
           "title": "Good Vibes In August (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44276d4d-0b57-4f7a-91cd-c6f3708d09d7/aug-21-cowabunga-preview-opt.png",
@@ -397,7 +397,7 @@
           "description": "Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.",
           "link": "https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/",
           "publishedOn": "2021-07-30T11:00:00.000Z",
-          "wordCount": 12542,
+          "wordCount": 12559,
           "title": "How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/959013b7-26f7-4620-af11-f26f306c1512/ecommerce-angular11-headless-paypal.jpg",
@@ -411,7 +411,7 @@
           "description": "What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.",
           "link": "https://smashingmagazine.com/2021/07/css-absolute-units/",
           "publishedOn": "2021-07-29T10:30:00.000Z",
-          "wordCount": 2961,
+          "wordCount": 2964,
           "title": "There Is No Such Thing As A CSS Absolute Unit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6ee35630-bbe1-486c-8877-dacdd4b12869/css-absolute-units.jpg",
@@ -439,7 +439,7 @@
           "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
           "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
           "publishedOn": "2021-07-27T11:00:00.000Z",
-          "wordCount": 3590,
+          "wordCount": 3592,
           "title": "Global vs. Local Styling In Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
@@ -453,7 +453,7 @@
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
           "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "publishedOn": "2021-07-26T10:30:00.000Z",
-          "wordCount": 3098,
+          "wordCount": 3094,
           "title": "Gatsby Serverless Functions And The International Space Station",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
