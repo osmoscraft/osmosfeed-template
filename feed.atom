@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T00:36:05.308Z</id>
+    <id>urn:2021-08-24T00:37:13.016Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:36:05.308Z</updated>
+    <updated>2021-08-24T00:37:13.016Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Join Types – Inner Join VS Outer Join Example]]></title>
+        <id>6107c03b3306a507d1bfc55b</id>
+        <link href="https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/"/>
+        <updated>2021-08-24T00:08:46.000Z</updated>
+        <summary type="html"><![CDATA[In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Tribute Page Project – Tips for Getting Started]]></title>
+        <id>6053033528094f59be257c91</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/"/>
+        <updated>2021-08-23T21:22:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Android News App with React Native and Native Base]]></title>
+        <id>6120eac83bccf807612a4bd6</id>
+        <link href="https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/"/>
+        <updated>2021-08-23T18:23:27.000Z</updated>
+        <summary type="html"><![CDATA[We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Media Query Support in CSS and JavaScript]]></title>
+        <id>https://css-tricks.com/?p=350264</id>
+        <link href="https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/"/>
+        <updated>2021-08-23T17:16:38.000Z</updated>
+        <summary type="html"><![CDATA[You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:
+[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the 
+…
+The post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework]]></title>
+        <id>611a940ae884de075217f649</id>
+        <link href="https://www.freecodecamp.org/news/announcing-rust-course-replit-web/"/>
+        <updated>2021-08-23T17:03:24.000Z</updated>
+        <summary type="html"><![CDATA[As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Contains String – SQL RegEx Example Query]]></title>
+        <id>6107c04a3306a507d1bfc561</id>
+        <link href="https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/"/>
+        <updated>2021-08-23T15:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front End Developer – What is Front End Development, Explained in Plain English]]></title>
+        <id>61064ad03306a507d1bfc001</id>
+        <link href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/"/>
+        <updated>2021-08-23T15:30:27.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native JavaScript Routing?]]></title>
+        <id>https://css-tricks.com/?p=350160</id>
+        <link href="https://css-tricks.com/native-javascript-routing/"/>
+        <updated>2021-08-23T14:28:14.000Z</updated>
+        <summary type="html"><![CDATA[We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: 
+// Adds to browser history
+history.pushState({}, "About Page", "/about");
+
+// Doesn't
+history.replaceState({}, "About Page", "/about");
+JavaScript is also capable of replacing any content in the …
+The post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming for Beginners - How to Code with Python and C#]]></title>
+        <id>6116e52a72231b077cdafcf6</id>
+        <link href="https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/"/>
+        <updated>2021-08-23T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3: Performance Improvements (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/</id>
+        <link href="https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/"/>
+        <updated>2021-08-23T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Marx)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
         <id>https://css-tricks.com/?p=350186</id>
@@ -71,46 +181,6 @@ The post Creating a Headless WordPress Site With Frontity appeared first on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning]]></title>
-        <id>611d56d3e884de07521810f9</id>
-        <link href="https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/"/>
-        <updated>2021-08-20T03:21:20.000Z</updated>
-        <summary type="html"><![CDATA[At the start of this year, I published a mind map on the Data Science learning roadmap (shown below). Many people found the roadmap useful, my article got translated into different languages, and a large number of folks thanked me for publishing it. Everything was good until a few developers]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Font Style – How to Change Text Color and Size with an HTML Tag]]></title>
-        <id>611e8bac3bccf807612a34df</id>
-        <link href="https://www.freecodecamp.org/news/html-font-style-how-to-change-text-color-and-size-with-an-html-tag/"/>
-        <updated>2021-08-19T23:23:07.000Z</updated>
-        <summary type="html"><![CDATA[When you code in HTML and add some text, you don’t want to leave it like that. You want to make that text look good.  And to do that, you need to change their appearance through the color and font-size properties of CSS.  In this tutorial, I will show]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CSS Display Property – Display None, Display Table, Inline Block and More]]></title>
-        <id>611d436ee884de0752181044</id>
-        <link href="https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/"/>
-        <updated>2021-08-19T20:47:14.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, the display property determines how an element looks. It is also a crucial part of the presentation of you HTML code as it has a significant impact on layouts.  In fact, to use the modern Flexbox and Grid models, you need to use the display property before you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexical Scope in JavaScript – What Exactly Is Scope in JS?]]></title>
-        <id>611e4447e884de0752181578</id>
-        <link href="https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/"/>
-        <updated>2021-08-19T19:56:48.000Z</updated>
-        <summary type="html"><![CDATA[The term “lexical scope” may seem tricky to grasp at first glance. But it's helpful to understand what each word means. So this article will explain lexical scope by first examining the meaning of “lexical” and “scope”. So, let’s get it started by understanding the term “scope”. What exactly]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Big Gotcha With Custom Properties]]></title>
         <id>https://css-tricks.com/?p=350054</id>
         <link href="https://css-tricks.com/the-big-gotcha-with-custom-properties/"/>
@@ -125,26 +195,6 @@ Let’s use them right …
 The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Space – How to Add a Non-breaking Space with the &amp;nbsp; Character Entity]]></title>
-        <id>611e3f8ee884de0752181566</id>
-        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-a-non-breaking-space-with-the-nbsp-character-entity/"/>
-        <updated>2021-08-19T17:29:46.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, you can't create an extra blank space after the space ( ) character with the spacebar. If you want 10 blank spaces in your HTML code and you try to add them with the spacebar, you'll only see one space in the browser.  Also, one or more of the words]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array.map() Tutorial – How to Iterate Through Elements in an Array with map()]]></title>
-        <id>611d2ad1e884de0752180f58</id>
-        <link href="https://www.freecodecamp.org/news/array-map-tutorial/"/>
-        <updated>2021-08-19T16:16:57.000Z</updated>
-        <summary type="html"><![CDATA[When ES6 (EmcaScript 2015) came out, it ushered in a whole new set of methods for iterating over an array. And one of the most useful is the map() method. Array.prototype.map() is a built-in array method for iterating through the elements inside an array collection in JavaScript. Think]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -169,16 +219,6 @@ In this article, we will discuss how we can apply schema stitching across mult
 The post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Shadid Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Java Native Interface - Free 28-Hour Course]]></title>
-        <id>6116c31e72231b077cdafc89</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-java-native-interface-free-28-hour-course/"/>
-        <updated>2021-08-19T12:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The Java Native Interface allows Java code to call native libraries written in C and C++. It is helpful when you need to do something that cannot be accomplished with Java alone. We just released a massive 28-Hour course on the freeCodeCamp.org YouTube channel that will take you from]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -314,28 +354,6 @@ The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You c
 The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Cool Front End Thing Generator]]></title>
-        <id>https://css-tricks.com/?p=345944</id>
-        <link href="https://css-tricks.com/building-a-cool-front-end-thing-generator/"/>
-        <updated>2021-08-13T14:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …
-The post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>John Polacek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay alert]]></title>
-        <id>https://css-tricks.com/?p=346608</id>
-        <link href="https://dev.to/richharris/stay-alert-d"/>
-        <updated>2021-08-12T21:10:22.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …
-The post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
