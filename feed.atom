@@ -1,38 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-24T00:37:13.016Z</id>
+    <id>urn:2021-08-25T00:39:27.374Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-24T00:37:13.016Z</updated>
+    <updated>2021-08-25T00:39:27.374Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[SQL Join Types – Inner Join VS Outer Join Example]]></title>
-        <id>6107c03b3306a507d1bfc55b</id>
-        <link href="https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/"/>
-        <updated>2021-08-24T00:08:46.000Z</updated>
-        <summary type="html"><![CDATA[In a relational database, all information should only be present once. But you might have information that's separated into different tables that's related to each other.  And you might want to put this related information together to analyse its data – that is, you might want to join all the data]]></summary>
+        <title type="html"><![CDATA[What is an Outlier? Definition and How to Find Outliers in Statistics]]></title>
+        <id>611f54d33bccf807612a38c4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-outlier-definition-and-how-to-find-outliers-in-statistics/"/>
+        <updated>2021-08-24T20:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Outliers are an important part of a dataset. They can hold useful information about your data.  Outliers can give helpful insights into the data you're studying, and they can have an effect on statistical results. This can potentially help you disover inconsistencies and detect any errors in your statistical processes.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp Tribute Page Project – Tips for Getting Started]]></title>
-        <id>6053033528094f59be257c91</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-the-fcc-tribute-page/"/>
-        <updated>2021-08-23T21:22:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will talk about how to get started with your first freeCodeCamp project and provide some tips along the way.  Here is what we will cover: Understanding the instructionsWhat is CodePen and how do I use it?Do I have to use CodePen or can I use]]></summary>
+        <title type="html"><![CDATA[How to Block Unwanted Content From Web Pages Using uBlock Origin]]></title>
+        <id>6114599172231b077cdae0ec</id>
+        <link href="https://www.freecodecamp.org/news/how-to-block-content-from-web-pages-using-ublock-origin/"/>
+        <updated>2021-08-24T19:39:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use extensions in your browser to remove parts of a webpage you don't want to see. Removing annoyances, distractions, and irrelevant content is a great way to stay focused and remain efficient while you consume information on the internet. There are many extensions that add this functionality to]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Android News App with React Native and Native Base]]></title>
-        <id>6120eac83bccf807612a4bd6</id>
-        <link href="https://www.freecodecamp.org/news/build-an-android-news-app-with-react-native-and-native-base/"/>
-        <updated>2021-08-23T18:23:27.000Z</updated>
-        <summary type="html"><![CDATA[We live in a world where things are constantly changing. So if you want to stay up to date on what's happening, you'll want a good News app.  To help you learn some cool tech and stay current, in this blog post we'll build a News Application for Android using]]></summary>
+        <title type="html"><![CDATA[How to Monitor Machine Learning Projects on Your Mobile Device📱]]></title>
+        <id>611255c472231b077cdac90c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-monitor-ml-projects-on-mobile-devices/"/>
+        <updated>2021-08-24T19:20:03.000Z</updated>
+        <summary type="html"><![CDATA[What if you could monitor your Colab, Kaggle, or AzureML Machine Learning projects on your mobile phone? You'd be able to check in on your models on the fly – even while taking a walk🚶.  If you are an ML developer, you know how training models can easily take a long]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrollbar Reflowing]]></title>
+        <id>https://css-tricks.com/?p=350486</id>
+        <link href="https://css-tricks.com/scrollbar-reflowing/"/>
+        <updated>2021-08-24T19:13:30.000Z</updated>
+        <summary type="html"><![CDATA[This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …
+The post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting With Next.js]]></title>
+        <id>https://css-tricks.com/?p=350253</id>
+        <link href="https://www.netlify.com/events/architecting-with-nextjs"/>
+        <updated>2021-08-24T19:12:23.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Free event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.
+Join us for a special event where we’ll highlight business 
+…
+The post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Function Examples – How to Declare and Invoke with Parameters]]></title>
+        <id>6120b2f13bccf807612a4826</id>
+        <link href="https://www.freecodecamp.org/news/python-function-examples-how-to-declare-and-invoke-with-parameters-2/"/>
+        <updated>2021-08-24T19:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Python has a bunch of helpful built-in functions you can use to do all sorts of stuff. And each one performs a specific task.  But did you know that Python also allows you to define your own functions?  This article will show you how to create and call your own]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sacrificial Architecture – How to Make Tough Decisions to Abandon and Rebuild Systems]]></title>
+        <id>60cf7e594dc1a607ed7b5de0</id>
+        <link href="https://www.freecodecamp.org/news/sacrificial-architecture-make-tough-decisions-to-abandon-and-rebuild-systems/"/>
+        <updated>2021-08-24T19:02:30.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with an application, sometimes it no longer makes sense to try to continue and improve what already exists. Instead, you need to rethink, restructure, and rebuild.  Making the decision to give up all the work you and others have put into the existing system is a difficult]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dictionary Comprehension in Python – Explained with Examples]]></title>
+        <id>61225b3f3bccf807612a5aae</id>
+        <link href="https://www.freecodecamp.org/news/dictionary-comprehension-in-python-explained-with-examples/"/>
+        <updated>2021-08-24T17:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Dictionaries are powerful built-in data structures in Python that store data as key-value pairs. Dictionary Comprehension can be super helpful in creating new dictionaries from existing dictionaries and iterables. In this tutorial, we'll learn how dictionary comprehensions work in Python by coding some simple examples. What is a Dictionary in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.forEach() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>612116513bccf807612a50db</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/"/>
+        <updated>2021-08-24T17:16:41.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you'll often need to iterate through an array collection and execute a callback method for each iteration. And there's a helpful method JS devs typically use to do this: the forEach() method. The forEach() method calls a specified callback function once for every element it iterates over inside]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is HTML – Definition and Meaning of Hypertext Markup Language]]></title>
+        <id>6124d7c33bccf807612a70b0</id>
+        <link href="https://www.freecodecamp.org/news/what-is-html-definition-and-meaning/"/>
+        <updated>2021-08-24T16:38:12.000Z</updated>
+        <summary type="html"><![CDATA[HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages.  It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development.  In this article, I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External CSS Stylesheets – How to Link CSS to HTML and Import into Head]]></title>
+        <id>611d6726e884de07521811e2</id>
+        <link href="https://www.freecodecamp.org/news/external-css-stylesheets-how-to-link-css-to-html-and-import-into-head/"/>
+        <updated>2021-08-24T15:44:49.000Z</updated>
+        <summary type="html"><![CDATA[It is considered a best practice to have your CSS stylesheets in an external file. So how can you link that CSS to your HTML file? Linking to an external CSS file is an important part of any HTML page boilerplate. And in this article, we'll learn how to do]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Android App With Kotlin and Jetpack Compose]]></title>
+        <id>611813bf72231b077cdb01fe</id>
+        <link href="https://www.freecodecamp.org/news/create-an-android-app/"/>
+        <updated>2021-08-24T15:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Jetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development on Android. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Sudoku Android app with Kotlin and Jetpack Compose. Along the way you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to the Solid JavaScript Library]]></title>
+        <id>https://css-tricks.com/?p=346597</id>
+        <link href="https://css-tricks.com/introduction-to-the-solid-javascript-library/"/>
+        <updated>2021-08-24T14:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.
+This …
+The post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Charlie Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Automate Documentation Workflow For Developers]]></title>
+        <id>https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/</id>
+        <link href="https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/"/>
+        <updated>2021-08-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Portia Burton)</name>
         </author>
     </entry>
     <entry>
@@ -46,36 +163,6 @@
 The post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We&#x27;re Building New Courses on Rust and Python + the Replit.web Framework]]></title>
-        <id>611a940ae884de075217f649</id>
-        <link href="https://www.freecodecamp.org/news/announcing-rust-course-replit-web/"/>
-        <updated>2021-08-23T17:03:24.000Z</updated>
-        <summary type="html"><![CDATA[As you may know, I've been a fan of Replit since way back in 2012. I used early versions of the website when I was learning to code.  For me, Replit was a place to code my solutions for Project Euler problems, and to practice my Python and JavaScript skills.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Contains String – SQL RegEx Example Query]]></title>
-        <id>6107c04a3306a507d1bfc561</id>
-        <link href="https://www.freecodecamp.org/news/sql-contains-string-sql-regex-example-query/"/>
-        <updated>2021-08-23T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Being able to do complex queries can be really useful in SQL. In this article, we'll look at how you can use the Contains String query. SQL PatternsSQL patterns are useful for pattern matching, instead of using literal comparisons. They have a more limited syntax than RegEx, but they're more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End Developer – What is Front End Development, Explained in Plain English]]></title>
-        <id>61064ad03306a507d1bfc001</id>
-        <link href="https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/"/>
-        <updated>2021-08-23T15:30:27.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to programming, you might have heard of the term Front End Development. But what does that mean?  In this article, I will explain what Front End Development is, what skills you need to become a Front End Developer, and tips for landing a job.  What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -93,16 +180,6 @@ JavaScript is also capable of replacing any content in the …
 The post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming for Beginners - How to Code with Python and C#]]></title>
-        <id>6116e52a72231b077cdafcf6</id>
-        <link href="https://www.freecodecamp.org/news/programming-for-beginners-how-to-code-with-python-and-c-sharp/"/>
-        <updated>2021-08-23T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to learning how to write computer programs, it can be hard to figure out where to start.  Well, look no further. We just released a full course that teaches basic programming skills in both Python and C#. This course is for absolute beginners. One of the best]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -127,36 +204,6 @@ There could be a whole article written about the many flavours of Tailwind, but 
 The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Coding Interview – How to Stand Out and Ace the Challenges]]></title>
-        <id>611fd94c3bccf807612a4160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/"/>
-        <updated>2021-08-20T18:20:42.000Z</updated>
-        <summary type="html"><![CDATA[As a React developer, I have gone through my fair share of front-end coding interviews. Recently, I had the opportunity to experience the process from the other side – as an interviewer. Here is what I've learned. Coding interview usually involve a multi-step process where interviewers assess everything from basic technical]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Truly Reusable React Component from Scratch]]></title>
-        <id>611bf4f8e884de0752180979</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/"/>
-        <updated>2021-08-20T17:54:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will build an app with React. And you will learn how to create a truly reusable auto-suggestion component from scratch. This application will allow a user to search for a country in a list of countries. It will display matching suggestions below the input field for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Line Break – How to Break a Line with the HTML &lt;br&gt; Tag]]></title>
-        <id>611f9b083bccf807612a3df0</id>
-        <link href="https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/"/>
-        <updated>2021-08-20T17:21:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're writing HTML, you often need to insert line breaks. A line break is essential in addresses, poems, or when text exceeds the available browser width. If you don't insert your own line breaks, then the text gets formatted in an odd way.  In this tutorial, I'm going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -312,30 +359,6 @@ The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cutouts]]></title>
-        <id>https://css-tricks.com/?p=346686</id>
-        <link href="https://ishadeed.com/article/thinking-about-the-cut-out-effect/"/>
-        <updated>2021-08-16T20:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. 
-The first thing …
-The post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML is Not a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=346318</id>
-        <link href="https://css-tricks.com/html-is-not-a-programming-language/"/>
-        <updated>2021-08-16T14:44:35.000Z</updated>
-        <summary type="html"><![CDATA[HTML is not a programming language.
-I’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …
-The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alvaro Montoro</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Develop Your Business’ Technology Roadmap]]></title>
         <id>https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/</id>
         <link href="https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/"/>
@@ -343,17 +366,6 @@ The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You c
         <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cache Merril)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unicode Arrows]]></title>
-        <id>https://css-tricks.com/?p=346665</id>
-        <link href="https://unicodearrows.com/"/>
-        <updated>2021-08-13T18:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. …
-The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -514,16 +526,6 @@ The post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks
         <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
-        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
-        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
-        <updated>2021-07-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
         </author>
     </entry>
 </feed>
