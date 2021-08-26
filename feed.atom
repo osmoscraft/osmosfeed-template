@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T00:39:27.374Z</id>
+    <id>urn:2021-08-26T00:36:54.793Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T00:39:27.374Z</updated>
+    <updated>2021-08-26T00:36:54.793Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
+        <id>https://css-tricks.com/?p=350311</id>
+        <link href="https://css-tricks.com/one-way-to-convert-code-indentation/"/>
+        <updated>2021-08-25T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[A question:
+If you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?
+Matt Stauffer, Twitter
+
+I wrote about doing this in Sublime Text a …
+The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Interview Questions for Beginners]]></title>
+        <id>612114773bccf807612a5084</id>
+        <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
+        <updated>2021-08-25T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JSON File? Example JavaScript Code]]></title>
+        <id>612633433bccf807612a7bf4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-json-file-example-javascript-code/"/>
+        <updated>2021-08-25T20:04:19.000Z</updated>
+        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. A JSON file has .json as its extension and the data inside are represented in a key:value pair, just like a traditional JavaScript object.  JSON and objects aren't exactly the same, though. The core difference is that the key in JSON must be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Raspberry Pi? Specs and Models (2021 Guide)]]></title>
+        <id>611e7d553bccf807612a33ec</id>
+        <link href="https://www.freecodecamp.org/news/what-is-raspberry-pi-specs-and-models-2021-guide/"/>
+        <updated>2021-08-25T16:17:20.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionAre you curious about the IoT (Internet of Things?) Have you always wanted to try to make your own robot, smart mirror, or bird feeder camera? What about building a computer for a fraction of the cost of a commercially available machine? If you said yes to any of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is JavaScript? JavaScript Code Explained in Plain English]]></title>
+        <id>61064a8d3306a507d1bfbff9</id>
+        <link href="https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/"/>
+        <updated>2021-08-25T15:44:41.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript was created over 26 years ago and is currently one of the most popular programming languages. But what is JavaScript?  JavaScript is used with HTML and CSS to create dynamic and interactive web pages and mobile applications. We often call it one of the building blocks of web development.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨]]></title>
+        <id>6063b8f89618b008528a9d7d</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/"/>
+        <updated>2021-08-25T15:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use the CSS units EM, REM, VW and VH by working through some practical examples. We'll also see how to make responsive websites with these units.  Let's start. 💖 Table of ContentsWhy learn relative units?What are REM Units?How to make responsive websites with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stealing Game Animation Techniques to Engage Users]]></title>
+        <id>https://css-tricks.com/?p=346612</id>
+        <link href="https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/"/>
+        <updated>2021-08-25T14:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …
+The post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Eli Penner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
+        <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
+        <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
+        <updated>2021-08-25T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is an Outlier? Definition and How to Find Outliers in Statistics]]></title>
         <id>611f54d33bccf807612a38c4</id>
@@ -76,56 +162,6 @@ The post Architecting With Next.js appeared first on CSS-Tricks. You can support
         <link href="https://www.freecodecamp.org/news/sacrificial-architecture-make-tough-decisions-to-abandon-and-rebuild-systems/"/>
         <updated>2021-08-24T19:02:30.000Z</updated>
         <summary type="html"><![CDATA[When you're working with an application, sometimes it no longer makes sense to try to continue and improve what already exists. Instead, you need to rethink, restructure, and rebuild.  Making the decision to give up all the work you and others have put into the existing system is a difficult]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dictionary Comprehension in Python – Explained with Examples]]></title>
-        <id>61225b3f3bccf807612a5aae</id>
-        <link href="https://www.freecodecamp.org/news/dictionary-comprehension-in-python-explained-with-examples/"/>
-        <updated>2021-08-24T17:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Dictionaries are powerful built-in data structures in Python that store data as key-value pairs. Dictionary Comprehension can be super helpful in creating new dictionaries from existing dictionaries and iterables. In this tutorial, we'll learn how dictionary comprehensions work in Python by coding some simple examples. What is a Dictionary in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array.forEach() Tutorial – How to Iterate Through Elements in an Array]]></title>
-        <id>612116513bccf807612a50db</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/"/>
-        <updated>2021-08-24T17:16:41.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you'll often need to iterate through an array collection and execute a callback method for each iteration. And there's a helpful method JS devs typically use to do this: the forEach() method. The forEach() method calls a specified callback function once for every element it iterates over inside]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HTML – Definition and Meaning of Hypertext Markup Language]]></title>
-        <id>6124d7c33bccf807612a70b0</id>
-        <link href="https://www.freecodecamp.org/news/what-is-html-definition-and-meaning/"/>
-        <updated>2021-08-24T16:38:12.000Z</updated>
-        <summary type="html"><![CDATA[HTML, or Hypertext Markup Language, is a markup language for the web that defines the structure of web pages.  It is one of the most basic building blocks of every website, so it's crucial to learn if you want to have a career in web development.  In this article, I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External CSS Stylesheets – How to Link CSS to HTML and Import into Head]]></title>
-        <id>611d6726e884de07521811e2</id>
-        <link href="https://www.freecodecamp.org/news/external-css-stylesheets-how-to-link-css-to-html-and-import-into-head/"/>
-        <updated>2021-08-24T15:44:49.000Z</updated>
-        <summary type="html"><![CDATA[It is considered a best practice to have your CSS stylesheets in an external file. So how can you link that CSS to your HTML file? Linking to an external CSS file is an important part of any HTML page boilerplate. And in this article, we'll learn how to do]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an Android App With Kotlin and Jetpack Compose]]></title>
-        <id>611813bf72231b077cdb01fe</id>
-        <link href="https://www.freecodecamp.org/news/create-an-android-app/"/>
-        <updated>2021-08-24T15:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Jetpack Compose is Android's modern toolkit for building native UI. It simplifies and accelerates UI development on Android. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Sudoku Android app with Kotlin and Jetpack Compose. Along the way you will]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -327,17 +363,6 @@ The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo]]></title>
-        <id>https://css-tricks.com/?p=346449</id>
-        <link href="https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/"/>
-        <updated>2021-08-17T14:53:41.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been working on the same project for several years. Its initial version was a huge monolithic app containing thousands of files. It was poorly architected and non-reusable, but was hosted in a single repo making it easy to work …
-The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Leonardo Losoviz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Open-Source Icons]]></title>
         <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
         <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
@@ -345,17 +370,6 @@ The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appe
         <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabs in HTML?]]></title>
-        <id>https://css-tricks.com/?p=346418</id>
-        <link href="https://bkardell.com/blog/SpicySections.html"/>
-        <updated>2021-08-16T23:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Brian Kardell shares a bit about the progress of bringing "Tabs" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.
-The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -516,16 +530,6 @@ The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks 
         <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
-        <updated>2021-07-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
         </author>
     </entry>
 </feed>
