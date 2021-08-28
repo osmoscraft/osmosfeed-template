@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-27T00:42:27.151Z</id>
+    <id>urn:2021-08-28T00:36:59.973Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T00:42:27.151Z</updated>
+    <updated>2021-08-28T00:36:59.973Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
+        <id>https://css-tricks.com/?p=350782</id>
+        <link href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/"/>
+        <updated>2021-08-27T19:14:10.000Z</updated>
+        <summary type="html"><![CDATA[That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …
+The post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
+        <id>600dc4230a2838549dcb6e8e</id>
+        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
+        <updated>2021-08-27T19:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
+        <id>612796f53bccf807612a8b55</id>
+        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
+        <updated>2021-08-27T17:02:29.000Z</updated>
+        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
+        <id>6127e0efb5177808226d29cb</id>
+        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
+        <updated>2021-08-27T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fixed Background Attachment Hack]]></title>
+        <id>https://css-tricks.com/?p=350201</id>
+        <link href="https://css-tricks.com/the-fixed-background-attachment-hack/"/>
+        <updated>2021-08-27T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …
+The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Components In React]]></title>
+        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
+        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
+        <updated>2021-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
         <id>612203fb3bccf807612a5756</id>
@@ -99,16 +161,6 @@ The post Some Articles About Accessibility I’ve Saved Recently III appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Array.filter() Tutorial – How to Iterate Through Elements in an Array]]></title>
-        <id>6123a7673bccf807612a64bf</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/"/>
-        <updated>2021-08-26T16:07:48.000Z</updated>
-        <summary type="html"><![CDATA[The Array.filter() method is arguably the most important and widely used method for iterating over an array in JavaScript. The way the filter() method works is very simple. It entails filtering out one or more items (a subset) from a larger collection of items (a superset) based on some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I Made a Generator for SVG Loaders With Sass and SMIL Options]]></title>
         <id>https://css-tricks.com/?p=350223</id>
         <link href="https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/"/>
@@ -117,16 +169,6 @@ The post Some Articles About Accessibility I’ve Saved Recently III appeared fi
 The post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a Discord Chat Bot That Talks Like Rick Sanchez]]></title>
-        <id>61279c123bccf807612a8bda</id>
-        <link href="https://www.freecodecamp.org/news/make-a-discord-bot-that-talks-like-rick-sanchez/"/>
-        <updated>2021-08-26T13:59:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use artificial intelligence to make a Discord chat bot talk like your favorite character. It could be a Rick and Morty character, Harry Potter, Peppa Pig, or someone else. We just released a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -152,16 +194,6 @@ I wrote about doing this in Sublime Text a …
 The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Science Interview Questions for Beginners]]></title>
-        <id>612114773bccf807612a5084</id>
-        <link href="https://www.freecodecamp.org/news/23-common-data-science-interview-questions-for-beginners/"/>
-        <updated>2021-08-25T21:39:37.000Z</updated>
-        <summary type="html"><![CDATA[In 2012, Harvard Business Review named data science the sexiest job of the 21st century. But if you want to get a job as a data scientist, you'll need to go through a tough interview process. During data science job interviews, the interviewer will likely ask questions from different data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -322,30 +354,6 @@ Let’s use them right …
 The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Nuxt and Supabase for  a Multi-User Blogging App]]></title>
-        <id>https://css-tricks.com/?p=346563</id>
-        <link href="https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/"/>
-        <updated>2021-08-19T14:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Nuxt is a JavaScript framework that extends the existing functionality of Vue.js with features like server-side rendering, static page generation, file-based routing, and automatic code splitting among other things.
-I’ve been enjoying using frameworks like Nuxt and Next because they …
-The post Using Nuxt and Supabase for  a Multi-User Blogging App appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a single GraphQL across multiple data sources]]></title>
-        <id>https://css-tricks.com/?p=350035</id>
-        <link href="https://css-tricks.com/implementing-a-single-graphql-across-multiple-data-sources/"/>
-        <updated>2021-08-19T14:30:41.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In this article, we will discuss how we can apply schema stitching across multiple Fauna instances. We will also discuss how to combine other GraphQL services and data sources with Fauna in one graph.…
-The post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shadid Haque</name>
         </author>
     </entry>
     <entry>
@@ -516,16 +524,6 @@ The post Implementing a single GraphQL across multiple data sources appeared fir
         <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
-        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
-        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
-        <updated>2021-07-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Elad Shechter)</name>
         </author>
     </entry>
 </feed>
