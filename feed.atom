@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-28T00:36:59.973Z</id>
+    <id>urn:2021-08-29T00:41:36.266Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-28T00:36:59.973Z</updated>
+    <updated>2021-08-29T00:41:36.266Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -514,16 +514,6 @@ The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
-        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
-        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
-        <updated>2021-07-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
         </author>
     </entry>
 </feed>
