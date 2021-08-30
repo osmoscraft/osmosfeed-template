@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-29T00:41:36.266Z</id>
+    <id>urn:2021-08-30T00:39:17.279Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T00:41:36.266Z</updated>
+    <updated>2021-08-30T00:39:17.279Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -504,16 +504,6 @@ The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
-        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
-        <updated>2021-07-31T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
