@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-30T00:39:17.279Z</id>
+    <id>urn:2021-08-31T00:40:45.284Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-30T00:39:17.279Z</updated>
+    <updated>2021-08-31T00:40:45.284Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Full Stack Developer? Back End + Front End &#x3D; Full Stack Engineer]]></title>
+        <id>610648fd3306a507d1bfbfed</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/"/>
+        <updated>2021-08-30T21:56:06.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to the tech industry, you might have heard of the term Full Stack. But what does that mean exactly? In this article, I will explain what Full Stack Development is, what skills you need to become a Full Stack Developer, salary expectations, and tips for landing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove a Directory in Linux – How to Delete Directories and Contents From the Command Line]]></title>
+        <id>611d6736e884de07521811e6</id>
+        <link href="https://www.freecodecamp.org/news/remove-a-directory-in-linux-how-to-delete-directories-and-contents-from-the-command-line/"/>
+        <updated>2021-08-30T21:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Linux is a popular open source operating system, and its features are often available in your development environment. If you can learn its basic commands, it'll make your life as a developer much easier. In this guide you will learn how to delete directories and files from the Linux command]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pseudo Commas]]></title>
+        <id>https://css-tricks.com/?p=350670</id>
+        <link href="https://codepen.io/ShadowShahriar/pen/LYyvVjo"/>
+        <updated>2021-08-30T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A bonafide CSS trick if there ever was one! @ShadowShahriar created a CodePen demo that uses pseudo-elements to place commas between list items that are displayed inline, and the result is a natural-looking complete sentence with proper punctuation.
+CodePen Embed…
+The post CSS Pseudo Commas appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async and Await in JavaScript Explained by Making Pizza]]></title>
+        <id>612a9e08b5177808226d384b</id>
+        <link href="https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/"/>
+        <updated>2021-08-30T20:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Async and await might sound complicated...but they're as easy as pizza pie once you dive in.  We all use async and await in our daily routines.  What is an async task? An async task lets you complete other tasks while the async task is still working towards completion.  Here]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – Build a Movie List Generator with React and HarperDB]]></title>
+        <id>61274ec43bccf807612a85b9</id>
+        <link href="https://www.freecodecamp.org/news/react-tutorial-build-a-movie-list-generator-with-react-and-harperdb/"/>
+        <updated>2021-08-30T19:07:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we are going to be building a simple movie generator which automatically generates a new movie every 40 seconds. It will also contain a button called “Generate New Movie” to display another movie on demand. This app will display a movie along with its title, release date,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Software Engineer Interview Questions – Tips to Help You Prepare for a Job Interview]]></title>
+        <id>612686bf3bccf807612a7fdc</id>
+        <link href="https://www.freecodecamp.org/news/senior-software-engineer-interview-questions-how-i-got-a-job-as-an-sde-3-and-how-you-can-prepare-for-the-rounds/"/>
+        <updated>2021-08-30T17:56:48.000Z</updated>
+        <summary type="html"><![CDATA[I just joined Cisco Systems, India as a Senior Software Engineer (SDE III) on July 28, 2021. I am working with the Cisco Customer Experience team as a UI developer. The entire journey from applying for the job to accepting the offer was two months long. I wish to share]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Codespaces vs Gitpod – Full Stack Development Moves to the Cloud]]></title>
+        <id>6124028b3bccf807612a69ee</id>
+        <link href="https://www.freecodecamp.org/news/github-codespaces-vs-gitpod-cloud-based-dev-environments/"/>
+        <updated>2021-08-30T17:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Gitpod and GitHub Codespaces are cloud based developer environments that allow you to spin-up high-performance, automated dev environments in seconds. Over the past few months I have gone down the rabbit hole of cloud-based developer environments. I'm moving several of my projects to the cloud so that developers can deploy]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Contact Form with SendGrid and Next.js]]></title>
+        <id>6125e9f83bccf807612a7a65</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-working-contact-form-with-sendgrid-and-next-js/"/>
+        <updated>2021-08-30T15:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Contact forms are useful on websites if you want your users to be able to interact with you over email. And there are lots of ways to build them. Traditionally you'd have either used PHP for sending emails over the server or some third party service that would take care]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is PHP? The PHP Programming Language Meaning Explained]]></title>
+        <id>6128e12fb5177808226d2e4f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meaning-explained/"/>
+        <updated>2021-08-30T15:13:30.000Z</updated>
+        <summary type="html"><![CDATA[PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).  In this article, I will help you explore the world of PHP so you can learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Loops in NodeJS – Beginner&#x27;s Guide to Synchronous and Asynchronous Code]]></title>
+        <id>6120ec0b3bccf807612a4bf3</id>
+        <link href="https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/"/>
+        <updated>2021-08-30T15:11:16.000Z</updated>
+        <summary type="html"><![CDATA[NodeJS is an asynchronous event-driven JavaScript runtime environment designed to build scalable network applications.  Asynchronous here refers to all those functions in JavaScript that are processed in the background without blocking any other request.  In this article, you will learn and understand how NodeJS works and handles all functions or]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS Paint API: Blob Animation]]></title>
+        <id>https://css-tricks.com/?p=350574</id>
+        <link href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/"/>
+        <updated>2021-08-30T14:43:42.000Z</updated>
+        <summary type="html"><![CDATA[After the fragmentation effect, I am going to tackle another interesting animation: the blob! We all agree that such effect is hard to achieve with CSS, so we generally reach for SVG to make those gooey shapes. But …
+The post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free 10-Hour Machine Learning Course]]></title>
+        <id>6127b75d3bccf807612a8c40</id>
+        <link href="https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/"/>
+        <updated>2021-08-30T13:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Every day more and more use cases are found for machine learning. It is a great field to get into. We just released a 10-hour machine learning course for beginners on the freeCodeCamp.org YouTube channel. Ayush Singh developed this course. He is a young data scientist and machine learning]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Optimizing Size And Performance (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/</id>
+        <link href="https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/"/>
+        <updated>2021-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
         <id>https://css-tricks.com/?p=350782</id>
@@ -14,36 +147,6 @@
 The post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array Length Tutorial – How to Get an Array Size]]></title>
-        <id>600dc4230a2838549dcb6e8e</id>
-        <link href="https://www.freecodecamp.org/news/php-array-length-how-to-get-an-array-size/"/>
-        <updated>2021-08-27T19:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Arrays are a powerful data type in PHP. And knowing how to quickly determine the size of an array is a useful skill.  In this article I'll give you a quick overview of how arrays work, and then I'll dive into how to get the size of PHP arrays. If]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Creator Economy – DAOs, Community Ownership, and Cryptoeconomics]]></title>
-        <id>612796f53bccf807612a8b55</id>
-        <link href="https://www.freecodecamp.org/news/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics/"/>
-        <updated>2021-08-27T17:02:29.000Z</updated>
-        <summary type="html"><![CDATA[I first had what I can only describe as a spiritual awakening about 10 years ago to the fact that technology would (figuratively) rule the world. And since then, I've been obsessed with wanting to understand how software works and how to build it. Since that moment, my life has]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Web Design – Modern Website Code for Beginners]]></title>
-        <id>6127e0efb5177808226d29cb</id>
-        <link href="https://www.freecodecamp.org/news/responsive-web-design-modern-website-code-for-beginners/"/>
-        <updated>2021-08-27T16:33:18.000Z</updated>
-        <summary type="html"><![CDATA[When the internet was still young, website visitors used desktop and then laptop computers with wide screens to access websites.  Then when smart phones were developed, mobile phone users had to endlessly zoom and scroll to access and view different parts of those same websites.  Thankfully, this is no longer]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -68,16 +171,6 @@ The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript setTimeout() – JS Timer to Delay N Seconds]]></title>
-        <id>612203fb3bccf807612a5756</id>
-        <link href="https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/"/>
-        <updated>2021-08-26T23:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered if there is a method to delay your JavaScript code by a few seconds?  In this article, I will explain what the setTimeout() method is with code examples and how it differs from setInterval().  What is setTimeout() in JavaScript?setTimeout() is a method that will execute]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing for the Unexpected]]></title>
         <id>https://css-tricks.com/?p=350573</id>
         <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
@@ -86,26 +179,6 @@ The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You 
 The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Font – CSS Font Family Example (Serif and Sans Serif Characters)]]></title>
-        <id>6117b37a72231b077cdafea8</id>
-        <link href="https://www.freecodecamp.org/news/html-font-css-font-family-example-serif-and-sans-serif-characters/"/>
-        <updated>2021-08-26T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right font is an important first step in making your website usable and accessible.  How text is formatted affects how readable your designs and webpages are.  You can modify how your HTML text appears in many ways using CSS. You can select the type of font you want]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Left Join – Example Join Statement Syntax]]></title>
-        <id>6107c0083306a507d1bfc549</id>
-        <link href="https://www.freecodecamp.org/news/sql-left-join-example-join-statement-syntax/"/>
-        <updated>2021-08-26T20:29:12.000Z</updated>
-        <summary type="html"><![CDATA[In a Relational Database, tables are often related to each other in a way that allows their information to only be written once in the whole database. Then, when you need to analyze the data, you'll need to combine the info from those related tables. To do this in SQL,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -118,46 +191,6 @@ The post Designing for the Unexpected appeared first on CSS-Tricks. You can supp
 The post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
-        <id>60b5025111ffb70827ef9ebe</id>
-        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
-        <updated>2021-08-26T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Would you like to talk to a chatbot that speaks like your favorite character, fictional or non-fictional? Let's build one!  In case you've seen my previous tutorial on this topic, stick with me as this version features lots of updates. You can follow along with this tutorial using the code]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Delete Branch – How to Remove a Local or Remote Branch]]></title>
-        <id>6125f93b3bccf807612a7b84</id>
-        <link href="https://www.freecodecamp.org/news/git-delete-branch-how-to-remove-a-local-or-remote-branch/"/>
-        <updated>2021-08-26T17:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Git is a popular version control system and an essential tool in a web developer's toolkit.  Branches are a powerful and integral part of working with Git.  In this article, you will learn the basics about how to remove local and remote branches in Git.  What are Branches in Git?]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript in Spanish – Full Course for Beginners]]></title>
-        <id>612439163bccf807612a6e69</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-in-spanish-full-course-for-beginners/"/>
-        <updated>2021-08-26T16:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Welcome! If you speak Spanish and you want you learn JavaScript, you're in the right place. freeCodeCamp just published a free 9-hour JavaScript course for beginners. You will learn everything you need to know to get started with JavaScript, a key programming language for web development and many other applications.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add a Splash Screen to Your Flutter App]]></title>
-        <id>611f3dde3bccf807612a37c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-a-splash-screen-in-flutter-app/"/>
-        <updated>2021-08-26T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we're going to learn how to integrate a splash screen in a Flutter app. But first, why is having a splash screen in your app essential? What is a Splash Screen?A splash screen is an initial screen that gets displayed right when the user launches the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -319,17 +352,6 @@ The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can sup
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a Headless WordPress Site With Frontity]]></title>
-        <id>https://css-tricks.com/?p=346702</id>
-        <link href="https://css-tricks.com/creating-headless-wordpress-site-with-frontity/"/>
-        <updated>2021-08-20T14:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …
-The post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
         <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
         <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
@@ -337,23 +359,6 @@ The post Creating a Headless WordPress Site With Frontity appeared first on CSS-
         <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Neumegen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Gotcha With Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=350054</id>
-        <link href="https://css-tricks.com/the-big-gotcha-with-custom-properties/"/>
-        <updated>2021-08-19T19:04:48.000Z</updated>
-        <summary type="html"><![CDATA[I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.
-Let’s chuck a couple of custom properties into CSS:
-html {
-  --color-1: red;
-  --color-2: blue;
-}
-Let’s use them right …
-The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
