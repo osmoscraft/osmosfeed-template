@@ -1,10 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-31T00:40:45.284Z</id>
+    <id>urn:2021-09-01T00:43:08.536Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-31T00:40:45.284Z</updated>
+    <updated>2021-09-01T00:43:08.536Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Unblock Someone on Instagram]]></title>
+        <id>612cc025b5177808226d4a67</id>
+        <link href="https://www.freecodecamp.org/news/how-to-unblock-someone-on-instagram/"/>
+        <updated>2021-08-31T21:30:46.000Z</updated>
+        <summary type="html"><![CDATA[If you use Instagram, you may have needed to block certain accounts from time to time. But what if things change and you want to unblock someone?  In this article, I will walk you through the three ways to unblock someone on Instagram using the mobile app for iPhone and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Do While – Loop Example]]></title>
+        <id>612ddfa9d6679a07b7d3f3c9</id>
+        <link href="https://www.freecodecamp.org/news/python-do-while-loop-example/"/>
+        <updated>2021-08-31T21:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Loops are a useful and frequently used feature in all modern programming languages.  If you want to automate a specific repetitive task or prevent yourself from writing repetitive code in your programs, using a loop is the best option for that.  Loops are a set of instructions that run repeatedly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logging in Python – How to Use Logs to Debug Your Django Projects]]></title>
+        <id>61134bed72231b077cdad5e1</id>
+        <link href="https://www.freecodecamp.org/news/logging-in-python-debug-your-django-projects/"/>
+        <updated>2021-08-31T20:46:24.000Z</updated>
+        <summary type="html"><![CDATA[The only perfect code is code that has never been written. As a developer, you are bound to face errors and will be responsible for debugging them.  If you're coding in Python, you can always look at its error messages to figure out what's going on. But what if an]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bold Font in HTML – Font Weight for Letters]]></title>
+        <id>612e6908d6679a07b7d3fad2</id>
+        <link href="https://www.freecodecamp.org/news/bold-font-in-html-font-weight-for-letters/"/>
+        <updated>2021-08-31T20:35:21.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a website, you may want to place particular emphasis on certain text to let users know that it's important.  And you can do this in HTML with various text formatting tags.  In this article, I will take you through how to emphasize certain text by making it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Revert Commit – How to Undo the Last Commit]]></title>
+        <id>611d6719e884de07521811de</id>
+        <link href="https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/"/>
+        <updated>2021-08-31T20:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out! There are two possible ways to undo your last commit. We'll look at both of them in this article.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
+        <id>https://css-tricks.com/?p=350788</id>
+        <link href="https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/"/>
+        <updated>2021-08-31T20:17:25.000Z</updated>
+        <summary type="html"><![CDATA[I think this is good advice from Silvestar Bistrović:
+An enabling selector is what I call a selector that does a job without disabling the particular rule.
+The classic example is applying margin to everything, only to have to remove …
+The post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Management for Modern Software Development – How to Manage Dependencies, SemVer, and Build Systems for Beginners]]></title>
+        <id>611e90d03bccf807612a352a</id>
+        <link href="https://www.freecodecamp.org/news/release-management-modern-software-development/"/>
+        <updated>2021-08-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Releasing modern software might seem daunting and complicated. In this article, I'll expand on the concepts involved in the process, from managing dependencies to building in the cloud. Articles and tutorials usually cover a specific tool and dive right into it before laying down the foundational knowledge. In this article,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an OS? Operating System Definition for Beginners]]></title>
+        <id>60ffa3a33306a507d1bf97e9</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/"/>
+        <updated>2021-08-31T16:50:03.000Z</updated>
+        <summary type="html"><![CDATA[People have long debated which is the best operating system for developers.  In order for us to answer this question, we first need to understand a few things, like:  What is an operating system? The history of operating systems How an operating system works Types and examples of operating systems]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application-Specific Links]]></title>
+        <id>https://css-tricks.com/?p=350690</id>
+        <link href="https://css-tricks.com/application-specific-links/"/>
+        <updated>2021-08-31T14:30:21.000Z</updated>
+        <summary type="html"><![CDATA[You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …
+The post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Management In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/08/state-management-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/08/state-management-nextjs/"/>
+        <updated>2021-08-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Selenium to Create a Web Scraping Bot]]></title>
+        <id>6127fc01b5177808226d2b46</id>
+        <link href="https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/"/>
+        <updated>2021-08-31T12:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Selenium is a powerful web automation tool that can be used for browser automation, to test front-end code, and create web scraping bots. We just released a full course on the freeCodeCamp.org website that will teach you Selenium while you build a web scraping bot. Jim from JimShapedCoding developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stories Of September (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/</id>
+        <link href="https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/"/>
+        <updated>2021-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Full Stack Developer? Back End + Front End &#x3D; Full Stack Engineer]]></title>
         <id>610648fd3306a507d1bfbfed</id>
@@ -38,76 +162,6 @@ The post CSS Pseudo Commas appeared first on CSS-Tricks. You can support CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Async and Await in JavaScript Explained by Making Pizza]]></title>
-        <id>612a9e08b5177808226d384b</id>
-        <link href="https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/"/>
-        <updated>2021-08-30T20:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Async and await might sound complicated...but they're as easy as pizza pie once you dive in.  We all use async and await in our daily routines.  What is an async task? An async task lets you complete other tasks while the async task is still working towards completion.  Here]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Tutorial – Build a Movie List Generator with React and HarperDB]]></title>
-        <id>61274ec43bccf807612a85b9</id>
-        <link href="https://www.freecodecamp.org/news/react-tutorial-build-a-movie-list-generator-with-react-and-harperdb/"/>
-        <updated>2021-08-30T19:07:30.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we are going to be building a simple movie generator which automatically generates a new movie every 40 seconds. It will also contain a button called “Generate New Movie” to display another movie on demand. This app will display a movie along with its title, release date,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Software Engineer Interview Questions – Tips to Help You Prepare for a Job Interview]]></title>
-        <id>612686bf3bccf807612a7fdc</id>
-        <link href="https://www.freecodecamp.org/news/senior-software-engineer-interview-questions-how-i-got-a-job-as-an-sde-3-and-how-you-can-prepare-for-the-rounds/"/>
-        <updated>2021-08-30T17:56:48.000Z</updated>
-        <summary type="html"><![CDATA[I just joined Cisco Systems, India as a Senior Software Engineer (SDE III) on July 28, 2021. I am working with the Cisco Customer Experience team as a UI developer. The entire journey from applying for the job to accepting the offer was two months long. I wish to share]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Codespaces vs Gitpod – Full Stack Development Moves to the Cloud]]></title>
-        <id>6124028b3bccf807612a69ee</id>
-        <link href="https://www.freecodecamp.org/news/github-codespaces-vs-gitpod-cloud-based-dev-environments/"/>
-        <updated>2021-08-30T17:10:36.000Z</updated>
-        <summary type="html"><![CDATA[Gitpod and GitHub Codespaces are cloud based developer environments that allow you to spin-up high-performance, automated dev environments in seconds. Over the past few months I have gone down the rabbit hole of cloud-based developer environments. I'm moving several of my projects to the cloud so that developers can deploy]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Contact Form with SendGrid and Next.js]]></title>
-        <id>6125e9f83bccf807612a7a65</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-working-contact-form-with-sendgrid-and-next-js/"/>
-        <updated>2021-08-30T15:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Contact forms are useful on websites if you want your users to be able to interact with you over email. And there are lots of ways to build them. Traditionally you'd have either used PHP for sending emails over the server or some third party service that would take care]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is PHP? The PHP Programming Language Meaning Explained]]></title>
-        <id>6128e12fb5177808226d2e4f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meaning-explained/"/>
-        <updated>2021-08-30T15:13:30.000Z</updated>
-        <summary type="html"><![CDATA[PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).  In this article, I will help you explore the world of PHP so you can learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Loops in NodeJS – Beginner&#x27;s Guide to Synchronous and Asynchronous Code]]></title>
-        <id>6120ec0b3bccf807612a4bf3</id>
-        <link href="https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/"/>
-        <updated>2021-08-30T15:11:16.000Z</updated>
-        <summary type="html"><![CDATA[NodeJS is an asynchronous event-driven JavaScript runtime environment designed to build scalable network applications.  Asynchronous here refers to all those functions in JavaScript that are processed in the background without blocking any other request.  In this article, you will learn and understand how NodeJS works and handles all functions or]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exploring the CSS Paint API: Blob Animation]]></title>
         <id>https://css-tricks.com/?p=350574</id>
         <link href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/"/>
@@ -116,16 +170,6 @@ The post CSS Pseudo Commas appeared first on CSS-Tricks. You can support CSS-Tri
 The post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free 10-Hour Machine Learning Course]]></title>
-        <id>6127b75d3bccf807612a8c40</id>
-        <link href="https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/"/>
-        <updated>2021-08-30T13:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Every day more and more use cases are found for machine learning. It is a great field to get into. We just released a 10-hour machine learning course for beginners on the freeCodeCamp.org YouTube channel. Ayush Singh developed this course. He is a young data scientist and machine learning]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -311,23 +355,6 @@ The post Detecting Media Query Support in CSS and JavaScript appeared first on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Native JavaScript Routing?]]></title>
-        <id>https://css-tricks.com/?p=350160</id>
-        <link href="https://css-tricks.com/native-javascript-routing/"/>
-        <updated>2021-08-23T14:28:14.000Z</updated>
-        <summary type="html"><![CDATA[We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: 
-// Adds to browser history
-history.pushState({}, "About Page", "/about");
-
-// Doesn't
-history.replaceState({}, "About Page", "/about");
-JavaScript is also capable of replacing any content in the …
-The post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTP/3: Performance Improvements (Part 2)]]></title>
         <id>https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/</id>
         <link href="https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/"/>
@@ -335,20 +362,6 @@ The post Native JavaScript Routing? appeared first on CSS-Tricks. You can suppor
         <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Disambiguating Tailwind”]]></title>
-        <id>https://css-tricks.com/?p=350186</id>
-        <link href="https://css-tricks.com/disambiguating-tailwind/"/>
-        <updated>2021-08-20T19:59:47.000Z</updated>
-        <summary type="html"><![CDATA[I appreciated this bit of nuance from a post on Viget’s blog:
-There could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:
-1. Stock tailwind, ie. no changes to the 
-…
-The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -499,16 +512,6 @@ The post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can sup
         <summary type="html"><![CDATA[Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Callum Hart)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/</id>
-        <link href="https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/"/>
-        <updated>2021-08-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
