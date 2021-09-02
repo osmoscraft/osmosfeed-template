@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-01T00:43:08.536Z</id>
+    <id>urn:2021-09-02T00:39:39.416Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-01T00:43:08.536Z</updated>
+    <updated>2021-09-02T00:39:39.416Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What I Wish I Knew About CSS When Starting Out As A Front-Ender]]></title>
+        <id>https://css-tricks.com/?p=350752</id>
+        <link href="https://engineering.kablamo.com.au/posts/2021/my-first-css"/>
+        <updated>2021-09-01T23:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Nathan Hardy shares when things “clicked”:
+Reflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:
+• The Box Model (e.g. box-sizing, height, width, margin, padding)
+• Layout 
+…
+The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Positioning – Position Absolute and Relative Example]]></title>
+        <id>612a2408b5177808226d33cb</id>
+        <link href="https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/"/>
+        <updated>2021-09-01T18:30:19.000Z</updated>
+        <summary type="html"><![CDATA[When you want to design complex layouts, you'll need to change the typical  document flow and override the default browser styles.  You have to control how elements behave and are positioned on the page.  For example, you may want to stack elements next to each other or on top of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Delete Albums on iPhone]]></title>
+        <id>612cc013b5177808226d4a5d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-delete-albums-on-iphone/"/>
+        <updated>2021-09-01T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[If you want to delete a photo album on an iPhone, it only takes a few simple steps.  In this short article, I will walk you through the six steps to delete an album from your iPhone.  Step 1: Go to the Photos app on your phoneFirst, you need to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Font Color – How to Style Text in HTML]]></title>
+        <id>612fa76ed6679a07b7d40275</id>
+        <link href="https://www.freecodecamp.org/news/css-font-color-how-to-style-text-in-html/"/>
+        <updated>2021-09-01T17:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Setting text color on a website you're building might be confusing at first. But in this article, you'll learn how to do it.  How to Set Text Color in HTML In CSS, the background-color property is pretty straightforward for setting the background color of anything.  So what if you want]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array.find() Tutorial – How to Iterate Through Elements in an Array]]></title>
+        <id>612a4e71b5177808226d3767</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-find-tutorial-how-to-iterate-through-elements-in-an-array/"/>
+        <updated>2021-09-01T16:41:26.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with an array collection, sometimes you'll only need to find out if an item exists in the array so you can retrieve it. And you won't care how many other items (if any) exist within the same array.  Well, we can use the find() method to do]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Machine Learning Uses Linear Algebra to Solve Data Problems]]></title>
+        <id>612e1ae2d6679a07b7d3f4c4</id>
+        <link href="https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/"/>
+        <updated>2021-09-01T15:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Machines or computers only understand numbers. And these numbers need to be represented and processed in a way that lets machines solve problems by learning from the data instead of learning from predefined instructions (as in the case of programming). All types of programming use mathematics at some level. Machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String Methods Tutorial – How to Use find() and replace() on Python Strings]]></title>
+        <id>612b4321b5177808226d3b8b</id>
+        <link href="https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/"/>
+        <updated>2021-09-01T15:39:30.000Z</updated>
+        <summary type="html"><![CDATA[When working with strings in Python, you may need to search through strings for a pattern, or even replace parts of strings with another substring.  Python has the useful string methods find() and replace() that help us perform these string processing tasks.  In this tutorial, we'll learn about these two]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links VII]]></title>
+        <id>https://css-tricks.com/?p=350569</id>
+        <link href="https://css-tricks.com/some-typography-links-vii/"/>
+        <updated>2021-09-01T14:37:38.000Z</updated>
+        <summary type="html"><![CDATA[All-things-typography, from a hard-edged monospaced variable font to fonts in the "Twilight Zone" ... and much, much more.
+The post Some Typography Links VII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Figma to Design Websites]]></title>
+        <id>612909cdb5177808226d2f1d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/"/>
+        <updated>2021-09-01T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is great for designing websites. We just released a Figma course on the freeCodeCmap.org YouTube channel that will teach you how to use the tool to design websites. Joy Shaheb developed the course. Joy is a prolific tutorial creator]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive Into The Wonderful World Of SVG Displacement Filtering]]></title>
+        <id>https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/</id>
+        <link href="https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/"/>
+        <updated>2021-09-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dirk Weber)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Unblock Someone on Instagram]]></title>
         <id>612cc025b5177808226d4a67</id>
@@ -36,26 +142,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bold Font in HTML – Font Weight for Letters]]></title>
-        <id>612e6908d6679a07b7d3fad2</id>
-        <link href="https://www.freecodecamp.org/news/bold-font-in-html-font-weight-for-letters/"/>
-        <updated>2021-08-31T20:35:21.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a website, you may want to place particular emphasis on certain text to let users know that it's important.  And you can do this in HTML with various text formatting tags.  In this article, I will take you through how to emphasize certain text by making it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Revert Commit – How to Undo the Last Commit]]></title>
-        <id>611d6719e884de07521811de</id>
-        <link href="https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/"/>
-        <updated>2021-08-31T20:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out! There are two possible ways to undo your last commit. We'll look at both of them in this article.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
         <id>https://css-tricks.com/?p=350788</id>
         <link href="https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/"/>
@@ -66,26 +152,6 @@ The classic example is applying margin to everything, only to have to remove …
 The post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Management for Modern Software Development – How to Manage Dependencies, SemVer, and Build Systems for Beginners]]></title>
-        <id>611e90d03bccf807612a352a</id>
-        <link href="https://www.freecodecamp.org/news/release-management-modern-software-development/"/>
-        <updated>2021-08-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Releasing modern software might seem daunting and complicated. In this article, I'll expand on the concepts involved in the process, from managing dependencies to building in the cloud. Articles and tutorials usually cover a specific tool and dive right into it before laying down the foundational knowledge. In this article,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an OS? Operating System Definition for Beginners]]></title>
-        <id>60ffa3a33306a507d1bf97e9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/"/>
-        <updated>2021-08-31T16:50:03.000Z</updated>
-        <summary type="html"><![CDATA[People have long debated which is the best operating system for developers.  In order for us to answer this question, we first need to understand a few things, like:  What is an operating system? The history of operating systems How an operating system works Types and examples of operating systems]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -110,16 +176,6 @@ The post Application-Specific Links appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use Selenium to Create a Web Scraping Bot]]></title>
-        <id>6127fc01b5177808226d2b46</id>
-        <link href="https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/"/>
-        <updated>2021-08-31T12:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Selenium is a powerful web automation tool that can be used for browser automation, to test front-end code, and create web scraping bots. We just released a full course on the freeCodeCamp.org website that will teach you Selenium while you build a web scraping bot. Jim from JimShapedCoding developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stories Of September (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/</id>
         <link href="https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/"/>
@@ -127,26 +183,6 @@ The post Application-Specific Links appeared first on CSS-Tricks. You can suppor
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Full Stack Developer? Back End + Front End &#x3D; Full Stack Engineer]]></title>
-        <id>610648fd3306a507d1bfbfed</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/"/>
-        <updated>2021-08-30T21:56:06.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to the tech industry, you might have heard of the term Full Stack. But what does that mean exactly? In this article, I will explain what Full Stack Development is, what skills you need to become a Full Stack Developer, salary expectations, and tips for landing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove a Directory in Linux – How to Delete Directories and Contents From the Command Line]]></title>
-        <id>611d6736e884de07521811e6</id>
-        <link href="https://www.freecodecamp.org/news/remove-a-directory-in-linux-how-to-delete-directories-and-contents-from-the-command-line/"/>
-        <updated>2021-08-30T21:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a popular open source operating system, and its features are often available in your development environment. If you can learn its basic commands, it'll make your life as a developer much easier. In this guide you will learn how to delete directories and files from the Linux command]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -320,18 +356,6 @@ The post Architecting With Next.js appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introduction to the Solid JavaScript Library]]></title>
-        <id>https://css-tricks.com/?p=346597</id>
-        <link href="https://css-tricks.com/introduction-to-the-solid-javascript-library/"/>
-        <updated>2021-08-24T14:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.
-This …
-The post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Automate Documentation Workflow For Developers]]></title>
         <id>https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/</id>
         <link href="https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/"/>
@@ -339,19 +363,6 @@ The post Introduction to the Solid JavaScript Library appeared first on CSS-Tric
         <summary type="html"><![CDATA[In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Portia Burton)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Media Query Support in CSS and JavaScript]]></title>
-        <id>https://css-tricks.com/?p=350264</id>
-        <link href="https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/"/>
-        <updated>2021-08-23T17:16:38.000Z</updated>
-        <summary type="html"><![CDATA[You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:
-[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the 
-…
-The post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -502,16 +513,6 @@ The post Detecting Media Query Support in CSS and JavaScript appeared first on C
         <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Arihant Verma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build Resilient JavaScript UIs]]></title>
-        <id>https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/</id>
-        <link href="https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/"/>
-        <updated>2021-08-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Callum Hart)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350752",
+          "author": "Chris Coyier",
+          "description": "Nathan Hardy shares when things “clicked”:\nReflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:\n• The Box Model (e.g. box-sizing, height, width, margin, padding)\n• Layout \n…\nThe post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://engineering.kablamo.com.au/posts/2021/my-first-css",
+          "publishedOn": "2021-09-01T23:25:45.000Z",
+          "wordCount": 1194,
+          "title": "What I Wish I Knew About CSS When Starting Out As A Front-Ender"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350569",
+          "author": "Chris Coyier",
+          "description": "All-things-typography, from a hard-edged monospaced variable font to fonts in the \"Twilight Zone\" ... and much, much more.\nThe post Some Typography Links VII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/some-typography-links-vii/",
+          "publishedOn": "2021-09-01T14:37:38.000Z",
+          "wordCount": 800,
+          "title": "Some Typography Links VII"
+        },
+        {
           "id": "https://css-tricks.com/?p=350788",
           "author": "Chris Coyier",
           "description": "I think this is good advice from Silvestar Bistrović:\nAn enabling selector is what I call a selector that does a job without disabling the particular rule.\nThe classic example is applying margin to everything, only to have to remove …\nThe post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -26,7 +44,7 @@
           "description": "You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …\nThe post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/application-specific-links/",
           "publishedOn": "2021-08-31T14:30:21.000Z",
-          "wordCount": 1042,
+          "wordCount": 1135,
           "title": "Application-Specific Links"
         },
         {
@@ -44,7 +62,7 @@
           "description": "After the fragmentation effect, I am going to tackle another interesting animation: the blob! We all agree that such effect is hard to achieve with CSS, so we generally reach for SVG to make those gooey shapes. But …\nThe post Exploring the CSS Paint API: Blob Animation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/exploring-the-css-paint-api-blob-animation/",
           "publishedOn": "2021-08-30T14:43:42.000Z",
-          "wordCount": 4281,
+          "wordCount": 4284,
           "title": "Exploring the CSS Paint API: Blob Animation"
         },
         {
@@ -62,7 +80,7 @@
           "description": "What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …\nThe post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-fixed-background-attachment-hack/",
           "publishedOn": "2021-08-27T14:42:16.000Z",
-          "wordCount": 2015,
+          "wordCount": 2018,
           "title": "The Fixed Background Attachment Hack"
         },
         {
@@ -80,7 +98,7 @@
           "description": "The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text \n…\nThe post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/",
           "publishedOn": "2021-08-26T19:35:21.000Z",
-          "wordCount": 983,
+          "wordCount": 991,
           "title": "Some Articles About Accessibility I’ve Saved Recently III"
         },
         {
@@ -89,7 +107,7 @@
           "description": "While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …\nThe post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/",
           "publishedOn": "2021-08-26T14:35:03.000Z",
-          "wordCount": 2160,
+          "wordCount": 2163,
           "title": "How I Made a Generator for SVG Loaders With Sass and SMIL Options"
         },
         {
@@ -98,7 +116,7 @@
           "description": "A question:\nIf you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?\nMatt Stauffer, Twitter\n\nI wrote about doing this in Sublime Text a …\nThe post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/one-way-to-convert-code-indentation/",
           "publishedOn": "2021-08-25T22:34:04.000Z",
-          "wordCount": 871,
+          "wordCount": 874,
           "title": "One Way to Convert Code Indentation"
         },
         {
@@ -107,7 +125,7 @@
           "description": "Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …\nThe post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
           "publishedOn": "2021-08-25T14:55:17.000Z",
-          "wordCount": 3004,
+          "wordCount": 3007,
           "title": "Stealing Game Animation Techniques to Engage Users"
         },
         {
@@ -116,7 +134,7 @@
           "description": "This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …\nThe post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/scrollbar-reflowing/",
           "publishedOn": "2021-08-24T19:13:30.000Z",
-          "wordCount": 1177,
+          "wordCount": 1180,
           "title": "Scrollbar Reflowing"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2021-08-24T19:12:23.000Z",
           "wordCount": 349,
           "title": "Architecting With Next.js"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346597",
-          "author": "Charlie Gerard",
-          "description": "Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.\nThis …\nThe post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/introduction-to-the-solid-javascript-library/",
-          "publishedOn": "2021-08-24T14:30:50.000Z",
-          "wordCount": 2100,
-          "title": "Introduction to the Solid JavaScript Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350264",
-          "author": "Chris Coyier",
-          "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
-          "publishedOn": "2021-08-23T17:16:38.000Z",
-          "wordCount": 1292,
-          "title": "Detecting Media Query Support in CSS and JavaScript"
         }
       ]
     },
@@ -153,6 +153,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
+          "author": "hello@smashingmagazine.com (Dirk Weber)",
+          "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
+          "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
+          "publishedOn": "2021-09-01T10:30:00.000Z",
+          "wordCount": 5584,
+          "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/state-management-nextjs/",
           "author": "hello@smashingmagazine.com (Átila Fassina)",
@@ -173,7 +187,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
           "publishedOn": "2021-08-31T08:00:00.000Z",
-          "wordCount": 2411,
+          "wordCount": 2413,
           "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
@@ -187,7 +201,7 @@
           "description": "There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/",
           "publishedOn": "2021-08-30T10:00:00.000Z",
-          "wordCount": 3702,
+          "wordCount": 3695,
           "title": "Refactoring CSS: Optimizing Size And Performance (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa4e0eab-b23c-42ac-a622-b2ca8a02edd0/refactoring-css-optimizing-size-performance-part3.jpg",
@@ -201,7 +215,7 @@
           "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
           "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
           "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3120,
+          "wordCount": 3116,
           "title": "Compound Components In React",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
@@ -215,7 +229,7 @@
           "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
           "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
           "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3785,
+          "wordCount": 3773,
           "title": "Pushing Back Against Privacy Infringement On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
@@ -229,7 +243,7 @@
           "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
           "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
           "publishedOn": "2021-08-25T07:10:00.000Z",
-          "wordCount": 3508,
+          "wordCount": 3553,
           "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
@@ -243,7 +257,7 @@
           "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
           "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3236,
+          "wordCount": 3239,
           "title": "How To Automate Documentation Workflow For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
@@ -257,7 +271,7 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.",
           "link": "https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/",
           "publishedOn": "2021-08-23T06:20:00.000Z",
-          "wordCount": 10546,
+          "wordCount": 10552,
           "title": "HTTP/3: Performance Improvements (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d5e5ddd-7a90-48c6-84c5-dc5c335e2305/congestion-control.png",
@@ -285,7 +299,7 @@
           "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
           "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "publishedOn": "2021-08-19T10:00:00.000Z",
-          "wordCount": 5350,
+          "wordCount": 5357,
           "title": "How To Build An Ethical User Research Practice At Any Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
@@ -299,7 +313,7 @@
           "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
           "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "publishedOn": "2021-08-18T08:00:00.000Z",
-          "wordCount": 3315,
+          "wordCount": 3316,
           "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
@@ -313,7 +327,7 @@
           "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "publishedOn": "2021-08-17T07:25:00.000Z",
-          "wordCount": 1869,
+          "wordCount": 1861,
           "title": "Free Open-Source Icons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
@@ -327,7 +341,7 @@
           "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
           "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2954,
+          "wordCount": 2951,
           "title": "How To Develop Your Business’ Technology Roadmap",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
@@ -341,7 +355,7 @@
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
           "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6655,
+          "wordCount": 6654,
           "title": "Useful Figma Plugins And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
@@ -369,7 +383,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5035,
+          "wordCount": 5033,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -425,7 +439,7 @@
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 580,
+          "wordCount": 573,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -439,7 +453,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6584,
+          "wordCount": 6585,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -453,26 +467,12 @@
           "description": "In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.",
           "link": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "publishedOn": "2021-08-04T10:30:00.000Z",
-          "wordCount": 3338,
+          "wordCount": 3345,
           "title": "React Children And Iteration Methods",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ae9c0d62-009e-45c0-a600-d747533e49e5/react-children-iteration-methods.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
-          "author": "hello@smashingmagazine.com (Callum Hart)",
-          "description": "Resilience is intrinsic to the web and therefore us, web developers. This article explores how graceful degradation, defensive coding, observability, and a healthy attitude towards failures better equips us before, during, and after an error occurs.",
-          "link": "https://smashingmagazine.com/2021/08/build-resilient-javascript-ui/",
-          "publishedOn": "2021-08-03T11:00:00.000Z",
-          "wordCount": 2951,
-          "title": "How To Build Resilient JavaScript UIs",
-          "enclosure": {
-            "url": "blob:http://www.smashingmagazine.com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a",
-            "length": "0",
-            "type": "image/com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a"
           }
         }
       ]
@@ -482,6 +482,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "612a2408b5177808226d33cb",
+          "author": null,
+          "description": "When you want to design complex layouts, you'll need to change the typical  document flow and override the default browser styles.  You have to control how elements behave and are positioned on the page.  For example, you may want to stack elements next to each other or on top of",
+          "link": "https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/",
+          "publishedOn": "2021-09-01T18:30:19.000Z",
+          "wordCount": 1434,
+          "title": "CSS Positioning – Position Absolute and Relative Example"
+        },
+        {
+          "id": "612cc013b5177808226d4a5d",
+          "author": null,
+          "description": "If you want to delete a photo album on an iPhone, it only takes a few simple steps.  In this short article, I will walk you through the six steps to delete an album from your iPhone.  Step 1: Go to the Photos app on your phoneFirst, you need to",
+          "link": "https://www.freecodecamp.org/news/how-to-delete-albums-on-iphone/",
+          "publishedOn": "2021-09-01T17:53:57.000Z",
+          "wordCount": 459,
+          "title": "How to Delete Albums on iPhone"
+        },
+        {
+          "id": "612fa76ed6679a07b7d40275",
+          "author": null,
+          "description": "Setting text color on a website you're building might be confusing at first. But in this article, you'll learn how to do it.  How to Set Text Color in HTML In CSS, the background-color property is pretty straightforward for setting the background color of anything.  So what if you want",
+          "link": "https://www.freecodecamp.org/news/css-font-color-how-to-style-text-in-html/",
+          "publishedOn": "2021-09-01T17:27:17.000Z",
+          "wordCount": 1113,
+          "title": "CSS Font Color – How to Style Text in HTML"
+        },
+        {
+          "id": "612a4e71b5177808226d3767",
+          "author": null,
+          "description": "When you're working with an array collection, sometimes you'll only need to find out if an item exists in the array so you can retrieve it. And you won't care how many other items (if any) exist within the same array.  Well, we can use the find() method to do",
+          "link": "https://www.freecodecamp.org/news/javascript-array-find-tutorial-how-to-iterate-through-elements-in-an-array/",
+          "publishedOn": "2021-09-01T16:41:26.000Z",
+          "wordCount": 1372,
+          "title": "JavaScript Array.find() Tutorial – How to Iterate Through Elements in an Array"
+        },
+        {
+          "id": "612e1ae2d6679a07b7d3f4c4",
+          "author": null,
+          "description": "Machines or computers only understand numbers. And these numbers need to be represented and processed in a way that lets machines solve problems by learning from the data instead of learning from predefined instructions (as in the case of programming). All types of programming use mathematics at some level. Machine",
+          "link": "https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/",
+          "publishedOn": "2021-09-01T15:47:54.000Z",
+          "wordCount": 1451,
+          "title": "How Machine Learning Uses Linear Algebra to Solve Data Problems"
+        },
+        {
+          "id": "612b4321b5177808226d3b8b",
+          "author": null,
+          "description": "When working with strings in Python, you may need to search through strings for a pattern, or even replace parts of strings with another substring.  Python has the useful string methods find() and replace() that help us perform these string processing tasks.  In this tutorial, we'll learn about these two",
+          "link": "https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/",
+          "publishedOn": "2021-09-01T15:39:30.000Z",
+          "wordCount": 1400,
+          "title": "Python String Methods Tutorial – How to Use find() and replace() on Python Strings"
+        },
+        {
+          "id": "612909cdb5177808226d2f1d",
+          "author": null,
+          "description": "Figma is a vector graphics editor and prototyping tool that is great for designing websites. We just released a Figma course on the freeCodeCmap.org YouTube channel that will teach you how to use the tool to design websites. Joy Shaheb developed the course. Joy is a prolific tutorial creator",
+          "link": "https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/",
+          "publishedOn": "2021-09-01T13:21:54.000Z",
+          "wordCount": 37407,
+          "title": "How to Use Figma to Design Websites"
+        },
         {
           "id": "612cc025b5177808226d4a67",
           "author": null,
@@ -508,69 +571,6 @@
           "publishedOn": "2021-08-31T20:46:24.000Z",
           "wordCount": 1517,
           "title": "Logging in Python – How to Use Logs to Debug Your Django Projects"
-        },
-        {
-          "id": "612e6908d6679a07b7d3fad2",
-          "author": null,
-          "description": "When you're building a website, you may want to place particular emphasis on certain text to let users know that it's important.  And you can do this in HTML with various text formatting tags.  In this article, I will take you through how to emphasize certain text by making it",
-          "link": "https://www.freecodecamp.org/news/bold-font-in-html-font-weight-for-letters/",
-          "publishedOn": "2021-08-31T20:35:21.000Z",
-          "wordCount": 787,
-          "title": "Bold Font in HTML – Font Weight for Letters"
-        },
-        {
-          "id": "611d6719e884de07521811de",
-          "author": null,
-          "description": "Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out! There are two possible ways to undo your last commit. We'll look at both of them in this article.",
-          "link": "https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/",
-          "publishedOn": "2021-08-31T20:20:41.000Z",
-          "wordCount": 573,
-          "title": "Git Revert Commit – How to Undo the Last Commit"
-        },
-        {
-          "id": "611e90d03bccf807612a352a",
-          "author": null,
-          "description": "Releasing modern software might seem daunting and complicated. In this article, I'll expand on the concepts involved in the process, from managing dependencies to building in the cloud. Articles and tutorials usually cover a specific tool and dive right into it before laying down the foundational knowledge. In this article,",
-          "link": "https://www.freecodecamp.org/news/release-management-modern-software-development/",
-          "publishedOn": "2021-08-31T17:00:00.000Z",
-          "wordCount": 2334,
-          "title": "Release Management for Modern Software Development – How to Manage Dependencies, SemVer, and Build Systems for Beginners"
-        },
-        {
-          "id": "60ffa3a33306a507d1bf97e9",
-          "author": null,
-          "description": "People have long debated which is the best operating system for developers.  In order for us to answer this question, we first need to understand a few things, like:  What is an operating system? The history of operating systems How an operating system works Types and examples of operating systems",
-          "link": "https://www.freecodecamp.org/news/what-is-an-os-operating-system-definition-for-beginners/",
-          "publishedOn": "2021-08-31T16:50:03.000Z",
-          "wordCount": 2268,
-          "title": "What is an OS? Operating System Definition for Beginners"
-        },
-        {
-          "id": "6127fc01b5177808226d2b46",
-          "author": null,
-          "description": "Selenium is a powerful web automation tool that can be used for browser automation, to test front-end code, and create web scraping bots. We just released a full course on the freeCodeCamp.org website that will teach you Selenium while you build a web scraping bot. Jim from JimShapedCoding developed",
-          "link": "https://www.freecodecamp.org/news/use-selenium-to-create-a-web-scraping-bot/",
-          "publishedOn": "2021-08-31T12:43:06.000Z",
-          "wordCount": 29022,
-          "title": "Use Selenium to Create a Web Scraping Bot"
-        },
-        {
-          "id": "610648fd3306a507d1bfbfed",
-          "author": null,
-          "description": "If you are new to the tech industry, you might have heard of the term Full Stack. But what does that mean exactly? In this article, I will explain what Full Stack Development is, what skills you need to become a Full Stack Developer, salary expectations, and tips for landing",
-          "link": "https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/",
-          "publishedOn": "2021-08-30T21:56:06.000Z",
-          "wordCount": 1770,
-          "title": "What is a Full Stack Developer? Back End + Front End &#x3D; Full Stack Engineer"
-        },
-        {
-          "id": "611d6736e884de07521811e6",
-          "author": null,
-          "description": "Linux is a popular open source operating system, and its features are often available in your development environment. If you can learn its basic commands, it'll make your life as a developer much easier. In this guide you will learn how to delete directories and files from the Linux command",
-          "link": "https://www.freecodecamp.org/news/remove-a-directory-in-linux-how-to-delete-directories-and-contents-from-the-command-line/",
-          "publishedOn": "2021-08-30T21:35:33.000Z",
-          "wordCount": 745,
-          "title": "Remove a Directory in Linux – How to Delete Directories and Contents From the Command Line"
         }
       ]
     }
