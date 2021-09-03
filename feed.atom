@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-02T00:39:39.416Z</id>
+    <id>urn:2021-09-03T00:39:51.099Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T00:39:39.416Z</updated>
+    <updated>2021-09-03T00:39:51.099Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance IV]]></title>
+        <id>https://css-tricks.com/?p=350934</id>
+        <link href="https://css-tricks.com/links-on-performance-iv/"/>
+        <updated>2021-09-02T22:28:51.000Z</updated>
+        <summary type="html"><![CDATA[HTTP Caching is a Superpower — Hugh Haworth covers how the Cache-Control header is an awfully potent ingredient in web performance. I mis-read the title at first and was waiting to read about HTML caching. Hugh covers it a bit 
+…
+The post Links on Performance IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I completely ignored the front-end development scene for 6 months. It was fine.]]></title>
+        <id>https://css-tricks.com/?p=350723</id>
+        <link href="https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months-it-was-fine/"/>
+        <updated>2021-09-02T22:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever fretted that front-end web development moves so fast that if you stepped away for a while, you’d be lost coming back? Rachel Smith has:
+The hectic pace of needing to learn one thing after the next 
+…
+The post I completely ignored the front-end development scene for 6 months. It was fine. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Flexbox and Grid Tutorial – How to Build a Landing Page with Just HTML and CSS]]></title>
+        <id>612f86fcd6679a07b7d401b3</id>
+        <link href="https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/"/>
+        <updated>2021-09-02T17:16:52.000Z</updated>
+        <summary type="html"><![CDATA[In  this tutorial, we are going to build a simple landing page for an online education platform called Skilllz. This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts as well. The tutorial is divided into three]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Task Manager in Windows 10]]></title>
+        <id>6130cfc9d6679a07b7d40bfb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-task-manager-in-windows-10/"/>
+        <updated>2021-09-02T16:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Windows Task Manager is an advanced utility tool that helps you manage your apps that are running.  Task Manager lets you see which apps are open and which you're using. You can also see which apps are running in the background that you didn't open yourself.  One important reason that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Botnet – Botnet Definition and How to Defend Against Attacks]]></title>
+        <id>5fccd593e6787e098393ae5b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-botnet/"/>
+        <updated>2021-09-02T14:52:50.000Z</updated>
+        <summary type="html"><![CDATA[A botnet is a collection of internet connected devices (anything from PCs to IoT devices) which are infected by the same malware.  A hacker uses the malware the botnet is infected with to control it and launch botnet attacks. The attacks are more effective when launched using hundreds, or thousands,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If I work really hard on my Open Graph images, people will share my blog posts.]]></title>
+        <id>https://css-tricks.com/?p=350830</id>
+        <link href="https://www.zachleat.com/web/automatic-opengraph/"/>
+        <updated>2021-09-02T14:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Zach did that thing where each of his blog posts has a special URL with the design of social image card that is screenshat by a headless browser (like Puppeteer) and used as a true meta Open Graph image, meaning …
+The post If I work really hard on my Open Graph images, people will share my blog posts. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Learning Tools For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/</id>
+        <link href="https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/"/>
+        <updated>2021-09-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing Your Data With Netlify Functions and React]]></title>
+        <id>https://css-tricks.com/?p=351172</id>
+        <link href="https://css-tricks.com/accessing-data-netlify-functions-react/"/>
+        <updated>2021-09-02T00:28:22.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Static site generators are popular for their speed, security, and user experience. However, sometimes your application needs data that is not available when the site is built. React is a library for building user …
+The post Accessing Your Data With Netlify Functions and React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tharaka Romesh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I Wish I Knew About CSS When Starting Out As A Front-Ender]]></title>
         <id>https://css-tricks.com/?p=350752</id>
@@ -109,36 +197,6 @@ The post Some Typography Links VII appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dirk Weber)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Unblock Someone on Instagram]]></title>
-        <id>612cc025b5177808226d4a67</id>
-        <link href="https://www.freecodecamp.org/news/how-to-unblock-someone-on-instagram/"/>
-        <updated>2021-08-31T21:30:46.000Z</updated>
-        <summary type="html"><![CDATA[If you use Instagram, you may have needed to block certain accounts from time to time. But what if things change and you want to unblock someone?  In this article, I will walk you through the three ways to unblock someone on Instagram using the mobile app for iPhone and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Do While – Loop Example]]></title>
-        <id>612ddfa9d6679a07b7d3f3c9</id>
-        <link href="https://www.freecodecamp.org/news/python-do-while-loop-example/"/>
-        <updated>2021-08-31T21:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Loops are a useful and frequently used feature in all modern programming languages.  If you want to automate a specific repetitive task or prevent yourself from writing repetitive code in your programs, using a loop is the best option for that.  Loops are a set of instructions that run repeatedly]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logging in Python – How to Use Logs to Debug Your Django Projects]]></title>
-        <id>61134bed72231b077cdad5e1</id>
-        <link href="https://www.freecodecamp.org/news/logging-in-python-debug-your-django-projects/"/>
-        <updated>2021-08-31T20:46:24.000Z</updated>
-        <summary type="html"><![CDATA[The only perfect code is code that has never been written. As a developer, you are bound to face errors and will be responsible for debugging them.  If you're coding in Python, you can always look at its error messages to figure out what's going on. But what if an]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -295,32 +353,6 @@ The post How I Made a Generator for SVG Loaders With Sass and SMIL Options appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
-        <id>https://css-tricks.com/?p=350311</id>
-        <link href="https://css-tricks.com/one-way-to-convert-code-indentation/"/>
-        <updated>2021-08-25T22:34:04.000Z</updated>
-        <summary type="html"><![CDATA[A question:
-If you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?
-Matt Stauffer, Twitter
-
-I wrote about doing this in Sublime Text a …
-The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stealing Game Animation Techniques to Engage Users]]></title>
-        <id>https://css-tricks.com/?p=346612</id>
-        <link href="https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/"/>
-        <updated>2021-08-25T14:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …
-The post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Eli Penner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
         <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
         <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
@@ -328,31 +360,6 @@ The post Stealing Game Animation Techniques to Engage Users appeared first on CS
         <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrollbar Reflowing]]></title>
-        <id>https://css-tricks.com/?p=350486</id>
-        <link href="https://css-tricks.com/scrollbar-reflowing/"/>
-        <updated>2021-08-24T19:13:30.000Z</updated>
-        <summary type="html"><![CDATA[This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …
-The post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architecting With Next.js]]></title>
-        <id>https://css-tricks.com/?p=350253</id>
-        <link href="https://www.netlify.com/events/architecting-with-nextjs"/>
-        <updated>2021-08-24T19:12:23.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Free event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.
-Join us for a special event where we’ll highlight business 
-…
-The post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -503,16 +510,6 @@ The post Architecting With Next.js appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Children And Iteration Methods]]></title>
-        <id>https://smashingmagazine.com/2021/08/react-children-iteration-methods/</id>
-        <link href="https://smashingmagazine.com/2021/08/react-children-iteration-methods/"/>
-        <updated>2021-08-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll discuss and learn about the use case of iterating over React `children` and the ways to do it. In particular, we will deep dive into one of the utility methods, `React.Children.toArray`, that React gives us, which helps to iterate over the children in a way which ensures performance and determinism.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Arihant Verma)</name>
         </author>
     </entry>
 </feed>
