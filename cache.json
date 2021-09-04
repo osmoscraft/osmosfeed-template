@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350649",
+          "author": "Chris Coyier",
+          "description": "I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …\nThe post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9",
+          "publishedOn": "2021-09-03T22:16:47.000Z",
+          "wordCount": 930,
+          "title": "AWS Lambdas: Easy, Easier, Easiest"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350889",
+          "author": "John Rhea",
+          "description": "We’ve already discussed how creating web components is easier than you think, but there’s another aspect of the specification that we haven’t discussed yet and it’s a way to customize (nay, supercharge) a built-in element. It’s similar to …\nThe post Supercharging Built-In Elements With Web Components “is” Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/supercharging-built-in-elements-with-web-components-is-easier-than-you-think/",
+          "publishedOn": "2021-09-03T14:21:38.000Z",
+          "wordCount": 1852,
+          "title": "Supercharging Built-In Elements With Web Components “is” Easier Than You Think"
+        },
+        {
           "id": "https://css-tricks.com/?p=350934",
           "author": "Chris Coyier",
           "description": "HTTP Caching is a Superpower — Hugh Haworth covers how the Cache-Control header is an awfully potent ingredient in web performance. I mis-read the title at first and was waiting to read about HTML caching. Hugh covers it a bit \n…\nThe post Links on Performance IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-performance-iv/",
           "publishedOn": "2021-09-02T22:28:51.000Z",
-          "wordCount": 844,
+          "wordCount": 921,
           "title": "Links on Performance IV"
         },
         {
@@ -35,7 +53,7 @@
           "description": "Zach did that thing where each of his blog posts has a special URL with the design of social image card that is screenshat by a headless browser (like Puppeteer) and used as a true meta Open Graph image, meaning …\nThe post If I work really hard on my Open Graph images, people will share my blog posts. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.zachleat.com/web/automatic-opengraph/",
           "publishedOn": "2021-09-02T14:30:55.000Z",
-          "wordCount": 1607,
+          "wordCount": 2541,
           "title": "If I work really hard on my Open Graph images, people will share my blog posts."
         },
         {
@@ -44,7 +62,7 @@
           "description": "(This is a sponsored post.)\nStatic site generators are popular for their speed, security, and user experience. However, sometimes your application needs data that is not available when the site is built. React is a library for building user …\nThe post Accessing Your Data With Netlify Functions and React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/accessing-data-netlify-functions-react/",
           "publishedOn": "2021-09-02T00:28:22.000Z",
-          "wordCount": 3095,
+          "wordCount": 3119,
           "title": "Accessing Your Data With Netlify Functions and React"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2021-08-26T23:07:31.000Z",
           "wordCount": 4512,
           "title": "Designing for the Unexpected"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350298",
-          "author": "Chris Coyier",
-          "description": "The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text \n…\nThe post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/",
-          "publishedOn": "2021-08-26T19:35:21.000Z",
-          "wordCount": 991,
-          "title": "Some Articles About Accessibility I’ve Saved Recently III"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350223",
-          "author": "Mariana Beldi",
-          "description": "While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …\nThe post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/",
-          "publishedOn": "2021-08-26T14:35:03.000Z",
-          "wordCount": 2163,
-          "title": "How I Made a Generator for SVG Loaders With Sass and SMIL Options"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
+          "author": "hello@smashingmagazine.com (Berwyn Powell)",
+          "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
+          "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
+          "publishedOn": "2021-09-03T11:30:00.000Z",
+          "wordCount": 3568,
+          "title": "Reducing Carbon Emissions On The Web",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
           "description": "Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.",
           "link": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
           "publishedOn": "2021-09-02T12:00:00.000Z",
-          "wordCount": 2437,
+          "wordCount": 2436,
           "title": "Interactive Learning Tools For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f13aec3-8dd5-4085-afce-c752db3abfb6/interactive-learning-tools-front-end-developers.jpg",
@@ -173,7 +187,7 @@
           "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
           "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
           "publishedOn": "2021-09-01T10:30:00.000Z",
-          "wordCount": 5583,
+          "wordCount": 5585,
           "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
@@ -201,7 +215,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
           "publishedOn": "2021-08-31T08:00:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2408,
           "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
@@ -215,7 +229,7 @@
           "description": "There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/",
           "publishedOn": "2021-08-30T10:00:00.000Z",
-          "wordCount": 3699,
+          "wordCount": 3700,
           "title": "Refactoring CSS: Optimizing Size And Performance (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa4e0eab-b23c-42ac-a622-b2ca8a02edd0/refactoring-css-optimizing-size-performance-part3.jpg",
@@ -229,7 +243,7 @@
           "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
           "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
           "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3112,
+          "wordCount": 3111,
           "title": "Compound Components In React",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
@@ -243,7 +257,7 @@
           "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
           "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
           "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3772,
+          "wordCount": 3778,
           "title": "Pushing Back Against Privacy Infringement On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
@@ -257,7 +271,7 @@
           "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
           "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
           "publishedOn": "2021-08-25T07:10:00.000Z",
-          "wordCount": 3554,
+          "wordCount": 3548,
           "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
@@ -271,7 +285,7 @@
           "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
           "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3225,
+          "wordCount": 3230,
           "title": "How To Automate Documentation Workflow For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
@@ -285,7 +299,7 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.",
           "link": "https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/",
           "publishedOn": "2021-08-23T06:20:00.000Z",
-          "wordCount": 10546,
+          "wordCount": 10548,
           "title": "HTTP/3: Performance Improvements (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d5e5ddd-7a90-48c6-84c5-dc5c335e2305/congestion-control.png",
@@ -299,7 +313,7 @@
           "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
           "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
           "publishedOn": "2021-08-20T08:00:00.000Z",
-          "wordCount": 4610,
+          "wordCount": 4606,
           "title": "Jamstack CMS: The Past, The Present and The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
@@ -313,7 +327,7 @@
           "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
           "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "publishedOn": "2021-08-19T10:00:00.000Z",
-          "wordCount": 5345,
+          "wordCount": 5343,
           "title": "How To Build An Ethical User Research Practice At Any Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
@@ -327,7 +341,7 @@
           "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
           "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "publishedOn": "2021-08-18T08:00:00.000Z",
-          "wordCount": 3319,
+          "wordCount": 3317,
           "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
@@ -341,7 +355,7 @@
           "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "publishedOn": "2021-08-17T07:25:00.000Z",
-          "wordCount": 1872,
+          "wordCount": 1863,
           "title": "Free Open-Source Icons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
@@ -355,7 +369,7 @@
           "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
           "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
           "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2955,
+          "wordCount": 2947,
           "title": "How To Develop Your Business’ Technology Roadmap",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
@@ -369,7 +383,7 @@
           "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
           "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
           "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6656,
+          "wordCount": 6664,
           "title": "Useful Figma Plugins And Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
@@ -397,7 +411,7 @@
           "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
           "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
           "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5032,
           "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
@@ -439,7 +453,7 @@
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "publishedOn": "2021-08-09T11:00:00.000Z",
-          "wordCount": 6959,
+          "wordCount": 6961,
           "title": "HTTP/3 From A To Z: Core Concepts (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f9f9146-4b77-494d-af72-4db28567a6fe/http3-core-concepts-part1.jpg",
@@ -453,7 +467,7 @@
           "description": "VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.",
           "link": "https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/",
           "publishedOn": "2021-08-06T10:00:00.000Z",
-          "wordCount": 573,
+          "wordCount": 572,
           "title": "Four Useful VSCode Extensions For Web Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2f984846-0510-48f5-a415-326027d14a88/3-useful-vscode-extensions-web-developers.png",
@@ -467,7 +481,7 @@
           "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
           "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
           "publishedOn": "2021-08-05T13:30:00.000Z",
-          "wordCount": 6579,
+          "wordCount": 6578,
           "title": "Frustrating Design Patterns: Disabled Buttons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
@@ -482,6 +496,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61320541d6679a07b7d416a2",
+          "author": null,
+          "description": "You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within",
+          "link": "https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/",
+          "publishedOn": "2021-09-03T15:03:03.000Z",
+          "wordCount": 1416,
+          "title": "HTML Select Tag – How to Make a Dropdown Menu or Combo List"
+        },
+        {
+          "id": "6106588a3306a507d1bfc10c",
+          "author": null,
+          "description": "In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it",
+          "link": "https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/",
+          "publishedOn": "2021-09-03T14:49:55.000Z",
+          "wordCount": 973,
+          "title": "Python Sort List – How to Order By Descending or Ascending"
+        },
         {
           "id": "612f86fcd6679a07b7d401b3",
           "author": null,
@@ -553,24 +585,6 @@
           "publishedOn": "2021-09-01T15:47:54.000Z",
           "wordCount": 1451,
           "title": "How Machine Learning Uses Linear Algebra to Solve Data Problems"
-        },
-        {
-          "id": "612b4321b5177808226d3b8b",
-          "author": null,
-          "description": "When working with strings in Python, you may need to search through strings for a pattern, or even replace parts of strings with another substring.  Python has the useful string methods find() and replace() that help us perform these string processing tasks.  In this tutorial, we'll learn about these two",
-          "link": "https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/",
-          "publishedOn": "2021-09-01T15:39:30.000Z",
-          "wordCount": 1400,
-          "title": "Python String Methods Tutorial – How to Use find() and replace() on Python Strings"
-        },
-        {
-          "id": "612909cdb5177808226d2f1d",
-          "author": null,
-          "description": "Figma is a vector graphics editor and prototyping tool that is great for designing websites. We just released a Figma course on the freeCodeCmap.org YouTube channel that will teach you how to use the tool to design websites. Joy Shaheb developed the course. Joy is a prolific tutorial creator",
-          "link": "https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/",
-          "publishedOn": "2021-09-01T13:21:54.000Z",
-          "wordCount": 37407,
-          "title": "How to Use Figma to Design Websites"
         }
       ]
     }

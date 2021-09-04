@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-03T00:39:51.099Z</id>
+    <id>urn:2021-09-04T00:39:54.548Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-03T00:39:51.099Z</updated>
+    <updated>2021-09-04T00:39:54.548Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
+        <id>https://css-tricks.com/?p=350649</id>
+        <link href="https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"/>
+        <updated>2021-09-03T22:16:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
+The post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Select Tag – How to Make a Dropdown Menu or Combo List]]></title>
+        <id>61320541d6679a07b7d416a2</id>
+        <link href="https://www.freecodecamp.org/news/html-select-tag-how-to-make-a-dropdown-menu-or-combo-list/"/>
+        <updated>2021-09-03T15:03:03.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML select tag to create drop-down menus so that users can select the value they want. It is an instrumental feature in collecting data to be sent to a server.  The select tag normally goes within a form element, with the items to choose from coded within]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sort List – How to Order By Descending or Ascending]]></title>
+        <id>6106588a3306a507d1bfc10c</id>
+        <link href="https://www.freecodecamp.org/news/python-sort-list-how-to-order-by-descending-or-ascending/"/>
+        <updated>2021-09-03T14:49:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can sort data by using the sorted() method or sort() method.  In this article, I will provide code examples for the sorted() and sort() methods and explain the differences between the two. What is the sort() method in Python?This method takes a list and sorts it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharging Built-In Elements With Web Components “is” Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=350889</id>
+        <link href="https://css-tricks.com/supercharging-built-in-elements-with-web-components-is-easier-than-you-think/"/>
+        <updated>2021-09-03T14:21:38.000Z</updated>
+        <summary type="html"><![CDATA[We’ve already discussed how creating web components is easier than you think, but there’s another aspect of the specification that we haven’t discussed yet and it’s a way to customize (nay, supercharge) a built-in element. It’s similar to …
+The post Supercharging Built-In Elements With Web Components “is” Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing Carbon Emissions On The Web]]></title>
+        <id>https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/</id>
+        <link href="https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/"/>
+        <updated>2021-09-03T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Berwyn Powell)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on Performance IV]]></title>
         <id>https://css-tricks.com/?p=350934</id>
@@ -159,16 +211,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python String Methods Tutorial – How to Use find() and replace() on Python Strings]]></title>
-        <id>612b4321b5177808226d3b8b</id>
-        <link href="https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/"/>
-        <updated>2021-09-01T15:39:30.000Z</updated>
-        <summary type="html"><![CDATA[When working with strings in Python, you may need to search through strings for a pattern, or even replace parts of strings with another substring.  Python has the useful string methods find() and replace() that help us perform these string processing tasks.  In this tutorial, we'll learn about these two]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Typography Links VII]]></title>
         <id>https://css-tricks.com/?p=350569</id>
         <link href="https://css-tricks.com/some-typography-links-vii/"/>
@@ -177,16 +219,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
 The post Some Typography Links VII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Figma to Design Websites]]></title>
-        <id>612909cdb5177808226d2f1d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/"/>
-        <updated>2021-09-01T13:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is great for designing websites. We just released a Figma course on the freeCodeCmap.org YouTube channel that will teach you how to use the tool to design websites. Joy Shaheb developed the course. Joy is a prolific tutorial creator]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -317,29 +349,6 @@ The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You 
 The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently III]]></title>
-        <id>https://css-tricks.com/?p=350298</id>
-        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/"/>
-        <updated>2021-08-26T19:35:21.000Z</updated>
-        <summary type="html"><![CDATA[The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text 
-…
-The post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Made a Generator for SVG Loaders With Sass and SMIL Options]]></title>
-        <id>https://css-tricks.com/?p=350223</id>
-        <link href="https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/"/>
-        <updated>2021-08-26T14:35:03.000Z</updated>
-        <summary type="html"><![CDATA[While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …
-The post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
         </author>
     </entry>
     <entry>
