@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-04T00:39:54.548Z</id>
+    <id>urn:2021-09-05T00:42:52.349Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T00:39:54.548Z</updated>
+    <updated>2021-09-05T00:42:52.349Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://css-tricks.com/?p=350649</id>
         <link href="https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"/>
         <updated>2021-09-03T22:16:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherit isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
+        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherent isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
 The post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -499,26 +499,6 @@ The post Designing for the Unexpected appeared first on CSS-Tricks. You can supp
         <summary type="html"><![CDATA[What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
-        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
-        <updated>2021-08-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
-        <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
-        <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
-        <updated>2021-08-05T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
