@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-06T00:44:11.693Z</id>
+    <id>urn:2021-09-07T00:38:47.082Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T00:44:11.693Z</updated>
+    <updated>2021-09-07T00:38:47.082Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
+        <id>https://css-tricks.com/?p=351402</id>
+        <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
+        <updated>2021-09-06T18:47:19.000Z</updated>
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3: Practical Deployment Options (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/</id>
+        <link href="https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/"/>
+        <updated>2021-09-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Marx)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This September]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-09-06T07:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
         <id>https://css-tricks.com/?p=350649</id>
@@ -201,16 +232,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Machine Learning Uses Linear Algebra to Solve Data Problems]]></title>
-        <id>612e1ae2d6679a07b7d3f4c4</id>
-        <link href="https://www.freecodecamp.org/news/how-machine-learning-leverages-linear-algebra-to-optimize-model-trainingwhy-you-should-learn-the-fundamentals-of-linear-algebra/"/>
-        <updated>2021-09-01T15:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Machines or computers only understand numbers. And these numbers need to be represented and processed in a way that lets machines solve problems by learning from the data instead of learning from predefined instructions (as in the case of programming). All types of programming use mathematics at some level. Machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Typography Links VII]]></title>
         <id>https://css-tricks.com/?p=350569</id>
         <link href="https://css-tricks.com/some-typography-links-vii/"/>
@@ -338,17 +359,6 @@ The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You 
         <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
-        <id>https://css-tricks.com/?p=350573</id>
-        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
-        <updated>2021-08-26T23:07:31.000Z</updated>
-        <summary type="html"><![CDATA[When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …
-The post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
