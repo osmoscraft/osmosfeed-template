@@ -1,26 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-08T00:38:50.175Z</id>
+    <id>urn:2021-09-09T00:41:58.236Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-08T00:38:50.175Z</updated>
+    <updated>2021-09-09T00:41:58.236Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
+        <id>6138f291852f4307d3729b64</id>
+        <link href="https://www.freecodecamp.org/news/span-vs-div-html-tags-what-is-the-difference/"/>
+        <updated>2021-09-08T21:08:38.000Z</updated>
+        <summary type="html"><![CDATA[If you inspect a web page with your browser's developer tools, you'll likely see a bunch of nested div tags, and possibly some content wrapped in a span tag.  Similar content is usually grouped together by these two container elements – span and div. You can use them both as containers,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t attach tooltips to document.body]]></title>
+        <id>https://css-tricks.com/?p=351389</id>
+        <link href="https://css-tricks.com/dont-attach-tooltips-to-document-body/"/>
+        <updated>2021-09-08T19:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …
+The post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Installation Guide – How to Get Started with WordPress + the Best Plugins]]></title>
+        <id>6138218b581b610782a91de7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-wordpress/"/>
+        <updated>2021-09-08T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Over 40% of all websites on the internet are powered by WordPress, making it the world’s top choice when it comes to creating a website. Many people and businesses choose to create their websites with WordPress because of its versatility, speed, and ease of use. WordPress is also Open]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Flexbox and Grid Tutorial – How to Build a Responsive Landing Page with HTML and CSS]]></title>
+        <id>612f86fcd6679a07b7d401b3</id>
+        <link href="https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/"/>
+        <updated>2021-09-08T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we are going to build a simple landing page for an online education platform called Skilllz.  This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts. And finally, we'll learn how to make the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Scope in C – Local and Global Scope Explained]]></title>
+        <id>61345caed6679a07b7d42d3e</id>
+        <link href="https://www.freecodecamp.org/news/scope-of-variables-in-c-local-and-global-scope-explained/"/>
+        <updated>2021-09-08T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[In programming, you'll often have to deal with the scope of a variable. The scope of a variable determines whether or not you can access and modify it inside a specific block of code. In this tutorial, you'll learn about variable scope in the C programming language. You'll see some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Bubbling and Event Catching in JavaScript and React – A Beginner&#x27;s Guide]]></title>
+        <id>6136666dd6679a07b7d437d0</id>
+        <link href="https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/"/>
+        <updated>2021-09-08T15:37:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll help you understand event bubbling and event catching like a pro. I created this resource to help you understand event propagation and how it works in JavaScript and React in a clear and comprehensible way. ❤ Once you've gone through this thorough introduction to event bubbling and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Einstein&#x27;s Five House Riddle]]></title>
+        <id>61366f23d6679a07b7d4380a</id>
+        <link href="https://www.freecodecamp.org/news/einsteins-riddle/"/>
+        <updated>2021-09-08T15:36:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently learned about a logic puzzle online that apparently only 2% of people can solve. There are a few different incarnations of it – some have slightly different wording, different names, or change the items in the riddle slightly. But they are all the exact same core problem. The riddle]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Behind TryShape, a Showcase for the CSS clip-path property]]></title>
+        <id>https://css-tricks.com/?p=351043</id>
+        <link href="https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/"/>
+        <updated>2021-09-08T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I love shapes, especially colorful ones! Shapes on websites are in the same category of helpfulness as background colors, images, banners, section separators, artwork, and many more: they can help us understand context and inform our actions through affordances.
+A …
+The post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Algorithms and Data Structures in Python]]></title>
+        <id>6138c58c852f4307d372989e</id>
+        <link href="https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/"/>
+        <updated>2021-09-08T14:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms and data structures are important for most programmers to understand. We just released a course on the freeCodeCamp YouTube channel that is a beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
+        <id>https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/</id>
+        <link href="https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
+        <updated>2021-09-08T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Smashing Online Workshops on Front-End & UX]]></title>
+        <id>https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/</id>
+        <link href="https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/"/>
+        <updated>2021-09-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Build the 2048 Game in React]]></title>
+        <id>611827fe72231b077cdb021c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/"/>
+        <updated>2021-09-08T01:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Span HTML – How to Use the Span Tag with CSS]]></title>
+        <id>61372fd1d6679a07b7d43e77</id>
+        <link href="https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/"/>
+        <updated>2021-09-08T01:18:28.000Z</updated>
+        <summary type="html"><![CDATA[You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
         <id>6132237ad6679a07b7d418ca</id>
         <link href="https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/"/>
         <updated>2021-09-07T23:46:55.000Z</updated>
         <summary type="html"><![CDATA[Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String Format – Python S Print Format Example]]></title>
-        <id>612204093bccf807612a575a</id>
-        <link href="https://www.freecodecamp.org/news/python-string-format-python-s-print-format-example/"/>
-        <updated>2021-09-07T23:20:34.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you have a few options to format your strings. In this article, I will go over str.format(), formatted string literals, and template strings.  But first, let's take a look at what is considered to be the "old way" of formatting strings.  What is % string formatting in Python?]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -34,46 +157,6 @@
 The post Can we have custom media queries, please? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array.some() Tutorial – How to Iterate Through Elements in an Array]]></title>
-        <id>61320c11d6679a07b7d41704</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-some-tutorial-how-to-iterate-through-elements-in-an-array/"/>
-        <updated>2021-09-07T22:14:16.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with an array in JavaScript, sometimes you might just want to check if at least one element inside that array passes a test. And you might not care about any other subsequent matches.  In such a case, you should use the some() JavaScript method. So let's see]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Tables – Table Tutorial with Example Code]]></title>
-        <id>6114c91072231b077cdae3f6</id>
-        <link href="https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/"/>
-        <updated>2021-09-07T21:17:18.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a project that needs to represent data visually, you will need a good way to display the information so it's easy to read and understand.  Now, depending on the type of data, you can select between different representation methods using HTML elements.  In most cases, tables are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular *ngFor and *ngIf Directives Explained for Beginners]]></title>
-        <id>61330342d6679a07b7d41de1</id>
-        <link href="https://www.freecodecamp.org/news/angular-ngfor-and-ngif-explained/"/>
-        <updated>2021-09-07T20:45:34.000Z</updated>
-        <summary type="html"><![CDATA[*ngIf and *ngFor can help you keep your Angular code clean, simple, and effective. So, let's learn what *ngFor and *ngIf are all about. What is *ngFor?Let's talk about *ngFor first. You use the *ngFor directive to traverse over an array object and display the data in the UI.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Serverless Applications in AWS]]></title>
-        <id>61327c7fd6679a07b7d41b17</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/"/>
-        <updated>2021-09-07T18:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few years, serverless architecture has become very popular. This is largely because it has removed the burden of managing infrastructure, such as servers, storage, databases, scalability, and so on.  When people first started using the term "serverless," it created some confusion in the industry. Some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -98,46 +181,6 @@ I did a sponsored video the other week explaining how to build a paid subscripti
 The post Building Your Own Subscription Newsletter appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Translation Month – Help Us Translate freeCodeCamp into Your Native Language]]></title>
-        <id>61350ccad6679a07b7d4314c</id>
-        <link href="https://www.freecodecamp.org/news/world-translation-month-event/"/>
-        <updated>2021-09-07T17:37:37.000Z</updated>
-        <summary type="html"><![CDATA[We believe that everyone deserves to have free programming education in their own native language. So we are expanding International Translation Day (September 30th) into a full month-long effort. Over the past few years, hundreds of volunteer contributors have worked to translate freeCodeCamp into major world languages. In February, Quincy]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Create File – How to Append and Write to a Text File]]></title>
-        <id>61307fb1d6679a07b7d4061e</id>
-        <link href="https://www.freecodecamp.org/news/python-create-file-how-to-append-and-write-to-a-text-file/"/>
-        <updated>2021-09-07T16:44:25.000Z</updated>
-        <summary type="html"><![CDATA[In coding, files are used to store data. Then you can easily access that data at any point.  Reading, writing, and editing files in Python is a common task, since the language provides us with built-in functions that allow us to do so.  In this article, I'll create a simple]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vue 3, a Front-End JavaScript Framework]]></title>
-        <id>613784fa581b610782a917ce</id>
-        <link href="https://www.freecodecamp.org/news/vue-3-full-course/"/>
-        <updated>2021-09-07T15:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Vue is one of the more popular front-end JavaScirpt frameworks. It makes it simpler to create powerful websites. We just released a Vue course on the freeCodeCamp.org YouTube channel that will teach you the latest version of this progressive JavaScript framework. Gwendolyn Faraday developed this course. She previously created]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Graphic Design? The Graphic Designer Job Explained in Plain English]]></title>
-        <id>610655073306a507d1bfc0d2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-graphic-design-the-graphic-designer-job-explained-in-plain-english/"/>
-        <updated>2021-09-07T15:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Magazine covers, business logos, and book covers are all common examples of graphic design. But what is graphic design? In this article, I'll explain what graphic design is, discuss different areas of graphic design, provide helpful learning resources, and talk about salaries for designers.  What is Graphic Design?Graphic Design]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -166,7 +209,7 @@ The post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared f
         <id>https://css-tricks.com/?p=351402</id>
         <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
         <updated>2021-09-06T18:47:19.000Z</updated>
-        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped> shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
 The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -261,6 +304,17 @@ The post If I work really hard on my Open Graph images, people will share my blo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[You don’t need external assets in an HTML file]]></title>
+        <id>https://css-tricks.com/?p=351143</id>
+        <link href="https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/"/>
+        <updated>2021-09-02T00:29:23.000Z</updated>
+        <summary type="html"><![CDATA[A fun exercise from Terence Eden. You can send an HTML file over the wire including anything a website might need without requesting any other files. CSS and JavaScript are easy, because there are <script and <style tags. Images and …
+The post You don’t need external assets in an HTML file appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Accessing Your Data With Netlify Functions and React]]></title>
         <id>https://css-tricks.com/?p=351172</id>
         <link href="https://css-tricks.com/accessing-data-netlify-functions-react/"/>
@@ -288,17 +342,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Typography Links VII]]></title>
-        <id>https://css-tricks.com/?p=350569</id>
-        <link href="https://css-tricks.com/some-typography-links-vii/"/>
-        <updated>2021-09-01T14:37:38.000Z</updated>
-        <summary type="html"><![CDATA[All-things-typography, from a hard-edged monospaced variable font to fonts in the "Twilight Zone" ... and much, much more.
-The post Some Typography Links VII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Deep Dive Into The Wonderful World Of SVG Displacement Filtering]]></title>
         <id>https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/</id>
         <link href="https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/"/>
@@ -306,30 +349,6 @@ The post Some Typography Links VII appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dirk Weber)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
-        <id>https://css-tricks.com/?p=350788</id>
-        <link href="https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/"/>
-        <updated>2021-08-31T20:17:25.000Z</updated>
-        <summary type="html"><![CDATA[I think this is good advice from Silvestar Bistrović:
-An enabling selector is what I call a selector that does a job without disabling the particular rule.
-The classic example is applying margin to everything, only to have to remove …
-The post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application-Specific Links]]></title>
-        <id>https://css-tricks.com/?p=350690</id>
-        <link href="https://css-tricks.com/application-specific-links/"/>
-        <updated>2021-08-31T14:30:21.000Z</updated>
-        <summary type="html"><![CDATA[You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …
-The post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -490,26 +509,6 @@ The post Application-Specific Links appeared first on CSS-Tricks. You can suppor
         <summary type="html"><![CDATA[Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Don)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cookieless Alternative To Embed HTML, CSS And JS Code Snippets]]></title>
-        <id>https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/</id>
-        <link href="https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/"/>
-        <updated>2021-08-10T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Embedding code examples with third-party scripts often leads to tracking or cookies. We always wanted to have a simple website with a good UX, so setting cookies for no reason wasn’t an option for us. Now, with Indiepen, we are proud to introduce a privacy-friendly alternative.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Henrik Fricke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 41 With Eva PenzeyMoog: Designing For Safety]]></title>
-        <id>https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/</id>
-        <link href="https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/"/>
-        <updated>2021-08-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about designing for safety. What does it mean to consider vulnerable users in our designs? Drew McLellan talks to expert Eva PenzeyMoog to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
