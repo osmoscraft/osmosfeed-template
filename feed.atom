@@ -1,10 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-09T00:41:58.236Z</id>
+    <id>urn:2021-09-10T00:45:03.266Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-09T00:41:58.236Z</updated>
+    <updated>2021-09-10T00:45:03.266Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
+        <id>https://css-tricks.com/?p=350644</id>
+        <link href="https://css-tricks.com/frameworks-helping-image-usage/"/>
+        <updated>2021-09-09T19:44:54.000Z</updated>
+        <summary type="html"><![CDATA[I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. 
+I think it’s encouraging to see frameworks — these …
+The post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Largest Contentful Paint (LCP) on Your Website With Ease]]></title>
+        <id>https://css-tricks.com/?p=351259</id>
+        <link href="https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/"/>
+        <updated>2021-09-09T19:43:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Optimizing the user experience you offer on your website is essential for the success of any online business. Google does use different user experience-related metrics to rank web pages for SEO and has continued …
+The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>ImageKit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course]]></title>
+        <id>613a5290852f4307d372aa23</id>
+        <link href="https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/"/>
+        <updated>2021-09-09T18:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Graph Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>61210d813bccf807612a4f5c</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-graph-traversal-crash-course-the-only-one-youll-ever-need/"/>
+        <updated>2021-09-09T17:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for coding interviews? I designed a crash course series to help you out. I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the third course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Databases VS Relational Databases – Learn How a Graph Database Works]]></title>
+        <id>6139ca38852f4307d3729e87</id>
+        <link href="https://www.freecodecamp.org/news/graph-database-vs-relational-database/"/>
+        <updated>2021-09-09T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're curious about graph databases and how they compare with relational database management systems, then this beginner-friendly guide is for you.  In this article, you'll discover of the power of graphs by working with a small movie data set. It is based on the built in dataset and guide]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux Middleware – What it is and How to Build it from Scratch]]></title>
+        <id>6133317cd6679a07b7d42191</id>
+        <link href="https://www.freecodecamp.org/news/what-is-redux-middleware-and-how-to-create-one-from-scratch/"/>
+        <updated>2021-09-09T16:38:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore what middleware is in Redux, why it's used, and how you can create your own middleware from scratch. So let's get started.  What Is Redux Middleware?Redux Middleware allows you to intercept every action sent to the reducer so you can make changes to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Enterprise Kubernetes Environment Secure, Efficient, and Reliable]]></title>
+        <id>61129a0572231b077cdacd2f</id>
+        <link href="https://www.freecodecamp.org/news/make-your-kubernetes-environment-secure-efficient-reliable/"/>
+        <updated>2021-09-09T16:36:35.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a cloud-based entrepreneur, you should have a Kubernetes platform for your enterprise. But adopting this six-year-old technology can be tough if there are gaps in your operations. Improving the operational quality of your Kubernetes cluster is important in Kubernetes adoption. This article can help you achieve a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Array – How to Declare an Array of Strings in a Bash Script]]></title>
+        <id>61310196d6679a07b7d411dd</id>
+        <link href="https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/"/>
+        <updated>2021-09-09T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Bash scripts give you a convenient way to automate command line tasks.  With Bash, you can do many of the same things you would do in other scripting or programming languages. You can create and use variables, execute loops, use conditional logic, and store data in arrays.  While the functionality]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Array Declaration – How to Initialize an Array in Java with Example Code]]></title>
+        <id>6139e660852f4307d372a0a2</id>
+        <link href="https://www.freecodecamp.org/news/java-array-declaration-how-to-initialize-an-array-in-java-with-example-code/"/>
+        <updated>2021-09-09T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are an important part of the fundamental data structures in Java. And they are incredibly useful in solving a lot of programming problems.  What is an array? By definition, an array is a collection of data of the same type.  An array is usually declared so you can have]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=350070</id>
+        <link href="https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/"/>
+        <updated>2021-09-09T14:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Frontity is a framework for creating de-coupled (or "headless") WordPress sites. In this article, we dive into the process of spinning up such a site, with a detailed overview of the building blocks provided by Frontity and its flagship theme, Mars.
+The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]]]></title>
+        <id>612cc03eb5177808226d4a6b</id>
+        <link href="https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/"/>
+        <updated>2021-09-09T14:25:28.000Z</updated>
+        <summary type="html"><![CDATA[While you're in school, you will go through a number of textbooks and the cost can add up pretty quickly. Luckily, there are websites that offer free textbooks for high school and college students.  Here is a list of 460 free textbooks, arranged by topic. Once you find a topic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)]]></title>
+        <id>https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/"/>
+        <updated>2021-09-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
         <id>6138f291852f4307d3729b64</id>
@@ -37,46 +162,6 @@ The post Don’t attach tooltips to document.body appeared first on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Flexbox and Grid Tutorial – How to Build a Responsive Landing Page with HTML and CSS]]></title>
-        <id>612f86fcd6679a07b7d401b3</id>
-        <link href="https://www.freecodecamp.org/news/css-flexbox-and-grid-tutorial/"/>
-        <updated>2021-09-08T17:16:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we are going to build a simple landing page for an online education platform called Skilllz.  This tutorial will teach you how to use and implement CSS Flexbox and CSS Grid alignment. We'll also cover many other CSS concepts. And finally, we'll learn how to make the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variable Scope in C – Local and Global Scope Explained]]></title>
-        <id>61345caed6679a07b7d42d3e</id>
-        <link href="https://www.freecodecamp.org/news/scope-of-variables-in-c-local-and-global-scope-explained/"/>
-        <updated>2021-09-08T16:40:21.000Z</updated>
-        <summary type="html"><![CDATA[In programming, you'll often have to deal with the scope of a variable. The scope of a variable determines whether or not you can access and modify it inside a specific block of code. In this tutorial, you'll learn about variable scope in the C programming language. You'll see some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Bubbling and Event Catching in JavaScript and React – A Beginner&#x27;s Guide]]></title>
-        <id>6136666dd6679a07b7d437d0</id>
-        <link href="https://www.freecodecamp.org/news/event-propagation-event-bubbling-event-catching-beginners-guide/"/>
-        <updated>2021-09-08T15:37:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll help you understand event bubbling and event catching like a pro. I created this resource to help you understand event propagation and how it works in JavaScript and React in a clear and comprehensible way. ❤ Once you've gone through this thorough introduction to event bubbling and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve Einstein&#x27;s Five House Riddle]]></title>
-        <id>61366f23d6679a07b7d4380a</id>
-        <link href="https://www.freecodecamp.org/news/einsteins-riddle/"/>
-        <updated>2021-09-08T15:36:22.000Z</updated>
-        <summary type="html"><![CDATA[I recently learned about a logic puzzle online that apparently only 2% of people can solve. There are a few different incarnations of it – some have slightly different wording, different names, or change the items in the riddle slightly. But they are all the exact same core problem. The riddle]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Story Behind TryShape, a Showcase for the CSS clip-path property]]></title>
         <id>https://css-tricks.com/?p=351043</id>
         <link href="https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/"/>
@@ -86,16 +171,6 @@ A …
 The post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Algorithms and Data Structures in Python]]></title>
-        <id>6138c58c852f4307d372989e</id>
-        <link href="https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/"/>
-        <updated>2021-09-08T14:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Algorithms and data structures are important for most programmers to understand. We just released a course on the freeCodeCamp YouTube channel that is a beginner-friendly introduction to common data structures (linked lists, stacks, queues, graphs) and algorithms (search, sorting, recursion, dynamic programming) in Python. This course will help you prepare]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -116,36 +191,6 @@ The post The Story Behind TryShape, a Showcase for the CSS clip-path property ap
         <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Tutorial – How to Build the 2048 Game in React]]></title>
-        <id>611827fe72231b077cdb021c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/"/>
-        <updated>2021-09-08T01:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Today you will learn how to build your own clone of the 2048 game in React.  What makes this article unique is that we will focus on creating delightful animations. Aside from React, we will use TypeScript and we'll make some CSS transitions using LESS.  We are only going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Span HTML – How to Use the Span Tag with CSS]]></title>
-        <id>61372fd1d6679a07b7d43e77</id>
-        <link href="https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/"/>
-        <updated>2021-09-08T01:18:28.000Z</updated>
-        <summary type="html"><![CDATA[You can use the HTML span tag as a container to group inline elements together so you can style or manipulate them with JavaScript.  In this article, I will show you how to use the span tag to make a certain part of your content distinct from the rest. Then]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Function? JavaScript Function Examples]]></title>
-        <id>6132237ad6679a07b7d418ca</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-function-javascript-function-examples/"/>
-        <updated>2021-09-07T23:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Functions are one of the main parts of computer programs.  They are widely used and are one of JavaScript's fundamental building blocks.  In this article, we'll go over the definition of functions and why they are so important. I'll also show you how to get started writing functions in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -209,7 +254,7 @@ The post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared f
         <id>https://css-tricks.com/?p=351402</id>
         <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
         <updated>2021-09-06T18:47:19.000Z</updated>
-        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a scoping proposal has gotten (the Level …
 The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -301,44 +346,6 @@ The post If I work really hard on my Open Graph images, people will share my blo
         <summary type="html"><![CDATA[Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You don’t need external assets in an HTML file]]></title>
-        <id>https://css-tricks.com/?p=351143</id>
-        <link href="https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/"/>
-        <updated>2021-09-02T00:29:23.000Z</updated>
-        <summary type="html"><![CDATA[A fun exercise from Terence Eden. You can send an HTML file over the wire including anything a website might need without requesting any other files. CSS and JavaScript are easy, because there are <script and <style tags. Images and …
-The post You don’t need external assets in an HTML file appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessing Your Data With Netlify Functions and React]]></title>
-        <id>https://css-tricks.com/?p=351172</id>
-        <link href="https://css-tricks.com/accessing-data-netlify-functions-react/"/>
-        <updated>2021-09-02T00:28:22.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Static site generators are popular for their speed, security, and user experience. However, sometimes your application needs data that is not available when the site is built. React is a library for building user …
-The post Accessing Your Data With Netlify Functions and React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tharaka Romesh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Wish I Knew About CSS When Starting Out As A Front-Ender]]></title>
-        <id>https://css-tricks.com/?p=350752</id>
-        <link href="https://engineering.kablamo.com.au/posts/2021/my-first-css"/>
-        <updated>2021-09-01T23:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Nathan Hardy shares when things “clicked”:
-Reflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:
-• The Box Model (e.g. box-sizing, height, width, margin, padding)
-• Layout 
-…
-The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -499,16 +506,6 @@ The post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeare
         <summary type="html"><![CDATA[How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Mounting And Unmounting Of Navigation Routes In React Native]]></title>
-        <id>https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/</id>
-        <link href="https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/"/>
-        <updated>2021-08-11T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Don)</name>
         </author>
     </entry>
 </feed>
