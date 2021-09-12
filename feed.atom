@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-11T00:39:34.367Z</id>
+    <id>urn:2021-09-12T00:42:42.813Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T00:39:34.367Z</updated>
+    <updated>2021-09-12T00:42:42.813Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://css-tricks.com/just-in-time-css/"/>
         <updated>2021-09-10T20:32:51.000Z</updated>
         <summary type="html"><![CDATA[I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:
-<div class="C(#fff) P(20px)"text
+<div class="C(#333) P(20px)"text
 </div
 And it will generate CSS like:
 .C\(\#333\) {
@@ -506,16 +506,6 @@ The post Supercharging Built-In Elements With Web Components “is” Easier Tha
         <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cache Merril)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
-        <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
-        <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
-        <updated>2021-08-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Janet John)</name>
         </author>
     </entry>
 </feed>
