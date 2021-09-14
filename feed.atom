@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-13T00:43:10.146Z</id>
+    <id>urn:2021-09-14T00:42:57.293Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T00:43:10.146Z</updated>
+    <updated>2021-09-14T00:42:57.293Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word]]></title>
+        <id>613fbc95852f4307d372cf35</id>
+        <link href="https://www.freecodecamp.org/news/insert-a-checkbox-in-word-how-to-add-a-checkmark-in-microsoft-word/"/>
+        <updated>2021-09-13T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[In Microsoft Word, you can create digital forms, surveys, to-do lists, and printable forms. And you might need to add a checkbox in these forms so your respondents can select certain options.  In this tutorial, I will show you how to insert an interactive checkbox in Microsoft Word for softcopy]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Sign Up Form with Floating Labels and Transitions Using Plain HTML and CSS]]></title>
+        <id>6138a480581b610782a921ee</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/"/>
+        <updated>2021-09-13T21:15:35.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we are going to build a modern sign up form with floating labels and smooth transitions using plain HTML and CSS. A viewAs you can see in the above image, when an input within the form gains focus, its label floats to the top and a semi-thick]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Emojis – Emoji List for Copy and Paste]]></title>
+        <id>613b2c1a852f4307d372b02f</id>
+        <link href="https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/"/>
+        <updated>2021-09-13T21:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More]]></title>
+        <id>612e048bd6679a07b7d3f47b</id>
+        <link href="https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/"/>
+        <updated>2021-09-13T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Let me start this article by asking, "What is JavaScript"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grainy Gradients]]></title>
+        <id>https://css-tricks.com/?p=351302</id>
+        <link href="https://css-tricks.com/grainy-gradients/"/>
+        <updated>2021-09-13T19:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …
+The post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jimmy Chion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python]]></title>
+        <id>608851a68eb3fb07cf098178</id>
+        <link href="https://www.freecodecamp.org/news/python-projects-for-beginners/"/>
+        <updated>2021-09-13T15:12:15.000Z</updated>
+        <summary type="html"><![CDATA[The best way to learn a new programming language is to build projects with it. I have created a list of 25 beginner friendly project tutorials in Python. My advice for tutorials would be to watch the video, build the project, break it apart and rebuild it your own way.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Sleep – How to Make a Shell Script Wait N Seconds (Example Command)]]></title>
+        <id>613c107c852f4307d372b87a</id>
+        <link href="https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/"/>
+        <updated>2021-09-13T14:29:40.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing a shell script, you may find that you need it to wait a certain number of seconds before proceeding. For example, you might want the script to wait while a process completes or before retrying a failed command.  To do this, you can use the very straightforward]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Image Generator + Jetpack]]></title>
+        <id>https://css-tricks.com/?p=351726</id>
+        <link href="https://css-tricks.com/social-image-generator-jetpack/"/>
+        <updated>2021-09-13T14:20:13.000Z</updated>
+        <summary type="html"><![CDATA[I feel like my quest to make sure this site had pretty sweet (and automatically-generated) social media images (e.g. Open Graph) came to a close once I found Social Image Generator. 
+The trajectory there was that I ended up …
+The post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Open File – How to Read a Text File Line by Line]]></title>
+        <id>6122041a3bccf807612a575e</id>
+        <link href="https://www.freecodecamp.org/news/python-open-file-how-to-read-a-text-file-line-by-line/"/>
+        <updated>2021-09-13T14:00:03.000Z</updated>
+        <summary type="html"><![CDATA[In Python, there are a few ways you can read a text file.  In this article, I will go over the open() function, the read(), readline(), readlines(), close() methods, and the with keyword. What is the open() function in Python? If you want to read a text file in Python,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchestrating Complexity With Web Animations API]]></title>
+        <id>https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/</id>
+        <link href="https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/"/>
+        <updated>2021-09-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Just in Time” CSS]]></title>
         <id>https://css-tricks.com/?p=351562</id>
@@ -116,46 +219,6 @@ The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redux Middleware – What it is and How to Build it from Scratch]]></title>
-        <id>6133317cd6679a07b7d42191</id>
-        <link href="https://www.freecodecamp.org/news/what-is-redux-middleware-and-how-to-create-one-from-scratch/"/>
-        <updated>2021-09-09T16:38:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore what middleware is in Redux, why it's used, and how you can create your own middleware from scratch. So let's get started.  What Is Redux Middleware?Redux Middleware allows you to intercept every action sent to the reducer so you can make changes to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Enterprise Kubernetes Environment Secure, Efficient, and Reliable]]></title>
-        <id>61129a0572231b077cdacd2f</id>
-        <link href="https://www.freecodecamp.org/news/make-your-kubernetes-environment-secure-efficient-reliable/"/>
-        <updated>2021-09-09T16:36:35.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a cloud-based entrepreneur, you should have a Kubernetes platform for your enterprise. But adopting this six-year-old technology can be tough if there are gaps in your operations. Improving the operational quality of your Kubernetes cluster is important in Kubernetes adoption. This article can help you achieve a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash Array – How to Declare an Array of Strings in a Bash Script]]></title>
-        <id>61310196d6679a07b7d411dd</id>
-        <link href="https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/"/>
-        <updated>2021-09-09T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Bash scripts give you a convenient way to automate command line tasks.  With Bash, you can do many of the same things you would do in other scripting or programming languages. You can create and use variables, execute loops, use conditional logic, and store data in arrays.  While the functionality]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Array Declaration – How to Initialize an Array in Java with Example Code]]></title>
-        <id>6139e660852f4307d372a0a2</id>
-        <link href="https://www.freecodecamp.org/news/java-array-declaration-how-to-initialize-an-array-in-java-with-example-code/"/>
-        <updated>2021-09-09T14:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Arrays are an important part of the fundamental data structures in Java. And they are incredibly useful in solving a lot of programming problems.  What is an array? By definition, an array is a collection of data of the same type.  An array is usually declared so you can have]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme]]></title>
         <id>https://css-tricks.com/?p=350070</id>
         <link href="https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/"/>
@@ -164,16 +227,6 @@ The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appear
 The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[460 Free Textbooks – Math, Science, and More [Online PDF for College and High School]]]></title>
-        <id>612cc03eb5177808226d4a6b</id>
-        <link href="https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school/"/>
-        <updated>2021-09-09T14:25:28.000Z</updated>
-        <summary type="html"><![CDATA[While you're in school, you will go through a number of textbooks and the cost can add up pretty quickly. Luckily, there are websites that offer free textbooks for high school and college students.  Here is a list of 460 free textbooks, arranged by topic. Once you find a topic]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -187,16 +240,6 @@ The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Span VS Div HTML Tags – What is the Difference?]]></title>
-        <id>6138f291852f4307d3729b64</id>
-        <link href="https://www.freecodecamp.org/news/span-vs-div-html-tags-what-is-the-difference/"/>
-        <updated>2021-09-08T21:08:38.000Z</updated>
-        <summary type="html"><![CDATA[If you inspect a web page with your browser's developer tools, you'll likely see a bunch of nested div tags, and possibly some content wrapped in a span tag.  Similar content is usually grouped together by these two container elements – span and div. You can use them both as containers,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t attach tooltips to document.body]]></title>
         <id>https://css-tricks.com/?p=351389</id>
         <link href="https://css-tricks.com/dont-attach-tooltips-to-document-body/"/>
@@ -205,16 +248,6 @@ The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appear
 The post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Installation Guide – How to Get Started with WordPress + the Best Plugins]]></title>
-        <id>6138218b581b610782a91de7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-wordpress/"/>
-        <updated>2021-09-08T18:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Over 40% of all websites on the internet are powered by WordPress, making it the world’s top choice when it comes to creating a website. Many people and businesses choose to create their websites with WordPress because of its versatility, speed, and ease of use. WordPress is also Open]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -324,28 +357,6 @@ The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can suppor
         <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambdas: Easy, Easier, Easiest]]></title>
-        <id>https://css-tricks.com/?p=350649</id>
-        <link href="https://joeyanuff-33180.medium.com/aws-lambdas-easy-easier-easiest-823e71c02bd9"/>
-        <updated>2021-09-03T22:16:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d say cloud functions are one of the most transformative technologies in the last bunch of years. They are (usually) cheap, scale well, secure in their inherent isolation, and often written in JavaScript—comfortable territory for front-end developers. Nearly every cloud …
-The post AWS Lambdas: Easy, Easier, Easiest appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharging Built-In Elements With Web Components “is” Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=350889</id>
-        <link href="https://css-tricks.com/supercharging-built-in-elements-with-web-components-is-easier-than-you-think/"/>
-        <updated>2021-09-03T14:21:38.000Z</updated>
-        <summary type="html"><![CDATA[We’ve already discussed how creating web components is easier than you think, but there’s another aspect of the specification that we haven’t discussed yet and it’s a way to customize (nay, supercharge) a built-in element. It’s similar to …
-The post Supercharging Built-In Elements With Web Components “is” Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
