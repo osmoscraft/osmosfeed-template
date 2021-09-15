@@ -12,12 +12,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351518",
+          "author": "Chris Coyier",
+          "description": "Blogging about HTML elements¹? *chefs kiss*\nHere’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:\nYou might have also seen lists of name–value pairs to describe lodging amenities, or to list \n…\nThe post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/on-the-dl/",
+          "publishedOn": "2021-09-14T22:37:21.000Z",
+          "wordCount": 538,
+          "title": "On the `dl`"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351454",
+          "author": "Jonathan Land",
+          "description": "Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.\nThe post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-form-in-php-using-domdocument/",
+          "publishedOn": "2021-09-14T14:36:24.000Z",
+          "wordCount": 4150,
+          "title": "Building a Form in PHP Using DOMDocument"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351970",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.\nWhen? October 6–7, 2021\nWhere? Virtual / online.\nHow much? It’s free! There are workshops as well though, …\nThe post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://jamstackconf.com/",
+          "publishedOn": "2021-09-14T14:32:16.000Z",
+          "wordCount": 707,
+          "title": "Jamstack Conf 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350466",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThere is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …\nThe post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developers-designers-uxpin/",
+          "publishedOn": "2021-09-13T19:21:00.000Z",
+          "wordCount": 1325,
+          "title": "Developers and Designers Work on a Single Source of Truth With UXPin"
+        },
+        {
           "id": "https://css-tricks.com/?p=351302",
           "author": "Jimmy Chion",
           "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/grainy-gradients/",
           "publishedOn": "2021-09-13T19:04:51.000Z",
-          "wordCount": 1821,
+          "wordCount": 1895,
           "title": "Grainy Gradients"
         },
         {
@@ -44,7 +80,7 @@
           "description": "We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.\nAlthough designing checkboxes is not that complicated, we also don’t …\nThe post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/fun-times-styling-checkbox-states/",
           "publishedOn": "2021-09-10T14:53:24.000Z",
-          "wordCount": 1650,
+          "wordCount": 1665,
           "title": "Fun Times Styling Checkbox States"
         },
         {
@@ -109,42 +145,6 @@
           "publishedOn": "2021-09-07T22:17:55.000Z",
           "wordCount": 481,
           "title": "Can we have custom media queries, please?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351146",
-          "author": "Chris Coyier",
-          "description": "When requirements read “when visible” your brain should go straight to IntersectionObserver. That’s exactly what Zach is doing here to kick off an animation when it scrolls into view.\nExcept this animation is an SVG SMIL animation: an <animate>…\nThe post Fire SVG animations (SMIL) when the SVG is visible appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.zachleat.com/web/svg-animate/",
-          "publishedOn": "2021-09-07T17:54:12.000Z",
-          "wordCount": 1681,
-          "title": "Fire SVG animations (SMIL) when the SVG is visible"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351346",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nI did a sponsored video the other week explaining how to build a paid subscription newsletter using WordPress (we did it on WordPress.com but it could be hosted anywhere), MailPoet (a plugin to visually …\nThe post Building Your Own Subscription Newsletter appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-your-own-subscription-newsletter/",
-          "publishedOn": "2021-09-07T17:52:19.000Z",
-          "wordCount": 776,
-          "title": "Building Your Own Subscription Newsletter"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351017",
-          "author": "Šime Vidas",
-          "description": "Variable fonts make it easy to create a large set of font styles from a single font file. Unfortunately, the default rendering of the <b> and <strong> elements in browsers today is not very compatible with the wide range of …\nThe post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/firefoxs-bolder-default-is-a-problem-for-variable-fonts/",
-          "publishedOn": "2021-09-07T14:41:57.000Z",
-          "wordCount": 1624,
-          "title": "Firefox’s `bolder` Default is a Problem for Variable Fonts"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351402",
-          "author": "Chris Coyier",
-          "description": "There is a working draft spec for CSS scoping now. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a scoping proposal has gotten (the Level …\nThe post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/early-days-for-css-scoping/",
-          "publishedOn": "2021-09-06T18:47:19.000Z",
-          "wordCount": 1134,
-          "title": "Early Days for CSS Scoping"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "author": "hello@smashingmagazine.com (Tracy Osborn)",
+          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
+          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "publishedOn": "2021-09-14T09:30:00.000Z",
+          "wordCount": 2102,
+          "title": "The Power Of Pen And Paper Sketching",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
           "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 3012,
+          "wordCount": 3009,
           "title": "Orchestrating Complexity With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
@@ -173,7 +187,7 @@
           "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
           "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 2053,
+          "wordCount": 2066,
           "title": "Web Design Done Well: Excellent Editorial",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
@@ -187,7 +201,7 @@
           "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
           "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-09-09T10:30:00.000Z",
-          "wordCount": 2070,
+          "wordCount": 2076,
           "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
@@ -201,7 +215,7 @@
           "description": "In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.",
           "link": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
           "publishedOn": "2021-09-08T10:30:00.000Z",
-          "wordCount": 2872,
+          "wordCount": 2871,
           "title": "Developer Decisions For Building Flexible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76d3eef0-2a0a-45e0-b0bb-399da37c3834/developer-decisions-building-flexible-components.jpg",
@@ -229,7 +243,7 @@
           "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
           "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
           "publishedOn": "2021-09-07T10:00:00.000Z",
-          "wordCount": 4049,
+          "wordCount": 4060,
           "title": "What’s New With DevTools: Cross-Browser Edition",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
@@ -243,7 +257,7 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
           "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
           "publishedOn": "2021-09-06T11:00:00.000Z",
-          "wordCount": 9730,
+          "wordCount": 9731,
           "title": "HTTP/3: Practical Deployment Options (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
@@ -257,7 +271,7 @@
           "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
           "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
           "publishedOn": "2021-09-03T11:30:00.000Z",
-          "wordCount": 3572,
+          "wordCount": 3574,
           "title": "Reducing Carbon Emissions On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
@@ -271,7 +285,7 @@
           "description": "Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.",
           "link": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
           "publishedOn": "2021-09-02T12:00:00.000Z",
-          "wordCount": 2436,
+          "wordCount": 2439,
           "title": "Interactive Learning Tools For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f13aec3-8dd5-4085-afce-c752db3abfb6/interactive-learning-tools-front-end-developers.jpg",
@@ -285,7 +299,7 @@
           "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
           "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
           "publishedOn": "2021-09-01T10:30:00.000Z",
-          "wordCount": 5585,
+          "wordCount": 5581,
           "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
@@ -313,7 +327,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
           "publishedOn": "2021-08-31T08:00:00.000Z",
-          "wordCount": 2422,
+          "wordCount": 2407,
           "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
@@ -327,7 +341,7 @@
           "description": "There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.",
           "link": "https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/",
           "publishedOn": "2021-08-30T10:00:00.000Z",
-          "wordCount": 3696,
+          "wordCount": 3698,
           "title": "Refactoring CSS: Optimizing Size And Performance (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa4e0eab-b23c-42ac-a622-b2ca8a02edd0/refactoring-css-optimizing-size-performance-part3.jpg",
@@ -341,7 +355,7 @@
           "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
           "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
           "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3128,
+          "wordCount": 3119,
           "title": "Compound Components In React",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
@@ -369,7 +383,7 @@
           "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
           "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
           "publishedOn": "2021-08-25T07:10:00.000Z",
-          "wordCount": 3550,
+          "wordCount": 3567,
           "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
@@ -383,7 +397,7 @@
           "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
           "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3239,
+          "wordCount": 3232,
           "title": "How To Automate Documentation Workflow For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
@@ -411,7 +425,7 @@
           "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
           "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
           "publishedOn": "2021-08-20T08:00:00.000Z",
-          "wordCount": 4602,
+          "wordCount": 4617,
           "title": "Jamstack CMS: The Past, The Present and The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
@@ -425,7 +439,7 @@
           "description": "Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.",
           "link": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "publishedOn": "2021-08-19T10:00:00.000Z",
-          "wordCount": 5338,
+          "wordCount": 5356,
           "title": "How To Build An Ethical User Research Practice At Any Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72fbade7-8284-47ba-93d7-0f8a7aefdb7e/ethical-user-research-practice.jpg",
@@ -439,7 +453,7 @@
           "description": "In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.",
           "link": "https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/",
           "publishedOn": "2021-08-18T08:00:00.000Z",
-          "wordCount": 3317,
+          "wordCount": 3315,
           "title": "Creating An Interactive Gantt Chart Component With Vanilla JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bcf1248-c58e-47f4-a94f-3cbac5c60b45/interactive-gantt-chart-component-vanillajs.jpg",
@@ -453,24 +467,10 @@
           "description": "Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/08/open-source-icons/",
           "publishedOn": "2021-08-17T07:25:00.000Z",
-          "wordCount": 1867,
+          "wordCount": 1874,
           "title": "Free Open-Source Icons",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/337b471a-0798-410d-9670-1d63c5bebfdc/05-tourism.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "author": "hello@smashingmagazine.com (Cache Merril)",
-          "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
-          "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2948,
-          "title": "How To Develop Your Business’ Technology Roadmap",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -482,6 +482,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "613b1a82852f4307d372ae6b",
+          "author": null,
+          "description": "When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn",
+          "link": "https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/",
+          "publishedOn": "2021-09-14T19:21:11.000Z",
+          "wordCount": 1352,
+          "title": "Python f-String Tutorial – String Formatting in Python Explained with Code Examples"
+        },
+        {
+          "id": "612fa993d6679a07b7d402ab",
+          "author": null,
+          "description": "As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today",
+          "link": "https://www.freecodecamp.org/news/a-business-case-for-open-source/",
+          "publishedOn": "2021-09-14T18:59:46.000Z",
+          "wordCount": 966,
+          "title": "A Business Case for Open Source – Why You Should Contribute to the Open Source Community"
+        },
+        {
+          "id": "61407a67852f4307d372d4a1",
+          "author": null,
+          "description": "Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot",
+          "link": "https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/",
+          "publishedOn": "2021-09-14T17:58:28.000Z",
+          "wordCount": 741,
+          "title": "How to Save a Google Doc as a PDF"
+        },
+        {
+          "id": "61405cf6852f4307d372d219",
+          "author": null,
+          "description": "Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub",
+          "link": "https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/",
+          "publishedOn": "2021-09-14T16:41:32.000Z",
+          "wordCount": 1633,
+          "title": "How to Become a GitHub Star – Tips from Actual GitHub Stars"
+        },
+        {
+          "id": "613b7a2c852f4307d372b3a9",
+          "author": null,
+          "description": "Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/",
+          "publishedOn": "2021-09-14T16:19:39.000Z",
+          "wordCount": 2446,
+          "title": "How to Become a Junior Software Engineer in 6 months"
+        },
+        {
+          "id": "613c7719852f4307d372b9b1",
+          "author": null,
+          "description": "There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all",
+          "link": "https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/",
+          "publishedOn": "2021-09-14T16:11:17.000Z",
+          "wordCount": 1238,
+          "title": "Why Are There So Many Programming Languages?"
+        },
+        {
+          "id": "61409b8d852f4307d372d5cd",
+          "author": null,
+          "description": "If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security",
+          "link": "https://www.freecodecamp.org/news/linux-essentials-for-hackers/",
+          "publishedOn": "2021-09-14T13:03:08.000Z",
+          "wordCount": 372,
+          "title": "Linux Essentials for Hackers"
+        },
         {
           "id": "613fbc95852f4307d372cf35",
           "author": null,
@@ -508,69 +571,6 @@
           "publishedOn": "2021-09-13T21:04:08.000Z",
           "wordCount": 2042,
           "title": "All Emojis – Emoji List for Copy and Paste"
-        },
-        {
-          "id": "612e048bd6679a07b7d3f47b",
-          "author": null,
-          "description": "Let me start this article by asking, \"What is JavaScript\"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?",
-          "link": "https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/",
-          "publishedOn": "2021-09-13T21:00:57.000Z",
-          "wordCount": 2632,
-          "title": "Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More"
-        },
-        {
-          "id": "608851a68eb3fb07cf098178",
-          "author": null,
-          "description": "The best way to learn a new programming language is to build projects with it. I have created a list of 25 beginner friendly project tutorials in Python. My advice for tutorials would be to watch the video, build the project, break it apart and rebuild it your own way.",
-          "link": "https://www.freecodecamp.org/news/python-projects-for-beginners/",
-          "publishedOn": "2021-09-13T15:12:15.000Z",
-          "wordCount": 1470,
-          "title": "25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python"
-        },
-        {
-          "id": "613c107c852f4307d372b87a",
-          "author": null,
-          "description": "When you're writing a shell script, you may find that you need it to wait a certain number of seconds before proceeding. For example, you might want the script to wait while a process completes or before retrying a failed command.  To do this, you can use the very straightforward",
-          "link": "https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/",
-          "publishedOn": "2021-09-13T14:29:40.000Z",
-          "wordCount": 590,
-          "title": "Bash Sleep – How to Make a Shell Script Wait N Seconds (Example Command)"
-        },
-        {
-          "id": "6122041a3bccf807612a575e",
-          "author": null,
-          "description": "In Python, there are a few ways you can read a text file.  In this article, I will go over the open() function, the read(), readline(), readlines(), close() methods, and the with keyword. What is the open() function in Python? If you want to read a text file in Python,",
-          "link": "https://www.freecodecamp.org/news/python-open-file-how-to-read-a-text-file-line-by-line/",
-          "publishedOn": "2021-09-13T14:00:03.000Z",
-          "wordCount": 1255,
-          "title": "Python Open File – How to Read a Text File Line by Line"
-        },
-        {
-          "id": "613a5290852f4307d372aa23",
-          "author": null,
-          "description": "Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts. This",
-          "link": "https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/",
-          "publishedOn": "2021-09-09T18:36:16.000Z",
-          "wordCount": 494,
-          "title": "Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course"
-        },
-        {
-          "id": "61210d813bccf807612a4f5c",
-          "author": null,
-          "description": "Are you preparing for coding interviews? I designed a crash course series to help you out. I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the third course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,",
-          "link": "https://www.freecodecamp.org/news/coding-interview-graph-traversal-crash-course-the-only-one-youll-ever-need/",
-          "publishedOn": "2021-09-09T17:24:25.000Z",
-          "wordCount": 1871,
-          "title": "Coding Interview Graph Traversal Crash Course – The Only One You&#x27;ll Ever Need"
-        },
-        {
-          "id": "6139ca38852f4307d3729e87",
-          "author": null,
-          "description": "If you're curious about graph databases and how they compare with relational database management systems, then this beginner-friendly guide is for you.  In this article, you'll discover of the power of graphs by working with a small movie data set. It is based on the built in dataset and guide",
-          "link": "https://www.freecodecamp.org/news/graph-database-vs-relational-database/",
-          "publishedOn": "2021-09-09T17:16:35.000Z",
-          "wordCount": 3242,
-          "title": "Graph Databases VS Relational Databases – Learn How a Graph Database Works"
         }
       ]
     }

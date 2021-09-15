@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-14T00:42:57.293Z</id>
+    <id>urn:2021-09-15T00:40:36.468Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-14T00:42:57.293Z</updated>
+    <updated>2021-09-15T00:40:36.468Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On the `dl`]]></title>
+        <id>https://css-tricks.com/?p=351518</id>
+        <link href="https://css-tricks.com/on-the-dl/"/>
+        <updated>2021-09-14T22:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Blogging about HTML elements¹? *chefs kiss*
+Here’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:
+You might have also seen lists of name–value pairs to describe lodging amenities, or to list 
+…
+The post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python f-String Tutorial – String Formatting in Python Explained with Code Examples]]></title>
+        <id>613b1a82852f4307d372ae6b</id>
+        <link href="https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/"/>
+        <updated>2021-09-14T19:21:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Business Case for Open Source – Why You Should Contribute to the Open Source Community]]></title>
+        <id>612fa993d6679a07b7d402ab</id>
+        <link href="https://www.freecodecamp.org/news/a-business-case-for-open-source/"/>
+        <updated>2021-09-14T18:59:46.000Z</updated>
+        <summary type="html"><![CDATA[As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save a Google Doc as a PDF]]></title>
+        <id>61407a67852f4307d372d4a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/"/>
+        <updated>2021-09-14T17:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a GitHub Star – Tips from Actual GitHub Stars]]></title>
+        <id>61405cf6852f4307d372d219</id>
+        <link href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/"/>
+        <updated>2021-09-14T16:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Junior Software Engineer in 6 months]]></title>
+        <id>613b7a2c852f4307d372b3a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/"/>
+        <updated>2021-09-14T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are There So Many Programming Languages?]]></title>
+        <id>613c7719852f4307d372b9b1</id>
+        <link href="https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/"/>
+        <updated>2021-09-14T16:11:17.000Z</updated>
+        <summary type="html"><![CDATA[There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Form in PHP Using DOMDocument]]></title>
+        <id>https://css-tricks.com/?p=351454</id>
+        <link href="https://css-tricks.com/building-a-form-in-php-using-domdocument/"/>
+        <updated>2021-09-14T14:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.
+The post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jonathan Land</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Conf 2021]]></title>
+        <id>https://css-tricks.com/?p=351970</id>
+        <link href="https://jamstackconf.com/"/>
+        <updated>2021-09-14T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+What? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.
+When? October 6–7, 2021
+Where? Virtual / online.
+How much? It’s free! There are workshops as well though, …
+The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Essentials for Hackers]]></title>
+        <id>61409b8d852f4307d372d5cd</id>
+        <link href="https://www.freecodecamp.org/news/linux-essentials-for-hackers/"/>
+        <updated>2021-09-14T13:03:08.000Z</updated>
+        <summary type="html"><![CDATA[If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power Of Pen And Paper Sketching]]></title>
+        <id>https://smashingmagazine.com/2021/09/power-pen-paper-sketching/</id>
+        <link href="https://smashingmagazine.com/2021/09/power-pen-paper-sketching/"/>
+        <updated>2021-09-14T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tracy Osborn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word]]></title>
         <id>613fbc95852f4307d372cf35</id>
@@ -36,13 +156,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More]]></title>
-        <id>612e048bd6679a07b7d3f47b</id>
-        <link href="https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/"/>
-        <updated>2021-09-13T21:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Let me start this article by asking, "What is JavaScript"? Well, here's the most confusing yet to-the-point answer I have found so far: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.Hold on a second – did it say single-threaded and asynchronous at the same time?]]></summary>
+        <title type="html"><![CDATA[Developers and Designers Work on a Single Source of Truth With UXPin]]></title>
+        <id>https://css-tricks.com/?p=350466</id>
+        <link href="https://css-tricks.com/developers-designers-uxpin/"/>
+        <updated>2021-09-13T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+There is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …
+The post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -57,26 +179,6 @@ The post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python]]></title>
-        <id>608851a68eb3fb07cf098178</id>
-        <link href="https://www.freecodecamp.org/news/python-projects-for-beginners/"/>
-        <updated>2021-09-13T15:12:15.000Z</updated>
-        <summary type="html"><![CDATA[The best way to learn a new programming language is to build projects with it. I have created a list of 25 beginner friendly project tutorials in Python. My advice for tutorials would be to watch the video, build the project, break it apart and rebuild it your own way.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash Sleep – How to Make a Shell Script Wait N Seconds (Example Command)]]></title>
-        <id>613c107c852f4307d372b87a</id>
-        <link href="https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/"/>
-        <updated>2021-09-13T14:29:40.000Z</updated>
-        <summary type="html"><![CDATA[When you're writing a shell script, you may find that you need it to wait a certain number of seconds before proceeding. For example, you might want the script to wait while a process completes or before retrying a failed command.  To do this, you can use the very straightforward]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Social Image Generator + Jetpack]]></title>
         <id>https://css-tricks.com/?p=351726</id>
         <link href="https://css-tricks.com/social-image-generator-jetpack/"/>
@@ -86,16 +188,6 @@ The trajectory there was that I ended up …
 The post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Open File – How to Read a Text File Line by Line]]></title>
-        <id>6122041a3bccf807612a575e</id>
-        <link href="https://www.freecodecamp.org/news/python-open-file-how-to-read-a-text-file-line-by-line/"/>
-        <updated>2021-09-13T14:00:03.000Z</updated>
-        <summary type="html"><![CDATA[In Python, there are a few ways you can read a text file.  In this article, I will go over the open() function, the read(), readline(), readlines(), close() methods, and the with keyword. What is the open() function in Python? If you want to read a text file in Python,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -189,36 +281,6 @@ The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Solidity, Blockchain, and Smart Contracts in a Free 16-Hour Course]]></title>
-        <id>613a5290852f4307d372aa23</id>
-        <link href="https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/"/>
-        <updated>2021-09-09T18:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain engineers are in extreme demand. Almost every day they are building billion dollar applications. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you all about Solidity, the blockchain, and smart contracts. Solidity is an object-oriented programming language for writing smart contracts. This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Graph Traversal Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>61210d813bccf807612a4f5c</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-graph-traversal-crash-course-the-only-one-youll-ever-need/"/>
-        <updated>2021-09-09T17:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for coding interviews? I designed a crash course series to help you out. I'm Lynn, a software engineer and a recent graduate from the University of Chicago. This is the third course in my Coding Interview Crash Course Series. Feel free to check out my YouTube channel,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Databases VS Relational Databases – Learn How a Graph Database Works]]></title>
-        <id>6139ca38852f4307d3729e87</id>
-        <link href="https://www.freecodecamp.org/news/graph-database-vs-relational-database/"/>
-        <updated>2021-09-09T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[If you're curious about graph databases and how they compare with relational database management systems, then this beginner-friendly guide is for you.  In this article, you'll discover of the power of graphs by working with a small movie data set. It is based on the built in dataset and guide]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme]]></title>
         <id>https://css-tricks.com/?p=350070</id>
         <link href="https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/"/>
@@ -294,41 +356,6 @@ The post Can we have custom media queries, please? appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire SVG animations (SMIL) when the SVG is visible]]></title>
-        <id>https://css-tricks.com/?p=351146</id>
-        <link href="https://www.zachleat.com/web/svg-animate/"/>
-        <updated>2021-09-07T17:54:12.000Z</updated>
-        <summary type="html"><![CDATA[When requirements read “when visible” your brain should go straight to IntersectionObserver. That’s exactly what Zach is doing here to kick off an animation when it scrolls into view.
-Except this animation is an SVG SMIL animation: an <animate>…
-The post Fire SVG animations (SMIL) when the SVG is visible appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your Own Subscription Newsletter]]></title>
-        <id>https://css-tricks.com/?p=351346</id>
-        <link href="https://css-tricks.com/building-your-own-subscription-newsletter/"/>
-        <updated>2021-09-07T17:52:19.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I did a sponsored video the other week explaining how to build a paid subscription newsletter using WordPress (we did it on WordPress.com but it could be hosted anywhere), MailPoet (a plugin to visually …
-The post Building Your Own Subscription Newsletter appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox’s `bolder` Default is a Problem for Variable Fonts]]></title>
-        <id>https://css-tricks.com/?p=351017</id>
-        <link href="https://css-tricks.com/firefoxs-bolder-default-is-a-problem-for-variable-fonts/"/>
-        <updated>2021-09-07T14:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Variable fonts make it easy to create a large set of font styles from a single font file. Unfortunately, the default rendering of the <b> and <strong> elements in browsers today is not very compatible with the wide range of …
-The post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s New With DevTools: Cross-Browser Edition]]></title>
         <id>https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/</id>
         <link href="https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/"/>
@@ -336,17 +363,6 @@ The post Firefox’s `bolder` Default is a Problem for Variable Fonts appeared f
         <summary type="html"><![CDATA[Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
-        <id>https://css-tricks.com/?p=351402</id>
-        <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
-        <updated>2021-09-06T18:47:19.000Z</updated>
-        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a scoping proposal has gotten (the Level …
-The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -507,16 +523,6 @@ The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can suppor
         <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop Your Business’ Technology Roadmap]]></title>
-        <id>https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/</id>
-        <link href="https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/"/>
-        <updated>2021-08-16T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cache Merril)</name>
         </author>
     </entry>
 </feed>
