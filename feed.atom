@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-15T00:40:36.468Z</id>
+    <id>urn:2021-09-16T00:42:45.501Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T00:40:36.468Z</updated>
+    <updated>2021-09-16T00:42:45.501Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2021 Scroll Survey Report]]></title>
+        <id>https://css-tricks.com/?p=351987</id>
+        <link href="https://web.dev/2021-scroll-survey-report/"/>
+        <updated>2021-09-15T22:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a common thought and question: how do browsers prioritize what they work on? We get little glimpses of it sometimes. We’re told to “star issues” in bug trackers to signal interest. We’re told to get involved in GitHub threads …
+The post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Page Text Editor – How to Open HTML Code in Mac TextEdit]]></title>
+        <id>613f3c9f852f4307d372c7d8</id>
+        <link href="https://www.freecodecamp.org/news/web-page-text-editor-how-to-open-html-code-in-mac-textedit/"/>
+        <updated>2021-09-15T22:29:38.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show how to create, open, and edit HTML files in TextEdit.  What is TextEdit?TextEdit is a free word processor that comes preinstalled with your Mac computer. It has been around for over 25 years and it is an easy way to open and read]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Rest vs Spread Operator – What’s the Difference?]]></title>
+        <id>6141fe01852f4307d372e123</id>
+        <link href="https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/"/>
+        <updated>2021-09-15T22:27:26.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript uses three dots (...) for both the rest and spread operators. But these two operators are not the same. The main difference between rest and spread is that the rest operator puts the rest of some specific user-supplied values into a JavaScript array. But the spread syntax expands iterables into]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNG Meaning – What does RNG Stand for in Gaming?]]></title>
+        <id>610662663306a507d1bfc14a</id>
+        <link href="https://www.freecodecamp.org/news/rng-meaning-what-does-rng-stand-for-in-gaming/"/>
+        <updated>2021-09-15T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[If everything is predictable in a game, that isn't much fun. RNGs, or Random Number Generators, are a way to introduce a touch of randomness and causality you need to spice it up. In this article, we'll learn how random number generators work. How an Analogic Random Number Generator WorksThe]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What&#x27;s the Diff? How Use Linux diff to Compare Files and Apply Changes with patch]]></title>
+        <id>6138552f581b610782a91fb0</id>
+        <link href="https://www.freecodecamp.org/news/compare-files-with-diff-in-linux/"/>
+        <updated>2021-09-15T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine waking up one day to find out that your production systems are down because of a bug that has yet to be traced. One of your worst nightmares right?  And you also discover that you need to compare code from two versions and the pressure is building to restore]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kbar]]></title>
+        <id>https://css-tricks.com/?p=351868</id>
+        <link href="https://kbar.vercel.app/"/>
+        <updated>2021-09-15T18:51:36.000Z</updated>
+        <summary type="html"><![CDATA[It’s not every day that a new pattern emerges across the web, but I think cmd + k is here to stay.  It’s a keyboard shortcut that usually pops open a search UI and it lets you toggle settings on …
+The post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent Background – Image Opacity in CSS and HTML]]></title>
+        <id>6140ae19852f4307d372d73b</id>
+        <link href="https://www.freecodecamp.org/news/transparent-background-image-opacity-in-css-and-html/"/>
+        <updated>2021-09-15T17:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Transparency plays an important role in front end development. It lets you choose how transparent the elements on your web pages appear.  You can adjust transparency in several ways – because of course, in CSS, there are multiple ways to do the same thing.  The CSS opacity property is the first]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a CSS Library with Vite.js]]></title>
+        <id>613cf859852f4307d372bcef</id>
+        <link href="https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/"/>
+        <updated>2021-09-15T16:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Building a CSS library might seem like something you'd do out of pure curiosity, just to learn and explore. But it can be so much more than that.  I've seen custom-built CSS libraries used everywhere from big organisations to scrappy young startups.  What is a CSS Library? You can think]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn JavaScript A Little Faster]]></title>
+        <id>613c6d6f852f4307d372b900</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/"/>
+        <updated>2021-09-15T15:57:42.000Z</updated>
+        <summary type="html"><![CDATA[When you're just starting to learn to code, it might feel like it's always a struggle. Your progress seems very slow and it's easy to be discouraged.  In this article, I'll show you some tips and tricks that will help you to learn JavaScript more efficiently. Before we start, we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to JavaScript Proxy]]></title>
+        <id>https://css-tricks.com/?p=351767</id>
+        <link href="https://css-tricks.com/an-intro-to-javascript-proxy/"/>
+        <updated>2021-09-15T14:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been in a situation where you wish you could have some control over the values in an object or array? Maybe you wanted to prevent certain types of data or even validate the data before storing it …
+The post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Travis Almand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Need For Pseudo-Elements]]></title>
+        <id>https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/</id>
+        <link href="https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/"/>
+        <updated>2021-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcel Moreau)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On the `dl`]]></title>
         <id>https://css-tricks.com/?p=351518</id>
@@ -50,36 +163,6 @@ The post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Become a GitHub Star – Tips from Actual GitHub Stars]]></title>
-        <id>61405cf6852f4307d372d219</id>
-        <link href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/"/>
-        <updated>2021-09-14T16:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Ever since I became a GitHub Star and GitHub Star of the year in 2020, many people have asked me how they can become one.   There is no definitive checklist and you cannot apply or nominate yourself. But the GitHub Stars Program website gives some useful insight into what GitHub]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Junior Software Engineer in 6 months]]></title>
-        <id>613b7a2c852f4307d372b3a9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-junior-software-engineer-in-6-months/"/>
-        <updated>2021-09-14T16:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! 🌈 The seasons are changing, and September is the perfect month to focus on new goals and start new adventures. Maybe you've been on vacation, enjoyed the sun 🌞 or the mountains, and you're ready to dive back into work. New adventures are sometimes unexpected. But I hope that when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are There So Many Programming Languages?]]></title>
-        <id>613c7719852f4307d372b9b1</id>
-        <link href="https://www.freecodecamp.org/news/why-are-there-so-many-programming-languages/"/>
-        <updated>2021-09-14T16:11:17.000Z</updated>
-        <summary type="html"><![CDATA[There are so many programming languages out there, and more are developed every few years. We have Python, JavaScript, PHP, C++, Ruby, Java, C#, and way too many more to list here.  So you might be wondering – why are there so many programming languages, and do we even need all]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building a Form in PHP Using DOMDocument]]></title>
         <id>https://css-tricks.com/?p=351454</id>
         <link href="https://css-tricks.com/building-a-form-in-php-using-domdocument/"/>
@@ -106,16 +189,6 @@ The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Essentials for Hackers]]></title>
-        <id>61409b8d852f4307d372d5cd</id>
-        <link href="https://www.freecodecamp.org/news/linux-essentials-for-hackers/"/>
-        <updated>2021-09-14T13:03:08.000Z</updated>
-        <summary type="html"><![CDATA[If you want to get into the growing field of cyber security and ethical hacking, you are going to need to understand how to use Linux. We just released a free course on the freeCodeCamp.org YouTube channel that will teach you all the common Linux skills used in cyber-security]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Power Of Pen And Paper Sketching]]></title>
         <id>https://smashingmagazine.com/2021/09/power-pen-paper-sketching/</id>
         <link href="https://smashingmagazine.com/2021/09/power-pen-paper-sketching/"/>
@@ -123,36 +196,6 @@ The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tr
         <summary type="html"><![CDATA[When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tracy Osborn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insert a Checkbox in Word – How to Add a Checkmark in Microsoft Word]]></title>
-        <id>613fbc95852f4307d372cf35</id>
-        <link href="https://www.freecodecamp.org/news/insert-a-checkbox-in-word-how-to-add-a-checkmark-in-microsoft-word/"/>
-        <updated>2021-09-13T23:48:00.000Z</updated>
-        <summary type="html"><![CDATA[In Microsoft Word, you can create digital forms, surveys, to-do lists, and printable forms. And you might need to add a checkbox in these forms so your respondents can select certain options.  In this tutorial, I will show you how to insert an interactive checkbox in Microsoft Word for softcopy]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Sign Up Form with Floating Labels and Transitions Using Plain HTML and CSS]]></title>
-        <id>6138a480581b610782a921ee</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-sign-up-form-with-html-and-css/"/>
-        <updated>2021-09-13T21:15:35.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial we are going to build a modern sign up form with floating labels and smooth transitions using plain HTML and CSS. A viewAs you can see in the above image, when an input within the form gains focus, its label floats to the top and a semi-thick]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Emojis – Emoji List for Copy and Paste]]></title>
-        <id>613b2c1a852f4307d372b02f</id>
-        <link href="https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/"/>
-        <updated>2021-09-13T21:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -302,29 +345,6 @@ The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don’t attach tooltips to document.body]]></title>
-        <id>https://css-tricks.com/?p=351389</id>
-        <link href="https://css-tricks.com/dont-attach-tooltips-to-document-body/"/>
-        <updated>2021-09-08T19:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …
-The post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Story Behind TryShape, a Showcase for the CSS clip-path property]]></title>
-        <id>https://css-tricks.com/?p=351043</id>
-        <link href="https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/"/>
-        <updated>2021-09-08T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[I love shapes, especially colorful ones! Shapes on websites are in the same category of helpfulness as background colors, images, banners, section separators, artwork, and many more: they can help us understand context and inform our actions through affordances.
-A …
-The post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
         <id>https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/</id>
         <link href="https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
@@ -342,17 +362,6 @@ The post The Story Behind TryShape, a Showcase for the CSS clip-path property ap
         <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we have custom media queries, please?]]></title>
-        <id>https://css-tricks.com/?p=351276</id>
-        <link href="https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/"/>
-        <updated>2021-09-07T22:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis notes that there is a spec for custom media queries, but seemingly no momentum on it at the moment. That lack of movement is unfortunate, as it’s almost guaranteed front-end developers all over would start using it as …
-The post Can we have custom media queries, please? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -513,16 +522,6 @@ The post Can we have custom media queries, please? appeared first on CSS-Tricks.
         <summary type="html"><![CDATA[In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anna Prenzel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Open-Source Icons]]></title>
-        <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
-        <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
-        <updated>2021-08-17T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
