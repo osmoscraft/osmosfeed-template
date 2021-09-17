@@ -1,10 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-16T00:42:45.501Z</id>
+    <id>urn:2021-09-17T00:45:34.714Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T00:42:45.501Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-17T00:45:34.714Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
+        <id>613f6bc9852f4307d372ca83</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-freelancing/"/>
+        <updated>2021-09-16T22:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Freelancing can be an incredibly rewarding way to make money online. But it can also be quite difficult if you don't approach it in the right way.  It takes more than a stable internet connection to make a living as a freelancer. In order to make the big bucks, you’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Roots and Inheritance]]></title>
+        <id>https://css-tricks.com/?p=351915</id>
+        <link href="https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/"/>
+        <updated>2021-09-16T20:14:20.000Z</updated>
+        <summary type="html"><![CDATA[There is a helluva gotcha with styling a <details> element, as documented here by Kitty Guiraudel. It’s obscure enough that you might never run into it, but if you do, I could see it being very confusing (it would confuse …
+The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REST API Best Practices – REST Endpoint Design Examples]]></title>
+        <id>614353d8852f4307d372ef7e</id>
+        <link href="https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/"/>
+        <updated>2021-09-16T17:50:22.000Z</updated>
+        <summary type="html"><![CDATA[In Web Development, REST APIs play an important role in ensuring smooth communication between the client and the server.  You can think of the client as the front end and the server as the back end.  Communication between the client (frontend) and the server (backend) isn't usually super direct. So]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Navigation in Next.js – How to Render Nav-Items Dynamically in a Next App]]></title>
+        <id>613d280a852f4307d372bdd7</id>
+        <link href="https://www.freecodecamp.org/news/dynamic-navigation-in-nextjs/"/>
+        <updated>2021-09-16T17:32:33.000Z</updated>
+        <summary type="html"><![CDATA[I've lately been noticing a pattern in React applications: developers protect certain routes on a web app from unauthorized users. In such cases, the navigation item (nav-item) on the navigation bar/Header of the web won't be visible to an unauthorized user. In this short guide, we're going to take]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel Subdomains – How to Create and Manage Subdomains in Your Apps]]></title>
+        <id>613f4ba7852f4307d372c7ed</id>
+        <link href="https://www.freecodecamp.org/news/laravel-subdomians/"/>
+        <updated>2021-09-16T17:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Modern web applications usually perform more than one function. They often have more than one section, offer more than one service, and have a couple of clients. But the more functionality the app has, the clumsier your route paths will get.  What if there was a way to separate all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code Dark Theme – A freeCodeCamp Night Mode Style for Visual Studio Code]]></title>
+        <id>61434825852f4307d372eed6</id>
+        <link href="https://www.freecodecamp.org/news/vs-code-dark-mode-theme/"/>
+        <updated>2021-09-16T16:46:30.000Z</updated>
+        <summary type="html"><![CDATA[I'm excited to share freeCodeCamp's first official VS Code extension – a dark mode theme.  This theme uses freeCodeCamp.org's distinct color scheme, typography, and UI design sensibilities.  This night mode theme is minimalistic, easy on the eyes, and will help you reach a coding flow state.  Here's a preview of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relational Database Course – How to Learn SQL in VSCode Using Docker and freeCodeCamp]]></title>
+        <id>613e7006852f4307d372c2ac</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/"/>
+        <updated>2021-09-16T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[You can now learn Relational Database concepts and SQL right inside your VSCode editor. This tutorial will walk you through how to install it using Docker.  During this full-length 300-hour course, you will learn to build more than a dozen projects. Some of them will involve step-by-step instructions, and others]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Gatsby, a Static Site Generator]]></title>
+        <id>61436000852f4307d372f0d1</id>
+        <link href="https://www.freecodecamp.org/news/learn-gatsby-version-3/"/>
+        <updated>2021-09-16T15:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby is a website generator. It is a free and open source framework based on React that helps developers build fast websites and apps. We just published a 9-hour Gatsby course on the freeCodeCamp.org YouTube channel that will teach you how to use the newest version of the framework.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Science Ethics – What Could Go Wrong and How to Avoid It]]></title>
+        <id>6142ac88852f4307d372eb23</id>
+        <link href="https://www.freecodecamp.org/news/the-ethics-of-data-science/"/>
+        <updated>2021-09-16T15:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Data science models are all around you. They could impact your admission to a school, whether you get hired (or fired), your work schedule, whom you date, whether you get a loan, what ads are shown to you, what social media posts you see, and so on. I have created]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML File Text Editor – How to Open Web Page Code in Windows Notepad]]></title>
+        <id>614207df852f4307d372e3c4</id>
+        <link href="https://www.freecodecamp.org/news/html-file-text-editor-how-to-open-web-page-code-in-windows-notepad/"/>
+        <updated>2021-09-16T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Notepad is a built-in text editor that comes pre-installed on Windows machines of all versions – XP, Windows 7, Windows 8, Windows 10, and so on.  It is the default Windows text editor. You can think of Notepad as your VS Code or favorite text editor with fewer capabilities.  Coding with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript toLowerCase() – How to Convert a String to Lowercase and Uppercase in JS]]></title>
+        <id>6141d9cf852f4307d372e031</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tolowercase-how-to-convert-a-string-to-lowercase-and-uppercase-in-js/"/>
+        <updated>2021-09-16T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how to convert a string to lowercase and uppercase characters.  We'll also go over how to make only the first letter in a word uppercase and how to make the first letter of every word in a sentence uppercase.  Let's get started!  How to use the toLowerCase(]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minding the “gap”]]></title>
+        <id>https://css-tricks.com/?p=351481</id>
+        <link href="https://css-tricks.com/minding-the-gap/"/>
+        <updated>2021-09-16T14:34:46.000Z</updated>
+        <summary type="html"><![CDATA[You might already know about the CSS gap property. It isn’t exactly new, but it did gain an important new ability last year: it now works in Flexbox in addition to CSS Grid. That, and the fact that I …
+The post Minding the “gap” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy]]></title>
+        <id>https://css-tricks.com/?p=351586</id>
+        <link href="https://css-tricks.com/static-site-generators-vs-cms-powered-websites-how-to-keep-marketers-and-devs-happy/"/>
+        <updated>2021-09-16T14:31:08.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Many developers love working with static site generators like Gatsby and Hugo. These powerful yet flexible systems help create beautiful websites using familiar tools like Markdown and React. Nearly every popular modern programming …
+The post Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philip Kiely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Quality Assurance: From User Requirements To Web Risk Management]]></title>
+        <id>https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/</id>
+        <link href="https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/"/>
+        <updated>2021-09-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elie Sloïm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons To Build A CRM-Powered Website For Your Business]]></title>
+        <id>https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/</id>
+        <link href="https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/"/>
+        <updated>2021-09-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrating a CRM with your business website has numerous benefits. In this article, Zara Cooper explains what these benefits are and why websites should be integrated with a CRM platform.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
+        <updated>2021-09-16T06:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
+Thank you @ad-m]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 Scroll Survey Report]]></title>
         <id>https://css-tricks.com/?p=351987</id>
@@ -17,46 +182,6 @@ The post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Page Text Editor – How to Open HTML Code in Mac TextEdit]]></title>
-        <id>613f3c9f852f4307d372c7d8</id>
-        <link href="https://www.freecodecamp.org/news/web-page-text-editor-how-to-open-html-code-in-mac-textedit/"/>
-        <updated>2021-09-15T22:29:38.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show how to create, open, and edit HTML files in TextEdit.  What is TextEdit?TextEdit is a free word processor that comes preinstalled with your Mac computer. It has been around for over 25 years and it is an easy way to open and read]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Rest vs Spread Operator – What’s the Difference?]]></title>
-        <id>6141fe01852f4307d372e123</id>
-        <link href="https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/"/>
-        <updated>2021-09-15T22:27:26.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript uses three dots (...) for both the rest and spread operators. But these two operators are not the same. The main difference between rest and spread is that the rest operator puts the rest of some specific user-supplied values into a JavaScript array. But the spread syntax expands iterables into]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RNG Meaning – What does RNG Stand for in Gaming?]]></title>
-        <id>610662663306a507d1bfc14a</id>
-        <link href="https://www.freecodecamp.org/news/rng-meaning-what-does-rng-stand-for-in-gaming/"/>
-        <updated>2021-09-15T21:55:10.000Z</updated>
-        <summary type="html"><![CDATA[If everything is predictable in a game, that isn't much fun. RNGs, or Random Number Generators, are a way to introduce a touch of randomness and causality you need to spice it up. In this article, we'll learn how random number generators work. How an Analogic Random Number Generator WorksThe]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What&#x27;s the Diff? How Use Linux diff to Compare Files and Apply Changes with patch]]></title>
-        <id>6138552f581b610782a91fb0</id>
-        <link href="https://www.freecodecamp.org/news/compare-files-with-diff-in-linux/"/>
-        <updated>2021-09-15T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine waking up one day to find out that your production systems are down because of a bug that has yet to be traced. One of your worst nightmares right?  And you also discover that you need to compare code from two versions and the pressure is building to restore]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kbar]]></title>
         <id>https://css-tricks.com/?p=351868</id>
         <link href="https://kbar.vercel.app/"/>
@@ -65,36 +190,6 @@ The post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support
 The post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparent Background – Image Opacity in CSS and HTML]]></title>
-        <id>6140ae19852f4307d372d73b</id>
-        <link href="https://www.freecodecamp.org/news/transparent-background-image-opacity-in-css-and-html/"/>
-        <updated>2021-09-15T17:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Transparency plays an important role in front end development. It lets you choose how transparent the elements on your web pages appear.  You can adjust transparency in several ways – because of course, in CSS, there are multiple ways to do the same thing.  The CSS opacity property is the first]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a CSS Library with Vite.js]]></title>
-        <id>613cf859852f4307d372bcef</id>
-        <link href="https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/"/>
-        <updated>2021-09-15T16:47:22.000Z</updated>
-        <summary type="html"><![CDATA[Building a CSS library might seem like something you'd do out of pure curiosity, just to learn and explore. But it can be so much more than that.  I've seen custom-built CSS libraries used everywhere from big organisations to scrappy young startups.  What is a CSS Library? You can think]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn JavaScript A Little Faster]]></title>
-        <id>613c6d6f852f4307d372b900</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/"/>
-        <updated>2021-09-15T15:57:42.000Z</updated>
-        <summary type="html"><![CDATA[When you're just starting to learn to code, it might feel like it's always a struggle. Your progress seems very slow and it's easy to be discouraged.  In this article, I'll show you some tips and tricks that will help you to learn JavaScript more efficiently. Before we start, we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -130,36 +225,6 @@ You might have also seen lists of name–value pairs to describe lodging ameniti
 The post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python f-String Tutorial – String Formatting in Python Explained with Code Examples]]></title>
-        <id>613b1a82852f4307d372ae6b</id>
-        <link href="https://www.freecodecamp.org/news/python-f-strings-tutorial-how-to-use-f-strings-for-string-formatting/"/>
-        <updated>2021-09-14T19:21:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're formatting strings in Python, you're probably used to using the format() method.  But in Python 3.6 and later, you can use f-Strings instead. f-Strings, also called formatted string literals, have a more succinct syntax and can be super helpful in string formatting. In this tutorial, you'll learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Business Case for Open Source – Why You Should Contribute to the Open Source Community]]></title>
-        <id>612fa993d6679a07b7d402ab</id>
-        <link href="https://www.freecodecamp.org/news/a-business-case-for-open-source/"/>
-        <updated>2021-09-14T18:59:46.000Z</updated>
-        <summary type="html"><![CDATA[As an employed software developer today, there's a 96% chance that you're building company software using some sort of open-source technology.  You might be using VSCode, a free open-source text editor primarily maintained by Microsoft, or React, a free and open-source front-end JavaScript library, among many other tools. Companies today]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Save a Google Doc as a PDF]]></title>
-        <id>61407a67852f4307d372d4a1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/"/>
-        <updated>2021-09-14T17:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Google Docs is an essential productivity tool for digital work.  This article will cover how to save a Google Doc as a PDF on the Desktop version of Google Docs.  What Is Google Docs Used For? You can use Google Docs for many different tasks.  For example, you can jot]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -297,41 +362,6 @@ The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
-        <id>https://css-tricks.com/?p=350644</id>
-        <link href="https://css-tricks.com/frameworks-helping-image-usage/"/>
-        <updated>2021-09-09T19:44:54.000Z</updated>
-        <summary type="html"><![CDATA[I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. 
-I think it’s encouraging to see frameworks — these …
-The post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Largest Contentful Paint (LCP) on Your Website With Ease]]></title>
-        <id>https://css-tricks.com/?p=351259</id>
-        <link href="https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/"/>
-        <updated>2021-09-09T19:43:03.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Optimizing the user experience you offer on your website is essential for the success of any online business. Google does use different user experience-related metrics to rank web pages for SEO and has continued …
-The post Improve Largest Contentful Paint (LCP) on Your Website With Ease appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>ImageKit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=350070</id>
-        <link href="https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/"/>
-        <updated>2021-09-09T14:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Frontity is a framework for creating de-coupled (or "headless") WordPress sites. In this article, we dive into the process of spinning up such a site, with a detailed overview of the building blocks provided by Frontity and its flagship theme, Mars.
-The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
     <entry>
@@ -512,16 +542,6 @@ The post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appear
         <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Devin Harold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Interactive Gantt Chart Component With Vanilla JavaScript]]></title>
-        <id>https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/</id>
-        <link href="https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/"/>
-        <updated>2021-08-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anna Prenzel)</name>
         </author>
     </entry>
 </feed>
