@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-17T00:45:34.714Z</id>
+    <id>urn:2021-09-18T00:39:47.129Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T00:45:34.714Z</updated>
+    <updated>2021-09-18T00:39:47.129Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
+        <id>https://css-tricks.com/?p=352082</id>
+        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
+        <updated>2021-09-17T22:49:39.000Z</updated>
+        <summary type="html"><![CDATA[My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …
+The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
+        <id>613f3cc7852f4307d372c7e4</id>
+        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
+        <updated>2021-09-17T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Unleashed, Chapter 1: Connections]]></title>
+        <id>https://css-tricks.com/?p=350843</id>
+        <link href="https://css-tricks.com/computer-science-unleashed-chapter-1-connections/"/>
+        <updated>2021-09-17T15:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Humans crave connections, and the advent of the digital revolution has empowered us to be more connected than ever before. The Internet has unleashed upon billions of people unprecedented economic and political freedom, as well as powerful means of control and domination. Yet, the vast majority of us are oblivious to its inner workings.
+The post Computer Science Unleashed, Chapter 1: Connections appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Wladston Viana Ferreira Filho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
+        <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
+        <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
+        <updated>2021-09-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
         <id>613f6bc9852f4307d372ca83</id>
@@ -102,16 +144,6 @@ The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can supp
         <link href="https://www.freecodecamp.org/news/html-file-text-editor-how-to-open-web-page-code-in-windows-notepad/"/>
         <updated>2021-09-16T15:08:00.000Z</updated>
         <summary type="html"><![CDATA[Notepad is a built-in text editor that comes pre-installed on Windows machines of all versions – XP, Windows 7, Windows 8, Windows 10, and so on.  It is the default Windows text editor. You can think of Notepad as your VS Code or favorite text editor with fewer capabilities.  Coding with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript toLowerCase() – How to Convert a String to Lowercase and Uppercase in JS]]></title>
-        <id>6141d9cf852f4307d372e031</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tolowercase-how-to-convert-a-string-to-lowercase-and-uppercase-in-js/"/>
-        <updated>2021-09-16T15:07:34.000Z</updated>
-        <summary type="html"><![CDATA[This article explains how to convert a string to lowercase and uppercase characters.  We'll also go over how to make only the first letter in a word uppercase and how to make the first letter of every word in a sentence uppercase.  Let's get started!  How to use the toLowerCase(]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -327,34 +359,6 @@ The post “Just in Time” CSS appeared first on CSS-Tricks. You can support CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fun Times Styling Checkbox States]]></title>
-        <id>https://css-tricks.com/?p=351034</id>
-        <link href="https://css-tricks.com/fun-times-styling-checkbox-states/"/>
-        <updated>2021-09-10T14:53:24.000Z</updated>
-        <summary type="html"><![CDATA[We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.
-Although designing checkboxes is not that complicated, we also don’t …
-The post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EyeDropper API Dropped]]></title>
-        <id>https://css-tricks.com/?p=351697</id>
-        <link href="https://css-tricks.com/eyedropper-api-dropped/"/>
-        <updated>2021-09-10T14:47:11.000Z</updated>
-        <summary type="html"><![CDATA[I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). 
-🎨 Loving the new `EyeDropper` Web API: 
-“`js
-await new EyeDropper().open();
-// Returns the picked color, e.g.,
-…
-The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Design Done Well: Excellent Editorial]]></title>
         <id>https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/</id>
         <link href="https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/"/>
@@ -532,16 +536,6 @@ The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Neumegen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
-        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
-        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
-        <updated>2021-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devin Harold)</name>
         </author>
     </entry>
 </feed>
