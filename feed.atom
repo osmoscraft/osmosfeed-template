@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-18T00:39:47.129Z</id>
+    <id>urn:2021-09-19T00:41:31.595Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-18T00:39:47.129Z</updated>
+    <updated>2021-09-19T00:41:31.595Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -526,16 +526,6 @@ The post “Just in Time” CSS appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack CMS: The Past, The Present and The Future]]></title>
-        <id>https://smashingmagazine.com/2021/08/history-future-jamstack-cms/</id>
-        <link href="https://smashingmagazine.com/2021/08/history-future-jamstack-cms/"/>
-        <updated>2021-08-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Neumegen)</name>
         </author>
     </entry>
 </feed>
