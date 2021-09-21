@@ -22,6 +22,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352089",
+          "author": "Chris Coyier",
+          "description": "This is a good tweet from Harry:\nSimple yet significant thing all developers should keep in mind: CSS resources (fonts, background images) are not requested by your CSS, but by the DOM node that needs them [Note: slight oversimplification, but \n…\nThe post Resources aren’t requested by CSS, but by the DOM appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/",
+          "publishedOn": "2021-09-20T23:16:14.000Z",
+          "wordCount": 463,
+          "title": "Resources aren’t requested by CSS, but by the DOM"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352274",
+          "author": "Chris Coyier",
+          "description": "I’ll never forget one of Karen McGrane’s great lessons to the world: truncation is not a content strategy. The idea is that just clipping off text programmatically is a sledgehammer, and avoids the kind of real thinking and planning that …\nThe post Embracing Asymmetrical Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.bennadel.com/blog/4102-embracing-asymmetrical-design-and-overcoming-the-harmful-effects-of-text-overflow-ellipsis-in-css.htm",
+          "publishedOn": "2021-09-20T19:17:33.000Z",
+          "wordCount": 956,
+          "title": "Embracing Asymmetrical Design"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352283",
+          "author": "Chris Coyier",
+          "description": "It’s not every day you see a new processor for building websites that reinvents the syntax for HTML and CSS and JavaScript. That’s what imba is doing.\nThat’s an awful lot of vendor lock-in, but I guess if you get …\nThe post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://imba.io/",
+          "publishedOn": "2021-09-20T19:13:36.000Z",
+          "wordCount": null,
+          "title": "imba"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351917",
+          "author": "Temani Afif",
+          "description": "Nowadays, creating complex shapes is an easy task using clip-path, but adding a border to the shapes is always a pain. There is no robust CSS solution and we always need to produce specific “hacky” code for each particular …\nThe post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-polygon-border/",
+          "publishedOn": "2021-09-20T14:36:50.000Z",
+          "wordCount": 3611,
+          "title": "Exploring the CSS Paint API: Polygon Border"
+        },
+        {
           "id": "https://css-tricks.com/?p=352082",
           "author": "Robin Rendle",
           "description": "My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …\nThe post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -90,7 +126,7 @@
           "description": "Have you ever been in a situation where you wish you could have some control over the values in an object or array? Maybe you wanted to prevent certain types of data or even validate the data before storing it …\nThe post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/an-intro-to-javascript-proxy/",
           "publishedOn": "2021-09-15T14:21:27.000Z",
-          "wordCount": 5359,
+          "wordCount": 5403,
           "title": "An Intro to JavaScript Proxy"
         },
         {
@@ -119,42 +155,6 @@
           "publishedOn": "2021-09-14T14:32:16.000Z",
           "wordCount": 718,
           "title": "Jamstack Conf 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350466",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nThere is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …\nThe post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/developers-designers-uxpin/",
-          "publishedOn": "2021-09-13T19:21:00.000Z",
-          "wordCount": 1325,
-          "title": "Developers and Designers Work on a Single Source of Truth With UXPin"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351302",
-          "author": "Jimmy Chion",
-          "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/grainy-gradients/",
-          "publishedOn": "2021-09-13T19:04:51.000Z",
-          "wordCount": 1895,
-          "title": "Grainy Gradients"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351726",
-          "author": "Chris Coyier",
-          "description": "I feel like my quest to make sure this site had pretty sweet (and automatically-generated) social media images (e.g. Open Graph) came to a close once I found Social Image Generator. \nThe trajectory there was that I ended up …\nThe post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/social-image-generator-jetpack/",
-          "publishedOn": "2021-09-13T14:20:13.000Z",
-          "wordCount": 844,
-          "title": "Social Image Generator + Jetpack"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351562",
-          "author": "Chris Coyier",
-          "description": "I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:\n<div class=\"C(#333) P(20px)\"text\n</div\nAnd it will generate CSS like:\n.C\\(\\#333\\) {\n  color: #333;\n\n…\nThe post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/just-in-time-css/",
-          "publishedOn": "2021-09-10T20:32:51.000Z",
-          "wordCount": 2486,
-          "title": "“Just in Time” CSS"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
+          "author": "hello@smashingmagazine.com (Ken Harker)",
+          "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
+          "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
+          "publishedOn": "2021-09-20T11:30:00.000Z",
+          "wordCount": 3967,
+          "title": "Are Imposter Domains Re-Publishing Your Website?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2576,
+          "wordCount": 2587,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -183,7 +197,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4503,
+          "wordCount": 4505,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -211,7 +225,7 @@
           "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
           "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
           "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1936,
+          "wordCount": 1934,
           "title": "Reducing The Need For Pseudo-Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
@@ -225,7 +239,7 @@
           "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
           "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
           "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2073,
+          "wordCount": 2074,
           "title": "The Power Of Pen And Paper Sketching",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
@@ -239,7 +253,7 @@
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
           "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 2995,
+          "wordCount": 2998,
           "title": "Orchestrating Complexity With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
@@ -267,7 +281,7 @@
           "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
           "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-09-09T10:30:00.000Z",
-          "wordCount": 2057,
+          "wordCount": 2053,
           "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
@@ -281,7 +295,7 @@
           "description": "In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.",
           "link": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
           "publishedOn": "2021-09-08T10:30:00.000Z",
-          "wordCount": 2854,
+          "wordCount": 2853,
           "title": "Developer Decisions For Building Flexible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76d3eef0-2a0a-45e0-b0bb-399da37c3834/developer-decisions-building-flexible-components.jpg",
@@ -309,7 +323,7 @@
           "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
           "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
           "publishedOn": "2021-09-07T10:00:00.000Z",
-          "wordCount": 4036,
+          "wordCount": 4038,
           "title": "What’s New With DevTools: Cross-Browser Edition",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
@@ -323,7 +337,7 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
           "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
           "publishedOn": "2021-09-06T11:00:00.000Z",
-          "wordCount": 9715,
+          "wordCount": 9717,
           "title": "HTTP/3: Practical Deployment Options (Part 3)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
@@ -337,7 +351,7 @@
           "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
           "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
           "publishedOn": "2021-09-03T11:30:00.000Z",
-          "wordCount": 3552,
+          "wordCount": 3553,
           "title": "Reducing Carbon Emissions On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
@@ -351,7 +365,7 @@
           "description": "Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.",
           "link": "https://smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/",
           "publishedOn": "2021-09-02T12:00:00.000Z",
-          "wordCount": 2419,
+          "wordCount": 2421,
           "title": "Interactive Learning Tools For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f13aec3-8dd5-4085-afce-c752db3abfb6/interactive-learning-tools-front-end-developers.jpg",
@@ -365,7 +379,7 @@
           "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
           "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
           "publishedOn": "2021-09-01T10:30:00.000Z",
-          "wordCount": 5564,
+          "wordCount": 5569,
           "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
@@ -393,7 +407,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
           "publishedOn": "2021-08-31T08:00:00.000Z",
-          "wordCount": 2395,
+          "wordCount": 2392,
           "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
@@ -421,7 +435,7 @@
           "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
           "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
           "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3111,
+          "wordCount": 3115,
           "title": "Compound Components In React",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
@@ -435,7 +449,7 @@
           "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
           "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
           "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3761,
+          "wordCount": 3758,
           "title": "Pushing Back Against Privacy Infringement On The Web",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
@@ -449,7 +463,7 @@
           "description": "In this article, Leonardo explains how to use a \"multi-monorepo\" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.",
           "link": "https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/",
           "publishedOn": "2021-08-25T07:10:00.000Z",
-          "wordCount": 3541,
+          "wordCount": 3552,
           "title": "Creating A Public/Private Multi-Monorepo For PHP Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a223ab2b-d926-4fec-a422-bed6e7b02178/01-architecture.png",
@@ -463,7 +477,7 @@
           "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
           "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
           "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3212,
+          "wordCount": 3215,
           "title": "How To Automate Documentation Workflow For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
@@ -477,7 +491,7 @@
           "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.",
           "link": "https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/",
           "publishedOn": "2021-08-23T06:20:00.000Z",
-          "wordCount": 10528,
+          "wordCount": 10526,
           "title": "HTTP/3: Performance Improvements (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d5e5ddd-7a90-48c6-84c5-dc5c335e2305/congestion-control.png",
@@ -492,6 +506,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5fbf192a49c47664ed825d46",
+          "author": null,
+          "description": "In this article, you'll learn how to set up reCAPTCHA v3 in your Laravel project. This can be a bit tricky, so I'll help you simplify the process here.  What is reCaptcha?reCaptcha is a Google service provided for free that helps you protect your websites from spam and malicious",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-recaptcha-v3-in-laravel/",
+          "publishedOn": "2021-09-20T22:26:01.000Z",
+          "wordCount": 732,
+          "title": "How to Set Up reCAPTCHA v3 in a Laravel Project"
+        },
+        {
+          "id": "61483e50852f4307d3730d48",
+          "author": null,
+          "description": "Tuples and lists are two of the four available built-in data types that you can use to store data in Python.  They are both useful and they might seem similar at first glance. But they have significant differences and each one is best used in different cases.  This article will",
+          "link": "https://www.freecodecamp.org/news/python-tuple-vs-list-what-is-the-difference/",
+          "publishedOn": "2021-09-20T21:15:57.000Z",
+          "wordCount": 2100,
+          "title": "Python Tuple VS List – What is the Difference?"
+        },
+        {
+          "id": "61330a1fd6679a07b7d41e3e",
+          "author": null,
+          "description": "React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps. It delivers the icons to your app as components so they're easier to work with, and it lets you style them so they're consistent with the overall style of your app.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-icons/",
+          "publishedOn": "2021-09-20T19:44:00.000Z",
+          "wordCount": 2562,
+          "title": "How to use react-icons to install Font Awesome in a React app"
+        },
+        {
+          "id": "613a5047852f4307d372a9ea",
+          "author": null,
+          "description": "In this article I am going to walk you through building a prototype with Spring Boot. Think of it like building a project for a hackathon or a prototype for your startup in limited time.  In other words, we are not trying to build something perfect – but rather something that",
+          "link": "https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/",
+          "publishedOn": "2021-09-20T19:43:06.000Z",
+          "wordCount": 8254,
+          "title": "Spring Boot Tutorial – How to Build Fast and Modern Java Apps"
+        },
+        {
+          "id": "6148d0dc9456b407b870f5ba",
+          "author": null,
+          "description": "Django is one of the most popular ways to create full-stack websites with Python. We just published an 18-hour Django course on the freeCodeCamp.org YouTube channel. Charles Severance (a.k.a. Dr. Chuck) created this course, along with the popular Python for Everybody course. He is a Clinical Professor",
+          "link": "https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/",
+          "publishedOn": "2021-09-20T18:29:03.000Z",
+          "wordCount": 789,
+          "title": "Django for Everybody - Learn the Popular Python Framework from Dr. Chuck"
+        },
+        {
+          "id": "612cbfd8b5177808226d4a47",
+          "author": null,
+          "description": "In this article, I will show you a few code examples on how you can sort your data in ascending order using the ORDER BY clause in SQL.  ORDER BY syntaxThis is the basic syntax to sort your data in ascending order: SELECT columns FROM table ORDER BY column;If",
+          "link": "https://www.freecodecamp.org/news/ascending-order-with-sql-order-by/",
+          "publishedOn": "2021-09-20T14:29:04.000Z",
+          "wordCount": 767,
+          "title": "Ascending Order with SQL Order By"
+        },
+        {
+          "id": "614382b2852f4307d372f2d6",
+          "author": null,
+          "description": "Take  a look at the following sentences:  I’m learning how to  code.  I'll get a software developer job.  Learning how to code doesn’t have to cost you money.  The words I’m, I’ll and doesn’t are called contractions.  In this article, you'll learn all about contractions",
+          "link": "https://www.freecodecamp.org/news/what-is-a-contraction-grammar-and-definition/",
+          "publishedOn": "2021-09-20T13:59:58.000Z",
+          "wordCount": 1817,
+          "title": "What is a Contraction? Grammar and Definition"
+        },
         {
           "id": "613f3cc7852f4307d372c7e4",
           "author": null,
@@ -518,69 +595,6 @@
           "publishedOn": "2021-09-16T17:50:22.000Z",
           "wordCount": 1613,
           "title": "REST API Best Practices – REST Endpoint Design Examples"
-        },
-        {
-          "id": "613d280a852f4307d372bdd7",
-          "author": null,
-          "description": "I've lately been noticing a pattern in React applications: developers protect certain routes on a web app from unauthorized users. In such cases, the navigation item (nav-item) on the navigation bar/Header of the web won't be visible to an unauthorized user. In this short guide, we're going to take",
-          "link": "https://www.freecodecamp.org/news/dynamic-navigation-in-nextjs/",
-          "publishedOn": "2021-09-16T17:32:33.000Z",
-          "wordCount": 1406,
-          "title": "Dynamic Navigation in Next.js – How to Render Nav-Items Dynamically in a Next App"
-        },
-        {
-          "id": "613f4ba7852f4307d372c7ed",
-          "author": null,
-          "description": "Modern web applications usually perform more than one function. They often have more than one section, offer more than one service, and have a couple of clients. But the more functionality the app has, the clumsier your route paths will get.  What if there was a way to separate all",
-          "link": "https://www.freecodecamp.org/news/laravel-subdomians/",
-          "publishedOn": "2021-09-16T17:19:06.000Z",
-          "wordCount": 1059,
-          "title": "Laravel Subdomains – How to Create and Manage Subdomains in Your Apps"
-        },
-        {
-          "id": "61434825852f4307d372eed6",
-          "author": null,
-          "description": "I'm excited to share freeCodeCamp's first official VS Code extension – a dark mode theme.  This theme uses freeCodeCamp.org's distinct color scheme, typography, and UI design sensibilities.  This night mode theme is minimalistic, easy on the eyes, and will help you reach a coding flow state.  Here's a preview of",
-          "link": "https://www.freecodecamp.org/news/vs-code-dark-mode-theme/",
-          "publishedOn": "2021-09-16T16:46:30.000Z",
-          "wordCount": 375,
-          "title": "VS Code Dark Theme – A freeCodeCamp Night Mode Style for Visual Studio Code"
-        },
-        {
-          "id": "613e7006852f4307d372c2ac",
-          "author": null,
-          "description": "You can now learn Relational Database concepts and SQL right inside your VSCode editor. This tutorial will walk you through how to install it using Docker.  During this full-length 300-hour course, you will learn to build more than a dozen projects. Some of them will involve step-by-step instructions, and others",
-          "link": "https://www.freecodecamp.org/news/how-to-run-freecodecamps-relational-databases-curriculum-using-docker-vscode-and-coderoad/",
-          "publishedOn": "2021-09-16T16:17:32.000Z",
-          "wordCount": 935,
-          "title": "Relational Database Course – How to Learn SQL in VSCode Using Docker and freeCodeCamp"
-        },
-        {
-          "id": "61436000852f4307d372f0d1",
-          "author": null,
-          "description": "Gatsby is a website generator. It is a free and open source framework based on React that helps developers build fast websites and apps. We just published a 9-hour Gatsby course on the freeCodeCamp.org YouTube channel that will teach you how to use the newest version of the framework.",
-          "link": "https://www.freecodecamp.org/news/learn-gatsby-version-3/",
-          "publishedOn": "2021-09-16T15:34:47.000Z",
-          "wordCount": 428,
-          "title": "Learn Gatsby, a Static Site Generator"
-        },
-        {
-          "id": "6142ac88852f4307d372eb23",
-          "author": null,
-          "description": "Data science models are all around you. They could impact your admission to a school, whether you get hired (or fired), your work schedule, whom you date, whether you get a loan, what ads are shown to you, what social media posts you see, and so on. I have created",
-          "link": "https://www.freecodecamp.org/news/the-ethics-of-data-science/",
-          "publishedOn": "2021-09-16T15:17:13.000Z",
-          "wordCount": 1371,
-          "title": "Data Science Ethics – What Could Go Wrong and How to Avoid It"
-        },
-        {
-          "id": "614207df852f4307d372e3c4",
-          "author": null,
-          "description": "Notepad is a built-in text editor that comes pre-installed on Windows machines of all versions – XP, Windows 7, Windows 8, Windows 10, and so on.  It is the default Windows text editor. You can think of Notepad as your VS Code or favorite text editor with fewer capabilities.  Coding with",
-          "link": "https://www.freecodecamp.org/news/html-file-text-editor-how-to-open-web-page-code-in-windows-notepad/",
-          "publishedOn": "2021-09-16T15:08:00.000Z",
-          "wordCount": 1407,
-          "title": "HTML File Text Editor – How to Open Web Page Code in Windows Notepad"
         }
       ]
     }
