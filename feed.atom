@@ -1,10 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-21T00:42:52.087Z</id>
+    <id>urn:2021-09-22T00:41:04.306Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T00:42:52.087Z</updated>
+    <updated>2021-09-22T00:41:04.306Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Proposal for CSS @when]]></title>
+        <id>https://css-tricks.com/?p=352328</id>
+        <link href="https://css-tricks.com/proposal-for-css-when/"/>
+        <updated>2021-09-21T22:54:51.000Z</updated>
+        <summary type="html"><![CDATA[CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. 
+🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS 
+…
+The post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCP Linux Command – How to SSH File Transfer from Remote to Local]]></title>
+        <id>6114c92f72231b077cdae3fa</id>
+        <link href="https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/"/>
+        <updated>2021-09-21T21:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you're working with computers or any electronic device that has storage capacity, you might need to distribute or share information and files in various ways.  These might be sound files, images, notes, or any number of text configuration files.  And the information you share will often be private or]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cascade Layers?]]></title>
+        <id>https://css-tricks.com/?p=352140</id>
+        <link href="https://css-tricks.com/cascade-layers/"/>
+        <updated>2021-09-21T19:23:05.000Z</updated>
+        <summary type="html"><![CDATA[There is a new thing coming in CSS: @layer. As with all new things, it takes time to really wrap your head around it. And despite me tapping at my keyboard about it, full disclosure, I’m not sure my …
+The post Cascade Layers? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Feedback Form using the Google Sheets API]]></title>
+        <id>611b66d9e884de0752180165</id>
+        <link href="https://www.freecodecamp.org/news/create-a-feedback-form-using-nextjs-and-google-sheets-api/"/>
+        <updated>2021-09-21T17:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets provide a simple way to create online forms and gather data from users. In this tutorial we will use Google Sheets and Next.js to build a simple form. We'll use Next.js as our front end, and we'll use Google Sheets as the back end to send]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Better Developer – Tips to Grow Your Coding Skills]]></title>
+        <id>61474c2a852f4307d37305e1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-developer/"/>
+        <updated>2021-09-21T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you probably want to improve your skills constantly. Be the best developer you can possibly be. But how you can actually improve is a tricky question to answer.  The Software industry is obsessed with the idea of 10x engineers. These are engineers who are supposedly 10 times]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Things Using Python]]></title>
+        <id>6149f6de9456b407b870fe26</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-things-using-python/"/>
+        <updated>2021-09-21T15:18:57.000Z</updated>
+        <summary type="html"><![CDATA[If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you more time for other things. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to automate]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS]]></title>
+        <id>https://css-tricks.com/?p=351992</id>
+        <link href="https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/"/>
+        <updated>2021-09-21T14:40:55.000Z</updated>
+        <summary type="html"><![CDATA[CSS ::before and ::after pseudo-elements allow you to insert “content” before and after any non-replaced element (e.g. they work on a <div> but not an <input>). This effectively allows you to show something on a web page that might …
+The post 7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Habdul Hazeez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Event Apart Full Summit! (Use Coupon AEACSST21)]]></title>
+        <id>https://css-tricks.com/?p=352174</id>
+        <link href="https://aneventapart.com/event/fall-summit-2021?utm_campaign=AEAFS21&amp;utm_medium=email&amp;utm_source=csstricks"/>
+        <updated>2021-09-21T14:37:54.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The web’s premier conference is online this fall, October 11–13, 2021: An Event Apart Full Summit. If you already know how good of a conference this is (i.e. that some of the web’s biggest …
+The post An Event Apart Full Summit! (Use Coupon AEACSST21) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Your Own Mouseless Development Environment]]></title>
+        <id>https://smashingmagazine.com/2021/09/mouseless-development-environment/</id>
+        <link href="https://smashingmagazine.com/2021/09/mouseless-development-environment/"/>
+        <updated>2021-09-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matthieu Cneude)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Web Development Tools Are Helping Users Keep Pace With Rapid Change]]></title>
+        <id>https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/</id>
+        <link href="https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/"/>
+        <updated>2021-09-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The last 18 months have been a time of unprecedented turbulence. As the people of the world have flooded online, businesses have joined them, using web development tools to adapt in real-time.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resources aren’t requested by CSS, but by the DOM]]></title>
         <id>https://css-tricks.com/?p=352089</id>
@@ -113,16 +220,6 @@ The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Contraction? Grammar and Definition]]></title>
-        <id>614382b2852f4307d372f2d6</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-contraction-grammar-and-definition/"/>
-        <updated>2021-09-20T13:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Take  a look at the following sentences:  I’m learning how to  code.  I'll get a software developer job.  Learning how to code doesn’t have to cost you money.  The words I’m, I’ll and doesn’t are called contractions.  In this article, you'll learn all about contractions]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are Imposter Domains Re-Publishing Your Website?]]></title>
         <id>https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/</id>
         <link href="https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/"/>
@@ -141,16 +238,6 @@ The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Trick
 The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
-        <id>613f3cc7852f4307d372c7e4</id>
-        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
-        <updated>2021-09-17T18:22:47.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -175,16 +262,6 @@ The post Computer Science Unleashed, Chapter 1: Connections appeared first on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
-        <id>613f6bc9852f4307d372ca83</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-freelancing/"/>
-        <updated>2021-09-16T22:25:55.000Z</updated>
-        <summary type="html"><![CDATA[Freelancing can be an incredibly rewarding way to make money online. But it can also be quite difficult if you don't approach it in the right way.  It takes more than a stable internet connection to make a living as a freelancer. In order to make the big bucks, you’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shadow Roots and Inheritance]]></title>
         <id>https://css-tricks.com/?p=351915</id>
         <link href="https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/"/>
@@ -193,16 +270,6 @@ The post Computer Science Unleashed, Chapter 1: Connections appeared first on CS
 The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST API Best Practices – REST Endpoint Design Examples]]></title>
-        <id>614353d8852f4307d372ef7e</id>
-        <link href="https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/"/>
-        <updated>2021-09-16T17:50:22.000Z</updated>
-        <summary type="html"><![CDATA[In Web Development, REST APIs play an important role in ensuring smooth communication between the client and the server.  You can think of the client as the front end and the server as the back end.  Communication between the client (frontend) and the server (backend) isn't usually super direct. So]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -282,17 +349,6 @@ The post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Intro to JavaScript Proxy]]></title>
-        <id>https://css-tricks.com/?p=351767</id>
-        <link href="https://css-tricks.com/an-intro-to-javascript-proxy/"/>
-        <updated>2021-09-15T14:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever been in a situation where you wish you could have some control over the values in an object or array? Maybe you wanted to prevent certain types of data or even validate the data before storing it …
-The post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Travis Almand</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reducing The Need For Pseudo-Elements]]></title>
         <id>https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/</id>
         <link href="https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/"/>
@@ -300,46 +356,6 @@ The post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can supp
         <summary type="html"><![CDATA[For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcel Moreau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the `dl`]]></title>
-        <id>https://css-tricks.com/?p=351518</id>
-        <link href="https://css-tricks.com/on-the-dl/"/>
-        <updated>2021-09-14T22:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Blogging about HTML elements¹? *chefs kiss*
-Here’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:
-You might have also seen lists of name–value pairs to describe lodging amenities, or to list 
-…
-The post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Form in PHP Using DOMDocument]]></title>
-        <id>https://css-tricks.com/?p=351454</id>
-        <link href="https://css-tricks.com/building-a-form-in-php-using-domdocument/"/>
-        <updated>2021-09-14T14:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.
-The post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jonathan Land</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack Conf 2021]]></title>
-        <id>https://css-tricks.com/?p=351970</id>
-        <link href="https://jamstackconf.com/"/>
-        <updated>2021-09-14T14:32:16.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-What? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.
-When? October 6–7, 2021
-Where? Virtual / online.
-How much? It’s free! There are workshops as well though, …
-The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -520,16 +536,6 @@ The post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tr
         <summary type="html"><![CDATA[In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Portia Burton)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP/3: Performance Improvements (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/</id>
-        <link href="https://smashingmagazine.com/2021/08/http3-performance-improvements-part2/"/>
-        <updated>2021-08-23T06:20:00.000Z</updated>
-        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the performance improvements of HTTP/3, congestion control, head-of-line-blocking, and 0-RTT connection set-up.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Robin Marx)</name>
         </author>
     </entry>
 </feed>
