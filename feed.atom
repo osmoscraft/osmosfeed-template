@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-22T00:41:04.306Z</id>
+    <id>urn:2021-09-23T00:43:38.416Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:41:04.306Z</updated>
+    <updated>2021-09-23T00:43:38.416Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Container Units Should Be Pretty Handy]]></title>
+        <id>https://css-tricks.com/?p=352210</id>
+        <link href="https://css-tricks.com/container-units-should-be-pretty-handy/"/>
+        <updated>2021-09-22T23:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …
+The post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter’s div Soup and Uglyfied CSS, Explained]]></title>
+        <id>https://css-tricks.com/?p=352388</id>
+        <link href="https://giuseppegurgone.com/twitter-html/"/>
+        <updated>2021-09-22T21:09:12.000Z</updated>
+        <summary type="html"><![CDATA[When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …
+The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Form Validation – Build a JS Project for Beginners ✨]]></title>
+        <id>612780233bccf807612a8955</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/"/>
+        <updated>2021-09-22T18:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Font Size – How to Change Text Size Using Inline CSS Style]]></title>
+        <id>614b18f59456b407b87105b2</id>
+        <link href="https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/"/>
+        <updated>2021-09-22T18:02:22.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Enumerate – Python Enum For Loop Index Example]]></title>
+        <id>612203ef3bccf807612a5752</id>
+        <link href="https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/"/>
+        <updated>2021-09-22T17:53:56.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
+        <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
+        <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
+        <updated>2021-09-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Logging in a Node.js Application With Pino-logger]]></title>
+        <id>https://css-tricks.com/?p=352074</id>
+        <link href="https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/"/>
+        <updated>2021-09-22T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …
+The post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarthak Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Interactive Data-Driven Web Apps With R Shiny]]></title>
+        <id>614b2a529456b407b8710629</id>
+        <link href="https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/"/>
+        <updated>2021-09-22T13:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proposal for CSS @when]]></title>
         <id>https://css-tricks.com/?p=352328</id>
@@ -146,26 +229,6 @@ The post Resources aren’t requested by CSS, but by the DOM appeared first on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to use react-icons to install Font Awesome in a React app]]></title>
-        <id>61330a1fd6679a07b7d41e3e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-icons/"/>
-        <updated>2021-09-20T19:44:00.000Z</updated>
-        <summary type="html"><![CDATA[React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps. It delivers the icons to your app as components so they're easier to work with, and it lets you style them so they're consistent with the overall style of your app.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Boot Tutorial – How to Build Fast and Modern Java Apps]]></title>
-        <id>613a5047852f4307d372a9ea</id>
-        <link href="https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/"/>
-        <updated>2021-09-20T19:43:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article I am going to walk you through building a prototype with Spring Boot. Think of it like building a project for a hackathon or a prototype for your startup in limited time.  In other words, we are not trying to build something perfect – but rather something that]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embracing Asymmetrical Design]]></title>
         <id>https://css-tricks.com/?p=352274</id>
         <link href="https://www.bennadel.com/blog/4102-embracing-asymmetrical-design-and-overcoming-the-harmful-effects-of-text-overflow-ellipsis-in-css.htm"/>
@@ -189,16 +252,6 @@ The post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Django for Everybody - Learn the Popular Python Framework from Dr. Chuck]]></title>
-        <id>6148d0dc9456b407b870f5ba</id>
-        <link href="https://www.freecodecamp.org/news/django-for-everybody-learn-the-popular-python-framework-from-dr-chuck/"/>
-        <updated>2021-09-20T18:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Django is one of the most popular ways to create full-stack websites with Python. We just published an 18-hour Django course on the freeCodeCamp.org YouTube channel. Charles Severance (a.k.a. Dr. Chuck) created this course, along with the popular Python for Everybody course. He is a Clinical Professor]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exploring the CSS Paint API: Polygon Border]]></title>
         <id>https://css-tricks.com/?p=351917</id>
         <link href="https://css-tricks.com/exploring-the-css-paint-api-polygon-border/"/>
@@ -207,16 +260,6 @@ The post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being 
 The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ascending Order with SQL Order By]]></title>
-        <id>612cbfd8b5177808226d4a47</id>
-        <link href="https://www.freecodecamp.org/news/ascending-order-with-sql-order-by/"/>
-        <updated>2021-09-20T14:29:04.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show you a few code examples on how you can sort your data in ascending order using the ORDER BY clause in SQL.  ORDER BY syntaxThis is the basic syntax to sort your data in ascending order: SELECT columns FROM table ORDER BY column;If]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -284,18 +327,6 @@ The post Minding the “gap” appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy]]></title>
-        <id>https://css-tricks.com/?p=351586</id>
-        <link href="https://css-tricks.com/static-site-generators-vs-cms-powered-websites-how-to-keep-marketers-and-devs-happy/"/>
-        <updated>2021-09-16T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Many developers love working with static site generators like Gatsby and Hugo. These powerful yet flexible systems help create beautiful websites using familiar tools like Markdown and React. Nearly every popular modern programming …
-The post Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Philip Kiely</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Quality Assurance: From User Requirements To Web Risk Management]]></title>
         <id>https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/</id>
         <link href="https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/"/>
@@ -324,28 +355,6 @@ The post Static Site Generators vs. CMS-powered Websites: How to Keep Marketers 
 Thank you @ad-m]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Scroll Survey Report]]></title>
-        <id>https://css-tricks.com/?p=351987</id>
-        <link href="https://web.dev/2021-scroll-survey-report/"/>
-        <updated>2021-09-15T22:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a common thought and question: how do browsers prioritize what they work on? We get little glimpses of it sometimes. We’re told to “star issues” in bug trackers to signal interest. We’re told to get involved in GitHub threads …
-The post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kbar]]></title>
-        <id>https://css-tricks.com/?p=351868</id>
-        <link href="https://kbar.vercel.app/"/>
-        <updated>2021-09-15T18:51:36.000Z</updated>
-        <summary type="html"><![CDATA[It’s not every day that a new pattern emerges across the web, but I think cmd + k is here to stay.  It’s a keyboard shortcut that usually pops open a search UI and it lets you toggle settings on …
-The post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
