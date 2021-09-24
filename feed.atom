@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-23T00:43:38.416Z</id>
+    <id>urn:2021-09-24T00:40:40.574Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-23T00:43:38.416Z</updated>
+    <updated>2021-09-24T00:40:40.574Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Convert HEIC to JPG on Windows – HEIC File Format on PC]]></title>
+        <id>614c72939456b407b8710f0a</id>
+        <link href="https://www.freecodecamp.org/news/convert-heic-to-jpg-on-windows-heic-file-format-on-pc/"/>
+        <updated>2021-09-23T21:29:17.000Z</updated>
+        <summary type="html"><![CDATA[The HEIC photo format is Apple’s proprietary version of the HEIF (High-Efficiency Image File) file format.  It’s a better way to save photos than JPG and JPEG, because with it, you can save up to 50% disk space on your device without losing quality.  Because HEIC is owned]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Try and Except Statements – How to Handle Exceptions in Python]]></title>
+        <id>61386e5b581b610782a9206b</id>
+        <link href="https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/"/>
+        <updated>2021-09-23T21:00:47.000Z</updated>
+        <summary type="html"><![CDATA[When coding in Python, you can often anticipate runtime errors even in a syntactically and logically correct program. These errors can be caused by invalid inputs or some predictable inconsistencies.  In Python, you can use the try and the except blocks to handle most of these errors as exceptions all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Your Page Title on a Google Search Engine Results Page?]]></title>
+        <id>https://css-tricks.com/?p=352279</id>
+        <link href="https://css-tricks.com/what-is-your-page-title-on-a-google-search-engine-results-page/"/>
+        <updated>2021-09-23T18:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …
+The post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Delete a Row in SQL – Example Query]]></title>
+        <id>612cbfcab5177808226d4a41</id>
+        <link href="https://www.freecodecamp.org/news/how-to-delete-a-row-in-sql-example-query/"/>
+        <updated>2021-09-23T17:56:36.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, you can delete a row in a table by using the DELETE query and the WHERE clause.  In the article, I will walk you through how to use the DELETE query and WHERE clause to delete rows. I will also show you how to delete multiple rows from]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Python, SpaCy, and Streamlit to Build a Structured Financial Newsfeed]]></title>
+        <id>61495c979456b407b870f9f7</id>
+        <link href="https://www.freecodecamp.org/news/use-python-spacy-streamlit-to-build-structured-financial-newsfeed/"/>
+        <updated>2021-09-23T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[One of the very interesting and widely used applications of Natural Language Processing is Named Entity Recognition (NER). Getting insights from raw and unstructured data is of vital importance. Uploading a document and getting the important bits of information from it is called information retrieval. Information retrieval has always been]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[700 Free Online Programming &amp; Computer Science Courses You Can Start This School Year]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-09-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 700 such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With GraphQL Caching]]></title>
+        <id>https://css-tricks.com/?p=352381</id>
+        <link href="https://css-tricks.com/working-with-graphql-caching/"/>
+        <updated>2021-09-23T14:32:01.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve recently started working with GraphQL, or reviewed its pros and cons, you’ve no doubt heard things like “GraphQL doesn’t support caching” or “GraphQL doesn’t care about caching.” And for most, that is a big deal.
+The official …
+The post Working With GraphQL Caching appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jamie Barton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Build True Edge Apps With Cloudflare Workers and Fauna]]></title>
+        <id>https://css-tricks.com/?p=352487</id>
+        <link href="https://css-tricks.com/learn-how-to-build-true-edge-apps-with-cloudflare-workers-and-fauna/"/>
+        <updated>2021-09-23T14:31:12.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+There is a lot of buzz around apps running on the edge instead of on a centralized server in web development. Running your app on the edge allows your code to be closer to …
+The post Learn How to Build True Edge Apps With Cloudflare Workers and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jacob Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
+        <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
+        <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
+        <updated>2021-09-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Container Units Should Be Pretty Handy]]></title>
         <id>https://css-tricks.com/?p=352210</id>
@@ -123,36 +218,6 @@ The post Cascade Layers? appeared first on CSS-Tricks. You can support CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Feedback Form using the Google Sheets API]]></title>
-        <id>611b66d9e884de0752180165</id>
-        <link href="https://www.freecodecamp.org/news/create-a-feedback-form-using-nextjs-and-google-sheets-api/"/>
-        <updated>2021-09-21T17:44:05.000Z</updated>
-        <summary type="html"><![CDATA[Google Sheets provide a simple way to create online forms and gather data from users. In this tutorial we will use Google Sheets and Next.js to build a simple form. We'll use Next.js as our front end, and we'll use Google Sheets as the back end to send]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Better Developer – Tips to Grow Your Coding Skills]]></title>
-        <id>61474c2a852f4307d37305e1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-developer/"/>
-        <updated>2021-09-21T15:52:00.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you probably want to improve your skills constantly. Be the best developer you can possibly be. But how you can actually improve is a tricky question to answer.  The Software industry is obsessed with the idea of 10x engineers. These are engineers who are supposedly 10 times]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Things Using Python]]></title>
-        <id>6149f6de9456b407b870fe26</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-things-using-python/"/>
-        <updated>2021-09-21T15:18:57.000Z</updated>
-        <summary type="html"><![CDATA[If you use a computer a lot you've probably had to do some repetitive tasks. Python can be used to automate many boring tasks to give you more time for other things. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to automate]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS]]></title>
         <id>https://css-tricks.com/?p=351992</id>
         <link href="https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/"/>
@@ -164,13 +229,13 @@ The post 7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Event Apart Full Summit! (Use Coupon AEACSST21)]]></title>
+        <title type="html"><![CDATA[An Event Apart Fall Summit 2021! (Use Coupon AEACSST21)]]></title>
         <id>https://css-tricks.com/?p=352174</id>
         <link href="https://aneventapart.com/event/fall-summit-2021?utm_campaign=AEAFS21&amp;utm_medium=email&amp;utm_source=csstricks"/>
         <updated>2021-09-21T14:37:54.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
-The web’s premier conference is online this fall, October 11–13, 2021: An Event Apart Full Summit. If you already know how good of a conference this is (i.e. that some of the web’s biggest …
-The post An Event Apart Full Summit! (Use Coupon AEACSST21) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+The web’s premier conference is online this fall, October 11–13, 2021: An Event Apart Fall Summit. If you already know how good of a conference this is (i.e. that some of the web’s biggest …
+The post An Event Apart Fall Summit 2021! (Use Coupon AEACSST21) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -206,26 +271,6 @@ Simple yet significant thing all developers should keep in mind: CSS resources (
 The post Resources aren’t requested by CSS, but by the DOM appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up reCAPTCHA v3 in a Laravel Project]]></title>
-        <id>5fbf192a49c47664ed825d46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-recaptcha-v3-in-laravel/"/>
-        <updated>2021-09-20T22:26:01.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to set up reCAPTCHA v3 in your Laravel project. This can be a bit tricky, so I'll help you simplify the process here.  What is reCaptcha?reCaptcha is a Google service provided for free that helps you protect your websites from spam and malicious]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Tuple VS List – What is the Difference?]]></title>
-        <id>61483e50852f4307d3730d48</id>
-        <link href="https://www.freecodecamp.org/news/python-tuple-vs-list-what-is-the-difference/"/>
-        <updated>2021-09-20T21:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Tuples and lists are two of the four available built-in data types that you can use to store data in Python.  They are both useful and they might seem similar at first glance. But they have significant differences and each one is best used in different cases.  This article will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -284,17 +329,6 @@ The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You ca
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer Science Unleashed, Chapter 1: Connections]]></title>
-        <id>https://css-tricks.com/?p=350843</id>
-        <link href="https://css-tricks.com/computer-science-unleashed-chapter-1-connections/"/>
-        <updated>2021-09-17T15:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Humans crave connections, and the advent of the digital revolution has empowered us to be more connected than ever before. The Internet has unleashed upon billions of people unprecedented economic and political freedom, as well as powerful means of control and domination. Yet, the vast majority of us are oblivious to its inner workings.
-The post Computer Science Unleashed, Chapter 1: Connections appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Wladston Viana Ferreira Filho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
         <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
         <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
@@ -302,28 +336,6 @@ The post Computer Science Unleashed, Chapter 1: Connections appeared first on CS
         <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow Roots and Inheritance]]></title>
-        <id>https://css-tricks.com/?p=351915</id>
-        <link href="https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/"/>
-        <updated>2021-09-16T20:14:20.000Z</updated>
-        <summary type="html"><![CDATA[There is a helluva gotcha with styling a <details> element, as documented here by Kitty Guiraudel. It’s obscure enough that you might never run into it, but if you do, I could see it being very confusing (it would confuse …
-The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minding the “gap”]]></title>
-        <id>https://css-tricks.com/?p=351481</id>
-        <link href="https://css-tricks.com/minding-the-gap/"/>
-        <updated>2021-09-16T14:34:46.000Z</updated>
-        <summary type="html"><![CDATA[You might already know about the CSS gap property. It isn’t exactly new, but it did gain an important new ability last year: it now works in Flexbox in addition to CSS Grid. That, and the fact that I …
-The post Minding the “gap” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
         </author>
     </entry>
     <entry>
@@ -525,26 +537,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Berjon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
-        <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
-        <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
-        <updated>2021-08-25T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Automate Documentation Workflow For Developers]]></title>
-        <id>https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/</id>
-        <link href="https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/"/>
-        <updated>2021-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Portia Burton)</name>
         </author>
     </entry>
 </feed>
