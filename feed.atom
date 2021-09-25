@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-24T00:40:40.574Z</id>
+    <id>urn:2021-09-25T00:40:20.818Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-24T00:40:40.574Z</updated>
+    <updated>2021-09-25T00:40:20.818Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Systems for z-index]]></title>
+        <id>https://css-tricks.com/?p=352287</id>
+        <link href="https://css-tricks.com/systems-for-z-index/"/>
+        <updated>2021-09-24T21:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…
+The post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Self Provisioning Runtime]]></title>
+        <id>https://css-tricks.com/?p=352533</id>
+        <link href="https://www.swyx.io/self-provisioning-runtime/"/>
+        <updated>2021-09-24T18:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Big thoughts on where the industry is headed from Shawn Wang:
+Advancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and 
+…
+The post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Button Type – How to Add Buttons to your Website]]></title>
+        <id>614df185ccc97307eb2bc079</id>
+        <link href="https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/"/>
+        <updated>2021-09-24T18:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Insert a Text Box in Google Docs – Add Textbox Tutorial]]></title>
+        <id>614b428f9456b407b871068a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/"/>
+        <updated>2021-09-24T17:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVC Architecture – What is a Model View Controller Framework?]]></title>
+        <id>6106568e3306a507d1bfc0f6</id>
+        <link href="https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/"/>
+        <updated>2021-09-24T17:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Model–View–Controller is a popular software pattern used to break up the logic of your application into three different components.  In this article, I will break down the three components behind the MVC pattern, provide some history, and show you how it can be used in an application. History]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Methods for Appending and Inserting With JavaScript]]></title>
+        <id>https://css-tricks.com/?p=352342</id>
+        <link href="https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/"/>
+        <updated>2021-09-24T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.
+The difficult thing …
+The post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Eric Markfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Learning Partner: Frontend Masters]]></title>
+        <id>https://css-tricks.com/?p=351975</id>
+        <link href="https://css-tricks.com/our-learning-partner-frontend-masters-2/"/>
+        <updated>2021-09-24T14:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Frontend Masters has been our learning partner for a couple of years now. I love it. If you need structured learning to up your web development skills, Frontend Masters is the place. It works so well because we don’t offer …
+The post Our Learning Partner: Frontend Masters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuilding A Large E-Commerce Website With Next.js (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/"/>
+        <updated>2021-09-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jonne Kats)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Online Workshop: Frustrating Design Patterns And How To Fix Them]]></title>
+        <id>https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/</id>
+        <link href="https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/"/>
+        <updated>2021-09-24T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convert HEIC to JPG on Windows – HEIC File Format on PC]]></title>
         <id>614c72939456b407b8710f0a</id>
@@ -143,16 +240,6 @@ The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Enumerate – Python Enum For Loop Index Example]]></title>
-        <id>612203ef3bccf807612a5752</id>
-        <link href="https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/"/>
-        <updated>2021-09-22T17:53:56.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
         <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
         <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
@@ -174,16 +261,6 @@ The post How to Implement Logging in a Node.js Application With Pino-logger appe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Interactive Data-Driven Web Apps With R Shiny]]></title>
-        <id>614b2a529456b407b8710629</id>
-        <link href="https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/"/>
-        <updated>2021-09-22T13:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Proposal for CSS @when]]></title>
         <id>https://css-tricks.com/?p=352328</id>
         <link href="https://css-tricks.com/proposal-for-css-when/"/>
@@ -194,16 +271,6 @@ The post How to Implement Logging in a Node.js Application With Pino-logger appe
 The post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCP Linux Command – How to SSH File Transfer from Remote to Local]]></title>
-        <id>6114c92f72231b077cdae3fa</id>
-        <link href="https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/"/>
-        <updated>2021-09-21T21:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Whenever you're working with computers or any electronic device that has storage capacity, you might need to distribute or share information and files in various ways.  These might be sound files, images, notes, or any number of text configuration files.  And the information you share will often be private or]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -274,40 +341,6 @@ The post Resources aren’t requested by CSS, but by the DOM appeared first on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embracing Asymmetrical Design]]></title>
-        <id>https://css-tricks.com/?p=352274</id>
-        <link href="https://www.bennadel.com/blog/4102-embracing-asymmetrical-design-and-overcoming-the-harmful-effects-of-text-overflow-ellipsis-in-css.htm"/>
-        <updated>2021-09-20T19:17:33.000Z</updated>
-        <summary type="html"><![CDATA[I’ll never forget one of Karen McGrane’s great lessons to the world: truncation is not a content strategy. The idea is that just clipping off text programmatically is a sledgehammer, and avoids the kind of real thinking and planning that …
-The post Embracing Asymmetrical Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[imba]]></title>
-        <id>https://css-tricks.com/?p=352283</id>
-        <link href="https://imba.io/"/>
-        <updated>2021-09-20T19:13:36.000Z</updated>
-        <summary type="html"><![CDATA[It’s not every day you see a new processor for building websites that reinvents the syntax for HTML and CSS and JavaScript. That’s what imba is doing.
-That’s an awful lot of vendor lock-in, but I guess if you get …
-The post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Polygon Border]]></title>
-        <id>https://css-tricks.com/?p=351917</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-polygon-border/"/>
-        <updated>2021-09-20T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Nowadays, creating complex shapes is an easy task using clip-path, but adding a border to the shapes is always a pain. There is no robust CSS solution and we always need to produce specific “hacky” code for each particular …
-The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Are Imposter Domains Re-Publishing Your Website?]]></title>
         <id>https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/</id>
         <link href="https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/"/>
@@ -315,17 +348,6 @@ The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Trick
         <summary type="html"><![CDATA[Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ken Harker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
-        <id>https://css-tricks.com/?p=352082</id>
-        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
-        <updated>2021-09-17T22:49:39.000Z</updated>
-        <summary type="html"><![CDATA[My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …
-The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
@@ -527,16 +549,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pushing Back Against Privacy Infringement On The Web]]></title>
-        <id>https://smashingmagazine.com/2021/08/against-privacy-infringement-web/</id>
-        <link href="https://smashingmagazine.com/2021/08/against-privacy-infringement-web/"/>
-        <updated>2021-08-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Robin Berjon)</name>
         </author>
     </entry>
 </feed>
