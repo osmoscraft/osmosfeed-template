@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-26T00:43:27.899Z</id>
+    <id>urn:2021-09-27T00:40:58.953Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:43:27.899Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-27T00:40:58.953Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systems for z-index]]></title>
         <id>https://css-tricks.com/?p=352287</id>
@@ -539,16 +553,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Components In React]]></title>
-        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
-        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
-        <updated>2021-08-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
         </author>
     </entry>
 </feed>
