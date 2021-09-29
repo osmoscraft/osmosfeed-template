@@ -1,16 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-28T00:42:44.497Z</id>
+    <id>urn:2021-09-29T00:40:45.148Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T00:42:44.497Z</updated>
+    <updated>2021-09-29T00:40:45.148Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
+        <id>614e7e50ccc97307eb2bc3e5</id>
+        <link href="https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/"/>
+        <updated>2021-09-28T21:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So many little design helper sites!]]></title>
+        <id>https://css-tricks.com/?p=352669</id>
+        <link href="https://css-tricks.com/__trashed/"/>
+        <updated>2021-09-28T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. 
+
+But then I …
+The post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML / CSS Tutorial - Build a Recipe Website]]></title>
+        <id>6153616d64aefe07d3fa049a</id>
+        <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
+        <updated>2021-09-28T18:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel teach you how to build a recipe website. John Smilga developed this course. He is one of the most]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Publish an HTML Website on Netlify or GitHub Pages]]></title>
+        <id>613c75b1852f4307d372b9ab</id>
+        <link href="https://www.freecodecamp.org/news/publish-your-website-netlify-github/"/>
+        <updated>2021-09-28T17:36:52.000Z</updated>
+        <summary type="html"><![CDATA[You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Sentry to Your Node.js Project with TypeScript]]></title>
+        <id>615233ec64aefe07d3f9fdb4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-sentry-to-your-node-js-project-with-typescript/"/>
+        <updated>2021-09-28T16:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Sentry.io is an external monitoring and logging service which can help you identify and triage errors in your code.  These logs provide information such as a trace stack, breadcrumbs, and (assuming this is a web application) browser data. This can help you triage issues and resolve bugs faster, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semantic HTML Guide – 10 Alternatives to Using divs]]></title>
+        <id>614e05eeccc97307eb2bc165</id>
+        <link href="https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/"/>
+        <updated>2021-09-28T16:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Raise your hand if your typical HTML layout looks like this: <body> 	<div class="header" id="site-header"> 		<div class="site-nav"> 			<ul> 				<li><a href="/">Home</a></li> 				<li><a href="/">]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS Browser Choice]]></title>
+        <id>https://css-tricks.com/?p=352681</id>
+        <link href="https://css-tricks.com/ios-browser-choice/"/>
+        <updated>2021-09-28T14:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Just last week I got one of those really?! 🤨 faces when this fact came up in conversation amongst smart and engaged fellow web developers: there is no browser choice on iOS. It’s all Safari. You can download apps that …
+The post iOS Browser Choice appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off)]]></title>
+        <id>https://css-tricks.com/?p=352073</id>
+        <link href="https://fitc.ca/event/webu21/"/>
+        <updated>2021-09-28T14:24:34.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Now in its tenth year (!!!), Web Unleashed is one of the top events for web devs. It’s coming up quick: October 20-22, 2021. 
+The lineup is amazing. You’ll hear from leaders in …
+The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Accessibility Of Your Markdown]]></title>
+        <id>https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/</id>
+        <link href="https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/"/>
+        <updated>2021-09-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories]]></title>
         <id>6149e65e9456b407b870fdc5</id>
         <link href="https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/"/>
         <updated>2021-09-28T00:05:11.000Z</updated>
         <summary type="html"><![CDATA[GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Emojis – Emoji List for Copy and Paste]]></title>
+        <id>613b2c1a852f4307d372b02f</id>
+        <link href="https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/"/>
+        <updated>2021-09-27T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -68,46 +175,6 @@ The post Collecting Email Signups With the Notion API appeared first on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lambda Function in Python – Example Syntax]]></title>
-        <id>614ad5b79456b407b871028d</id>
-        <link href="https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/"/>
-        <updated>2021-09-27T15:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Lambda functions are anonymous functions that can contain only one expression. You may think that lambda functions are an intermediate or advanced feature, but here you will learn how you can easily start using them in your code. In Python, functions are usually created like this: def my_func(a)]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Accessibility Tools – How to Build More Accessible React Apps]]></title>
-        <id>614c40119456b407b8710b0f</id>
-        <link href="https://www.freecodecamp.org/news/react-accessibility-tools-build-accessible-react-apps/"/>
-        <updated>2021-09-27T14:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Making a website or web app accessible improves the user experience for people with disabilities and for all users as well. Since developers deal with tight deadlines and competing priorities, it is easy to accidentally ship unresolved accessibility issues to production. And things becomes even more complex when working with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natural Language Processing with spaCy &amp; Python - Full Course]]></title>
-        <id>6151be27ccc97307eb2bcfa2</id>
-        <link href="https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/"/>
-        <updated>2021-09-27T14:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Natural language processing, or NLP, is a branch of linguistics that seeks to parse human language in a computer system. spaCy is a popular Python library used for NLP. We just published a NLP and spaCy course on the freeCodeCamp.org YouTube channel. In the course you will learn all]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Object Storage for Data Parallelization and Experimentation]]></title>
-        <id>614bc3bd9456b407b87108b3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-object-storage-for-parallelization-and-experimentation/"/>
-        <updated>2021-09-27T14:09:57.000Z</updated>
-        <summary type="html"><![CDATA[By using big data, companies can learn a lot about how their businesses are performing. Analytics on sales, churn rates, and other basic metrics are available in almost real time as data comes in.  Then there are more complex analyses that you'll need to do. At times relationships between two]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let’s Dive Into Cypress For End-to-End Testing]]></title>
         <id>https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/</id>
         <link href="https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/"/>
@@ -153,26 +220,6 @@ Advancements in two fields — programming languages and cloud infrastructure �
 The post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Button Type – How to Add Buttons to your Website]]></title>
-        <id>614df185ccc97307eb2bc079</id>
-        <link href="https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/"/>
-        <updated>2021-09-24T18:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Insert a Text Box in Google Docs – Add Textbox Tutorial]]></title>
-        <id>614b428f9456b407b871068a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/"/>
-        <updated>2021-09-24T17:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -304,41 +351,6 @@ The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-
 The post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Sarthak Duggal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposal for CSS @when]]></title>
-        <id>https://css-tricks.com/?p=352328</id>
-        <link href="https://css-tricks.com/proposal-for-css-when/"/>
-        <updated>2021-09-21T22:54:51.000Z</updated>
-        <summary type="html"><![CDATA[CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. 
-🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS 
-…
-The post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cascade Layers?]]></title>
-        <id>https://css-tricks.com/?p=352140</id>
-        <link href="https://css-tricks.com/cascade-layers/"/>
-        <updated>2021-09-21T19:23:05.000Z</updated>
-        <summary type="html"><![CDATA[There is a new thing coming in CSS: @layer. As with all new things, it takes time to really wrap your head around it. And despite me tapping at my keyboard about it, full disclosure, I’m not sure my …
-The post Cascade Layers? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS]]></title>
-        <id>https://css-tricks.com/?p=351992</id>
-        <link href="https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/"/>
-        <updated>2021-09-21T14:40:55.000Z</updated>
-        <summary type="html"><![CDATA[CSS ::before and ::after pseudo-elements allow you to insert “content” before and after any non-replaced element (e.g. they work on a <div> but not an <input>). This effectively allows you to show something on a web page that might …
-The post 7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Habdul Hazeez</name>
         </author>
     </entry>
     <entry>
@@ -550,16 +562,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Optimizing Size And Performance (Part 3)]]></title>
-        <id>https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/</id>
-        <link href="https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/"/>
-        <updated>2021-08-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
