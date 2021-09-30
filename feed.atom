@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-29T00:40:45.148Z</id>
+    <id>urn:2021-09-30T00:47:08.483Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-29T00:40:45.148Z</updated>
+    <updated>2021-09-30T00:47:08.483Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SQL Count – How to Select, Sum, and Average Rows in SQL]]></title>
+        <id>612cbfe4b5177808226d4a4b</id>
+        <link href="https://www.freecodecamp.org/news/sql-count-how-to-select-sum-and-average-rows-in-sql/"/>
+        <updated>2021-09-29T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, there are two built-in functions to sum or average the data in your table.  In this article I will show you how to use the SUM and AVG functions in SQL using code examples.  How to use the SUM function in SQLIf you need to add a group]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Accordion Menu Using HTML, CSS and JavaScript]]></title>
+        <id>615440ac64aefe07d3fa0855</id>
+        <link href="https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/"/>
+        <updated>2021-09-29T19:45:33.000Z</updated>
+        <summary type="html"><![CDATA[You can use HTML, CSS and JavaScript to create stylish and dynamic web elements. And one useful element you can build is an accordion menu. Accordion menus expand and collapse when a user clicks a button. It's a great way to not have to show all the info about a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Comment – How to Comment Out a Line or Tag in HTML]]></title>
+        <id>6154412664aefe07d3fa085b</id>
+        <link href="https://www.freecodecamp.org/news/html-comment-how-to-comment-out-a-line-or-tag-in-html/"/>
+        <updated>2021-09-29T17:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to add single and multi-line comments to your HTML documents.  You'll also see why comments are considered a good practice when writing HTML code.  Let's get started!  The HTML Comment Tag The general syntax for an HTML comment looks like this:  <!-- I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Streams Everywhere (and Fetch for Node.js)]]></title>
+        <id>https://css-tricks.com/?p=352723</id>
+        <link href="https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/"/>
+        <updated>2021-09-29T14:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …
+The post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Dev Shortcuts in iOS 15]]></title>
+        <id>https://css-tricks.com/?p=352627</id>
+        <link href="https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/"/>
+        <updated>2021-09-29T14:51:22.000Z</updated>
+        <summary type="html"><![CDATA[I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …
+The post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
+        <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
+        <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
+        <updated>2021-09-29T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
         <id>614e7e50ccc97307eb2bc3e5</id>
@@ -18,7 +80,7 @@
     <entry>
         <title type="html"><![CDATA[So many little design helper sites!]]></title>
         <id>https://css-tricks.com/?p=352669</id>
-        <link href="https://css-tricks.com/__trashed/"/>
+        <link href="https://css-tricks.com/so-many-little-design-helper-sites/"/>
         <updated>2021-09-28T21:00:04.000Z</updated>
         <summary type="html"><![CDATA[I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. 
 
@@ -123,16 +185,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Closed Principle – The Software Development Concept Explained in Plain English]]></title>
-        <id>6148802f9456b407b870f041</id>
-        <link href="https://www.freecodecamp.org/news/open-closed-principle/"/>
-        <updated>2021-09-27T19:43:06.000Z</updated>
-        <summary type="html"><![CDATA[There are many articles about the Open-Closed Principle, but I can never find one that explains it in a way that really works for me.  So here, hopefully, is a good one – with a non trivial and real life example, what changes to support, and a description of the trade]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tonic (Component Framework)]]></title>
         <id>https://css-tricks.com/?p=352621</id>
         <link href="https://css-tricks.com/tonic-component-framework/"/>
@@ -141,26 +193,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
 The post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Share Your Knowledge as a Developer]]></title>
-        <id>61508279ccc97307eb2bca3f</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-share-your-knowledge-as-a-developer/"/>
-        <updated>2021-09-27T17:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Sharing your knowledge can help you improve your skills and level up your career as a developer. Many developers are already doing it, and if you aren't, this article is for you. In it, I will show you why you should share your coding expertise by looking at five extraordinary]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the DOM? Document Object Model Meaning in JavaScript]]></title>
-        <id>613f3cd3852f4307d372c7e8</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/"/>
-        <updated>2021-09-27T16:23:19.000Z</updated>
-        <summary type="html"><![CDATA[If you have just started learning JavaScript, you might have heard of the DOM. But what is it exactly? In this article, I will explain what the DOM is and provide some JavaScript code examples.  We will take a look at how to select elements from an HTML document, how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -322,17 +354,6 @@ The post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. Yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter’s div Soup and Uglyfied CSS, Explained]]></title>
-        <id>https://css-tricks.com/?p=352388</id>
-        <link href="https://giuseppegurgone.com/twitter-html/"/>
-        <updated>2021-09-22T21:09:12.000Z</updated>
-        <summary type="html"><![CDATA[When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …
-The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
         <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
         <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
@@ -340,17 +361,6 @@ The post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-
         <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Logging in a Node.js Application With Pino-logger]]></title>
-        <id>https://css-tricks.com/?p=352074</id>
-        <link href="https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/"/>
-        <updated>2021-09-22T14:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …
-The post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarthak Duggal</name>
         </author>
     </entry>
     <entry>
@@ -552,16 +562,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stories Of September (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/</id>
-        <link href="https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/"/>
-        <updated>2021-08-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
