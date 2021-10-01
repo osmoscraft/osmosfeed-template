@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-30T00:47:08.483Z</id>
+    <id>urn:2021-10-01T00:45:08.865Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-30T00:47:08.483Z</updated>
+    <updated>2021-10-01T00:45:08.865Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Accessibility Best Practices for Mobile App Development]]></title>
+        <id>611b08a4e884de075217ff23</id>
+        <link href="https://www.freecodecamp.org/news/mobile-accessibility/"/>
+        <updated>2021-09-30T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The United States Census Bureau estimates that more than 12% of the United States' population is living with a disability. Disabilities can include vision difficulties, hearing difficulties, mobility challenges, and much more.  And a person can become disabled at any stage of their life.  Since a significant portion of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Bullet Points – How to Create an Unordered List with the &lt;ul&gt; Tag Example]]></title>
+        <id>6155b8f964aefe07d3fa1234</id>
+        <link href="https://www.freecodecamp.org/news/html-bullet-points-how-to-create-an-unordered-list-with-the-ul-tag-example/"/>
+        <updated>2021-09-30T17:31:40.000Z</updated>
+        <summary type="html"><![CDATA[We use lists all the time in our everyday lives.  We create them to structure and organize our days, and we use them to make to-do lists. We use them in recipes so we don't miss any of the steps. And we use them when we want to assemble a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Distinct Statement – How to Query, Select, and Count]]></title>
+        <id>613f3c6d852f4307d372c7ca</id>
+        <link href="https://www.freecodecamp.org/news/sql-distinct-statement-how-to-query-select-and-count/"/>
+        <updated>2021-09-30T16:24:19.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, you can make a database query and use the COUNT function to get the number of rows for a particular group in the table.  In this article, I will show you how to use the COUNT function with a few code examples.  What is the COUNT function in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git for Professionals – Free Version Control Course]]></title>
+        <id>6155d5c364aefe07d3fa1467</id>
+        <link href="https://www.freecodecamp.org/news/git-for-professionals/"/>
+        <updated>2021-09-30T15:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Almost every software developer uses git. Many use it continually throughout the day. While you may already know the very basics of git, your productivity will be increased if you learn some advanced git concepts. We just released a git course on the freeCodeCamp.org YouTube channel that will help]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating the Perfect Commit in Git]]></title>
+        <id>https://css-tricks.com/?p=352475</id>
+        <link href="https://css-tricks.com/creating-the-perfect-commit-in-git/"/>
+        <updated>2021-09-30T14:29:36.000Z</updated>
+        <summary type="html"><![CDATA[A commit can be something that helps us stay on top of things. It can be a container for related changes that belong to one and only one topic, and thereby make it easier for us to understand what happened.
+In this post, we’re talking about what it takes to produce the "perfect" commit.
+The post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing HTML Preprocessor Features]]></title>
+        <id>https://css-tricks.com/?p=350620</id>
+        <link href="https://css-tricks.com/comparing-html-preprocessor-features/"/>
+        <updated>2021-09-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Of the languages that browsers speak, I’d wager that the very first one that developers decided needed some additional processing was HTML. Every single CMS in the world (aside from intentionally headless-only CMSs) …
+The post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Time Of Transition (October 2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/</id>
+        <link href="https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/"/>
+        <updated>2021-09-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Count – How to Select, Sum, and Average Rows in SQL]]></title>
         <id>612cbfe4b5177808226d4a4b</id>
@@ -95,7 +169,7 @@ The post So many little design helper sites! appeared first on CSS-Tricks. You c
         <id>6153616d64aefe07d3fa049a</id>
         <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
         <updated>2021-09-28T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel teach you how to build a recipe website. John Smilga developed this course. He is one of the most]]></summary>
+        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel that will teach you how to build a recipe website. John Smilga developed this course. He is one of]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -106,26 +180,6 @@ The post So many little design helper sites! appeared first on CSS-Tricks. You c
         <link href="https://www.freecodecamp.org/news/publish-your-website-netlify-github/"/>
         <updated>2021-09-28T17:36:52.000Z</updated>
         <summary type="html"><![CDATA[You have finished creating your HTML website and you're feeling proud of your hard work. But there is one thing that is still missing: you have no idea how to publish your website. In this tutorial, you will learn how to publish an HTML website using two popular platforms – Netlify]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Sentry to Your Node.js Project with TypeScript]]></title>
-        <id>615233ec64aefe07d3f9fdb4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-sentry-to-your-node-js-project-with-typescript/"/>
-        <updated>2021-09-28T16:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Sentry.io is an external monitoring and logging service which can help you identify and triage errors in your code.  These logs provide information such as a trace stack, breadcrumbs, and (assuming this is a web application) browser data. This can help you triage issues and resolve bugs faster, with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semantic HTML Guide – 10 Alternatives to Using divs]]></title>
-        <id>614e05eeccc97307eb2bc165</id>
-        <link href="https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/"/>
-        <updated>2021-09-28T16:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Raise your hand if your typical HTML layout looks like this: <body> 	<div class="header" id="site-header"> 		<div class="site-nav"> 			<ul> 				<li><a href="/">Home</a></li> 				<li><a href="/">]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -162,26 +216,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
         <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Repo Guide – How to Increase Engagement on your Public GitHub Repositories]]></title>
-        <id>6149e65e9456b407b870fdc5</id>
-        <link href="https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/"/>
-        <updated>2021-09-28T00:05:11.000Z</updated>
-        <summary type="html"><![CDATA[GitHub is a collection of web-based tools that helps you work with version control and Git methodologies.  With the help of GitHub, you can create, manage, and collaborate on projects with multiple other team members. You keep the project folders and files in a store (file system) on GitHub. This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Emojis – Emoji List for Copy and Paste]]></title>
-        <id>613b2c1a852f4307d372b02f</id>
-        <link href="https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/"/>
-        <updated>2021-09-27T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Emoji help you express feelings and emotions beyond texts. They also bring liveliness into conversations in a fun and concise way.  But sometimes it's hard to find the right emoji to use, so I decided to prepare a giant table of them that you can simply copy and paste into]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -321,18 +355,6 @@ The post Working With GraphQL Caching appeared first on CSS-Tricks. You can supp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn How to Build True Edge Apps With Cloudflare Workers and Fauna]]></title>
-        <id>https://css-tricks.com/?p=352487</id>
-        <link href="https://css-tricks.com/learn-how-to-build-true-edge-apps-with-cloudflare-workers-and-fauna/"/>
-        <updated>2021-09-23T14:31:12.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-There is a lot of buzz around apps running on the edge instead of on a centralized server in web development. Running your app on the edge allows your code to be closer to …
-The post Learn How to Build True Edge Apps With Cloudflare Workers and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jacob Jackson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
         <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
         <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
@@ -340,17 +362,6 @@ The post Learn How to Build True Edge Apps With Cloudflare Workers and Fauna app
         <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container Units Should Be Pretty Handy]]></title>
-        <id>https://css-tricks.com/?p=352210</id>
-        <link href="https://css-tricks.com/container-units-should-be-pretty-handy/"/>
-        <updated>2021-09-22T23:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …
-The post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -542,26 +553,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[Interactive coding tools to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions and Jamstack.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive Into The Wonderful World Of SVG Displacement Filtering]]></title>
-        <id>https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/</id>
-        <link href="https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/"/>
-        <updated>2021-09-01T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dirk Weber)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Management In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/08/state-management-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/08/state-management-nextjs/"/>
-        <updated>2021-08-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
 </feed>
