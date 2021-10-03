@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-02T00:41:07.593Z</id>
+    <id>urn:2021-10-03T00:46:35.924Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-02T00:41:07.593Z</updated>
+    <updated>2021-10-03T00:46:35.924Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -544,16 +544,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robin Marx)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing Carbon Emissions On The Web]]></title>
-        <id>https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/</id>
-        <link href="https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/"/>
-        <updated>2021-09-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Berwyn Powell)</name>
         </author>
     </entry>
 </feed>
