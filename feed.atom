@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-03T00:46:35.924Z</id>
+    <id>urn:2021-10-04T00:47:14.652Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-03T00:46:35.924Z</updated>
+    <updated>2021-10-04T00:47:14.652Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]]]></title>
+        <id>5f9c98a3740569d1a4ca1b33</id>
+        <link href="https://www.freecodecamp.org/news/best-online-courses/"/>
+        <updated>2021-10-03T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on React and JavaScript II]]></title>
         <id>https://css-tricks.com/?p=352717</id>
@@ -217,16 +227,6 @@ But then I …
 The post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML / CSS Tutorial - Build a Recipe Website]]></title>
-        <id>6153616d64aefe07d3fa049a</id>
-        <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
-        <updated>2021-09-28T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel that will teach you how to build a recipe website. John Smilga developed this course. He is one of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
