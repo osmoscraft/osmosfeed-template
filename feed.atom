@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-04T00:47:14.652Z</id>
+    <id>urn:2021-10-05T00:42:08.076Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-04T00:47:14.652Z</updated>
+    <updated>2021-10-05T00:42:08.076Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues]]></title>
+        <id>5fff3ec998be260817e495ee</id>
+        <link href="https://www.freecodecamp.org/news/traceroute-and-ping/"/>
+        <updated>2021-10-04T23:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript]]></title>
+        <id>6154775964aefe07d3fa0b7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/"/>
+        <updated>2021-10-04T20:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickly Testing CSS Fallbacks]]></title>
+        <id>https://css-tricks.com/?p=353179</id>
+        <link href="https://css-tricks.com/quickly-testing-css-fallbacks/"/>
+        <updated>2021-10-04T19:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Dumb trick alert! 
+Not all browsers support all features. Say you want to write a fallback for browsers that doesn’t support CSS Grid. Not very common these days, but it’s just to illustrate a point.
+You could write the supporting …
+The post Quickly Testing CSS Fallbacks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the OSI Model? Computer Networking for Beginners]]></title>
+        <id>613b97f1852f4307d372b637</id>
+        <link href="https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/"/>
+        <updated>2021-10-04T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work "under the hood". That way you understand what your code and the tools you use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is UX Design? User Experience Design Explained in Plain English]]></title>
+        <id>61063c1d3306a507d1bfbfca</id>
+        <link href="https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/"/>
+        <updated>2021-10-04T16:21:30.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animation Techniques for Adding and Removing Items From a Stack]]></title>
+        <id>https://css-tricks.com/?p=352819</id>
+        <link href="https://css-tricks.com/animation-techniques-for-adding-and-removing-items-from-a-stack/"/>
+        <updated>2021-10-04T14:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Animating elements with CSS can either be quite easy or quite difficult depending on what you are trying to do. Changing the background color of a button when you hover over it? Easy. Animating the position and size of an …
+The post Animation Techniques for Adding and Removing Items From a Stack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Luke Courtney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShopTalk Goes Video]]></title>
+        <id>https://css-tricks.com/?p=352857</id>
+        <link href="https://css-tricks.com/shoptalk-goes-video/"/>
+        <updated>2021-10-04T14:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Dave and I slapped up a little videos section of the ShopTalk website. Twelve so far! They are short-ish, between 10-20 minutes, each focused on one fairly specific thing. We’re kinda just dipping our toes here — we don’t …
+The post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Expandable Accessible Gallery]]></title>
+        <id>https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/</id>
+        <link href="https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/"/>
+        <updated>2021-10-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]]]></title>
         <id>5f9c98a3740569d1a4ca1b33</id>
@@ -67,7 +152,7 @@ The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. 
         <updated>2021-10-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Miracle Onyemna)</name>
+            <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
         </author>
     </entry>
     <entry>
@@ -145,36 +230,6 @@ The post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL Count – How to Select, Sum, and Average Rows in SQL]]></title>
-        <id>612cbfe4b5177808226d4a4b</id>
-        <link href="https://www.freecodecamp.org/news/sql-count-how-to-select-sum-and-average-rows-in-sql/"/>
-        <updated>2021-09-29T20:04:04.000Z</updated>
-        <summary type="html"><![CDATA[In SQL, there are two built-in functions to sum or average the data in your table.  In this article I will show you how to use the SUM and AVG functions in SQL using code examples.  How to use the SUM function in SQLIf you need to add a group]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Accordion Menu Using HTML, CSS and JavaScript]]></title>
-        <id>615440ac64aefe07d3fa0855</id>
-        <link href="https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/"/>
-        <updated>2021-09-29T19:45:33.000Z</updated>
-        <summary type="html"><![CDATA[You can use HTML, CSS and JavaScript to create stylish and dynamic web elements. And one useful element you can build is an accordion menu. Accordion menus expand and collapse when a user clicks a button. It's a great way to not have to show all the info about a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Comment – How to Comment Out a Line or Tag in HTML]]></title>
-        <id>6154412664aefe07d3fa085b</id>
-        <link href="https://www.freecodecamp.org/news/html-comment-how-to-comment-out-a-line-or-tag-in-html/"/>
-        <updated>2021-09-29T17:03:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to add single and multi-line comments to your HTML documents.  You'll also see why comments are considered a good practice when writing HTML code.  Let's get started!  The HTML Comment Tag The general syntax for an HTML comment looks like this:  <!-- I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Streams Everywhere (and Fetch for Node.js)]]></title>
         <id>https://css-tricks.com/?p=352723</id>
         <link href="https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/"/>
@@ -204,16 +259,6 @@ The post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
-        <id>614e7e50ccc97307eb2bc3e5</id>
-        <link href="https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/"/>
-        <updated>2021-09-28T21:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -307,42 +352,6 @@ Chore: Dependency updates
 Thank you: @CaptNo1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systems for z-index]]></title>
-        <id>https://css-tricks.com/?p=352287</id>
-        <link href="https://css-tricks.com/systems-for-z-index/"/>
-        <updated>2021-09-24T21:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…
-The post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Self Provisioning Runtime]]></title>
-        <id>https://css-tricks.com/?p=352533</id>
-        <link href="https://www.swyx.io/self-provisioning-runtime/"/>
-        <updated>2021-09-24T18:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Big thoughts on where the industry is headed from Shawn Wang:
-Advancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and 
-…
-The post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Methods for Appending and Inserting With JavaScript]]></title>
-        <id>https://css-tricks.com/?p=352342</id>
-        <link href="https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/"/>
-        <updated>2021-09-24T14:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.
-The difficult thing …
-The post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Eric Markfield</name>
         </author>
     </entry>
     <entry>
