@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-05T00:42:08.076Z</id>
+    <id>urn:2021-10-06T00:44:54.910Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-05T00:42:08.076Z</updated>
+    <updated>2021-10-06T00:44:54.910Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll Shadows With JavaScript]]></title>
+        <id>https://css-tricks.com/?p=352754</id>
+        <link href="https://css-tricks.com/scroll-shadows-with-javascript/"/>
+        <updated>2021-10-05T22:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Scroll shadows are when you can see a little inset shadow on elements if (and only if) you can scroll in that direction. It’s just good UX. You can actually pull it off in CSS, which I think is …
+The post Scroll Shadows With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditional Border Radius In CSS]]></title>
+        <id>https://css-tricks.com/?p=353261</id>
+        <link href="https://ishadeed.com/article/conditional-border-radius/"/>
+        <updated>2021-10-05T19:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed documents a bonafide CSS trick from the Facebook CSS codebase. The idea is that when an element is the full width of the viewport, it doesn’t have any border-radius. But otherwise, it has 8px of border-radius. …
+The post Conditional Border Radius In CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Callback Function –Explained in Plain English]]></title>
+        <id>61533caa64aefe07d3fa041a</id>
+        <link href="https://www.freecodecamp.org/news/javascript-callback-function-plain-english/"/>
+        <updated>2021-10-05T17:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Every JavaScript beginner will face this question at least once: "What is a callback function?"  Well, we can find the answer in the word callback itself. It's all about notifying the caller after the successful completion or failure of a task.  In this article, I'll focus less on the technical]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Tokenization – Byte Pair Encoding in NLP]]></title>
+        <id>6159b85c4aa03507d94123fb</id>
+        <link href="https://www.freecodecamp.org/news/evolution-of-tokenization/"/>
+        <updated>2021-10-05T15:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Natural Language Processing may have come a little late to the AI game, but companies like Google and OpenAI are working wonders with NLP techniques these days. These companies have released state-of-the-art language models like BERT and GPT-2 and GPT-3. And GitHub Copilot and OpenAI codex are among some of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branching Strategies in Git]]></title>
+        <id>https://css-tricks.com/?p=352508</id>
+        <link href="https://css-tricks.com/branching-strategies-in-git/"/>
+        <updated>2021-10-05T14:28:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article I'm going to talk about branching strategies and different types of Git branches. I’m also going to introduce you to two common branching workflows: Git Flow and GitHub Flow.
+The post Branching Strategies in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ct.css — Performance Hints via Injected Stylesheet Alone]]></title>
+        <id>https://css-tricks.com/?p=353225</id>
+        <link href="https://csswizardry.com/ct/"/>
+        <updated>2021-10-05T14:28:28.000Z</updated>
+        <summary type="html"><![CDATA[This is some bonafide CSS trickery from Harry that gives you some generic performance advice based on what it sees in your <head> element. 
+First, it’s possible to make a <style> block visible like any other element by changing the …
+The post ct.css — Performance Hints via Injected Stylesheet Alone appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 12+ Hour Course]]></title>
+        <id>615b198b4aa03507d9412b36</id>
+        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
+        <updated>2021-10-05T14:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification with this free 12-hour course. What is the HashiCorp Terraform Associate?HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple Cloud]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Testing A Serverless API (API Gateway And Lambda)]]></title>
+        <id>https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/</id>
+        <link href="https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/"/>
+        <updated>2021-10-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tom Hudson)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues]]></title>
         <id>5fff3ec998be260817e495ee</id>
@@ -166,36 +251,6 @@ The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Bullet Points – How to Create an Unordered List with the &lt;ul&gt; Tag Example]]></title>
-        <id>6155b8f964aefe07d3fa1234</id>
-        <link href="https://www.freecodecamp.org/news/html-bullet-points-how-to-create-an-unordered-list-with-the-ul-tag-example/"/>
-        <updated>2021-09-30T17:31:40.000Z</updated>
-        <summary type="html"><![CDATA[We use lists all the time in our everyday lives.  We create them to structure and organize our days, and we use them to make to-do lists. We use them in recipes so we don't miss any of the steps. And we use them when we want to assemble a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Distinct Statement – How to Query, Select, and Count]]></title>
-        <id>613f3c6d852f4307d372c7ca</id>
-        <link href="https://www.freecodecamp.org/news/sql-distinct-statement-how-to-query-select-and-count/"/>
-        <updated>2021-09-30T16:24:19.000Z</updated>
-        <summary type="html"><![CDATA[In SQL, you can make a database query and use the COUNT function to get the number of rows for a particular group in the table.  In this article, I will show you how to use the COUNT function with a few code examples.  What is the COUNT function in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git for Professionals – Free Version Control Course]]></title>
-        <id>6155d5c364aefe07d3fa1467</id>
-        <link href="https://www.freecodecamp.org/news/git-for-professionals/"/>
-        <updated>2021-09-30T15:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Almost every software developer uses git. Many use it continually throughout the day. While you may already know the very basics of git, your productivity will be increased if you learn some advanced git concepts. We just released a git course on the freeCodeCamp.org YouTube channel that will help]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating the Perfect Commit in Git]]></title>
         <id>https://css-tricks.com/?p=352475</id>
         <link href="https://css-tricks.com/creating-the-perfect-commit-in-git/"/>
@@ -275,30 +330,6 @@ The post So many little design helper sites! appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS Browser Choice]]></title>
-        <id>https://css-tricks.com/?p=352681</id>
-        <link href="https://css-tricks.com/ios-browser-choice/"/>
-        <updated>2021-09-28T14:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Just last week I got one of those really?! 🤨 faces when this fact came up in conversation amongst smart and engaged fellow web developers: there is no browser choice on iOS. It’s all Safari. You can download apps that …
-The post iOS Browser Choice appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off)]]></title>
-        <id>https://css-tricks.com/?p=352073</id>
-        <link href="https://fitc.ca/event/webu21/"/>
-        <updated>2021-09-28T14:24:34.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Now in its tenth year (!!!), Web Unleashed is one of the top events for web devs. It’s coming up quick: October 20-22, 2021. 
-The lineup is amazing. You’ll hear from leaders in …
-The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving The Accessibility Of Your Markdown]]></title>
         <id>https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/</id>
         <link href="https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/"/>
@@ -306,28 +337,6 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
         <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonic (Component Framework)]]></title>
-        <id>https://css-tricks.com/?p=352621</id>
-        <link href="https://css-tricks.com/tonic-component-framework/"/>
-        <updated>2021-09-27T18:52:46.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …
-The post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collecting Email Signups With the Notion API]]></title>
-        <id>https://css-tricks.com/?p=352211</id>
-        <link href="https://css-tricks.com/collecting-email-signups-with-the-notion-api/"/>
-        <updated>2021-09-27T15:26:01.000Z</updated>
-        <summary type="html"><![CDATA[A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …
-The post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ravgeet Dhillon</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +552,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP/3: Practical Deployment Options (Part 3)]]></title>
-        <id>https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/</id>
-        <link href="https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/"/>
-        <updated>2021-09-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Robin Marx)</name>
         </author>
     </entry>
 </feed>
