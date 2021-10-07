@@ -31,12 +31,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353219",
+          "author": "Robin Rendle",
+          "description": "Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…\nIf you’re wondering how those animations work, they’re actually styled <video>…\nThe post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/websites-we-like-md-nichrome/",
+          "publishedOn": "2021-10-06T22:24:18.000Z",
+          "wordCount": 1043,
+          "title": "Websites We Like: MD Nichrome"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353320",
+          "author": "Chris Coyier",
+          "description": "Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).\nSingle-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional \n…\nThe post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.baldurbjarnason.com/2021/single-page-app-morality-play/",
+          "publishedOn": "2021-10-06T22:20:57.000Z",
+          "wordCount": 7050,
+          "title": "The Single Page App Morality Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352959",
+          "author": "Leon Barnard",
+          "description": "If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …\nThe post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/",
+          "publishedOn": "2021-10-06T14:22:18.000Z",
+          "wordCount": 2177,
+          "title": "Considerations for Using Markdown Writing Apps on Static Sites"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352676",
+          "author": "Chris Coyier",
+          "description": "In HTML, there is a very clear input type for dealing with passwords:\n<input type=\"password\"\nIf you use that, you get the obfuscated bullet-points when you type into it, like:\n••••••••\nThat’s the web trying to help with security. If …\nThe post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-options-for-password-revealing-inputs/",
+          "publishedOn": "2021-10-06T14:22:11.000Z",
+          "wordCount": 805,
+          "title": "The Options for Password Revealing Inputs"
+        },
+        {
           "id": "https://css-tricks.com/?p=352754",
           "author": "Chris Coyier",
           "description": "Scroll shadows are when you can see a little inset shadow on elements if (and only if) you can scroll in that direction. It’s just good UX. You can actually pull it off in CSS, which I think is …\nThe post Scroll Shadows With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/scroll-shadows-with-javascript/",
           "publishedOn": "2021-10-05T22:40:21.000Z",
-          "wordCount": 728,
+          "wordCount": 808,
           "title": "Scroll Shadows With JavaScript"
         },
         {
@@ -54,13 +90,13 @@
           "description": "In this article I'm going to talk about branching strategies and different types of Git branches. I’m also going to introduce you to two common branching workflows: Git Flow and GitHub Flow.\nThe post Branching Strategies in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/branching-strategies-in-git/",
           "publishedOn": "2021-10-05T14:28:43.000Z",
-          "wordCount": 2229,
+          "wordCount": 2252,
           "title": "Branching Strategies in Git"
         },
         {
           "id": "https://css-tricks.com/?p=353225",
           "author": "Chris Coyier",
-          "description": "This is some bonafide CSS trickery from Harry that gives you some generic performance advice based on what it sees in your <head> element. \nFirst, it’s possible to make a <style> block visible like any other element by changing the …\nThe post ct.css — Performance Hints via Injected Stylesheet Alone appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "This is some bonafide CSS trickery from Harry that gives you some generic performance advice based on what it sees in your <head> element. \nFirst, it’s possible to make a <style block visible like any other element by changing the …\nThe post ct.css — Performance Hints via Injected Stylesheet Alone appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://csswizardry.com/ct/",
           "publishedOn": "2021-10-05T14:28:28.000Z",
           "wordCount": 80,
@@ -126,44 +162,8 @@
           "description": "A commit can be something that helps us stay on top of things. It can be a container for related changes that belong to one and only one topic, and thereby make it easier for us to understand what happened.\nIn this post, we’re talking about what it takes to produce the \"perfect\" commit.\nThe post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-the-perfect-commit-in-git/",
           "publishedOn": "2021-09-30T14:29:36.000Z",
-          "wordCount": 2279,
+          "wordCount": 2310,
           "title": "Creating the Perfect Commit in Git"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350620",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nOf the languages that browsers speak, I’d wager that the very first one that developers decided needed some additional processing was HTML. Every single CMS in the world (aside from intentionally headless-only CMSs) …\nThe post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/comparing-html-preprocessor-features/",
-          "publishedOn": "2021-09-30T14:00:00.000Z",
-          "wordCount": 2581,
-          "title": "Comparing HTML Preprocessor Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352723",
-          "author": "Ollie Williams",
-          "description": "Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …\nThe post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/",
-          "publishedOn": "2021-09-29T14:51:25.000Z",
-          "wordCount": 2251,
-          "title": "Web Streams Everywhere (and Fetch for Node.js)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352627",
-          "author": "Geoff Graham",
-          "description": "I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …\nThe post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/",
-          "publishedOn": "2021-09-29T14:51:22.000Z",
-          "wordCount": 1218,
-          "title": "Front-End Dev Shortcuts in iOS 15"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352669",
-          "author": "Chris Coyier",
-          "description": "I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. \n\nBut then I …\nThe post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/so-many-little-design-helper-sites/",
-          "publishedOn": "2021-09-28T21:00:04.000Z",
-          "wordCount": 728,
-          "title": "So many little design helper sites!"
         }
       ]
     },
@@ -173,12 +173,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
+          "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
+          "publishedOn": "2021-10-06T10:00:00.000Z",
+          "wordCount": 5481,
+          "title": "A Guide To CSS Debugging",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "author": "hello@smashingmagazine.com (Tom Hudson)",
           "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
           "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1791,
+          "wordCount": 1789,
           "title": "Local Testing A Serverless API (API Gateway And Lambda)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
@@ -192,7 +206,7 @@
           "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
           "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
           "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2611,
           "title": "How To Build An Expandable Accessible Gallery",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
@@ -206,7 +220,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4905,
+          "wordCount": 4901,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -220,7 +234,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2470,
+          "wordCount": 2468,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -234,7 +248,7 @@
           "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
           "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5060,
+          "wordCount": 5055,
           "title": "Using Modern Image Formats: AVIF And WebP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
@@ -248,7 +262,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3886,
+          "wordCount": 3869,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -262,7 +276,7 @@
           "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
           "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
           "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4961,
+          "wordCount": 4954,
           "title": "Let’s Dive Into Cypress For End-to-End Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
@@ -276,7 +290,7 @@
           "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
           "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
           "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3802,
+          "wordCount": 3792,
           "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
@@ -304,7 +318,7 @@
           "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
           "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
           "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2163,
+          "wordCount": 2156,
           "title": "Simplifying Form Styles With `accent-color`",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
@@ -360,7 +374,7 @@
           "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
           "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
           "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3980,
+          "wordCount": 3963,
           "title": "Are Imposter Domains Re-Publishing Your Website?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
@@ -374,7 +388,7 @@
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2596,
+          "wordCount": 2578,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -388,7 +402,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4514,
+          "wordCount": 4511,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -416,7 +430,7 @@
           "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
           "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
           "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1947,
+          "wordCount": 1940,
           "title": "Reducing The Need For Pseudo-Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
@@ -430,7 +444,7 @@
           "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
           "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
           "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2087,
+          "wordCount": 2085,
           "title": "The Power Of Pen And Paper Sketching",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
@@ -444,7 +458,7 @@
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
           "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 3010,
+          "wordCount": 3002,
           "title": "Orchestrating Complexity With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
@@ -458,7 +472,7 @@
           "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
           "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 2050,
+          "wordCount": 2056,
           "title": "Web Design Done Well: Excellent Editorial",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
@@ -472,7 +486,7 @@
           "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
           "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-09-09T10:30:00.000Z",
-          "wordCount": 2082,
+          "wordCount": 2060,
           "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
@@ -486,7 +500,7 @@
           "description": "In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.",
           "link": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
           "publishedOn": "2021-09-08T10:30:00.000Z",
-          "wordCount": 2864,
+          "wordCount": 2856,
           "title": "Developer Decisions For Building Flexible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76d3eef0-2a0a-45e0-b0bb-399da37c3834/developer-decisions-building-flexible-components.jpg",
@@ -507,20 +521,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
-          "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
-          "publishedOn": "2021-09-07T10:00:00.000Z",
-          "wordCount": 4045,
-          "title": "What’s New With DevTools: Cross-Browser Edition",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -529,6 +529,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "615beb720d91c9077974c716",
+          "author": null,
+          "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
+          "link": "https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/",
+          "publishedOn": "2021-10-06T17:51:39.000Z",
+          "wordCount": 2390,
+          "title": "C String – How to Declare Strings in the C Programming Language"
+        },
+        {
+          "id": "612f4388d6679a07b7d3fee4",
+          "author": null,
+          "description": "In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and",
+          "link": "https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/",
+          "publishedOn": "2021-10-06T17:21:45.000Z",
+          "wordCount": 1529,
+          "title": "Python range() Function – Explained with Code Examples"
+        },
+        {
+          "id": "614870b9852f4307d3731030",
+          "author": null,
+          "description": "File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk",
+          "link": "https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/",
+          "publishedOn": "2021-10-06T16:19:13.000Z",
+          "wordCount": 899,
+          "title": "Linux tar Command – How to Compress Files in Linux"
+        },
+        {
+          "id": "615d55b40d91c9077974d3f8",
+          "author": null,
+          "description": "If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/",
+          "publishedOn": "2021-10-06T16:10:50.000Z",
+          "wordCount": 955,
+          "title": "Insert Into SQL – How to Insert Into a Table Query [Example Statement]"
+        },
+        {
+          "id": "6155429464aefe07d3fa1019",
+          "author": null,
+          "description": "I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer \"build more projects\".  This is great advice, but you can do more to",
+          "link": "https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/",
+          "publishedOn": "2021-10-06T15:29:13.000Z",
+          "wordCount": 2042,
+          "title": "How to Build Your Developer Résumé Without Job Experience"
+        },
+        {
+          "id": "6070ea34d5756f080ba98017",
+          "author": null,
+          "description": "Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-programming/",
+          "publishedOn": "2021-10-06T15:17:39.000Z",
+          "wordCount": 10466,
+          "title": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code"
+        },
+        {
+          "id": "613cbc6b852f4307d372bc5a",
+          "author": null,
+          "description": "Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can",
+          "link": "https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/",
+          "publishedOn": "2021-10-06T15:14:48.000Z",
+          "wordCount": 1955,
+          "title": "How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code"
+        },
+        {
+          "id": "615db6910d91c9077974deb1",
+          "author": null,
+          "description": "Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and",
+          "link": "https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/",
+          "publishedOn": "2021-10-06T14:54:13.000Z",
+          "wordCount": 426,
+          "title": "Computer Basics for Absolute Beginners"
+        },
         {
           "id": "61533caa64aefe07d3fa041a",
           "author": null,
@@ -546,78 +618,6 @@
           "publishedOn": "2021-10-05T15:26:44.000Z",
           "wordCount": 2698,
           "title": "The Evolution of Tokenization – Byte Pair Encoding in NLP"
-        },
-        {
-          "id": "615b198b4aa03507d9412b36",
-          "author": null,
-          "description": "Learn how to pass the HashiCorp Terraform Associate Certification with this free 12-hour course. What is the HashiCorp Terraform Associate?HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple Cloud",
-          "link": "https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/",
-          "publishedOn": "2021-10-05T14:07:18.000Z",
-          "wordCount": 612,
-          "title": "HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 12+ Hour Course"
-        },
-        {
-          "id": "5fff3ec998be260817e495ee",
-          "author": null,
-          "description": "Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful",
-          "link": "https://www.freecodecamp.org/news/traceroute-and-ping/",
-          "publishedOn": "2021-10-04T23:46:48.000Z",
-          "wordCount": 1157,
-          "title": "How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues"
-        },
-        {
-          "id": "6154775964aefe07d3fa0b7d",
-          "author": null,
-          "description": "Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/",
-          "publishedOn": "2021-10-04T20:59:10.000Z",
-          "wordCount": 6519,
-          "title": "How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript"
-        },
-        {
-          "id": "613b97f1852f4307d372b637",
-          "author": null,
-          "description": "In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work \"under the hood\". That way you understand what your code and the tools you use",
-          "link": "https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/",
-          "publishedOn": "2021-10-04T16:27:49.000Z",
-          "wordCount": 1915,
-          "title": "What is the OSI Model? Computer Networking for Beginners"
-        },
-        {
-          "id": "61063c1d3306a507d1bfbfca",
-          "author": null,
-          "description": "You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact",
-          "link": "https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/",
-          "publishedOn": "2021-10-04T16:21:30.000Z",
-          "wordCount": 1195,
-          "title": "What is UX Design? User Experience Design Explained in Plain English"
-        },
-        {
-          "id": "5f9c98a3740569d1a4ca1b33",
-          "author": null,
-          "description": "Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected",
-          "link": "https://www.freecodecamp.org/news/best-online-courses/",
-          "publishedOn": "2021-10-03T04:21:00.000Z",
-          "wordCount": 11998,
-          "title": "The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]"
-        },
-        {
-          "id": "613f8a73852f4307d372cc55",
-          "author": null,
-          "description": "Java is one of the most popular object-oriented programming languages in use today.  Because it is platform-independent, you will find Java applications on every type of device and every operating system. And because Java is relatively easy to learn, it is one of the first languages that many programmers pick",
-          "link": "https://www.freecodecamp.org/news/how-to-solve-multiple-inheritance-in-java/",
-          "publishedOn": "2021-10-01T14:42:02.000Z",
-          "wordCount": 1381,
-          "title": "How to Solve the Problem of Multiple Inheritance in Java"
-        },
-        {
-          "id": "611b08a4e884de075217ff23",
-          "author": null,
-          "description": "The United States Census Bureau estimates that more than 12% of the United States' population is living with a disability. Disabilities can include vision difficulties, hearing difficulties, mobility challenges, and much more.  And a person can become disabled at any stage of their life.  Since a significant portion of the",
-          "link": "https://www.freecodecamp.org/news/mobile-accessibility/",
-          "publishedOn": "2021-09-30T21:47:00.000Z",
-          "wordCount": 1886,
-          "title": "Accessibility Best Practices for Mobile App Development"
         }
       ]
     }

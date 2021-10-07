@@ -1,10 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-06T00:44:54.910Z</id>
+    <id>urn:2021-10-07T00:44:03.447Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-06T00:44:54.910Z</updated>
+    <updated>2021-10-07T00:44:03.447Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Websites We Like: MD Nichrome]]></title>
+        <id>https://css-tricks.com/?p=353219</id>
+        <link href="https://css-tricks.com/websites-we-like-md-nichrome/"/>
+        <updated>2021-10-06T22:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…
+If you’re wondering how those animations work, they’re actually styled <video>…
+The post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Single Page App Morality Play]]></title>
+        <id>https://css-tricks.com/?p=353320</id>
+        <link href="https://www.baldurbjarnason.com/2021/single-page-app-morality-play/"/>
+        <updated>2021-10-06T22:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).
+Single-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional 
+…
+The post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C String – How to Declare Strings in the C Programming Language]]></title>
+        <id>615beb720d91c9077974c716</id>
+        <link href="https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/"/>
+        <updated>2021-10-06T17:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python range() Function – Explained with Code Examples]]></title>
+        <id>612f4388d6679a07b7d3fee4</id>
+        <link href="https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/"/>
+        <updated>2021-10-06T17:21:45.000Z</updated>
+        <summary type="html"><![CDATA[In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux tar Command – How to Compress Files in Linux]]></title>
+        <id>614870b9852f4307d3731030</id>
+        <link href="https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/"/>
+        <updated>2021-10-06T16:19:13.000Z</updated>
+        <summary type="html"><![CDATA[File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insert Into SQL – How to Insert Into a Table Query [Example Statement]]]></title>
+        <id>615d55b40d91c9077974d3f8</id>
+        <link href="https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/"/>
+        <updated>2021-10-06T16:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Developer Résumé Without Job Experience]]></title>
+        <id>6155429464aefe07d3fa1019</id>
+        <link href="https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/"/>
+        <updated>2021-10-06T15:29:13.000Z</updated>
+        <summary type="html"><![CDATA[I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer "build more projects".  This is great advice, but you can do more to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code]]></title>
+        <id>6070ea34d5756f080ba98017</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-programming/"/>
+        <updated>2021-10-06T15:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code]]></title>
+        <id>613cbc6b852f4307d372bc5a</id>
+        <link href="https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/"/>
+        <updated>2021-10-06T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Basics for Absolute Beginners]]></title>
+        <id>615db6910d91c9077974deb1</id>
+        <link href="https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/"/>
+        <updated>2021-10-06T14:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Considerations for Using Markdown Writing Apps on Static Sites]]></title>
+        <id>https://css-tricks.com/?p=352959</id>
+        <link href="https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/"/>
+        <updated>2021-10-06T14:22:18.000Z</updated>
+        <summary type="html"><![CDATA[If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …
+The post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Leon Barnard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Options for Password Revealing Inputs]]></title>
+        <id>https://css-tricks.com/?p=352676</id>
+        <link href="https://css-tricks.com/the-options-for-password-revealing-inputs/"/>
+        <updated>2021-10-06T14:22:11.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, there is a very clear input type for dealing with passwords:
+<input type="password"
+If you use that, you get the obfuscated bullet-points when you type into it, like:
+••••••••
+That’s the web trying to help with security. If …
+The post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To CSS Debugging]]></title>
+        <id>https://smashingmagazine.com/2021/10/guide-debugging-css/</id>
+        <link href="https://smashingmagazine.com/2021/10/guide-debugging-css/"/>
+        <updated>2021-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scroll Shadows With JavaScript]]></title>
         <id>https://css-tricks.com/?p=352754</id>
@@ -64,20 +205,10 @@ The post Branching Strategies in Git appeared first on CSS-Tricks. You can suppo
         <link href="https://csswizardry.com/ct/"/>
         <updated>2021-10-05T14:28:28.000Z</updated>
         <summary type="html"><![CDATA[This is some bonafide CSS trickery from Harry that gives you some generic performance advice based on what it sees in your <head> element. 
-First, it’s possible to make a <style> block visible like any other element by changing the …
+First, it’s possible to make a <style block visible like any other element by changing the …
 The post ct.css — Performance Hints via Injected Stylesheet Alone appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 12+ Hour Course]]></title>
-        <id>615b198b4aa03507d9412b36</id>
-        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
-        <updated>2021-10-05T14:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification with this free 12-hour course. What is the HashiCorp Terraform Associate?HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple Cloud]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -91,26 +222,6 @@ The post ct.css — Performance Hints via Injected Stylesheet Alone appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues]]></title>
-        <id>5fff3ec998be260817e495ee</id>
-        <link href="https://www.freecodecamp.org/news/traceroute-and-ping/"/>
-        <updated>2021-10-04T23:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript]]></title>
-        <id>6154775964aefe07d3fa0b7d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/"/>
-        <updated>2021-10-04T20:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quickly Testing CSS Fallbacks]]></title>
         <id>https://css-tricks.com/?p=353179</id>
         <link href="https://css-tricks.com/quickly-testing-css-fallbacks/"/>
@@ -121,26 +232,6 @@ You could write the supporting …
 The post Quickly Testing CSS Fallbacks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the OSI Model? Computer Networking for Beginners]]></title>
-        <id>613b97f1852f4307d372b637</id>
-        <link href="https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/"/>
-        <updated>2021-10-04T16:27:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work "under the hood". That way you understand what your code and the tools you use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is UX Design? User Experience Design Explained in Plain English]]></title>
-        <id>61063c1d3306a507d1bfbfca</id>
-        <link href="https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/"/>
-        <updated>2021-10-04T16:21:30.000Z</updated>
-        <summary type="html"><![CDATA[You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -176,16 +267,6 @@ The post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]]]></title>
-        <id>5f9c98a3740569d1a4ca1b33</id>
-        <link href="https://www.freecodecamp.org/news/best-online-courses/"/>
-        <updated>2021-10-03T04:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Links on React and JavaScript II]]></title>
         <id>https://css-tricks.com/?p=352717</id>
         <link href="https://css-tricks.com/links-on-react-and-javascript-ii/"/>
@@ -206,16 +287,6 @@ The post Links on React and JavaScript II appeared first on CSS-Tricks. You can 
 The post Using the platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve the Problem of Multiple Inheritance in Java]]></title>
-        <id>613f8a73852f4307d372cc55</id>
-        <link href="https://www.freecodecamp.org/news/how-to-solve-multiple-inheritance-in-java/"/>
-        <updated>2021-10-01T14:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Java is one of the most popular object-oriented programming languages in use today.  Because it is platform-independent, you will find Java applications on every type of device and every operating system. And because Java is relatively easy to learn, it is one of the first languages that many programmers pick]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -241,16 +312,6 @@ The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accessibility Best Practices for Mobile App Development]]></title>
-        <id>611b08a4e884de075217ff23</id>
-        <link href="https://www.freecodecamp.org/news/mobile-accessibility/"/>
-        <updated>2021-09-30T21:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The United States Census Bureau estimates that more than 12% of the United States' population is living with a disability. Disabilities can include vision difficulties, hearing difficulties, mobility challenges, and much more.  And a person can become disabled at any stage of their life.  Since a significant portion of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating the Perfect Commit in Git]]></title>
         <id>https://css-tricks.com/?p=352475</id>
         <link href="https://css-tricks.com/creating-the-perfect-commit-in-git/"/>
@@ -260,18 +321,6 @@ In this post, we’re talking about what it takes to produce the "perfect" commi
 The post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing HTML Preprocessor Features]]></title>
-        <id>https://css-tricks.com/?p=350620</id>
-        <link href="https://css-tricks.com/comparing-html-preprocessor-features/"/>
-        <updated>2021-09-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Of the languages that browsers speak, I’d wager that the very first one that developers decided needed some additional processing was HTML. Every single CMS in the world (aside from intentionally headless-only CMSs) …
-The post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -285,28 +334,6 @@ The post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Streams Everywhere (and Fetch for Node.js)]]></title>
-        <id>https://css-tricks.com/?p=352723</id>
-        <link href="https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/"/>
-        <updated>2021-09-29T14:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …
-The post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Dev Shortcuts in iOS 15]]></title>
-        <id>https://css-tricks.com/?p=352627</id>
-        <link href="https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/"/>
-        <updated>2021-09-29T14:51:22.000Z</updated>
-        <summary type="html"><![CDATA[I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …
-The post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
         <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
         <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
@@ -314,19 +341,6 @@ The post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can
         <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So many little design helper sites!]]></title>
-        <id>https://css-tricks.com/?p=352669</id>
-        <link href="https://css-tricks.com/so-many-little-design-helper-sites/"/>
-        <updated>2021-09-28T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. 
-
-But then I …
-The post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -542,16 +556,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New With DevTools: Cross-Browser Edition]]></title>
-        <id>https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/</id>
-        <link href="https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/"/>
-        <updated>2021-09-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
