@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-07T00:44:03.447Z</id>
+    <id>urn:2021-10-08T00:45:58.450Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-07T00:44:03.447Z</updated>
+    <updated>2021-10-08T00:45:58.450Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Writing Your Own Code Rules]]></title>
+        <id>https://css-tricks.com/?p=353112</id>
+        <link href="https://css-tricks.com/writing-your-own-code-rules/"/>
+        <updated>2021-10-07T23:35:53.000Z</updated>
+        <summary type="html"><![CDATA[There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …
+The post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
+        <id>https://css-tricks.com/?p=353386</id>
+        <link href="https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
+        <updated>2021-10-07T21:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!
+We simply can no longer 
+…
+The post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Go? Golang Programming Language Meaning Explained]]></title>
+        <id>615de4da0d91c9077974e23f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-go-programming-language/"/>
+        <updated>2021-10-07T15:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS in TypeScript with vanilla-extract]]></title>
+        <id>https://css-tricks.com/?p=353024</id>
+        <link href="https://css-tricks.com/css-in-typescript-with-vanilla-extract/"/>
+        <updated>2021-10-07T14:36:35.000Z</updated>
+        <summary type="html"><![CDATA[vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …
+The post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hugh Haworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Themeable React Data Grid With Great UX-Focused Features]]></title>
+        <id>https://css-tricks.com/?p=353242</id>
+        <link href="https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/"/>
+        <updated>2021-10-07T14:35:28.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+KendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …
+The post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)]]></title>
+        <id>https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/</id>
+        <link href="https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/"/>
+        <updated>2021-10-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Websites We Like: MD Nichrome]]></title>
         <id>https://css-tricks.com/?p=353219</id>
@@ -179,16 +246,6 @@ The post Conditional Border Radius In CSS appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Evolution of Tokenization – Byte Pair Encoding in NLP]]></title>
-        <id>6159b85c4aa03507d94123fb</id>
-        <link href="https://www.freecodecamp.org/news/evolution-of-tokenization/"/>
-        <updated>2021-10-05T15:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Natural Language Processing may have come a little late to the AI game, but companies like Google and OpenAI are working wonders with NLP techniques these days. These companies have released state-of-the-art language models like BERT and GPT-2 and GPT-3. And GitHub Copilot and OpenAI codex are among some of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Branching Strategies in Git]]></title>
         <id>https://css-tricks.com/?p=352508</id>
         <link href="https://css-tricks.com/branching-strategies-in-git/"/>
@@ -267,41 +324,6 @@ The post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on React and JavaScript II]]></title>
-        <id>https://css-tricks.com/?p=352717</id>
-        <link href="https://css-tricks.com/links-on-react-and-javascript-ii/"/>
-        <updated>2021-10-01T21:09:25.000Z</updated>
-        <summary type="html"><![CDATA[How To Use The Vite Build Tool with React — Vite is hot, in part, because it’s based on esbuild and wickedly fast. It’s from Evan You of Vue fame, but it’s not a Vue-specific tool. Here, NARUHODO covers how 
-…
-The post Links on React and JavaScript II appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the platform]]></title>
-        <id>https://css-tricks.com/?p=352867</id>
-        <link href="https://elisehe.in/2021/08/22/using-the-platform"/>
-        <updated>2021-10-01T18:50:43.000Z</updated>
-        <summary type="html"><![CDATA[I'm certainly not dogmatic about it, but I think if you can pull of a project with literally zero build process, it feels good while working on it and feels very good when you come back to it months/years later and can just pick up and go.
-The post Using the platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working With Built-in GraphQL Directives]]></title>
-        <id>https://css-tricks.com/?p=352798</id>
-        <link href="https://css-tricks.com/working-with-built-in-graphql-directives/"/>
-        <updated>2021-10-01T14:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Directives are one of GraphQL’s best — and most unspoken — features.
-Let’s explore working with GraphQL’s built-in schema and operation directives that all GraphQL spec compliant APIs must implement. They are extremely useful if you are working with a …
-The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jamie Barton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
         <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
         <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
@@ -309,18 +331,6 @@ The post Working With Built-in GraphQL Directives appeared first on CSS-Tricks. 
         <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating the Perfect Commit in Git]]></title>
-        <id>https://css-tricks.com/?p=352475</id>
-        <link href="https://css-tricks.com/creating-the-perfect-commit-in-git/"/>
-        <updated>2021-09-30T14:29:36.000Z</updated>
-        <summary type="html"><![CDATA[A commit can be something that helps us stay on top of things. It can be a container for related changes that belong to one and only one topic, and thereby make it easier for us to understand what happened.
-In this post, we’re talking about what it takes to produce the "perfect" commit.
-The post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
         </author>
     </entry>
     <entry>
@@ -536,26 +546,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
-        <id>https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/</id>
-        <link href="https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
-        <updated>2021-09-08T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Smashing Online Workshops on Front-End & UX]]></title>
-        <id>https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/</id>
-        <link href="https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/"/>
-        <updated>2021-09-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
