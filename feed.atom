@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-08T00:45:58.450Z</id>
+    <id>urn:2021-10-09T00:40:50.466Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-08T00:45:58.450Z</updated>
+    <updated>2021-10-09T00:40:50.466Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Case for ‘Developer Experience’]]></title>
+        <id>https://css-tricks.com/?p=353429</id>
+        <link href="https://future.a16z.com/the-case-for-developer-experience/"/>
+        <updated>2021-10-08T20:23:42.000Z</updated>
+        <summary type="html"><![CDATA[A good essay from Jean Yang. 
+What I mean by developer experience is the sum total of how developers interface with their tools, end-to-end, day-in and day-out. Sure, there’s more focus than ever on how developers use and adopt tools, and 
+…
+The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Computer Programming?]]></title>
+        <id>615d55e60d91c9077974d408</id>
+        <link href="https://www.freecodecamp.org/news/what-is-programming/"/>
+        <updated>2021-10-08T19:11:39.000Z</updated>
+        <summary type="html"><![CDATA[In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn On Dark Mode on Google – Chrome Black Theme Tutorial]]></title>
+        <id>6160836e804854468fda67bf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-on-dark-mode-on-google-chrome-black-theme-tutorial/"/>
+        <updated>2021-10-08T19:10:46.000Z</updated>
+        <summary type="html"><![CDATA[These days, lots of developers like to use dark mode. And it's no surprise, as activating dark mode reduces eye strain and leads to better eye health. It also helps both machines and humans perform better overall.  In this article, I will show you how to turn on the dark]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Drop a Pin on Google Maps]]></title>
+        <id>613f3c5e852f4307d372c7c6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-drop-a-pin-on-google-maps/"/>
+        <updated>2021-10-08T19:03:55.000Z</updated>
+        <summary type="html"><![CDATA[If you want to save a new location you discovered on Google Maps, you need to drop a pin on that location.  In this article, I will show you how to drop a pin in Google Maps from your phone or computer. How to Drop a Pin on Google Maps]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jekyll doesn’t do components? Liar!]]></title>
+        <id>https://css-tricks.com/?p=353374</id>
+        <link href="https://katiekodes.com/jekyll-components-wysiwyg/"/>
+        <updated>2021-10-08T17:14:05.000Z</updated>
+        <summary type="html"><![CDATA[I like the pushback from Katie Kodes here. I’ve said in the past that I don’t think server-side languages haven’t quite nailed “building in components” as well as JavaScript has, but hey, this is a good point:
+1. Any basic 
+…
+The post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Excel File that Pulls Customer Data with WooCommerce and Python]]></title>
+        <id>615dbaeb0d91c9077974defb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-excel-file-with-customers-data-with-woocommerce-and-python/"/>
+        <updated>2021-10-08T15:15:28.000Z</updated>
+        <summary type="html"><![CDATA[“Hey, could you please send me our customers' emails? We’re about to launch a new marketing campaign and…we need them ASAP.” If you work in the Web department on a corporate level, you've probably heard this sentence hundreds of times. So, today I want to share how I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Tennis Trivia App With Next.js and Netlify]]></title>
+        <id>https://css-tricks.com/?p=353066</id>
+        <link href="https://css-tricks.com/building-a-tennis-trivia-app-with-next-js-and-netlify/"/>
+        <updated>2021-10-08T14:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Today we will be learning how to build a tennis trivia app using Next.js and Netlify. This technology stack has become my go-to on many projects. It allows for rapid development and easy deployment.
+Without further ado let’s jump in!…
+The post Building a Tennis Trivia App With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Brenley Dueck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Google Analytics and Plausible Numbers]]></title>
+        <id>https://css-tricks.com/?p=353062</id>
+        <link href="https://css-tricks.com/comparing-google-analytics-and-plausible-numbers/"/>
+        <updated>2021-10-08T14:30:40.000Z</updated>
+        <summary type="html"><![CDATA[I saw this blog post the other day: 58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics. That’s an enticing title to me. I’ve had Google Analytics on this site literally from the day I launched it. …
+The post Comparing Google Analytics and Plausible Numbers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions]]></title>
+        <id>https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/</id>
+        <link href="https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/"/>
+        <updated>2021-10-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Bryan Robinson)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing Your Own Code Rules]]></title>
         <id>https://css-tricks.com/?p=353112</id>
@@ -148,36 +247,6 @@ The post The Single Page App Morality Play appeared first on CSS-Tricks. You can
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code]]></title>
-        <id>6070ea34d5756f080ba98017</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-programming/"/>
-        <updated>2021-10-06T15:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code]]></title>
-        <id>613cbc6b852f4307d372bc5a</id>
-        <link href="https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/"/>
-        <updated>2021-10-06T15:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Basics for Absolute Beginners]]></title>
-        <id>615db6910d91c9077974deb1</id>
-        <link href="https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/"/>
-        <updated>2021-10-06T14:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Considerations for Using Markdown Writing Apps on Static Sites]]></title>
         <id>https://css-tricks.com/?p=352959</id>
         <link href="https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/"/>
@@ -194,7 +263,7 @@ The post Considerations for Using Markdown Writing Apps on Static Sites appeared
         <link href="https://css-tricks.com/the-options-for-password-revealing-inputs/"/>
         <updated>2021-10-06T14:22:11.000Z</updated>
         <summary type="html"><![CDATA[In HTML, there is a very clear input type for dealing with passwords:
-<input type="password"
+<input type="password">
 If you use that, you get the obfuscated bullet-points when you type into it, like:
 ••••••••
 That’s the web trying to help with security. If …
@@ -236,16 +305,6 @@ The post Conditional Border Radius In CSS appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Callback Function –Explained in Plain English]]></title>
-        <id>61533caa64aefe07d3fa041a</id>
-        <link href="https://www.freecodecamp.org/news/javascript-callback-function-plain-english/"/>
-        <updated>2021-10-05T17:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Every JavaScript beginner will face this question at least once: "What is a callback function?"  Well, we can find the answer in the word callback itself. It's all about notifying the caller after the successful completion or failure of a task.  In this article, I'll focus less on the technical]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Branching Strategies in Git]]></title>
         <id>https://css-tricks.com/?p=352508</id>
         <link href="https://css-tricks.com/branching-strategies-in-git/"/>
@@ -257,18 +316,6 @@ The post Branching Strategies in Git appeared first on CSS-Tricks. You can suppo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ct.css — Performance Hints via Injected Stylesheet Alone]]></title>
-        <id>https://css-tricks.com/?p=353225</id>
-        <link href="https://csswizardry.com/ct/"/>
-        <updated>2021-10-05T14:28:28.000Z</updated>
-        <summary type="html"><![CDATA[This is some bonafide CSS trickery from Harry that gives you some generic performance advice based on what it sees in your <head> element. 
-First, it’s possible to make a <style block visible like any other element by changing the …
-The post ct.css — Performance Hints via Injected Stylesheet Alone appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Local Testing A Serverless API (API Gateway And Lambda)]]></title>
         <id>https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/</id>
         <link href="https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/"/>
@@ -276,41 +323,6 @@ The post ct.css — Performance Hints via Injected Stylesheet Alone appeared fir
         <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tom Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickly Testing CSS Fallbacks]]></title>
-        <id>https://css-tricks.com/?p=353179</id>
-        <link href="https://css-tricks.com/quickly-testing-css-fallbacks/"/>
-        <updated>2021-10-04T19:15:22.000Z</updated>
-        <summary type="html"><![CDATA[Dumb trick alert! 
-Not all browsers support all features. Say you want to write a fallback for browsers that doesn’t support CSS Grid. Not very common these days, but it’s just to illustrate a point.
-You could write the supporting …
-The post Quickly Testing CSS Fallbacks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animation Techniques for Adding and Removing Items From a Stack]]></title>
-        <id>https://css-tricks.com/?p=352819</id>
-        <link href="https://css-tricks.com/animation-techniques-for-adding-and-removing-items-from-a-stack/"/>
-        <updated>2021-10-04T14:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Animating elements with CSS can either be quite easy or quite difficult depending on what you are trying to do. Changing the background color of a button when you hover over it? Easy. Animating the position and size of an …
-The post Animation Techniques for Adding and Removing Items From a Stack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Luke Courtney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShopTalk Goes Video]]></title>
-        <id>https://css-tricks.com/?p=352857</id>
-        <link href="https://css-tricks.com/shoptalk-goes-video/"/>
-        <updated>2021-10-04T14:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Dave and I slapped up a little videos section of the ShopTalk website. Twelve so far! They are short-ish, between 10-20 minutes, each focused on one fairly specific thing. We’re kinda just dipping our toes here — we don’t …
-The post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -536,16 +548,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)]]></title>
-        <id>https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/"/>
-        <updated>2021-09-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sam Poder)</name>
         </author>
     </entry>
 </feed>
