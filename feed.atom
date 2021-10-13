@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-12T00:46:29.358Z</id>
+    <id>urn:2021-10-13T00:42:47.579Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-12T00:46:29.358Z</updated>
+    <updated>2021-10-13T00:42:47.579Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Flawless Database Hook to Your React Projects]]></title>
+        <id>615e276e0d91c9077974e6ba</id>
+        <link href="https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/"/>
+        <updated>2021-10-12T21:17:09.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]]]></title>
+        <id>61642329804854468fda8506</id>
+        <link href="https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/"/>
+        <updated>2021-10-12T20:53:11.000Z</updated>
+        <summary type="html"><![CDATA[As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Form Validation in React Forms using React Hook Form]]></title>
+        <id>61612118804854468fda6b2b</id>
+        <link href="https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/"/>
+        <updated>2021-10-12T20:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]]]></title>
+        <id>616478dc804854468fda89eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/"/>
+        <updated>2021-10-12T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linux AWK Command – Linux and Unix Usage Syntax Examples]]></title>
+        <id>61604b37804854468fda625c</id>
+        <link href="https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/"/>
+        <updated>2021-10-12T15:34:47.000Z</updated>
+        <summary type="html"><![CDATA[In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Video Game – Create Your Own Game From Scratch Tutorial]]></title>
+        <id>615d55dc0d91c9077974d404</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/"/>
+        <updated>2021-10-12T15:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python NamedTuple Examples – How to Create and Work with NamedTuples]]></title>
+        <id>6162f83f804854468fda7c7a</id>
+        <link href="https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/"/>
+        <updated>2021-10-12T15:34:19.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Developers’ Favorite Frameworks of 2021]]></title>
+        <id>https://css-tricks.com/?p=353415</id>
+        <link href="https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/"/>
+        <updated>2021-10-12T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …
+The post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Laurie Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WooCommerce + Google Analytics]]></title>
+        <id>https://css-tricks.com/?p=353317</id>
+        <link href="https://css-tricks.com/woocommerce-google-analytics/"/>
+        <updated>2021-10-12T14:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …
+The post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful React APIs For Building Flexible Components With TypeScript]]></title>
+        <id>https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/</id>
+        <link href="https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/"/>
+        <updated>2021-10-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gaurav Khanna)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging The Gap Between Designers And Developers]]></title>
+        <id>https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/</id>
+        <link href="https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/"/>
+        <updated>2021-10-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Those “Get The App” Banners]]></title>
         <id>https://css-tricks.com/?p=352907</id>
@@ -107,26 +219,6 @@ The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Turn On Dark Mode on Google – Chrome Black Theme Tutorial]]></title>
-        <id>6160836e804854468fda67bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-on-dark-mode-on-google-chrome-black-theme-tutorial/"/>
-        <updated>2021-10-08T19:10:46.000Z</updated>
-        <summary type="html"><![CDATA[These days, lots of developers like to use dark mode. And it's no surprise, as activating dark mode reduces eye strain and leads to better eye health. It also helps both machines and humans perform better overall.  In this article, I will show you how to turn on the dark]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Drop a Pin on Google Maps]]></title>
-        <id>613f3c5e852f4307d372c7c6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-drop-a-pin-on-google-maps/"/>
-        <updated>2021-10-08T19:03:55.000Z</updated>
-        <summary type="html"><![CDATA[If you want to save a new location you discovered on Google Maps, you need to drop a pin on that location.  In this article, I will show you how to drop a pin in Google Maps from your phone or computer. How to Drop a Pin on Google Maps]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jekyll doesn’t do components? Liar!]]></title>
         <id>https://css-tricks.com/?p=353374</id>
         <link href="https://katiekodes.com/jekyll-components-wysiwyg/"/>
@@ -137,16 +229,6 @@ The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. Y
 The post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Excel File that Pulls Customer Data with WooCommerce and Python]]></title>
-        <id>615dbaeb0d91c9077974defb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-excel-file-with-customers-data-with-woocommerce-and-python/"/>
-        <updated>2021-10-08T15:15:28.000Z</updated>
-        <summary type="html"><![CDATA[“Hey, could you please send me our customers' emails? We’re about to launch a new marketing campaign and…we need them ASAP.” If you work in the Web department on a corporate level, you've probably heard this sentence hundreds of times. So, today I want to share how I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -207,16 +289,6 @@ The post Developer Decisions For Building Flexible Components appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Go? Golang Programming Language Meaning Explained]]></title>
-        <id>615de4da0d91c9077974e23f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-go-programming-language/"/>
-        <updated>2021-10-07T15:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS in TypeScript with vanilla-extract]]></title>
         <id>https://css-tricks.com/?p=353024</id>
         <link href="https://css-tricks.com/css-in-typescript-with-vanilla-extract/"/>
@@ -270,62 +342,6 @@ The post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can sup
 Single-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional 
 …
 The post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C String – How to Declare Strings in the C Programming Language]]></title>
-        <id>615beb720d91c9077974c716</id>
-        <link href="https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/"/>
-        <updated>2021-10-06T17:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python range() Function – Explained with Code Examples]]></title>
-        <id>612f4388d6679a07b7d3fee4</id>
-        <link href="https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/"/>
-        <updated>2021-10-06T17:21:45.000Z</updated>
-        <summary type="html"><![CDATA[In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux tar Command – How to Compress Files in Linux]]></title>
-        <id>614870b9852f4307d3731030</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/"/>
-        <updated>2021-10-06T16:19:13.000Z</updated>
-        <summary type="html"><![CDATA[File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considerations for Using Markdown Writing Apps on Static Sites]]></title>
-        <id>https://css-tricks.com/?p=352959</id>
-        <link href="https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/"/>
-        <updated>2021-10-06T14:22:18.000Z</updated>
-        <summary type="html"><![CDATA[If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …
-The post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Leon Barnard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Options for Password Revealing Inputs]]></title>
-        <id>https://css-tricks.com/?p=352676</id>
-        <link href="https://css-tricks.com/the-options-for-password-revealing-inputs/"/>
-        <updated>2021-10-06T14:22:11.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, there is a very clear input type for dealing with passwords:
-<input type="password">
-If you use that, you get the obfuscated bullet-points when you type into it, like:
-••••••••
-That’s the web trying to help with security. If …
-The post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -553,16 +569,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tracy Osborn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orchestrating Complexity With Web Animations API]]></title>
-        <id>https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/</id>
-        <link href="https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/"/>
-        <updated>2021-09-13T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
         </author>
     </entry>
 </feed>

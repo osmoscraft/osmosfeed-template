@@ -31,12 +31,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353415",
+          "author": "Laurie Voss",
+          "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/",
+          "publishedOn": "2021-10-12T14:30:47.000Z",
+          "wordCount": 1002,
+          "title": "Jamstack Developers’ Favorite Frameworks of 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353317",
+          "author": "Chris Coyier",
+          "description": "Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …\nThe post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-google-analytics/",
+          "publishedOn": "2021-10-12T14:28:26.000Z",
+          "wordCount": 958,
+          "title": "WooCommerce + Google Analytics"
+        },
+        {
           "id": "https://css-tricks.com/?p=352907",
           "author": "Chris Coyier",
           "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/those-get-the-app-banners/",
           "publishedOn": "2021-10-11T22:12:35.000Z",
-          "wordCount": 567,
+          "wordCount": 1066,
           "title": "Those “Get The App” Banners"
         },
         {
@@ -45,7 +63,7 @@
           "description": "The README for Cash is straightforward:\nCash is an absurdly small jQuery alternative for modern browsers (IE11+) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chainable methods \n…\nThe post Cash (Tiny jQuery Alternative) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/cash-tiny-jquery-alternative/",
           "publishedOn": "2021-10-11T20:28:24.000Z",
-          "wordCount": 546,
+          "wordCount": 710,
           "title": "Cash (Tiny jQuery Alternative)"
         },
         {
@@ -54,7 +72,7 @@
           "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!\nIn this third installment of our “Advanced Git” series, we’ll look at …\nThe post Better Collaboration With Pull Requests appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/better-collaboration-with-pull-requests/",
           "publishedOn": "2021-10-11T14:29:44.000Z",
-          "wordCount": 1711,
+          "wordCount": 1716,
           "title": "Better Collaboration With Pull Requests"
         },
         {
@@ -108,7 +126,7 @@
           "description": "Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!\nWe simply can no longer \n…\nThe post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
           "publishedOn": "2021-10-07T21:33:58.000Z",
-          "wordCount": 2857,
+          "wordCount": 2859,
           "title": "Developer Decisions For Building Flexible Components"
         },
         {
@@ -126,7 +144,7 @@
           "description": "(This is a sponsored post.)\nKendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …\nThe post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/",
           "publishedOn": "2021-10-07T14:35:28.000Z",
-          "wordCount": 1262,
+          "wordCount": 1303,
           "title": "A Themeable React Data Grid With Great UX-Focused Features"
         },
         {
@@ -146,24 +164,6 @@
           "publishedOn": "2021-10-06T22:20:57.000Z",
           "wordCount": 7067,
           "title": "The Single Page App Morality Play"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352959",
-          "author": "Leon Barnard",
-          "description": "If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …\nThe post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/",
-          "publishedOn": "2021-10-06T14:22:18.000Z",
-          "wordCount": 2373,
-          "title": "Considerations for Using Markdown Writing Apps on Static Sites"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352676",
-          "author": "Chris Coyier",
-          "description": "In HTML, there is a very clear input type for dealing with passwords:\n<input type=\"password\">\nIf you use that, you get the obfuscated bullet-points when you type into it, like:\n••••••••\nThat’s the web trying to help with security. If …\nThe post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-options-for-password-revealing-inputs/",
-          "publishedOn": "2021-10-06T14:22:11.000Z",
-          "wordCount": 849,
-          "title": "The Options for Password Revealing Inputs"
         }
       ]
     },
@@ -173,12 +173,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
+          "author": "hello@smashingmagazine.com (Gaurav Khanna)",
+          "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
+          "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
+          "publishedOn": "2021-10-12T12:00:00.000Z",
+          "wordCount": 2344,
+          "title": "Useful React APIs For Building Flexible Components With TypeScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
+          "author": "hello@smashingmagazine.com (Matthew Talebi)",
+          "description": "UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.",
+          "link": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
+          "publishedOn": "2021-10-12T10:30:00.000Z",
+          "wordCount": 2174,
+          "title": "Bridging The Gap Between Designers And Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f89855fe-fbaf-4d96-80a4-189aa27e8afb/gap-between-designers-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "author": "hello@smashingmagazine.com (Alvaro Montoro)",
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
           "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3728,
+          "wordCount": 3732,
           "title": "The Autofill Dark Pattern",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
@@ -206,7 +234,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7104,
+          "wordCount": 7092,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -220,7 +248,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 1013,
+          "wordCount": 1002,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
@@ -234,7 +262,7 @@
           "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
           "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
           "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5479,
+          "wordCount": 5477,
           "title": "A Guide To CSS Debugging",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
@@ -262,7 +290,7 @@
           "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
           "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
           "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2614,
+          "wordCount": 2613,
           "title": "How To Build An Expandable Accessible Gallery",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
@@ -276,7 +304,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4898,
+          "wordCount": 4900,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -290,7 +318,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2472,
+          "wordCount": 2468,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -304,7 +332,7 @@
           "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
           "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5052,
+          "wordCount": 5053,
           "title": "Using Modern Image Formats: AVIF And WebP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
@@ -318,7 +346,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3867,
+          "wordCount": 3873,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -332,7 +360,7 @@
           "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
           "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
           "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4953,
+          "wordCount": 4959,
           "title": "Let’s Dive Into Cypress For End-to-End Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
@@ -346,7 +374,7 @@
           "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
           "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
           "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3807,
+          "wordCount": 3800,
           "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
@@ -374,7 +402,7 @@
           "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
           "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
           "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2154,
+          "wordCount": 2156,
           "title": "Simplifying Form Styles With `accent-color`",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
@@ -430,7 +458,7 @@
           "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
           "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
           "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3964,
+          "wordCount": 3960,
           "title": "Are Imposter Domains Re-Publishing Your Website?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
@@ -444,7 +472,7 @@
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2581,
+          "wordCount": 2582,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -458,7 +486,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4509,
+          "wordCount": 4520,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -486,7 +514,7 @@
           "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
           "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
           "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1938,
+          "wordCount": 1940,
           "title": "Reducing The Need For Pseudo-Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
@@ -507,20 +535,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
-          "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
-          "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 3000,
-          "title": "Orchestrating Complexity With Web Animations API",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -529,6 +543,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "615e276e0d91c9077974e6ba",
+          "author": null,
+          "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
+          "link": "https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/",
+          "publishedOn": "2021-10-12T21:17:09.000Z",
+          "wordCount": 2891,
+          "title": "How to Add a Flawless Database Hook to Your React Projects"
+        },
+        {
+          "id": "61642329804854468fda8506",
+          "author": null,
+          "description": "As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast",
+          "link": "https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/",
+          "publishedOn": "2021-10-12T20:53:11.000Z",
+          "wordCount": 784,
+          "title": "Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]"
+        },
+        {
+          "id": "61612118804854468fda6b2b",
+          "author": null,
+          "description": "Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in",
+          "link": "https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/",
+          "publishedOn": "2021-10-12T20:52:04.000Z",
+          "wordCount": 1320,
+          "title": "How to Add Form Validation in React Forms using React Hook Form"
+        },
+        {
+          "id": "616478dc804854468fda89eb",
+          "author": null,
+          "description": "When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in",
+          "link": "https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/",
+          "publishedOn": "2021-10-12T15:35:00.000Z",
+          "wordCount": 961,
+          "title": "How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]"
+        },
+        {
+          "id": "61604b37804854468fda625c",
+          "author": null,
+          "description": "In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command",
+          "link": "https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/",
+          "publishedOn": "2021-10-12T15:34:47.000Z",
+          "wordCount": 1572,
+          "title": "The Linux AWK Command – Linux and Unix Usage Syntax Examples"
+        },
+        {
+          "id": "615d55dc0d91c9077974d404",
+          "author": null,
+          "description": "Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/",
+          "publishedOn": "2021-10-12T15:34:31.000Z",
+          "wordCount": 1597,
+          "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
+        },
+        {
+          "id": "6162f83f804854468fda7c7a",
+          "author": null,
+          "description": "In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is",
+          "link": "https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/",
+          "publishedOn": "2021-10-12T15:34:19.000Z",
+          "wordCount": 1416,
+          "title": "Python NamedTuple Examples – How to Create and Work with NamedTuples"
+        },
         {
           "id": "6159ab734aa03507d9412321",
           "author": null,
@@ -555,69 +632,6 @@
           "publishedOn": "2021-10-08T19:11:39.000Z",
           "wordCount": 1421,
           "title": "What is Computer Programming?"
-        },
-        {
-          "id": "6160836e804854468fda67bf",
-          "author": null,
-          "description": "These days, lots of developers like to use dark mode. And it's no surprise, as activating dark mode reduces eye strain and leads to better eye health. It also helps both machines and humans perform better overall.  In this article, I will show you how to turn on the dark",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-on-dark-mode-on-google-chrome-black-theme-tutorial/",
-          "publishedOn": "2021-10-08T19:10:46.000Z",
-          "wordCount": 606,
-          "title": "How to Turn On Dark Mode on Google – Chrome Black Theme Tutorial"
-        },
-        {
-          "id": "613f3c5e852f4307d372c7c6",
-          "author": null,
-          "description": "If you want to save a new location you discovered on Google Maps, you need to drop a pin on that location.  In this article, I will show you how to drop a pin in Google Maps from your phone or computer. How to Drop a Pin on Google Maps",
-          "link": "https://www.freecodecamp.org/news/how-to-drop-a-pin-on-google-maps/",
-          "publishedOn": "2021-10-08T19:03:55.000Z",
-          "wordCount": 589,
-          "title": "How to Drop a Pin on Google Maps"
-        },
-        {
-          "id": "615dbaeb0d91c9077974defb",
-          "author": null,
-          "description": "“Hey, could you please send me our customers' emails? We’re about to launch a new marketing campaign and…we need them ASAP.” If you work in the Web department on a corporate level, you've probably heard this sentence hundreds of times. So, today I want to share how I",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-excel-file-with-customers-data-with-woocommerce-and-python/",
-          "publishedOn": "2021-10-08T15:15:28.000Z",
-          "wordCount": 1216,
-          "title": "How to Create an Excel File that Pulls Customer Data with WooCommerce and Python"
-        },
-        {
-          "id": "615de4da0d91c9077974e23f",
-          "author": null,
-          "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
-          "link": "https://www.freecodecamp.org/news/what-is-go-programming-language/",
-          "publishedOn": "2021-10-07T15:26:18.000Z",
-          "wordCount": 1602,
-          "title": "What is Go? Golang Programming Language Meaning Explained"
-        },
-        {
-          "id": "615beb720d91c9077974c716",
-          "author": null,
-          "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
-          "link": "https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/",
-          "publishedOn": "2021-10-06T17:51:39.000Z",
-          "wordCount": 2390,
-          "title": "C String – How to Declare Strings in the C Programming Language"
-        },
-        {
-          "id": "612f4388d6679a07b7d3fee4",
-          "author": null,
-          "description": "In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and",
-          "link": "https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/",
-          "publishedOn": "2021-10-06T17:21:45.000Z",
-          "wordCount": 1529,
-          "title": "Python range() Function – Explained with Code Examples"
-        },
-        {
-          "id": "614870b9852f4307d3731030",
-          "author": null,
-          "description": "File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk",
-          "link": "https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/",
-          "publishedOn": "2021-10-06T16:19:13.000Z",
-          "wordCount": 899,
-          "title": "Linux tar Command – How to Compress Files in Linux"
         }
       ]
     }
