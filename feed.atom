@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-13T00:42:47.579Z</id>
+    <id>urn:2021-10-14T00:40:46.371Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-13T00:42:47.579Z</updated>
+    <updated>2021-10-14T00:40:46.371Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bonsai Browser]]></title>
+        <id>https://css-tricks.com/?p=353719</id>
+        <link href="https://bonsaibrowser.com/"/>
+        <updated>2021-10-13T22:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Web-browser for research that helps programmers think clearly.
+With Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …
+The post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Virtual Private Cloud Course]]></title>
+        <id>6167483480d82d07c45a445f</id>
+        <link href="https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/"/>
+        <updated>2021-10-13T21:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Virtual Private Cloud is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You get complete control over the networking environment including IP address ranges, subnets, routing, firewalls and more. We just released a full course about Amazon Virtual Private Cloud]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript]]></title>
+        <id>616706d380d82d07c45a422b</id>
+        <link href="https://www.freecodecamp.org/news/build-a-responsive-filterable-form-with-css-and-javascript/"/>
+        <updated>2021-10-13T20:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Most sites that display a list of data in a table typically have some kind of filter functionality implemented. This helps the user filter relevant items based on the text they type into the form input. In this quick tutorial, we are going to build a responsive filterable table which]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]]]></title>
+        <id>6166934680d82d07c45a3e48</id>
+        <link href="https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/"/>
+        <updated>2021-10-13T17:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firebase Cloud Firestore – Database Crash Course]]></title>
+        <id>615855ad4aa03507d9411890</id>
+        <link href="https://www.freecodecamp.org/news/firebase-firestore-crash-course/"/>
+        <updated>2021-10-13T15:57:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS is Going Gosh-Darned Hog Wild, I Tell Ya What]]></title>
+        <id>https://css-tricks.com/?p=352459</id>
+        <link href="https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/"/>
+        <updated>2021-10-13T15:36:43.000Z</updated>
+        <summary type="html"><![CDATA[As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …
+The post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Less Absolute Positioning With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=353700</id>
+        <link href="https://ishadeed.com/article/less-absolute-positioning-modern-css/"/>
+        <updated>2021-10-13T14:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …
+The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)]]></title>
+        <id>https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/</id>
+        <link href="https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/"/>
+        <updated>2021-10-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add a Flawless Database Hook to Your React Projects]]></title>
         <id>615e276e0d91c9077974e6ba</id>
@@ -61,16 +145,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/"/>
         <updated>2021-10-12T15:34:31.000Z</updated>
         <summary type="html"><![CDATA[Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python NamedTuple Examples – How to Create and Work with NamedTuples]]></title>
-        <id>6162f83f804854468fda7c7a</id>
-        <link href="https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/"/>
-        <updated>2021-10-12T15:34:19.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -144,26 +218,6 @@ The post Cash (Tiny jQuery Alternative) appeared first on CSS-Tricks. You can su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Start a Blog [Free 70-Page Book]]]></title>
-        <id>6159ab734aa03507d9412321</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-a-blog-book/"/>
-        <updated>2021-10-11T17:21:00.000Z</updated>
-        <summary type="html"><![CDATA[What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Dynamic Twitter Header]]></title>
-        <id>615408e064aefe07d3fa0743</id>
-        <link href="https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/"/>
-        <updated>2021-10-11T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Better Collaboration With Pull Requests]]></title>
         <id>https://css-tricks.com/?p=352569</id>
         <link href="https://css-tricks.com/better-collaboration-with-pull-requests/"/>
@@ -206,16 +260,6 @@ What I mean by developer experience is the sum total of how developers interfa
 The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Computer Programming?]]></title>
-        <id>615d55e60d91c9077974d408</id>
-        <link href="https://www.freecodecamp.org/news/what-is-programming/"/>
-        <updated>2021-10-08T19:11:39.000Z</updated>
-        <summary type="html"><![CDATA[In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -300,18 +344,6 @@ The post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. Yo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Themeable React Data Grid With Great UX-Focused Features]]></title>
-        <id>https://css-tricks.com/?p=353242</id>
-        <link href="https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/"/>
-        <updated>2021-10-07T14:35:28.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-KendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …
-The post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)]]></title>
         <id>https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/</id>
         <link href="https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/"/>
@@ -319,31 +351,6 @@ The post A Themeable React Data Grid With Great UX-Focused Features appeared fir
         <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Websites We Like: MD Nichrome]]></title>
-        <id>https://css-tricks.com/?p=353219</id>
-        <link href="https://css-tricks.com/websites-we-like-md-nichrome/"/>
-        <updated>2021-10-06T22:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…
-If you’re wondering how those animations work, they’re actually styled <video>…
-The post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Single Page App Morality Play]]></title>
-        <id>https://css-tricks.com/?p=353320</id>
-        <link href="https://www.baldurbjarnason.com/2021/single-page-app-morality-play/"/>
-        <updated>2021-10-06T22:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).
-Single-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional 
-…
-The post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -559,16 +566,6 @@ Thank you @ad-m]]></summary>
         <summary type="html"><![CDATA[For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcel Moreau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power Of Pen And Paper Sketching]]></title>
-        <id>https://smashingmagazine.com/2021/09/power-pen-paper-sketching/</id>
-        <link href="https://smashingmagazine.com/2021/09/power-pen-paper-sketching/"/>
-        <updated>2021-09-14T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tracy Osborn)</name>
         </author>
     </entry>
 </feed>

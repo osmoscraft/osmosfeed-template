@@ -31,12 +31,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353719",
+          "author": "Chris Coyier",
+          "description": "Web-browser for research that helps programmers think clearly.\nWith Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …\nThe post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bonsaibrowser.com/",
+          "publishedOn": "2021-10-13T22:50:47.000Z",
+          "wordCount": 32,
+          "title": "Bonsai Browser"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352459",
+          "author": "Chris Coyier",
+          "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
+          "publishedOn": "2021-10-13T15:36:43.000Z",
+          "wordCount": 1510,
+          "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353700",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …\nThe post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
+          "publishedOn": "2021-10-13T14:42:26.000Z",
+          "wordCount": 2122,
+          "title": "Less Absolute Positioning With Modern CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=353415",
           "author": "Laurie Voss",
           "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/",
           "publishedOn": "2021-10-12T14:30:47.000Z",
-          "wordCount": 1002,
+          "wordCount": 1049,
           "title": "Jamstack Developers’ Favorite Frameworks of 2021"
         },
         {
@@ -54,7 +81,7 @@
           "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/those-get-the-app-banners/",
           "publishedOn": "2021-10-11T22:12:35.000Z",
-          "wordCount": 1066,
+          "wordCount": 1111,
           "title": "Those “Get The App” Banners"
         },
         {
@@ -99,7 +126,7 @@
           "description": "Today we will be learning how to build a tennis trivia app using Next.js and Netlify. This technology stack has become my go-to on many projects. It allows for rapid development and easy deployment.\nWithout further ado let’s jump in!…\nThe post Building a Tennis Trivia App With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/building-a-tennis-trivia-app-with-next-js-and-netlify/",
           "publishedOn": "2021-10-08T14:30:57.000Z",
-          "wordCount": 2834,
+          "wordCount": 2848,
           "title": "Building a Tennis Trivia App With Next.js and Netlify"
         },
         {
@@ -137,33 +164,6 @@
           "publishedOn": "2021-10-07T14:36:35.000Z",
           "wordCount": 2658,
           "title": "CSS in TypeScript with vanilla-extract"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353242",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nKendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …\nThe post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/",
-          "publishedOn": "2021-10-07T14:35:28.000Z",
-          "wordCount": 1303,
-          "title": "A Themeable React Data Grid With Great UX-Focused Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353219",
-          "author": "Robin Rendle",
-          "description": "Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…\nIf you’re wondering how those animations work, they’re actually styled <video>…\nThe post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/websites-we-like-md-nichrome/",
-          "publishedOn": "2021-10-06T22:24:18.000Z",
-          "wordCount": 1083,
-          "title": "Websites We Like: MD Nichrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353320",
-          "author": "Chris Coyier",
-          "description": "Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).\nSingle-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional \n…\nThe post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.baldurbjarnason.com/2021/single-page-app-morality-play/",
-          "publishedOn": "2021-10-06T22:20:57.000Z",
-          "wordCount": 7067,
-          "title": "The Single Page App Morality Play"
         }
       ]
     },
@@ -173,12 +173,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).",
+          "link": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
+          "publishedOn": "2021-10-13T11:00:00.000Z",
+          "wordCount": 1000,
+          "title": "Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "author": "hello@smashingmagazine.com (Gaurav Khanna)",
           "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
           "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2344,
+          "wordCount": 2346,
           "title": "Useful React APIs For Building Flexible Components With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
@@ -206,7 +220,7 @@
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
           "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3732,
+          "wordCount": 3730,
           "title": "The Autofill Dark Pattern",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
@@ -220,7 +234,7 @@
           "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
           "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
           "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2814,
+          "wordCount": 2817,
           "title": "Composable CSS Animation In Vue With AnimXYZ",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
@@ -234,7 +248,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7092,
+          "wordCount": 7104,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -248,7 +262,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 1002,
+          "wordCount": 995,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
@@ -262,7 +276,7 @@
           "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
           "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
           "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5477,
+          "wordCount": 5481,
           "title": "A Guide To CSS Debugging",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
@@ -276,7 +290,7 @@
           "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
           "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1789,
+          "wordCount": 1794,
           "title": "Local Testing A Serverless API (API Gateway And Lambda)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
@@ -290,7 +304,7 @@
           "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
           "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
           "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2613,
+          "wordCount": 2614,
           "title": "How To Build An Expandable Accessible Gallery",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
@@ -304,7 +318,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4901,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -318,7 +332,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2468,
+          "wordCount": 2469,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -332,7 +346,7 @@
           "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
           "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5053,
+          "wordCount": 5055,
           "title": "Using Modern Image Formats: AVIF And WebP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
@@ -346,7 +360,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3873,
+          "wordCount": 3871,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -360,7 +374,7 @@
           "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
           "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
           "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4959,
+          "wordCount": 4952,
           "title": "Let’s Dive Into Cypress For End-to-End Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
@@ -374,7 +388,7 @@
           "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
           "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
           "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3800,
+          "wordCount": 3796,
           "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
@@ -402,7 +416,7 @@
           "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
           "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
           "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2156,
+          "wordCount": 2153,
           "title": "Simplifying Form Styles With `accent-color`",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
@@ -430,7 +444,7 @@
           "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
           "link": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "publishedOn": "2021-09-21T11:30:00.000Z",
-          "wordCount": 4149,
+          "wordCount": 4158,
           "title": "How To Build Your Own Mouseless Development Environment",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5c58e67b-deff-4745-b162-f60f468469ac/mouseless-development-environment.jpg",
@@ -458,7 +472,7 @@
           "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
           "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
           "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3960,
+          "wordCount": 3962,
           "title": "Are Imposter Domains Re-Publishing Your Website?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
@@ -472,7 +486,7 @@
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2582,
+          "wordCount": 2579,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -486,7 +500,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4520,
+          "wordCount": 4512,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -521,20 +535,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "author": "hello@smashingmagazine.com (Tracy Osborn)",
-          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
-          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2087,
-          "title": "The Power Of Pen And Paper Sketching",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -543,6 +543,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6167483480d82d07c45a445f",
+          "author": null,
+          "description": "Amazon Virtual Private Cloud is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You get complete control over the networking environment including IP address ranges, subnets, routing, firewalls and more. We just released a full course about Amazon Virtual Private Cloud",
+          "link": "https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/",
+          "publishedOn": "2021-10-13T21:00:37.000Z",
+          "wordCount": 389,
+          "title": "Amazon Virtual Private Cloud Course"
+        },
+        {
+          "id": "616706d380d82d07c45a422b",
+          "author": null,
+          "description": "Most sites that display a list of data in a table typically have some kind of filter functionality implemented. This helps the user filter relevant items based on the text they type into the form input. In this quick tutorial, we are going to build a responsive filterable table which",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-filterable-form-with-css-and-javascript/",
+          "publishedOn": "2021-10-13T20:54:46.000Z",
+          "wordCount": 1314,
+          "title": "How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "6166934680d82d07c45a3e48",
+          "author": null,
+          "description": "Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and",
+          "link": "https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/",
+          "publishedOn": "2021-10-13T17:01:26.000Z",
+          "wordCount": 622,
+          "title": "What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]"
+        },
+        {
+          "id": "615855ad4aa03507d9411890",
+          "author": null,
+          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
+          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
+          "publishedOn": "2021-10-13T15:57:42.000Z",
+          "wordCount": 1790,
+          "title": "Firebase Cloud Firestore – Database Crash Course"
+        },
         {
           "id": "615e276e0d91c9077974e6ba",
           "author": null,
@@ -596,42 +632,6 @@
           "publishedOn": "2021-10-12T15:34:31.000Z",
           "wordCount": 1597,
           "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
-        },
-        {
-          "id": "6162f83f804854468fda7c7a",
-          "author": null,
-          "description": "In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is",
-          "link": "https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/",
-          "publishedOn": "2021-10-12T15:34:19.000Z",
-          "wordCount": 1416,
-          "title": "Python NamedTuple Examples – How to Create and Work with NamedTuples"
-        },
-        {
-          "id": "6159ab734aa03507d9412321",
-          "author": null,
-          "description": "What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-blog-book/",
-          "publishedOn": "2021-10-11T17:21:00.000Z",
-          "wordCount": 14932,
-          "title": "How to Start a Blog [Free 70-Page Book]"
-        },
-        {
-          "id": "615408e064aefe07d3fa0743",
-          "author": null,
-          "description": "In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is",
-          "link": "https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/",
-          "publishedOn": "2021-10-11T14:50:00.000Z",
-          "wordCount": 2257,
-          "title": "How to Create a Dynamic Twitter Header"
-        },
-        {
-          "id": "615d55e60d91c9077974d408",
-          "author": null,
-          "description": "In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses",
-          "link": "https://www.freecodecamp.org/news/what-is-programming/",
-          "publishedOn": "2021-10-08T19:11:39.000Z",
-          "wordCount": 1421,
-          "title": "What is Computer Programming?"
         }
       ]
     }
