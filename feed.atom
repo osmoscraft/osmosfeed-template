@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-14T00:40:46.371Z</id>
+    <id>urn:2021-10-15T00:46:11.139Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-14T00:40:46.371Z</updated>
+    <updated>2021-10-15T00:46:11.139Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React.useEffect Hook – Common Problems and How to Fix Them]]></title>
+        <id>61686f8b80d82d07c45a4e4a</id>
+        <link href="https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/"/>
+        <updated>2021-10-14T22:07:02.000Z</updated>
+        <summary type="html"><![CDATA[React hooks have been around for a while now. Most developers have gotten pretty comfortable with how they work and their common use cases. But there is one useEffect gotcha that a lot of us keep falling for. The use caseLet's start with a simple scenario. We are building a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone Downloads Folder – Where are my Downloads? iOS and iPad]]></title>
+        <id>615d559e0d91c9077974d3ec</id>
+        <link href="https://www.freecodecamp.org/news/iphone-downloads-folder-where-are-my-downloads-ios-and-ipad/"/>
+        <updated>2021-10-14T21:59:03.000Z</updated>
+        <summary type="html"><![CDATA[iPhone and iPad both have an app called Files where you can locate all of your files from services including iCloud Drive, Dropbox, and more.  If you want to access the Downloads folder, you can find it inside the Files app. In this article, I will show you how to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get into BIOS in Windows 10 – BIOS Setup PC Guide]]></title>
+        <id>6167f81c80d82d07c45a4630</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/"/>
+        <updated>2021-10-14T21:03:48.000Z</updated>
+        <summary type="html"><![CDATA[BIOS stands for Basic Input/Output System. It is embedded into computers as a motherboard chip and is primarily responsible for booting the computer system.  Apart from booting up your computer, BIOS is responsible for a lot of other functionality behind the scenes – like managing data flow between an operating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an NFT in 14 Lines of Code]]></title>
+        <id>6163d60c804854468fda82ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-an-nft/"/>
+        <updated>2021-10-14T17:49:36.000Z</updated>
+        <summary type="html"><![CDATA[High-profile celebrities like Jay-Z and Snoop Dog are getting into NFTs. With the cheapest CryptoPunk selling for 103 ETH (~360,000 USD at the time of this article), it is an excellent time for us developers to learn more about the engineering behind them to start building things. At the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo]]></title>
+        <id>615da5e40d91c9077974dd6a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/"/>
+        <updated>2021-10-14T17:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Developers around the world use GitHub to share their projects with the global developer community.  In this article, I'll give you some opinionated tips to help you build a great open-source project you can start using. You can also use these tips for building hackathon projects. Quite recently I ended]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotate Screen in Windows 10 – How to Flip Your Monitor Orientation 90 Degrees]]></title>
+        <id>6162db83804854468fda7b4c</id>
+        <link href="https://www.freecodecamp.org/news/rotate-screen-in-windows-10-how-to-flip-your-monitor-orientation-90-degrees/"/>
+        <updated>2021-10-14T15:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 has a built-in feature that lets you flip or rotate your monitor screen just like you can do on your smartphone.  In this article, I will show you how to flip or rotate the monitor of your Windows 10 machine in several orientations such as reverse-landscape, portrait, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Four Node.js and Express.js Projects]]></title>
+        <id>61683f7180d82d07c45a4893</id>
+        <link href="https://www.freecodecamp.org/news/build-six-node-js-and-express-js/"/>
+        <updated>2021-10-14T15:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Node.js and Express.js are popular technologies used for JavaScript backend web development. We just released a 10-hour course on the freeCodeCamp.org YouTube channel that will show you how to create four projects using Node and Express. John Smilga developed this course. John is one of the more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Degrees of Custom Property Usage]]></title>
+        <id>https://css-tricks.com/?p=353057</id>
+        <link href="https://css-tricks.com/different-degrees-of-custom-property-usage/"/>
+        <updated>2021-10-14T14:35:42.000Z</updated>
+        <summary type="html"><![CDATA[One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …
+The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded Analytics Made Simple With Cumul.io Integrations]]></title>
+        <id>https://css-tricks.com/?p=353243</id>
+        <link href="https://css-tricks.com/embedded-analytics-made-simple-with-cumul-io-integrations/"/>
+        <updated>2021-10-14T14:32:22.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Browse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name it and you’ll see a common theme appear in many of them. That theme can go by many names: BI, analytics, insights and …
+The post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Cumul.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
+        <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
+        <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
+        <updated>2021-10-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bonsai Browser]]></title>
         <id>https://css-tricks.com/?p=353719</id>
@@ -38,21 +141,11 @@ The post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]]]></title>
-        <id>6166934680d82d07c45a3e48</id>
-        <link href="https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/"/>
-        <updated>2021-10-13T17:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firebase Cloud Firestore – Database Crash Course]]></title>
-        <id>615855ad4aa03507d9411890</id>
-        <link href="https://www.freecodecamp.org/news/firebase-firestore-crash-course/"/>
-        <updated>2021-10-13T15:57:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML]]></summary>
+        <title type="html"><![CDATA[Learn Object Oriented Programming With Python]]></title>
+        <id>6168835180d82d07c45a4ee2</id>
+        <link href="https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/"/>
+        <updated>2021-10-13T19:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Object Oriented Programming is an important concept in software development.  Object Oriented Programming (OOP) is a programming paradigm that relies on the concept of classes and objects. You can use this method of writing programs in many programming languages, including Python We just published a complete Object Oriented Programming in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -87,66 +180,6 @@ The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks.
         <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add a Flawless Database Hook to Your React Projects]]></title>
-        <id>615e276e0d91c9077974e6ba</id>
-        <link href="https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/"/>
-        <updated>2021-10-12T21:17:09.000Z</updated>
-        <summary type="html"><![CDATA[IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]]]></title>
-        <id>61642329804854468fda8506</id>
-        <link href="https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/"/>
-        <updated>2021-10-12T20:53:11.000Z</updated>
-        <summary type="html"><![CDATA[As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Form Validation in React Forms using React Hook Form]]></title>
-        <id>61612118804854468fda6b2b</id>
-        <link href="https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/"/>
-        <updated>2021-10-12T20:52:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]]]></title>
-        <id>616478dc804854468fda89eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/"/>
-        <updated>2021-10-12T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Linux AWK Command – Linux and Unix Usage Syntax Examples]]></title>
-        <id>61604b37804854468fda625c</id>
-        <link href="https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/"/>
-        <updated>2021-10-12T15:34:47.000Z</updated>
-        <summary type="html"><![CDATA[In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Video Game – Create Your Own Game From Scratch Tutorial]]></title>
-        <id>615d55dc0d91c9077974d404</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/"/>
-        <updated>2021-10-12T15:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -317,30 +350,6 @@ The post Comparing Google Analytics and Plausible Numbers appeared first on CSS-
 The post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
-        <id>https://css-tricks.com/?p=353386</id>
-        <link href="https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
-        <updated>2021-10-07T21:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!
-We simply can no longer 
-…
-The post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS in TypeScript with vanilla-extract]]></title>
-        <id>https://css-tricks.com/?p=353024</id>
-        <link href="https://css-tricks.com/css-in-typescript-with-vanilla-extract/"/>
-        <updated>2021-10-07T14:36:35.000Z</updated>
-        <summary type="html"><![CDATA[vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …
-The post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Hugh Haworth</name>
         </author>
     </entry>
     <entry>
@@ -556,16 +565,6 @@ Thank you: @CaptNo1]]></summary>
 Thank you @ad-m]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing The Need For Pseudo-Elements]]></title>
-        <id>https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/</id>
-        <link href="https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/"/>
-        <updated>2021-09-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcel Moreau)</name>
         </author>
     </entry>
 </feed>

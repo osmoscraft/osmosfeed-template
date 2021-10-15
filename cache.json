@@ -31,6 +31,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353057",
+          "author": "Chris Coyier",
+          "description": "One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …\nThe post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/different-degrees-of-custom-property-usage/",
+          "publishedOn": "2021-10-14T14:35:42.000Z",
+          "wordCount": 1463,
+          "title": "Different Degrees of Custom Property Usage"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353243",
+          "author": "Cumul.io",
+          "description": "(This is a sponsored post.)\nBrowse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name it and you’ll see a common theme appear in many of them. That theme can go by many names: BI, analytics, insights and …\nThe post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/embedded-analytics-made-simple-with-cumul-io-integrations/",
+          "publishedOn": "2021-10-14T14:32:22.000Z",
+          "wordCount": 2769,
+          "title": "Embedded Analytics Made Simple With Cumul.io Integrations"
+        },
+        {
           "id": "https://css-tricks.com/?p=353719",
           "author": "Chris Coyier",
           "description": "Web-browser for research that helps programmers think clearly.\nWith Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …\nThe post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -45,7 +63,7 @@
           "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
           "publishedOn": "2021-10-13T15:36:43.000Z",
-          "wordCount": 1510,
+          "wordCount": 1740,
           "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
         },
         {
@@ -146,24 +164,6 @@
           "publishedOn": "2021-10-07T23:35:53.000Z",
           "wordCount": 834,
           "title": "Writing Your Own Code Rules"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353386",
-          "author": "Chris Coyier",
-          "description": "Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!\nWe simply can no longer \n…\nThe post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
-          "publishedOn": "2021-10-07T21:33:58.000Z",
-          "wordCount": 2859,
-          "title": "Developer Decisions For Building Flexible Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353024",
-          "author": "Hugh Haworth",
-          "description": "vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …\nThe post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-in-typescript-with-vanilla-extract/",
-          "publishedOn": "2021-10-07T14:36:35.000Z",
-          "wordCount": 2658,
-          "title": "CSS in TypeScript with vanilla-extract"
         }
       ]
     },
@@ -172,6 +172,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
+          "link": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
+          "publishedOn": "2021-10-14T12:00:00.000Z",
+          "wordCount": 3523,
+          "title": "Smart CSS Solutions For Common UI Challenges",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3bf0115-0bc9-41b7-b027-3ea8b6b7e848/transition-css-gradients-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -192,7 +206,7 @@
           "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
           "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2346,
+          "wordCount": 2345,
           "title": "Useful React APIs For Building Flexible Components With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
@@ -234,7 +248,7 @@
           "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
           "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
           "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2817,
+          "wordCount": 2815,
           "title": "Composable CSS Animation In Vue With AnimXYZ",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
@@ -248,7 +262,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7104,
+          "wordCount": 7095,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -262,7 +276,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 995,
+          "wordCount": 1001,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
@@ -276,7 +290,7 @@
           "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
           "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
           "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5481,
+          "wordCount": 5478,
           "title": "A Guide To CSS Debugging",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
@@ -290,7 +304,7 @@
           "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
           "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1794,
+          "wordCount": 1789,
           "title": "Local Testing A Serverless API (API Gateway And Lambda)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
@@ -304,7 +318,7 @@
           "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
           "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
           "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2614,
+          "wordCount": 2613,
           "title": "How To Build An Expandable Accessible Gallery",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
@@ -318,7 +332,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4901,
+          "wordCount": 4898,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -332,7 +346,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2469,
+          "wordCount": 2481,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -360,7 +374,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3871,
+          "wordCount": 3885,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -444,7 +458,7 @@
           "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
           "link": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "publishedOn": "2021-09-21T11:30:00.000Z",
-          "wordCount": 4158,
+          "wordCount": 4156,
           "title": "How To Build Your Own Mouseless Development Environment",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5c58e67b-deff-4745-b162-f60f468469ac/mouseless-development-environment.jpg",
@@ -472,7 +486,7 @@
           "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
           "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
           "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3962,
+          "wordCount": 3958,
           "title": "Are Imposter Domains Re-Publishing Your Website?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
@@ -486,7 +500,7 @@
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
           "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2579,
+          "wordCount": 2583,
           "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
@@ -500,7 +514,7 @@
           "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
           "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
           "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4512,
+          "wordCount": 4513,
           "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
@@ -521,20 +535,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "author": "hello@smashingmagazine.com (Marcel Moreau)",
-          "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
-          "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1940,
-          "title": "Reducing The Need For Pseudo-Elements",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -543,6 +543,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61686f8b80d82d07c45a4e4a",
+          "author": null,
+          "description": "React hooks have been around for a while now. Most developers have gotten pretty comfortable with how they work and their common use cases. But there is one useEffect gotcha that a lot of us keep falling for. The use caseLet's start with a simple scenario. We are building a",
+          "link": "https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/",
+          "publishedOn": "2021-10-14T22:07:02.000Z",
+          "wordCount": 1154,
+          "title": "React.useEffect Hook – Common Problems and How to Fix Them"
+        },
+        {
+          "id": "615d559e0d91c9077974d3ec",
+          "author": null,
+          "description": "iPhone and iPad both have an app called Files where you can locate all of your files from services including iCloud Drive, Dropbox, and more.  If you want to access the Downloads folder, you can find it inside the Files app. In this article, I will show you how to",
+          "link": "https://www.freecodecamp.org/news/iphone-downloads-folder-where-are-my-downloads-ios-and-ipad/",
+          "publishedOn": "2021-10-14T21:59:03.000Z",
+          "wordCount": 382,
+          "title": "iPhone Downloads Folder – Where are my Downloads? iOS and iPad"
+        },
+        {
+          "id": "6167f81c80d82d07c45a4630",
+          "author": null,
+          "description": "BIOS stands for Basic Input/Output System. It is embedded into computers as a motherboard chip and is primarily responsible for booting the computer system.  Apart from booting up your computer, BIOS is responsible for a lot of other functionality behind the scenes – like managing data flow between an operating",
+          "link": "https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/",
+          "publishedOn": "2021-10-14T21:03:48.000Z",
+          "wordCount": 731,
+          "title": "How to Get into BIOS in Windows 10 – BIOS Setup PC Guide"
+        },
+        {
+          "id": "6163d60c804854468fda82ca",
+          "author": null,
+          "description": "High-profile celebrities like Jay-Z and Snoop Dog are getting into NFTs. With the cheapest CryptoPunk selling for 103 ETH (~360,000 USD at the time of this article), it is an excellent time for us developers to learn more about the engineering behind them to start building things. At the",
+          "link": "https://www.freecodecamp.org/news/how-to-make-an-nft/",
+          "publishedOn": "2021-10-14T17:49:36.000Z",
+          "wordCount": 3063,
+          "title": "How to Make an NFT in 14 Lines of Code"
+        },
+        {
+          "id": "615da5e40d91c9077974dd6a",
+          "author": null,
+          "description": "Developers around the world use GitHub to share their projects with the global developer community.  In this article, I'll give you some opinionated tips to help you build a great open-source project you can start using. You can also use these tips for building hackathon projects. Quite recently I ended",
+          "link": "https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/",
+          "publishedOn": "2021-10-14T17:09:37.000Z",
+          "wordCount": 3149,
+          "title": "How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo"
+        },
+        {
+          "id": "6162db83804854468fda7b4c",
+          "author": null,
+          "description": "Windows 10 has a built-in feature that lets you flip or rotate your monitor screen just like you can do on your smartphone.  In this article, I will show you how to flip or rotate the monitor of your Windows 10 machine in several orientations such as reverse-landscape, portrait, and",
+          "link": "https://www.freecodecamp.org/news/rotate-screen-in-windows-10-how-to-flip-your-monitor-orientation-90-degrees/",
+          "publishedOn": "2021-10-14T15:39:17.000Z",
+          "wordCount": 569,
+          "title": "Rotate Screen in Windows 10 – How to Flip Your Monitor Orientation 90 Degrees"
+        },
+        {
+          "id": "61683f7180d82d07c45a4893",
+          "author": null,
+          "description": "Node.js and Express.js are popular technologies used for JavaScript backend web development. We just released a 10-hour course on the freeCodeCamp.org YouTube channel that will show you how to create four projects using Node and Express. John Smilga developed this course. John is one of the more",
+          "link": "https://www.freecodecamp.org/news/build-six-node-js-and-express-js/",
+          "publishedOn": "2021-10-14T15:05:45.000Z",
+          "wordCount": 299,
+          "title": "Build Four Node.js and Express.js Projects"
+        },
         {
           "id": "6167483480d82d07c45a445f",
           "author": null,
@@ -562,76 +625,13 @@
           "title": "How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript"
         },
         {
-          "id": "6166934680d82d07c45a3e48",
+          "id": "6168835180d82d07c45a4ee2",
           "author": null,
-          "description": "Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and",
-          "link": "https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/",
-          "publishedOn": "2021-10-13T17:01:26.000Z",
-          "wordCount": 622,
-          "title": "What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]"
-        },
-        {
-          "id": "615855ad4aa03507d9411890",
-          "author": null,
-          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
-          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
-          "publishedOn": "2021-10-13T15:57:42.000Z",
-          "wordCount": 1790,
-          "title": "Firebase Cloud Firestore – Database Crash Course"
-        },
-        {
-          "id": "615e276e0d91c9077974e6ba",
-          "author": null,
-          "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
-          "link": "https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/",
-          "publishedOn": "2021-10-12T21:17:09.000Z",
-          "wordCount": 2891,
-          "title": "How to Add a Flawless Database Hook to Your React Projects"
-        },
-        {
-          "id": "61642329804854468fda8506",
-          "author": null,
-          "description": "As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast",
-          "link": "https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/",
-          "publishedOn": "2021-10-12T20:53:11.000Z",
-          "wordCount": 784,
-          "title": "Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]"
-        },
-        {
-          "id": "61612118804854468fda6b2b",
-          "author": null,
-          "description": "Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in",
-          "link": "https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/",
-          "publishedOn": "2021-10-12T20:52:04.000Z",
-          "wordCount": 1320,
-          "title": "How to Add Form Validation in React Forms using React Hook Form"
-        },
-        {
-          "id": "616478dc804854468fda89eb",
-          "author": null,
-          "description": "When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/",
-          "publishedOn": "2021-10-12T15:35:00.000Z",
-          "wordCount": 961,
-          "title": "How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]"
-        },
-        {
-          "id": "61604b37804854468fda625c",
-          "author": null,
-          "description": "In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command",
-          "link": "https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/",
-          "publishedOn": "2021-10-12T15:34:47.000Z",
-          "wordCount": 1572,
-          "title": "The Linux AWK Command – Linux and Unix Usage Syntax Examples"
-        },
-        {
-          "id": "615d55dc0d91c9077974d404",
-          "author": null,
-          "description": "Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/",
-          "publishedOn": "2021-10-12T15:34:31.000Z",
-          "wordCount": 1597,
-          "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
+          "description": "Object Oriented Programming is an important concept in software development.  Object Oriented Programming (OOP) is a programming paradigm that relies on the concept of classes and objects. You can use this method of writing programs in many programming languages, including Python We just published a complete Object Oriented Programming in",
+          "link": "https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/",
+          "publishedOn": "2021-10-13T19:32:00.000Z",
+          "wordCount": 316,
+          "title": "Learn Object Oriented Programming With Python"
         }
       ]
     }
