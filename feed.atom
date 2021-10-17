@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-16T00:47:24.601Z</id>
+    <id>urn:2021-10-17T00:42:32.437Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-16T00:47:24.601Z</updated>
+    <updated>2021-10-17T00:42:32.437Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -546,16 +546,6 @@ Thank you: @CaptNo1]]></summary>
         <summary type="html"><![CDATA[Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ken Harker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
-        <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
-        <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
-        <updated>2021-09-17T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
         </author>
     </entry>
 </feed>
