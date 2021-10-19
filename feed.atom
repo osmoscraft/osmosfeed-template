@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-18T00:45:30.512Z</id>
+    <id>urn:2021-10-19T00:45:23.999Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-18T00:45:30.512Z</updated>
+    <updated>2021-10-19T00:45:23.999Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Three-Digit Browser Versions in March 2022]]></title>
+        <id>https://css-tricks.com/?p=354269</id>
+        <link href="https://css-tricks.com/three-digit-browser-versions-in-march-2022/"/>
+        <updated>2021-10-18T22:53:05.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t supposed to be any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do make those decisions.
+Karl Dubost notes that there is a significant change coming to them, notably moving the version …
+The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String split() and join() Methods – Explained with Examples]]></title>
+        <id>6169435380d82d07c45a5119</id>
+        <link href="https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/"/>
+        <updated>2021-10-18T22:40:12.000Z</updated>
+        <summary type="html"><![CDATA[When working with strings in Python, you may have to split a string into substrings. Or you might need to join together smaller chunks to form a string. Python's split() and join() string methods help you do these tasks easily. In this tutorial, you'll learn about the split() and join(]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Train BPE, WordPiece, and Unigram Tokenizers from Scratch using Hugging Face]]></title>
+        <id>616bf9ac80d82d07c45a5f84</id>
+        <link href="https://www.freecodecamp.org/news/train-algorithms-from-scratch-with-hugging-face/"/>
+        <updated>2021-10-18T22:27:40.000Z</updated>
+        <summary type="html"><![CDATA[If you've had some experience with NLP, you probably know that tokenization is at the helm of any NLP pipeline.  Tokenization is often regarded as a subfield of NLP but it has its own story of evolution. And now it underpins many state-of-the-art NLP models. This post is all about]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Currying and Composition in JavaScript]]></title>
+        <id>6167a24680d82d07c45a4519</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/"/>
+        <updated>2021-10-18T22:06:59.000Z</updated>
+        <summary type="html"><![CDATA[A great conversation I had this evening got me thinking about and revisiting a concept I've toyed with before – currying. But this time, I'd like to explore it with you all! The concept of currying is not a new one, but it is very useful. It is also foundational for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAT File – How to Open the .dat File Format Extension]]></title>
+        <id>616db48dd48e1707b6d7789b</id>
+        <link href="https://www.freecodecamp.org/news/dat-file-how-to-open-the-dat-file-format-extension/"/>
+        <updated>2021-10-18T21:05:35.000Z</updated>
+        <summary type="html"><![CDATA[A DAT file is a data file that contains specific information about the program used to create it.  This file always has the .dat file extension, which is a generic format that can contain any information – video, audio, PDF, and virtually any other type of file.  Many desktop and mobile]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Windows for Node.js Development with NVM]]></title>
+        <id>61694c9980d82d07c45a51ce</id>
+        <link href="https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/"/>
+        <updated>2021-10-18T20:56:58.000Z</updated>
+        <summary type="html"><![CDATA[So you want to develop using the JavaScript run-everywhere platform on the same computer where you game, edit videos, code C# desktop apps, or whatever.  You are also aware that there are multiple Node.js versions in active development and it is fairly common to find projects in the wild]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String to Int in C++ – How to Convert a String to an Integer Example]]></title>
+        <id>616c101880d82d07c45a5f9a</id>
+        <link href="https://www.freecodecamp.org/news/string-to-int-in-c-how-to-convert-a-string-to-an-integer-example/"/>
+        <updated>2021-10-18T14:54:58.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in C++, there will often be times when you'll want to convert one data type to a different one.  In this article you'll learn how to convert a string to an integer in C++ by seeing two of the most popular ways to do so.  Let's get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
+        <id>https://css-tricks.com/?p=353308</id>
+        <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
+        <updated>2021-10-18T14:48:34.000Z</updated>
+        <summary type="html"><![CDATA[I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …
+The post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Alex Standiford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
+        <updated>2021-10-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Arijit Mondal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.11.3]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
@@ -74,66 +167,6 @@ The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You
         <link href="https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/"/>
         <updated>2021-10-14T22:07:02.000Z</updated>
         <summary type="html"><![CDATA[React hooks have been around for a while now. Most developers have gotten pretty comfortable with how they work and their common use cases. But there is one useEffect gotcha that a lot of us keep falling for. The use caseLet's start with a simple scenario. We are building a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Downloads Folder – Where are my Downloads? iOS and iPad]]></title>
-        <id>615d559e0d91c9077974d3ec</id>
-        <link href="https://www.freecodecamp.org/news/iphone-downloads-folder-where-are-my-downloads-ios-and-ipad/"/>
-        <updated>2021-10-14T21:59:03.000Z</updated>
-        <summary type="html"><![CDATA[iPhone and iPad both have an app called Files where you can locate all of your files from services including iCloud Drive, Dropbox, and more.  If you want to access the Downloads folder, you can find it inside the Files app. In this article, I will show you how to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get into BIOS in Windows 10 – BIOS Setup PC Guide]]></title>
-        <id>6167f81c80d82d07c45a4630</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-into-bios-in-windows-10-bios-setup-pc-guide/"/>
-        <updated>2021-10-14T21:03:48.000Z</updated>
-        <summary type="html"><![CDATA[BIOS stands for Basic Input/Output System. It is embedded into computers as a motherboard chip and is primarily responsible for booting the computer system.  Apart from booting up your computer, BIOS is responsible for a lot of other functionality behind the scenes – like managing data flow between an operating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an NFT in 14 Lines of Code]]></title>
-        <id>6163d60c804854468fda82ca</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-an-nft/"/>
-        <updated>2021-10-14T17:49:36.000Z</updated>
-        <summary type="html"><![CDATA[High-profile celebrities like Jay-Z and Snoop Dog are getting into NFTs. With the cheapest CryptoPunk selling for 103 ETH (~360,000 USD at the time of this article), it is an excellent time for us developers to learn more about the engineering behind them to start building things. At the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start an Open Source Project on GitHub – Tips from Building My Trending Repo]]></title>
-        <id>615da5e40d91c9077974dd6a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/"/>
-        <updated>2021-10-14T17:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Developers around the world use GitHub to share their projects with the global developer community.  In this article, I'll give you some opinionated tips to help you build a great open-source project you can start using. You can also use these tips for building hackathon projects. Quite recently I ended]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotate Screen in Windows 10 – How to Flip Your Monitor Orientation 90 Degrees]]></title>
-        <id>6162db83804854468fda7b4c</id>
-        <link href="https://www.freecodecamp.org/news/rotate-screen-in-windows-10-how-to-flip-your-monitor-orientation-90-degrees/"/>
-        <updated>2021-10-14T15:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Windows 10 has a built-in feature that lets you flip or rotate your monitor screen just like you can do on your smartphone.  In this article, I will show you how to flip or rotate the monitor of your Windows 10 machine in several orientations such as reverse-landscape, portrait, and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Four Node.js and Express.js Projects]]></title>
-        <id>61683f7180d82d07c45a4893</id>
-        <link href="https://www.freecodecamp.org/news/build-six-node-js-and-express-js/"/>
-        <updated>2021-10-14T15:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Node.js and Express.js are popular technologies used for JavaScript backend web development. We just released a 10-hour course on the freeCodeCamp.org YouTube channel that will show you how to create four projects using Node and Express. John Smilga developed this course. John is one of the more]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -337,29 +370,6 @@ The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. Y
 1. Any basic 
 …
 The post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Tennis Trivia App With Next.js and Netlify]]></title>
-        <id>https://css-tricks.com/?p=353066</id>
-        <link href="https://css-tricks.com/building-a-tennis-trivia-app-with-next-js-and-netlify/"/>
-        <updated>2021-10-08T14:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Today we will be learning how to build a tennis trivia app using Next.js and Netlify. This technology stack has become my go-to on many projects. It allows for rapid development and easy deployment.
-Without further ado let’s jump in!…
-The post Building a Tennis Trivia App With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Brenley Dueck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Google Analytics and Plausible Numbers]]></title>
-        <id>https://css-tricks.com/?p=353062</id>
-        <link href="https://css-tricks.com/comparing-google-analytics-and-plausible-numbers/"/>
-        <updated>2021-10-08T14:30:40.000Z</updated>
-        <summary type="html"><![CDATA[I saw this blog post the other day: 58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics. That’s an enticing title to me. I’ve had Google Analytics on this site literally from the day I launched it. …
-The post Comparing Google Analytics and Plausible Numbers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
