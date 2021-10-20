@@ -1,17 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-19T00:45:23.999Z</id>
+    <id>urn:2021-10-20T00:44:18.658Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-19T00:45:23.999Z</updated>
+    <updated>2021-10-20T00:44:18.658Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[@supports selector()]]></title>
+        <id>https://css-tricks.com/?p=354115</id>
+        <link href="https://css-tricks.com/supports-selector/"/>
+        <updated>2021-10-19T21:12:18.000Z</updated>
+        <summary type="html"><![CDATA[I didn’t realize the support for @supports determining selector support was so good! I usually think of @supports as a way to test for property: value pair support. But with the selector() function, we can test for selector support …
+The post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL for Front End Developers]]></title>
+        <id>616bcb8580d82d07c45a5deb</id>
+        <link href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/"/>
+        <updated>2021-10-19T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Binary Tree Algorithms in Technical Interviews]]></title>
+        <id>616ef9b5d48e1707b6d78265</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/"/>
+        <updated>2021-10-19T17:13:24.000Z</updated>
+        <summary type="html"><![CDATA[A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TensorFlow Lite for Edge Devices]]></title>
+        <id>616ef6efd48e1707b6d7822c</id>
+        <link href="https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/"/>
+        <updated>2021-10-19T16:58:53.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Viewer – How to Access the Windows 10 Activity Log]]></title>
+        <id>616eda9cd48e1707b6d7801b</id>
+        <link href="https://www.freecodecamp.org/news/event-viewer-how-to-access-the-windows-10-activity-log/"/>
+        <updated>2021-10-19T16:33:26.000Z</updated>
+        <summary type="html"><![CDATA[The Windows 10 Event Viewer is an app that shows a log detailing information about significant events on your computer. This information includes automatically downloaded updates, errors, and warnings.  In this article, you'll learn what the event viewer is, the different logs it has, and most importantly, how to access]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Microsoft’s Azure Data Engineer Certification – DP-203 Exam Guide]]></title>
+        <id>616d9050d48e1707b6d77622</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pass-microsoft-azure-data-engineer-certification-dp-203/"/>
+        <updated>2021-10-19T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Data Engineering jobs are in high demand. And getting a certification in the subject is a good way to learn and to deepen and prove your skills.  Each cloud provider offers a certification specialized to their Data Engineering services. They carry weight but are not easy to pass. The Azure]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
+        <id>https://css-tricks.com/?p=353462</id>
+        <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
+        <updated>2021-10-19T14:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks! Elad reached out to me to show me his new CSS reset project called the-new-css-reset. It’s quite interesting! I thought a neat way to share it with you is not only to point you toward it, but …
+The post An Interview With Elad Shechter on “The New CSS Reset” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Elad Shechter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building An API With Gatsby Functions]]></title>
+        <id>https://smashingmagazine.com/2021/10/building-api-gatsby-functions/</id>
+        <link href="https://smashingmagazine.com/2021/10/building-api-gatsby-functions/"/>
+        <updated>2021-10-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?]]></title>
+        <id>https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/</id>
+        <link href="https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/"/>
+        <updated>2021-10-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three-Digit Browser Versions in March 2022]]></title>
         <id>https://css-tricks.com/?p=354269</id>
         <link href="https://css-tricks.com/three-digit-browser-versions-in-march-2022/"/>
         <updated>2021-10-18T22:53:05.000Z</updated>
-        <summary type="html"><![CDATA[This isn’t supposed to be any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do make those decisions.
-Karl Dubost notes that there is a significant change coming to them, notably moving the version …
+        <summary type="html"><![CDATA[We aren’t supposed to be doing any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do.
+Karl Dubost notes that there is a significant change coming to them, notably moving the version integer past …
 The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -68,16 +160,6 @@ The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[String to Int in C++ – How to Convert a String to an Integer Example]]></title>
-        <id>616c101880d82d07c45a5f9a</id>
-        <link href="https://www.freecodecamp.org/news/string-to-int-in-c-how-to-convert-a-string-to-an-integer-example/"/>
-        <updated>2021-10-18T14:54:58.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in C++, there will often be times when you'll want to convert one data type to a different one.  In this article you'll learn how to convert a string to an integer in C++ by seeing two of the most popular ways to do so.  Let's get]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
         <id>https://css-tricks.com/?p=353308</id>
         <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
@@ -111,36 +193,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UX Designer Salary – How much do UX/UI Designers Make? Entry Level Range]]></title>
-        <id>61063abe3306a507d1bfbfb0</id>
-        <link href="https://www.freecodecamp.org/news/ux-designer-salary-how-much-do-ux-ui-designers-make-entry-level-range/"/>
-        <updated>2021-10-15T17:39:48.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to tech, you might have just discovered UI/ UX design and want to pursue that career path. But what is the starting salary for entry level UX/UI designers? In this article, I will provide definitions for UI/ UX design as well as starting salary information]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Delete a Page in Word – Remove Blank or Extra Pages]]></title>
-        <id>61694be680d82d07c45a51bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/"/>
-        <updated>2021-10-15T16:49:29.000Z</updated>
-        <summary type="html"><![CDATA[If you're using Microsoft Word, you don't want blank pages appearing in the middle of your document, or extra pages at the end.  These extra pages could be caused by tables, hitting the ENTER key too many times, unnecessary section breaks, unintentional page breaks, extra paragraph markers, and more.  You]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?]]></title>
-        <id>61680b4480d82d07c45a4661</id>
-        <link href="https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/"/>
-        <updated>2021-10-15T16:30:13.000Z</updated>
-        <summary type="html"><![CDATA[The Internet is one of our greatest inventions.  Millions of people use the Internet every second of the day, and it has changed many aspects of our lives – from creating new jobs and a new way of working to influencing how news is consumed and how decisions are made.  Although]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Expandable Sections Within a CSS Grid]]></title>
         <id>https://css-tricks.com/?p=353473</id>
         <link href="https://css-tricks.com/expandable-sections-within-a-css-grid/"/>
@@ -159,16 +211,6 @@ The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React.useEffect Hook – Common Problems and How to Fix Them]]></title>
-        <id>61686f8b80d82d07c45a4e4a</id>
-        <link href="https://www.freecodecamp.org/news/most-common-react-useeffect-problems-and-how-to-fix-them/"/>
-        <updated>2021-10-14T22:07:02.000Z</updated>
-        <summary type="html"><![CDATA[React hooks have been around for a while now. Most developers have gotten pretty comfortable with how they work and their common use cases. But there is one useEffect gotcha that a lot of us keep falling for. The use caseLet's start with a simple scenario. We are building a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -349,32 +391,6 @@ The post Better Collaboration With Pull Requests appeared first on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Case for ‘Developer Experience’]]></title>
-        <id>https://css-tricks.com/?p=353429</id>
-        <link href="https://future.a16z.com/the-case-for-developer-experience/"/>
-        <updated>2021-10-08T20:23:42.000Z</updated>
-        <summary type="html"><![CDATA[A good essay from Jean Yang. 
-What I mean by developer experience is the sum total of how developers interface with their tools, end-to-end, day-in and day-out. Sure, there’s more focus than ever on how developers use and adopt tools, and 
-…
-The post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jekyll doesn’t do components? Liar!]]></title>
-        <id>https://css-tricks.com/?p=353374</id>
-        <link href="https://katiekodes.com/jekyll-components-wysiwyg/"/>
-        <updated>2021-10-08T17:14:05.000Z</updated>
-        <summary type="html"><![CDATA[I like the pushback from Katie Kodes here. I’ve said in the past that I don’t think server-side languages haven’t quite nailed “building in components” as well as JavaScript has, but hey, this is a good point:
-1. Any basic 
-…
-The post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions]]></title>
         <id>https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/</id>
         <link href="https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/"/>
@@ -546,16 +562,6 @@ Thank you: @CaptNo1]]></summary>
         <summary type="html"><![CDATA[The last 18 months have been a time of unprecedented turbulence. As the people of the world have flooded online, businesses have joined them, using web development tools to adapt in real-time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Imposter Domains Re-Publishing Your Website?]]></title>
-        <id>https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/</id>
-        <link href="https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/"/>
-        <updated>2021-09-20T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ken Harker)</name>
         </author>
     </entry>
 </feed>
