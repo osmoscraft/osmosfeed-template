@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-20T00:44:18.658Z</id>
+    <id>urn:2021-10-21T00:48:43.349Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-20T00:44:18.658Z</updated>
+    <updated>2021-10-21T00:48:43.349Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
+        <id>617058f3d48e1707b6d7913d</id>
+        <link href="https://www.freecodecamp.org/news/adapter-design-in-react/"/>
+        <updated>2021-10-21T00:33:49.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links VIII]]></title>
+        <id>https://css-tricks.com/?p=353866</id>
+        <link href="https://css-tricks.com/some-typography-links-viii/"/>
+        <updated>2021-10-20T23:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ 
+…
+The post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Angular - Crash Course]]></title>
+        <id>61708409d48e1707b6d79387</id>
+        <link href="https://www.freecodecamp.org/news/learn-angular-full-course/"/>
+        <updated>2021-10-20T21:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Angular is a TypeScript-based free and open-source web application framework created by Google. We just published a 2-hour Angular crash course on the freeCodeCamp.org YouTube channel. Slobodan Gajic created this course. Slobodan has created a bunch of amazing courses on his own channel. In this course you will learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Safe Area Context in React Native Apps to Avoid the Notch]]></title>
+        <id>616945f580d82d07c45a5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-safe-area-context-to-avoid-notches-in-react-native-apps/"/>
+        <updated>2021-10-20T19:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Most devices nowadays come with a notch at the top of the screen. So when you're building a mobile application using React Native, you need to make sure that the content of the app's screen is rendered correctly across different types of devices. In this article, we'll look at two]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is my IP Address for my Router? How to Find your Wifi Address]]></title>
+        <id>616ffc6dd48e1707b6d78992</id>
+        <link href="https://www.freecodecamp.org/news/what-is-my-ip-address-for-my-router-how-to-find-your-wifi-address/"/>
+        <updated>2021-10-20T19:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might need to know your router’s IP address. This will give you access to the setup page so you can make configuration changes like changing passwords, kicking out unwanted users, limiting users, and so on.  In this article, I will show you how to find out what]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
+        <id>https://css-tricks.com/?p=353638</id>
+        <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
+        <updated>2021-10-20T15:02:28.000Z</updated>
+        <summary type="html"><![CDATA[No matter what stage you’re at as a developer, the tasks we complete—whether big or small—make a huge impact in our personal and professional growth. Unfortunately, those tasks aren’t always recognized because they can easily get lost in the sea …
+The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Emily Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich]]></title>
+        <id>https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/</id>
+        <link href="https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/"/>
+        <updated>2021-10-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ben Holmes)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@supports selector()]]></title>
         <id>https://css-tricks.com/?p=354115</id>
@@ -120,46 +193,6 @@ The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Train BPE, WordPiece, and Unigram Tokenizers from Scratch using Hugging Face]]></title>
-        <id>616bf9ac80d82d07c45a5f84</id>
-        <link href="https://www.freecodecamp.org/news/train-algorithms-from-scratch-with-hugging-face/"/>
-        <updated>2021-10-18T22:27:40.000Z</updated>
-        <summary type="html"><![CDATA[If you've had some experience with NLP, you probably know that tokenization is at the helm of any NLP pipeline.  Tokenization is often regarded as a subfield of NLP but it has its own story of evolution. And now it underpins many state-of-the-art NLP models. This post is all about]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Currying and Composition in JavaScript]]></title>
-        <id>6167a24680d82d07c45a4519</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/"/>
-        <updated>2021-10-18T22:06:59.000Z</updated>
-        <summary type="html"><![CDATA[A great conversation I had this evening got me thinking about and revisiting a concept I've toyed with before – currying. But this time, I'd like to explore it with you all! The concept of currying is not a new one, but it is very useful. It is also foundational for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAT File – How to Open the .dat File Format Extension]]></title>
-        <id>616db48dd48e1707b6d7789b</id>
-        <link href="https://www.freecodecamp.org/news/dat-file-how-to-open-the-dat-file-format-extension/"/>
-        <updated>2021-10-18T21:05:35.000Z</updated>
-        <summary type="html"><![CDATA[A DAT file is a data file that contains specific information about the program used to create it.  This file always has the .dat file extension, which is a generic format that can contain any information – video, audio, PDF, and virtually any other type of file.  Many desktop and mobile]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Windows for Node.js Development with NVM]]></title>
-        <id>61694c9980d82d07c45a51ce</id>
-        <link href="https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/"/>
-        <updated>2021-10-18T20:56:58.000Z</updated>
-        <summary type="html"><![CDATA[So you want to develop using the JavaScript run-everywhere platform on the same computer where you game, edit videos, code C# desktop apps, or whatever.  You are also aware that there are multiple Node.js versions in active development and it is fairly common to find projects in the wild]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
         <id>https://css-tricks.com/?p=353308</id>
         <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
@@ -178,6 +211,16 @@ The post How to Build a Nearly Headless WordPress Website appeared first on CSS-
         <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Arijit Mondal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple But Effective Mental Health Routine For Programmers]]></title>
+        <id>https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/</id>
+        <link href="https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/"/>
+        <updated>2021-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dave Oscar)</name>
         </author>
     </entry>
     <entry>
@@ -343,31 +386,6 @@ We’d have to ask them, I suppose. But it’s hard not to see this push to nati
 The post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cash (Tiny jQuery Alternative)]]></title>
-        <id>https://css-tricks.com/?p=353431</id>
-        <link href="https://css-tricks.com/cash-tiny-jquery-alternative/"/>
-        <updated>2021-10-11T20:28:24.000Z</updated>
-        <summary type="html"><![CDATA[The README for Cash is straightforward:
-Cash is an absurdly small jQuery alternative for modern browsers (IE11+) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chainable methods 
-…
-The post Cash (Tiny jQuery Alternative) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Collaboration With Pull Requests]]></title>
-        <id>https://css-tricks.com/?p=352569</id>
-        <link href="https://css-tricks.com/better-collaboration-with-pull-requests/"/>
-        <updated>2021-10-11T14:29:44.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!
-In this third installment of our “Advanced Git” series, we’ll look at …
-The post Better Collaboration With Pull Requests appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
         </author>
     </entry>
     <entry>
@@ -542,26 +560,6 @@ Thank you: @CaptNo1]]></summary>
         <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build Your Own Mouseless Development Environment]]></title>
-        <id>https://smashingmagazine.com/2021/09/mouseless-development-environment/</id>
-        <link href="https://smashingmagazine.com/2021/09/mouseless-development-environment/"/>
-        <updated>2021-09-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthieu Cneude)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Web Development Tools Are Helping Users Keep Pace With Rapid Change]]></title>
-        <id>https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/</id>
-        <link href="https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/"/>
-        <updated>2021-09-21T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The last 18 months have been a time of unprecedented turbulence. As the people of the world have flooded online, businesses have joined them, using web development tools to adapt in real-time.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
