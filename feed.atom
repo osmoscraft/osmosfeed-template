@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-21T00:48:43.349Z</id>
+    <id>urn:2021-10-22T00:49:05.201Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-21T00:48:43.349Z</updated>
+    <updated>2021-10-22T00:49:05.201Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
+        <id>https://css-tricks.com/?p=354537</id>
+        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
+        <updated>2021-10-21T22:14:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s not uncommon for my front-end workflow to go something like this:
+Work on thing.
+See that thing in an automatically refreshed browser.
+See something wrong with that thing.
+Inspect and correct the thing in DevTools.
+Apply the correct code 
+…
+The post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS-in-React Landscape]]></title>
+        <id>https://css-tricks.com/?p=353318</id>
+        <link href="https://css-tricks.com/the-css-in-react-landscape/"/>
+        <updated>2021-10-21T22:13:57.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …
+The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dotfiles – What is a Dotfile and How to Create it in Mac and Linux]]></title>
+        <id>616fed81d48e1707b6d7898e</id>
+        <link href="https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/"/>
+        <updated>2021-10-21T19:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code an Endless Runner Game Using Unreal Engine and C++]]></title>
+        <id>6171b7b2d48e1707b6d79998</id>
+        <link href="https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/"/>
+        <updated>2021-10-21T19:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is msmpeng.exe? Why is it High CPU Disk Usage?]]></title>
+        <id>617144ced48e1707b6d79686</id>
+        <link href="https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/"/>
+        <updated>2021-10-21T15:01:54.000Z</updated>
+        <summary type="html"><![CDATA[msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Contact Form With Next.js and Netlify]]></title>
+        <id>https://css-tricks.com/?p=353128</id>
+        <link href="https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/"/>
+        <updated>2021-10-21T14:26:03.000Z</updated>
+        <summary type="html"><![CDATA[We’re going to create a contact form with Next.js and Netlify that displays a confirmation screen and features enhanced spam detection.
+Next.js is a powerful React framework for developing performant React applications that scale. By integrating a Next.js site with …
+The post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Monica Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
+        <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
+        <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
+        <updated>2021-10-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
         <id>617058f3d48e1707b6d7913d</id>
@@ -120,26 +201,6 @@ The post @supports selector() appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event Viewer – How to Access the Windows 10 Activity Log]]></title>
-        <id>616eda9cd48e1707b6d7801b</id>
-        <link href="https://www.freecodecamp.org/news/event-viewer-how-to-access-the-windows-10-activity-log/"/>
-        <updated>2021-10-19T16:33:26.000Z</updated>
-        <summary type="html"><![CDATA[The Windows 10 Event Viewer is an app that shows a log detailing information about significant events on your computer. This information includes automatically downloaded updates, errors, and warnings.  In this article, you'll learn what the event viewer is, the different logs it has, and most importantly, how to access]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Microsoft’s Azure Data Engineer Certification – DP-203 Exam Guide]]></title>
-        <id>616d9050d48e1707b6d77622</id>
-        <link href="https://www.freecodecamp.org/news/how-to-pass-microsoft-azure-data-engineer-certification-dp-203/"/>
-        <updated>2021-10-19T16:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Data Engineering jobs are in high demand. And getting a certification in the subject is a good way to learn and to deepen and prove your skills.  Each cloud provider offers a certification specialized to their Data Engineering services. They carry weight but are not easy to pass. The Azure]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
         <id>https://css-tricks.com/?p=353462</id>
         <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
@@ -180,16 +241,6 @@ Karl Dubost notes that there is a significant change coming to them, notably mov
 The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String split() and join() Methods – Explained with Examples]]></title>
-        <id>6169435380d82d07c45a5119</id>
-        <link href="https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/"/>
-        <updated>2021-10-18T22:40:12.000Z</updated>
-        <summary type="html"><![CDATA[When working with strings in Python, you may have to split a string into substrings. Or you might need to join together smaller chunks to form a string. Python's split() and join() string methods help you do these tasks easily. In this tutorial, you'll learn about the split() and join(]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -334,28 +385,6 @@ The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jamstack Developers’ Favorite Frameworks of 2021]]></title>
-        <id>https://css-tricks.com/?p=353415</id>
-        <link href="https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/"/>
-        <updated>2021-10-12T14:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …
-The post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Laurie Voss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WooCommerce + Google Analytics]]></title>
-        <id>https://css-tricks.com/?p=353317</id>
-        <link href="https://css-tricks.com/woocommerce-google-analytics/"/>
-        <updated>2021-10-12T14:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …
-The post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful React APIs For Building Flexible Components With TypeScript]]></title>
         <id>https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/</id>
         <link href="https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/"/>
@@ -373,19 +402,6 @@ The post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can su
         <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Those “Get The App” Banners]]></title>
-        <id>https://css-tricks.com/?p=352907</id>
-        <link href="https://css-tricks.com/those-get-the-app-banners/"/>
-        <updated>2021-10-11T22:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Why would a company promote a native app over their perfectly usable website?
-We’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native 
-…
-The post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
