@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-22T00:49:05.201Z</id>
+    <id>urn:2021-10-23T00:45:44.976Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T00:49:05.201Z</updated>
+    <updated>2021-10-23T00:45:44.976Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vue vs React – How to Go from One Framework to the Other]]></title>
+        <id>6130bf69d6679a07b7d40a74</id>
+        <link href="https://www.freecodecamp.org/news/vue-vs-react-comparison-of-frameworks/"/>
+        <updated>2021-10-22T21:59:39.000Z</updated>
+        <summary type="html"><![CDATA[These days, a new trending front-end framework is released every now and then. But React and Vue.js still stand as the most popular among all the other alternatives.  And although both are performant, elegant, and arguably easy to learn, they have some different opinions on how certain things should]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Include (a Certain HTML element within another Certain HTML Element)]]></title>
+        <id>https://css-tricks.com/?p=354567</id>
+        <link href="https://caninclude.glitch.me/"/>
+        <updated>2021-10-22T17:57:30.000Z</updated>
+        <summary type="html"><![CDATA[A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.
+Some combinations feel fairly obvious: can you put …
+The post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS Paint API: Rounding Shapes]]></title>
+        <id>https://css-tricks.com/?p=353391</id>
+        <link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
+        <updated>2021-10-22T14:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …
+The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
+        <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
+        <updated>2021-10-22T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Martin Grubinger)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
         <id>https://css-tricks.com/?p=354537</id>
@@ -191,16 +234,6 @@ The post @supports selector() appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TensorFlow Lite for Edge Devices]]></title>
-        <id>616ef6efd48e1707b6d7822c</id>
-        <link href="https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/"/>
-        <updated>2021-10-19T16:58:53.000Z</updated>
-        <summary type="html"><![CDATA[TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
         <id>https://css-tricks.com/?p=353462</id>
         <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
@@ -348,28 +381,6 @@ The post Embedded Analytics Made Simple With Cumul.io Integrations appeared firs
         <summary type="html"><![CDATA[Web-browser for research that helps programmers think clearly.
 With Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …
 The post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS is Going Gosh-Darned Hog Wild, I Tell Ya What]]></title>
-        <id>https://css-tricks.com/?p=352459</id>
-        <link href="https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/"/>
-        <updated>2021-10-13T15:36:43.000Z</updated>
-        <summary type="html"><![CDATA[As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …
-The post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Absolute Positioning With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=353700</id>
-        <link href="https://ishadeed.com/article/less-absolute-positioning-modern-css/"/>
-        <updated>2021-10-13T14:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …
-The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -554,26 +565,6 @@ Thank you: @CaptNo1]]></summary>
         <link href="https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/"/>
         <updated>2021-09-24T06:50:00.000Z</updated>
         <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
-        <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
-        <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
-        <updated>2021-09-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
-        <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
-        <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
-        <updated>2021-09-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>

@@ -11,7 +11,7 @@
           "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
           "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 299,
+          "wordCount": 295,
           "title": "v1.11.3"
         },
         {
@@ -20,7 +20,7 @@
           "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
           "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 350,
+          "wordCount": 326,
           "title": "v1.11.2"
         }
       ]
@@ -30,6 +30,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=354567",
+          "author": "Chris Coyier",
+          "description": "A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.\nSome combinations feel fairly obvious: can you put …\nThe post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://caninclude.glitch.me/",
+          "publishedOn": "2021-10-22T17:57:30.000Z",
+          "wordCount": 136,
+          "title": "Can Include (a Certain HTML element within another Certain HTML Element)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353391",
+          "author": "Temani Afif",
+          "description": "Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …\nThe post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/",
+          "publishedOn": "2021-10-22T14:02:54.000Z",
+          "wordCount": 3465,
+          "title": "Exploring the CSS Paint API: Rounding Shapes"
+        },
         {
           "id": "https://css-tricks.com/?p=354537",
           "author": "Geoff Graham",
@@ -117,7 +135,7 @@
           "description": "I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …\nThe post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/expandable-sections-within-a-css-grid/",
           "publishedOn": "2021-10-15T16:18:20.000Z",
-          "wordCount": 3737,
+          "wordCount": 3777,
           "title": "Expandable Sections Within a CSS Grid"
         },
         {
@@ -126,7 +144,7 @@
           "description": "One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …\nThe post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/different-degrees-of-custom-property-usage/",
           "publishedOn": "2021-10-14T14:35:42.000Z",
-          "wordCount": 1780,
+          "wordCount": 1832,
           "title": "Different Degrees of Custom Property Usage"
         },
         {
@@ -146,24 +164,6 @@
           "publishedOn": "2021-10-13T22:50:47.000Z",
           "wordCount": 32,
           "title": "Bonsai Browser"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352459",
-          "author": "Chris Coyier",
-          "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
-          "publishedOn": "2021-10-13T15:36:43.000Z",
-          "wordCount": 1973,
-          "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353700",
-          "author": "Chris Coyier",
-          "description": "Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …\nThe post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
-          "publishedOn": "2021-10-13T14:42:26.000Z",
-          "wordCount": 2122,
-          "title": "Less Absolute Positioning With Modern CSS"
         }
       ]
     },
@@ -173,12 +173,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
+          "author": "hello@smashingmagazine.com (Martin Grubinger)",
+          "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
+          "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
+          "publishedOn": "2021-10-22T09:30:00.000Z",
+          "wordCount": 4628,
+          "title": "How To Build A Real-Time Multi-User Game From Scratch",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
           "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
           "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
           "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2882,
+          "wordCount": 2880,
           "title": "Respecting Users’ Motion Preferences",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
@@ -192,7 +206,7 @@
           "description": "Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.",
           "link": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
           "publishedOn": "2021-10-20T11:00:00.000Z",
-          "wordCount": 5045,
+          "wordCount": 5042,
           "title": "Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1ff6275f-bf33-480f-bdd4-690e94f96314/building-ssg-11ty-vite-jam-sandwich.jpg",
@@ -206,7 +220,7 @@
           "description": "In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.",
           "link": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
           "publishedOn": "2021-10-19T14:00:00.000Z",
-          "wordCount": 2525,
+          "wordCount": 2537,
           "title": "Building An API With Gatsby Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/110c2aa7-7744-48d6-a234-9e67e903cbe5/building-api-gatsby-functions.jpg",
@@ -234,7 +248,7 @@
           "description": "Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.",
           "link": "https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/",
           "publishedOn": "2021-10-18T14:00:00.000Z",
-          "wordCount": 2134,
+          "wordCount": 2132,
           "title": "Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e522651-eaf2-45e7-a544-9da7beb7b23e/nextjs-ecommerce-cls-case-study.jpg",
@@ -248,7 +262,7 @@
           "description": "In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.",
           "link": "https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/",
           "publishedOn": "2021-10-16T10:00:00.000Z",
-          "wordCount": 2848,
+          "wordCount": 2861,
           "title": "A Simple But Effective Mental Health Routine For Programmers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c36dd2b2-f807-42a7-b8d1-9e6e9a00b3e7/effective-mental-health-routine-for-programmers.jpg",
@@ -276,7 +290,7 @@
           "description": "Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
           "publishedOn": "2021-10-14T12:00:00.000Z",
-          "wordCount": 3525,
+          "wordCount": 3523,
           "title": "Smart CSS Solutions For Common UI Challenges",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3bf0115-0bc9-41b7-b027-3ea8b6b7e848/transition-css-gradients-opt.png",
@@ -304,7 +318,7 @@
           "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
           "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2339,
+          "wordCount": 2344,
           "title": "Useful React APIs For Building Flexible Components With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
@@ -332,7 +346,7 @@
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
           "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3729,
+          "wordCount": 3738,
           "title": "The Autofill Dark Pattern",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
@@ -346,7 +360,7 @@
           "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
           "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
           "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2814,
+          "wordCount": 2816,
           "title": "Composable CSS Animation In Vue With AnimXYZ",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
@@ -360,7 +374,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7089,
+          "wordCount": 7100,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -374,7 +388,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 1000,
+          "wordCount": 999,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
@@ -388,7 +402,7 @@
           "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
           "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
           "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5480,
+          "wordCount": 5477,
           "title": "A Guide To CSS Debugging",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
@@ -402,7 +416,7 @@
           "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
           "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1789,
+          "wordCount": 1787,
           "title": "Local Testing A Serverless API (API Gateway And Lambda)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
@@ -416,7 +430,7 @@
           "description": "In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!",
           "link": "https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/",
           "publishedOn": "2021-10-04T10:00:00.000Z",
-          "wordCount": 2615,
+          "wordCount": 2612,
           "title": "How To Build An Expandable Accessible Gallery",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8271f985-0b13-4db2-afd6-3f6026272fc2/build-expandable-accessible-gallery.jpg",
@@ -444,7 +458,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2477,
+          "wordCount": 2479,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -458,7 +472,7 @@
           "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
           "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5050,
+          "wordCount": 5055,
           "title": "Using Modern Image Formats: AVIF And WebP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
@@ -472,7 +486,7 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3873,
+          "wordCount": 3870,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
@@ -486,7 +500,7 @@
           "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
           "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
           "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4952,
+          "wordCount": 4950,
           "title": "Let’s Dive Into Cypress For End-to-End Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
@@ -500,7 +514,7 @@
           "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
           "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
           "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3793,
+          "wordCount": 3798,
           "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
@@ -521,34 +535,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
-          "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2156,
-          "title": "Simplifying Form Styles With `accent-color`",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
-          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "publishedOn": "2021-09-22T15:00:00.000Z",
-          "wordCount": 725,
-          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -557,6 +543,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6130bf69d6679a07b7d40a74",
+          "author": null,
+          "description": "These days, a new trending front-end framework is released every now and then. But React and Vue.js still stand as the most popular among all the other alternatives.  And although both are performant, elegant, and arguably easy to learn, they have some different opinions on how certain things should",
+          "link": "https://www.freecodecamp.org/news/vue-vs-react-comparison-of-frameworks/",
+          "publishedOn": "2021-10-22T21:59:39.000Z",
+          "wordCount": 5950,
+          "title": "Vue vs React – How to Go from One Framework to the Other"
+        },
         {
           "id": "616fed81d48e1707b6d7898e",
           "author": null,
@@ -637,15 +632,6 @@
           "publishedOn": "2021-10-19T17:13:24.000Z",
           "wordCount": 20608,
           "title": "How to Implement Binary Tree Algorithms in Technical Interviews"
-        },
-        {
-          "id": "616ef6efd48e1707b6d7822c",
-          "author": null,
-          "description": "TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite",
-          "link": "https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/",
-          "publishedOn": "2021-10-19T16:58:53.000Z",
-          "wordCount": 7857,
-          "title": "Learn TensorFlow Lite for Edge Devices"
         }
       ]
     }
