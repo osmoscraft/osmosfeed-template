@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-23T00:45:44.976Z</id>
+    <id>urn:2021-10-24T00:43:11.528Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-23T00:45:44.976Z</updated>
+    <updated>2021-10-24T00:43:11.528Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Quasar Framework: Building Cross-Platform Applications]]></title>
+        <id>https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/</id>
+        <link href="https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/"/>
+        <updated>2021-10-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joel Olawanle)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue vs React – How to Go from One Framework to the Other]]></title>
         <id>6130bf69d6679a07b7d40a74</id>
@@ -547,26 +557,6 @@ Chore: Dependency updates
 Thank you: @CaptNo1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebuilding A Large E-Commerce Website With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/"/>
-        <updated>2021-09-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jonne Kats)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Online Workshop: Frustrating Design Patterns And How To Fix Them]]></title>
-        <id>https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/</id>
-        <link href="https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/"/>
-        <updated>2021-09-24T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
