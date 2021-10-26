@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-25T00:45:05.076Z</id>
+    <id>urn:2021-10-26T00:40:55.399Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-25T00:45:05.076Z</updated>
+    <updated>2021-10-26T00:40:55.399Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Table in SQL – Postgres and MySQL Example Query]]></title>
+        <id>612cbff5b5177808226d4a51</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-table-in-sql-postgres-and-mysql-example-query/"/>
+        <updated>2021-10-25T22:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to create tables in SQL is an important and fundamental concept.  In this tutorial, I will walk you through the SQL syntax for the CREATE TABLE statement using code examples for both PostgreSQL and MySQL.   Basic CREATE TABLE SyntaxHere is the basic syntax for the CREATE TABLE statement:]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming is Really Hard – But Don&#x27;t Give Up]]></title>
+        <id>616f0656d48e1707b6d78353</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-better-at-programming-even-when-its-hard/"/>
+        <updated>2021-10-25T21:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Learning to do something new is hard. Whether it's a physical feat like reaching a new best lift or a mental challenge like learning a new language – both entail months of work, multiple setbacks, and hundreds of hours of time put in. And then you still might just be at]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)]]></title>
+        <id>https://css-tricks.com/?p=353728</id>
+        <link href="https://css-tricks.com/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/"/>
+        <updated>2021-10-25T19:25:17.000Z</updated>
+        <summary type="html"><![CDATA[When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …
+The post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Hooks Tutorial – useState, useEffect, and How to Create Custom Hooks]]></title>
+        <id>616c3fff80d82d07c45a6337</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-react-hooks/"/>
+        <updated>2021-10-25T15:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Hooks were first introduced in React 16.8. And they're great because they let you use more of React's features – like managing your component's state, or performing an after effect when certain changes occur in state(s) without writing a class.  In this article, you will learn how to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL vs REST API – Which Should You Use for Back End API Development?]]></title>
+        <id>6104f8e83306a507d1bfbc2c</id>
+        <link href="https://www.freecodecamp.org/news/graphql-vs-rest-api/"/>
+        <updated>2021-10-25T15:02:30.000Z</updated>
+        <summary type="html"><![CDATA[REST and GraphQL are both standard ways to develop backend APIs. But over the past decade REST APIs have dominated as a choice for developing backend API's. And many companies and developers use it actively in their projects.   But REST has some limitations, and there's another alternative available – GraphQL. GraphQL]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Semantics of Jamstack]]></title>
+        <id>https://css-tricks.com/?p=353496</id>
+        <link href="https://css-tricks.com/the-semantics-of-jamstack/"/>
+        <updated>2021-10-25T14:20:08.000Z</updated>
+        <summary type="html"><![CDATA[The past year has seen a healthy debate around the term ‘Jamstack’ as the definition gets stretched to include new use cases. I recently posted my take on a Jamstack definition in “Static vs. Dynamic vs. Jamstack: Where’s The Line?”…
+The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mike Neumegen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Query CSS Example – Max and Min Screen Width for Mobile Responsive Design]]></title>
+        <id>615d55c00d91c9077974d3fc</id>
+        <link href="https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/"/>
+        <updated>2021-10-25T14:02:26.000Z</updated>
+        <summary type="html"><![CDATA[When you are designing a website, it is really important that your content looks good on all screen sizes.  In this article, I will talk about how to use responsive design and media queries to make this happen. I will also provide code examples for media queries using max and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive Into object-fit And background-size In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/10/object-fit-background-size-css/</id>
+        <link href="https://smashingmagazine.com/2021/10/object-fit-background-size-css/"/>
+        <updated>2021-10-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction To Quasar Framework: Building Cross-Platform Applications]]></title>
         <id>https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/</id>
@@ -162,36 +244,6 @@ The post Some Typography Links VIII appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Angular - Crash Course]]></title>
-        <id>61708409d48e1707b6d79387</id>
-        <link href="https://www.freecodecamp.org/news/learn-angular-full-course/"/>
-        <updated>2021-10-20T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a TypeScript-based free and open-source web application framework created by Google. We just published a 2-hour Angular crash course on the freeCodeCamp.org YouTube channel. Slobodan Gajic created this course. Slobodan has created a bunch of amazing courses on his own channel. In this course you will learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Safe Area Context in React Native Apps to Avoid the Notch]]></title>
-        <id>616945f580d82d07c45a5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-safe-area-context-to-avoid-notches-in-react-native-apps/"/>
-        <updated>2021-10-20T19:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Most devices nowadays come with a notch at the top of the screen. So when you're building a mobile application using React Native, you need to make sure that the content of the app's screen is rendered correctly across different types of devices. In this article, we'll look at two]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is my IP Address for my Router? How to Find your Wifi Address]]></title>
-        <id>616ffc6dd48e1707b6d78992</id>
-        <link href="https://www.freecodecamp.org/news/what-is-my-ip-address-for-my-router-how-to-find-your-wifi-address/"/>
-        <updated>2021-10-20T19:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might need to know your router’s IP address. This will give you access to the setup page so you can make configuration changes like changing passwords, kicking out unwanted users, limiting users, and so on.  In this article, I will show you how to find out what]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
         <id>https://css-tricks.com/?p=353638</id>
         <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
@@ -221,26 +273,6 @@ The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. Y
 The post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL for Front End Developers]]></title>
-        <id>616bcb8580d82d07c45a5deb</id>
-        <link href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/"/>
-        <updated>2021-10-19T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Binary Tree Algorithms in Technical Interviews]]></title>
-        <id>616ef9b5d48e1707b6d78265</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/"/>
-        <updated>2021-10-19T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA[A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -362,18 +394,6 @@ The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedded Analytics Made Simple With Cumul.io Integrations]]></title>
-        <id>https://css-tricks.com/?p=353243</id>
-        <link href="https://css-tricks.com/embedded-analytics-made-simple-with-cumul-io-integrations/"/>
-        <updated>2021-10-14T14:32:22.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Browse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name it and you’ll see a common theme appear in many of them. That theme can go by many names: BI, analytics, insights and …
-The post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Cumul.io</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
         <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
         <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
@@ -381,18 +401,6 @@ The post Embedded Analytics Made Simple With Cumul.io Integrations appeared firs
         <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonsai Browser]]></title>
-        <id>https://css-tricks.com/?p=353719</id>
-        <link href="https://bonsaibrowser.com/"/>
-        <updated>2021-10-13T22:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Web-browser for research that helps programmers think clearly.
-With Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …
-The post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
