@@ -13,15 +13,6 @@
           "publishedOn": "2021-10-16T00:01:47.000Z",
           "wordCount": 292,
           "title": "v1.11.3"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 323,
-          "title": "v1.11.2"
         }
       ]
     },
@@ -31,12 +22,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354365",
+          "author": "Chris Coyier",
+          "description": "We’ve covered URL schemes: \nA URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!\nI’d call it non-trivial, but developers can register new …\nThe post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/on-browser-specific-url-schemes/",
+          "publishedOn": "2021-10-26T20:06:29.000Z",
+          "wordCount": 999,
+          "title": "On Browser-Specific URL Schemes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353747",
+          "author": "Hilman Ramadhan",
+          "description": "If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …\nThe post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/",
+          "publishedOn": "2021-10-26T14:11:59.000Z",
+          "wordCount": 1579,
+          "title": "In-Page Filtered Search With Vanilla JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353621",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nBuilding products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …\nThe post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/userwell-is-for-managing-customer-feedback/",
+          "publishedOn": "2021-10-26T14:10:05.000Z",
+          "wordCount": 621,
+          "title": "Userwell is for Managing Customer Feedback"
+        },
+        {
           "id": "https://css-tricks.com/?p=353728",
           "author": "Chris Coyier",
           "description": "When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …\nThe post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/",
           "publishedOn": "2021-10-25T19:25:17.000Z",
-          "wordCount": 1821,
+          "wordCount": 1860,
           "title": "The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)"
         },
         {
@@ -81,7 +99,7 @@
           "description": "(This is a sponsored post.)\nI only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …\nThe post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-css-in-react-landscape/",
           "publishedOn": "2021-10-21T22:13:57.000Z",
-          "wordCount": 1746,
+          "wordCount": 1579,
           "title": "The CSS-in-React Landscape"
         },
         {
@@ -137,33 +155,6 @@
           "publishedOn": "2021-10-18T22:53:05.000Z",
           "wordCount": 528,
           "title": "Three-Digit Browser Versions in March 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353308",
-          "author": "Alex Standiford",
-          "description": "I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …\nThe post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/",
-          "publishedOn": "2021-10-18T14:48:34.000Z",
-          "wordCount": 2414,
-          "title": "How to Build a Nearly Headless WordPress Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353473",
-          "author": "Kev Bonett",
-          "description": "I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …\nThe post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/expandable-sections-within-a-css-grid/",
-          "publishedOn": "2021-10-15T16:18:20.000Z",
-          "wordCount": 4116,
-          "title": "Expandable Sections Within a CSS Grid"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353057",
-          "author": "Chris Coyier",
-          "description": "One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …\nThe post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/different-degrees-of-custom-property-usage/",
-          "publishedOn": "2021-10-14T14:35:42.000Z",
-          "wordCount": 1832,
-          "title": "Different Degrees of Custom Property Usage"
         }
       ]
     },
@@ -173,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
+          "author": "hello@smashingmagazine.com (Melvin Kosisochukwu)",
+          "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
+          "link": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
+          "publishedOn": "2021-10-26T10:00:00.000Z",
+          "wordCount": 3029,
+          "title": "Optimizing Next.js Applications With Nx",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b5517f-415c-43ed-98a6-70215d408f7a/optimizing-nextjs-applications-nx.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
           "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
           "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
           "link": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
           "publishedOn": "2021-10-25T13:00:00.000Z",
-          "wordCount": 2036,
+          "wordCount": 2034,
           "title": "A Deep Dive Into object-fit And background-size In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/19e7f717-46d5-4949-96f4-671f4744d0e1/object-fit-background-size-css.jpg",
@@ -192,7 +197,7 @@
           "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
           "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
           "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4929,
+          "wordCount": 4919,
           "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
@@ -206,7 +211,7 @@
           "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
           "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
           "publishedOn": "2021-10-22T09:30:00.000Z",
-          "wordCount": 4628,
+          "wordCount": 4629,
           "title": "How To Build A Real-Time Multi-User Game From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
@@ -220,7 +225,7 @@
           "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
           "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
           "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2880,
+          "wordCount": 2883,
           "title": "Respecting Users’ Motion Preferences",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
@@ -234,7 +239,7 @@
           "description": "Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.",
           "link": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
           "publishedOn": "2021-10-20T11:00:00.000Z",
-          "wordCount": 5042,
+          "wordCount": 5050,
           "title": "Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1ff6275f-bf33-480f-bdd4-690e94f96314/building-ssg-11ty-vite-jam-sandwich.jpg",
@@ -248,7 +253,7 @@
           "description": "In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.",
           "link": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
           "publishedOn": "2021-10-19T14:00:00.000Z",
-          "wordCount": 2526,
+          "wordCount": 2539,
           "title": "Building An API With Gatsby Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/110c2aa7-7744-48d6-a234-9e67e903cbe5/building-api-gatsby-functions.jpg",
@@ -276,7 +281,7 @@
           "description": "Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.",
           "link": "https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/",
           "publishedOn": "2021-10-18T14:00:00.000Z",
-          "wordCount": 2134,
+          "wordCount": 2130,
           "title": "Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e522651-eaf2-45e7-a544-9da7beb7b23e/nextjs-ecommerce-cls-case-study.jpg",
@@ -290,7 +295,7 @@
           "description": "In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.",
           "link": "https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/",
           "publishedOn": "2021-10-16T10:00:00.000Z",
-          "wordCount": 2844,
+          "wordCount": 2848,
           "title": "A Simple But Effective Mental Health Routine For Programmers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c36dd2b2-f807-42a7-b8d1-9e6e9a00b3e7/effective-mental-health-routine-for-programmers.jpg",
@@ -304,7 +309,7 @@
           "description": "Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.",
           "link": "https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/",
           "publishedOn": "2021-10-15T13:00:00.000Z",
-          "wordCount": 4022,
+          "wordCount": 4019,
           "title": "Tips And Tricks For Evaluating UX/UI Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/727cbd89-cbf4-4a29-af64-ac51d777ffba/tips-tricks-evaluating-ux-ui-designers.jpg",
@@ -318,7 +323,7 @@
           "description": "Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
           "publishedOn": "2021-10-14T12:00:00.000Z",
-          "wordCount": 3525,
+          "wordCount": 3526,
           "title": "Smart CSS Solutions For Common UI Challenges",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3bf0115-0bc9-41b7-b027-3ea8b6b7e848/transition-css-gradients-opt.png",
@@ -346,7 +351,7 @@
           "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
           "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2344,
+          "wordCount": 2339,
           "title": "Useful React APIs For Building Flexible Components With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
@@ -374,7 +379,7 @@
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
           "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3729,
+          "wordCount": 3739,
           "title": "The Autofill Dark Pattern",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
@@ -402,7 +407,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7093,
+          "wordCount": 7095,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -416,7 +421,7 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 998,
+          "wordCount": 1010,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
@@ -430,7 +435,7 @@
           "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
           "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
           "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5477,
+          "wordCount": 5480,
           "title": "A Guide To CSS Debugging",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
@@ -444,7 +449,7 @@
           "description": "Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.",
           "link": "https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/",
           "publishedOn": "2021-10-05T10:00:00.000Z",
-          "wordCount": 1789,
+          "wordCount": 1790,
           "title": "Local Testing A Serverless API (API Gateway And Lambda)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d43ff4a2-4767-4595-9f46-f1ca18f64060/local-testing-serverless-api-gateway-lambda.jpg",
@@ -472,7 +477,7 @@
           "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
           "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
           "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4899,
           "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
@@ -486,7 +491,7 @@
           "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
           "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
           "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2474,
+          "wordCount": 2470,
           "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
@@ -514,24 +519,10 @@
           "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
           "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
           "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3868,
+          "wordCount": 3867,
           "title": "Improving The Accessibility Of Your Markdown",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
-          "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4955,
-          "title": "Let’s Dive Into Cypress For End-to-End Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -543,6 +534,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "613711a5d6679a07b7d43dce",
+          "author": null,
+          "description": "When you're programming, there are times when you'll want the values of certain variables to remain unchanged. In the C language, you'll likely define them as constants. You can define constants in C in a few different ways. In this tutorial, you'll learn how to use #define and the const",
+          "link": "https://www.freecodecamp.org/news/constants-in-c-explained-how-to-use-define-and-const-keyword/",
+          "publishedOn": "2021-10-26T21:13:20.000Z",
+          "wordCount": 1087,
+          "title": "Constants in C Explained – How to Use #define and the const Qualifier to Define Constants"
+        },
+        {
+          "id": "616fcad6d48e1707b6d78874",
+          "author": null,
+          "description": "Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed",
+          "link": "https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/",
+          "publishedOn": "2021-10-26T17:33:34.000Z",
+          "wordCount": 867,
+          "title": "How to Secure Linux Servers with SE Linux"
+        },
+        {
+          "id": "6122045f3bccf807612a5762",
+          "author": null,
+          "description": "If you are interested in the tech industry, then you might consider a career as a software engineer. But what is a software engineer and how do you become one?  In this article, I will explain what software engineers do and the steps you can take to become one. What",
+          "link": "https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/",
+          "publishedOn": "2021-10-26T17:16:01.000Z",
+          "wordCount": 1620,
+          "title": "What is Software Engineering? How to Become a Software Engineer"
+        },
+        {
+          "id": "617834f033422e07df364b90",
+          "author": null,
+          "description": "Django is a popular web development framework that uses Python.  We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by teaching you how to create a digital resume using Python and Django. Bobby Stearman developed this course. Bobby has created",
+          "link": "https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/",
+          "publishedOn": "2021-10-26T17:15:47.000Z",
+          "wordCount": 353,
+          "title": "Django Project: Create a Digital Resume Using Django and Python"
+        },
+        {
+          "id": "61746f69d48e1707b6d7a229",
+          "author": null,
+          "description": "Lots of people still use static websites, from family-run businesses who don't need to update information that often, to large teams who need to release something quickly without spending too much time and effort on it.  You might also want a static website for these reasons: Speed: pages load quicklyMinimal",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-a-static-website-with-wordpress/",
+          "publishedOn": "2021-10-26T17:09:22.000Z",
+          "wordCount": 1217,
+          "title": "How to Integrate a Static Website with WordPress"
+        },
+        {
+          "id": "61782fe233422e07df364b4f",
+          "author": null,
+          "description": "Seventy-five percent of all phones are Android phones and seventy-five percent of all Internet users only access the Internet using their phone. So there is a big market for Android apps. We just published crash course on Android app development on the freeCodeCamp.org YouTube channel. This course is perfect",
+          "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/",
+          "publishedOn": "2021-10-26T12:01:00.000Z",
+          "wordCount": 400,
+          "title": "Android App Development for Beginners"
+        },
         {
           "id": "612cbff5b5177808226d4a51",
           "author": null,
@@ -578,60 +623,6 @@
           "publishedOn": "2021-10-25T15:02:30.000Z",
           "wordCount": 1523,
           "title": "GraphQL vs REST API – Which Should You Use for Back End API Development?"
-        },
-        {
-          "id": "615d55c00d91c9077974d3fc",
-          "author": null,
-          "description": "When you are designing a website, it is really important that your content looks good on all screen sizes.  In this article, I will talk about how to use responsive design and media queries to make this happen. I will also provide code examples for media queries using max and",
-          "link": "https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/",
-          "publishedOn": "2021-10-25T14:02:26.000Z",
-          "wordCount": 1135,
-          "title": "Media Query CSS Example – Max and Min Screen Width for Mobile Responsive Design"
-        },
-        {
-          "id": "6130bf69d6679a07b7d40a74",
-          "author": null,
-          "description": "These days, a new trending front-end framework is released every now and then. But React and Vue.js still stand as the most popular among all the other alternatives.  And although both are performant, elegant, and arguably easy to learn, they have some different opinions on how certain things should",
-          "link": "https://www.freecodecamp.org/news/vue-vs-react-comparison-of-frameworks/",
-          "publishedOn": "2021-10-22T21:59:39.000Z",
-          "wordCount": 5950,
-          "title": "Vue vs React – How to Go from One Framework to the Other"
-        },
-        {
-          "id": "616fed81d48e1707b6d7898e",
-          "author": null,
-          "description": "Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction",
-          "link": "https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/",
-          "publishedOn": "2021-10-21T19:49:01.000Z",
-          "wordCount": 2135,
-          "title": "Dotfiles – What is a Dotfile and How to Create it in Mac and Linux"
-        },
-        {
-          "id": "6171b7b2d48e1707b6d79998",
-          "author": null,
-          "description": "Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir",
-          "link": "https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/",
-          "publishedOn": "2021-10-21T19:02:44.000Z",
-          "wordCount": 17095,
-          "title": "Code an Endless Runner Game Using Unreal Engine and C++"
-        },
-        {
-          "id": "617144ced48e1707b6d79686",
-          "author": null,
-          "description": "msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up",
-          "link": "https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/",
-          "publishedOn": "2021-10-21T15:01:54.000Z",
-          "wordCount": 914,
-          "title": "What is msmpeng.exe? Why is it High CPU Disk Usage?"
-        },
-        {
-          "id": "617058f3d48e1707b6d7913d",
-          "author": null,
-          "description": "When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every",
-          "link": "https://www.freecodecamp.org/news/adapter-design-in-react/",
-          "publishedOn": "2021-10-21T00:33:49.000Z",
-          "wordCount": 907,
-          "title": "How to Use the Adapter Design Pattern in React"
         }
       ]
     }

@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-26T00:40:55.399Z</id>
+    <id>urn:2021-10-27T00:40:57.327Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T00:40:55.399Z</updated>
+    <updated>2021-10-27T00:40:57.327Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Constants in C Explained – How to Use #define and the const Qualifier to Define Constants]]></title>
+        <id>613711a5d6679a07b7d43dce</id>
+        <link href="https://www.freecodecamp.org/news/constants-in-c-explained-how-to-use-define-and-const-keyword/"/>
+        <updated>2021-10-26T21:13:20.000Z</updated>
+        <summary type="html"><![CDATA[When you're programming, there are times when you'll want the values of certain variables to remain unchanged. In the C language, you'll likely define them as constants. You can define constants in C in a few different ways. In this tutorial, you'll learn how to use #define and the const]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
+        <id>https://css-tricks.com/?p=354365</id>
+        <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
+        <updated>2021-10-26T20:06:29.000Z</updated>
+        <summary type="html"><![CDATA[We’ve covered URL schemes: 
+A URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!
+I’d call it non-trivial, but developers can register new …
+The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Linux Servers with SE Linux]]></title>
+        <id>616fcad6d48e1707b6d78874</id>
+        <link href="https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/"/>
+        <updated>2021-10-26T17:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Engineering? How to Become a Software Engineer]]></title>
+        <id>6122045f3bccf807612a5762</id>
+        <link href="https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/"/>
+        <updated>2021-10-26T17:16:01.000Z</updated>
+        <summary type="html"><![CDATA[If you are interested in the tech industry, then you might consider a career as a software engineer. But what is a software engineer and how do you become one?  In this article, I will explain what software engineers do and the steps you can take to become one. What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django Project: Create a Digital Resume Using Django and Python]]></title>
+        <id>617834f033422e07df364b90</id>
+        <link href="https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/"/>
+        <updated>2021-10-26T17:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Django is a popular web development framework that uses Python.  We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by teaching you how to create a digital resume using Python and Django. Bobby Stearman developed this course. Bobby has created]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate a Static Website with WordPress]]></title>
+        <id>61746f69d48e1707b6d7a229</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-a-static-website-with-wordpress/"/>
+        <updated>2021-10-26T17:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Lots of people still use static websites, from family-run businesses who don't need to update information that often, to large teams who need to release something quickly without spending too much time and effort on it.  You might also want a static website for these reasons: Speed: pages load quicklyMinimal]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Page Filtered Search With Vanilla JavaScript]]></title>
+        <id>https://css-tricks.com/?p=353747</id>
+        <link href="https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/"/>
+        <updated>2021-10-26T14:11:59.000Z</updated>
+        <summary type="html"><![CDATA[If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …
+The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hilman Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userwell is for Managing Customer Feedback]]></title>
+        <id>https://css-tricks.com/?p=353621</id>
+        <link href="https://css-tricks.com/userwell-is-for-managing-customer-feedback/"/>
+        <updated>2021-10-26T14:10:05.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Building products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …
+The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android App Development for Beginners]]></title>
+        <id>61782fe233422e07df364b4f</id>
+        <link href="https://www.freecodecamp.org/news/android-app-development-for-beginners/"/>
+        <updated>2021-10-26T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Seventy-five percent of all phones are Android phones and seventy-five percent of all Internet users only access the Internet using their phone. So there is a big market for Android apps. We just published crash course on Android app development on the freeCodeCamp.org YouTube channel. This course is perfect]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
+        <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
+        <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
+        <updated>2021-10-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Table in SQL – Postgres and MySQL Example Query]]></title>
         <id>612cbff5b5177808226d4a51</id>
@@ -68,16 +174,6 @@ The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Media Query CSS Example – Max and Min Screen Width for Mobile Responsive Design]]></title>
-        <id>615d55c00d91c9077974d3fc</id>
-        <link href="https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/"/>
-        <updated>2021-10-25T14:02:26.000Z</updated>
-        <summary type="html"><![CDATA[When you are designing a website, it is really important that your content looks good on all screen sizes.  In this article, I will talk about how to use responsive design and media queries to make this happen. I will also provide code examples for media queries using max and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Deep Dive Into object-fit And background-size In CSS]]></title>
         <id>https://smashingmagazine.com/2021/10/object-fit-background-size-css/</id>
         <link href="https://smashingmagazine.com/2021/10/object-fit-background-size-css/"/>
@@ -95,16 +191,6 @@ The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joel Olawanle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue vs React – How to Go from One Framework to the Other]]></title>
-        <id>6130bf69d6679a07b7d40a74</id>
-        <link href="https://www.freecodecamp.org/news/vue-vs-react-comparison-of-frameworks/"/>
-        <updated>2021-10-22T21:59:39.000Z</updated>
-        <summary type="html"><![CDATA[These days, a new trending front-end framework is released every now and then. But React and Vue.js still stand as the most popular among all the other alternatives.  And although both are performant, elegant, and arguably easy to learn, they have some different opinions on how certain things should]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -170,36 +256,6 @@ The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dotfiles – What is a Dotfile and How to Create it in Mac and Linux]]></title>
-        <id>616fed81d48e1707b6d7898e</id>
-        <link href="https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/"/>
-        <updated>2021-10-21T19:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code an Endless Runner Game Using Unreal Engine and C++]]></title>
-        <id>6171b7b2d48e1707b6d79998</id>
-        <link href="https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/"/>
-        <updated>2021-10-21T19:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is msmpeng.exe? Why is it High CPU Disk Usage?]]></title>
-        <id>617144ced48e1707b6d79686</id>
-        <link href="https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/"/>
-        <updated>2021-10-21T15:01:54.000Z</updated>
-        <summary type="html"><![CDATA[msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create a Contact Form With Next.js and Netlify]]></title>
         <id>https://css-tricks.com/?p=353128</id>
         <link href="https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/"/>
@@ -219,16 +275,6 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
         <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
-        <id>617058f3d48e1707b6d7913d</id>
-        <link href="https://www.freecodecamp.org/news/adapter-design-in-react/"/>
-        <updated>2021-10-21T00:33:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -319,17 +365,6 @@ The post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Nearly Headless WordPress Website]]></title>
-        <id>https://css-tricks.com/?p=353308</id>
-        <link href="https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/"/>
-        <updated>2021-10-18T14:48:34.000Z</updated>
-        <summary type="html"><![CDATA[I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …
-The post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alex Standiford</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
         <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
@@ -362,17 +397,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expandable Sections Within a CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=353473</id>
-        <link href="https://css-tricks.com/expandable-sections-within-a-css-grid/"/>
-        <updated>2021-10-15T16:18:20.000Z</updated>
-        <summary type="html"><![CDATA[I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …
-The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Kev Bonett</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
         <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
         <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
@@ -380,17 +404,6 @@ The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Degrees of Custom Property Usage]]></title>
-        <id>https://css-tricks.com/?p=353057</id>
-        <link href="https://css-tricks.com/different-degrees-of-custom-property-usage/"/>
-        <updated>2021-10-14T14:35:42.000Z</updated>
-        <summary type="html"><![CDATA[One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …
-The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -541,30 +554,6 @@ The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks
         <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Dive Into Cypress For End-to-End Testing]]></title>
-        <id>https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/</id>
-        <link href="https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/"/>
-        <updated>2021-09-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
