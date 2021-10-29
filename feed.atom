@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-28T00:41:23.599Z</id>
+    <id>urn:2021-10-29T00:39:49.859Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-28T00:41:23.599Z</updated>
+    <updated>2021-10-29T00:39:49.859Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your React.js Application]]></title>
+        <id>617a55f533422e07df366544</id>
+        <link href="https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/"/>
+        <updated>2021-10-28T23:44:02.000Z</updated>
+        <summary type="html"><![CDATA[React.js is a scalable open-source JavaScript library and is one of the most commonly used front-end frameworks out there today.  It's dynamic and is easy to get started with if you want to create interactive web applications with reusable components. There are lots of reasons to use React.js]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify Kubernetes Troubleshooting]]></title>
+        <id>615c49eb0d91c9077974ca38</id>
+        <link href="https://www.freecodecamp.org/news/how-to-simplify-kubernetes-troubleshooting/"/>
+        <updated>2021-10-28T22:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Diagnosing and resolving issues in Kubernetes can be quite challenging. Kubernetes, after all, is a complex system.  Resolving problems even in small K8s clusters, nodes, and containers can be tricky, and it's often hard to identify and address issues. And an issue isn't even always easy to trace – it might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okhsv and Okhsl]]></title>
+        <id>https://css-tricks.com/?p=354922</id>
+        <link href="https://bottosson.github.io/posts/colorpicker/"/>
+        <updated>2021-10-28T20:20:07.000Z</updated>
+        <summary type="html"><![CDATA[There is an old Russian fable where Okhsv and Okhsl are on a rowboat and Okhsv says to Okhsl, “What are the known shortcomings of HSL and HSV color pickers in design applications?” I kid, I kid. But really, what …
+The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decimal Place Value – Hundreds, Thousandths, and Beyond]]></title>
+        <id>617a63cf33422e07df366730</id>
+        <link href="https://www.freecodecamp.org/news/decimal-place-value-hundreds-thousandths-and-beyond/"/>
+        <updated>2021-10-28T18:58:52.000Z</updated>
+        <summary type="html"><![CDATA[What is a decimal place value? What is the difference between whole and decimal numbers?  In this quick guide, you'll learn the basics of the decimal place value and how it works.  Let's get started!  How number systems work Numbers are used for performing mathematical operations and for representing data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sets – Explained with Examples]]></title>
+        <id>61795dda33422e07df365779</id>
+        <link href="https://www.freecodecamp.org/news/python-set-operations-explained-with-examples/"/>
+        <updated>2021-10-28T18:17:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner to Python, chances are you've come across lists. But have you heard about sets in Python? In this tutorial, we'll explore what sets are, how to create them, and the different operations you can use on them. What are sets in Python?In Python, sets are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite + _____]]></title>
+        <id>https://css-tricks.com/?p=355166</id>
+        <link href="https://css-tricks.com/vite-plus-blank/"/>
+        <updated>2021-10-28T18:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Vite, “Next Generation Frontend Tooling” from Evan You, has been capturing a lot of attention. I’ve heard rave reviews from developers, even in private chats (you gotta try this!). Being from Evan, Vite works great with Vue, …
+The post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Postgres Docker Container on Oracle Cloud Infrastructure]]></title>
+        <id>6178541d33422e07df364eba</id>
+        <link href="https://www.freecodecamp.org/news/run-a-postgres-docker-container-on-oracle-cloud-infrastructure/"/>
+        <updated>2021-10-28T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you how I quickly set up and ran a Docker container for free on Oracle Cloud Infrastructure.  In short, I used a VM in the Always Free Tier of OCI, and for a side project I set up a dockerised Postgres database. Let's get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML and CSS in Spanish – Course for Beginners]]></title>
+        <id>61784ef033422e07df364e34</id>
+        <link href="https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/"/>
+        <updated>2021-10-28T15:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Hi! If you speak Spanish and you want you learn HTML and CSS, you're in the right place. In this article, you will find a brief introduction to the basics of HTML and CSS. Then you will find a free 5-hour course on HTML and CSS on our Spanish YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use ES6 Features in React]]></title>
+        <id>61728f9ed48e1707b6d79b46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-es6-javascript-features-in-react/"/>
+        <updated>2021-10-28T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Many JavaScript frameworks use ES6 features. So to help you learn these handy features, I'll introduce you to them and then show you how to apply them in React.js.  Here are the ES6 features we'll cover in this guide: ModulesDestructuringSpread OperatorArrow functionsTemplate LiteralsAll the examples we'll see here are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge Conflicts: What They Are and How to Deal with Them​]]></title>
+        <id>https://css-tricks.com/?p=354389</id>
+        <link href="https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/"/>
+        <updated>2021-10-28T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Merge conflicts... Nobody likes them. Some of us even fear them. But they are a fact of life when you're working with Git, especially when you're teaming up with other developers. In most cases, merge conflicts aren't as scary as you might think. In this fourth part of our “Advanced Git” series we'll talk about when they can happen, what they actually are, and how to solve them.
+The post Merge Conflicts: What They Are and How to Deal with Them​ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Angular Data Grid With Filtering]]></title>
+        <id>https://css-tricks.com/?p=354782</id>
+        <link href="https://css-tricks.com/building-an-angular-data-grid-with-filtering/"/>
+        <updated>2021-10-28T14:03:11.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Kendo UI makes it possible to go from a basic idea to a full-fledged app, thanks to a massive component library. We’re talking well over 100 components that are ready for you to drop …
+The post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Project: Create a PuzzleCam Game]]></title>
+        <id>61797e0833422e07df365c36</id>
+        <link href="https://www.freecodecamp.org/news/javascript-project-create-a-puzzlecam-game/"/>
+        <updated>2021-10-28T13:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Creating a game is a great way to improve your JavaScript skills. We just published a JavaScript tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a puzzle game that gets an image for the puzzle from your computer's camera. Radu Mariescu-Istodor developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Amazon Product Scraper With Node.js]]></title>
+        <id>https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/</id>
+        <link href="https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/"/>
+        <updated>2021-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robert Sfichi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sticky Definition Lists]]></title>
         <id>https://css-tricks.com/?p=354777</id>
@@ -50,56 +185,6 @@ The post How to Implement and Style the Dialog Element appeared first on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to Know Before Taking Google&#x27;s Machine Learning or Data Science Course]]></title>
-        <id>617440c7d48e1707b6d7a054</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prepare-for-googles-machine-learning-data-science-course/"/>
-        <updated>2021-10-27T20:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Whether you decide to take Andrew Ng’s Machine Learning and Deep Learning course on YouTube or any Data Science bootcamp, you will need a certain degree of mathematical and statistical knowledge.  This will not only help you understand basic ML/DS concepts, but it will also help you make]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Record a Phone Call on iPhone]]></title>
-        <id>615d55910d91c9077974d3e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-record-a-phone-call-on-iphone/"/>
-        <updated>2021-10-27T18:35:31.000Z</updated>
-        <summary type="html"><![CDATA[There are a few ways to record your phone calls on your iPhone. But it is really important that you ask for the other caller's permission first before making a recording. Is there a built in recording option? There is no built in option on iPhone to record your phone]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React by Building an eCommerce Site]]></title>
-        <id>6179723c33422e07df365a14</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/"/>
-        <updated>2021-10-27T15:43:42.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular front-end frameworks for JavaScript. We just published another React course on the freeCodeCamp.org YouTube channel that will teach you how to use React by building an e-Commerce application with class components. The course covers topics such as component basics, rendering various items]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Descending Order VS Ascending Order – What Does it Mean?]]></title>
-        <id>617836d333422e07df364bdd</id>
-        <link href="https://www.freecodecamp.org/news/descending-order-vs-ascending-order-what-does-it-mean/"/>
-        <updated>2021-10-27T15:21:30.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard the terms descending and ascending order before, but what do they actually mean?  This article explains in plain English the basic differences between those two terms and gives an analogy that may help you distinguish one from the other.  What is descending order? When a series]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is my FaceTime Not Working?]]></title>
-        <id>615d55d10d91c9077974d400</id>
-        <link href="https://www.freecodecamp.org/news/why-is-my-facetime-not-working/"/>
-        <updated>2021-10-27T15:10:30.000Z</updated>
-        <summary type="html"><![CDATA[When FaceTime came out in 2010, it became a popular way for friends and family to connect over live video. But when FaceTime is not working, it can be a frustrating experience.  In this article, I will provide some reasons why FaceTime might not be working and tips on how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Testing Vue Components With Cypress]]></title>
         <id>https://css-tricks.com/?p=353842</id>
         <link href="https://css-tricks.com/testing-vue-components-with-cypress/"/>
@@ -121,26 +206,6 @@ The post Testing Vue Components With Cypress appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailwind CSS Components Tutorial – How to get started with Flowbite]]></title>
-        <id>61769fd2d48e1707b6d7afc5</id>
-        <link href="https://www.freecodecamp.org/news/tailwind-css-components-flowbite/"/>
-        <updated>2021-10-27T00:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Flowbite is an open-source library of web components built with the utility-first classes from Tailwind CSS. It also includes interactive elements such as dropdowns, modals, datepickers. Tailwind CSS is a framework that I've been using a lot lately in my web-related projects because of how fast it is to build]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constants in C Explained – How to Use #define and the const Qualifier to Define Constants]]></title>
-        <id>613711a5d6679a07b7d43dce</id>
-        <link href="https://www.freecodecamp.org/news/constants-in-c-explained-how-to-use-define-and-const-keyword/"/>
-        <updated>2021-10-26T21:13:20.000Z</updated>
-        <summary type="html"><![CDATA[When you're programming, there are times when you'll want the values of certain variables to remain unchanged. In the C language, you'll likely define them as constants. You can define constants in C in a few different ways. In this tutorial, you'll learn how to use #define and the const]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
         <id>https://css-tricks.com/?p=354365</id>
         <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
@@ -151,16 +216,6 @@ I’d call it non-trivial, but developers can register new …
 The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Linux Servers with SE Linux]]></title>
-        <id>616fcad6d48e1707b6d78874</id>
-        <link href="https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/"/>
-        <updated>2021-10-26T17:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -289,30 +344,6 @@ The post What if… you could use Visual Studio Code as the editor of in-browser
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The CSS-in-React Landscape]]></title>
-        <id>https://css-tricks.com/?p=353318</id>
-        <link href="https://css-tricks.com/the-css-in-react-landscape/"/>
-        <updated>2021-10-21T22:13:57.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …
-The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Contact Form With Next.js and Netlify]]></title>
-        <id>https://css-tricks.com/?p=353128</id>
-        <link href="https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/"/>
-        <updated>2021-10-21T14:26:03.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to create a contact form with Next.js and Netlify that displays a confirmation screen and features enhanced spam detection.
-Next.js is a powerful React framework for developing performant React applications that scale. By integrating a Next.js site with …
-The post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Monica Powell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
         <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
         <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
@@ -320,29 +351,6 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
         <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Typography Links VIII]]></title>
-        <id>https://css-tricks.com/?p=353866</id>
-        <link href="https://css-tricks.com/some-typography-links-viii/"/>
-        <updated>2021-10-20T23:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ 
-…
-The post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
-        <id>https://css-tricks.com/?p=353638</id>
-        <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
-        <updated>2021-10-20T15:02:28.000Z</updated>
-        <summary type="html"><![CDATA[No matter what stage you’re at as a developer, the tasks we complete—whether big or small—make a huge impact in our personal and professional growth. Unfortunately, those tasks aren’t always recognized because they can easily get lost in the sea …
-The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Emily Leung</name>
         </author>
     </entry>
     <entry>
@@ -545,16 +553,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
-        <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
-        <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
-        <updated>2021-09-29T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
         </author>
     </entry>
 </feed>
