@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-29T00:39:49.859Z</id>
+    <id>urn:2021-10-30T00:40:18.397Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T00:39:49.859Z</updated>
+    <updated>2021-10-30T00:40:18.397Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Ansible? A Tool to Automate Parts of Your Job]]></title>
+        <id>61353325d6679a07b7d4318c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-ansible/"/>
+        <updated>2021-10-29T20:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, today we will talk about Ansible, a fantastic software tool that allows you to automate cross-platform computer support in a simple but effective way.  Table of Contents What is Ansible? How Does Ansible Work? Ansible's Architecture Plugins Modules Inventories Playbook Benefits of Using Ansible Why is Ansible so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently IV]]></title>
+        <id>https://css-tricks.com/?p=354581</id>
+        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iv/"/>
+        <updated>2021-10-29T18:28:38.000Z</updated>
+        <summary type="html"><![CDATA[A guide to designing accessible, WCAG-compliant focus indicators — Sara Soueidan says you can make more accessible focus outlines by doing your own, rather than leaving it to the browser — as long as you do it right. Deep dive! 
+…
+The post Some Articles About Accessibility I’ve Saved Recently IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Social Login with OAuth to Make Your Apps More Secure]]></title>
+        <id>6178555333422e07df364ee9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-social-login-with-oauth-for-more-secure-apps/"/>
+        <updated>2021-10-29T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Many developers have written a demo login application at some point in time. We all start with the simple user defined ID and password. We then try to implement something like a social login with, say, Google or Twitter. There is, of course, a more complex process involved in setting]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Automated Social Images With Resoc]]></title>
+        <id>https://css-tricks.com/?p=354296</id>
+        <link href="https://css-tricks.com/create-your-own-automated-social-images-with-resoc/"/>
+        <updated>2021-10-29T14:14:55.000Z</updated>
+        <summary type="html"><![CDATA[There has been a lot of talk about automated social images lately. GitHub has created its own. A WordPress plugin has been acquired by Jetpack. There is definitely interest! People like Ryan Filler and Zach Leatherman have implemented …
+The post Create Your Own Automated Social Images With Resoc appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philippe Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
+        <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
+        <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
+        <updated>2021-10-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Freya Giles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure Your React.js Application]]></title>
         <id>617a55f533422e07df366544</id>
@@ -152,26 +205,6 @@ The post Sticky Definition Lists appeared first on CSS-Tricks. You can support C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage Encryption at Scale with Envelope Encryption &amp; Key Management Systems]]></title>
-        <id>61772e2833422e07df36437b</id>
-        <link href="https://www.freecodecamp.org/news/envelope-encryption/"/>
-        <updated>2021-10-27T22:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Recently at work, I came across an interesting method to handle encryption at scale called envelope encryption.  First of all, it increases security and helps you ease out the management of encryption keys. But it's also a highly recommended pattern by PCI-DSS (Security Standard for Credit Card Processing) and results]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Items Should Be Configurable in an Application?]]></title>
-        <id>61798c3d33422e07df365d30</id>
-        <link href="https://www.freecodecamp.org/news/what-should-be-configurable-in-apps/"/>
-        <updated>2021-10-27T20:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Configuration is an essential part of every application. It helps enhance an application's flexibility and maintainability.  With this in mind, it's very important that developers are able to correctly identify what items should be in configuration. In this article, I'll walk you through 8 items that should be configurable in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Implement and Style the Dialog Element]]></title>
         <id>https://css-tricks.com/?p=354857</id>
         <link href="https://css-tricks.com/how-to-implement-and-style-the-dialog-element/"/>
@@ -306,17 +339,6 @@ The post Can Include (a Certain HTML element within another Certain HTML Element
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploring the CSS Paint API: Rounding Shapes]]></title>
-        <id>https://css-tricks.com/?p=353391</id>
-        <link href="https://css-tricks.com/exploring-the-css-paint-api-rounding-shapes/"/>
-        <updated>2021-10-22T14:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Adding borders to complex shapes is a pain, but rounding the corner of complex shapes is a nightmare! Luckily, the CSS Paint API is here to the rescue! That’s what we’re going to look at as part of this “Exploring …
-The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
         <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
         <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
@@ -324,23 +346,6 @@ The post Exploring the CSS Paint API: Rounding Shapes appeared first on CSS-Tric
         <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Martin Grubinger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
-        <id>https://css-tricks.com/?p=354537</id>
-        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
-        <updated>2021-10-21T22:14:21.000Z</updated>
-        <summary type="html"><![CDATA[It’s not uncommon for my front-end workflow to go something like this:
-Work on thing.
-See that thing in an automatically refreshed browser.
-See something wrong with that thing.
-Inspect and correct the thing in DevTools.
-Apply the correct code 
-…
-The post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +548,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Time Of Transition (October 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/</id>
-        <link href="https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/"/>
-        <updated>2021-09-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
