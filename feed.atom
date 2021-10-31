@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-30T00:40:18.397Z</id>
+    <id>urn:2021-10-31T00:43:16.775Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-30T00:40:18.397Z</updated>
+    <updated>2021-10-31T00:43:16.775Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -538,16 +538,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
-        <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
-        <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
-        <updated>2021-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
         </author>
     </entry>
 </feed>
