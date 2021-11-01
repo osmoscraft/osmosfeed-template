@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-31T00:43:16.775Z</id>
+    <id>urn:2021-11-01T00:43:34.264Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-31T00:43:16.775Z</updated>
+    <updated>2021-11-01T00:43:34.264Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/</id>
+        <link href="https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/"/>
+        <updated>2021-10-31T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Ansible? A Tool to Automate Parts of Your Job]]></title>
         <id>61353325d6679a07b7d4318c</id>
