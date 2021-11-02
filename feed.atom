@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-01T00:43:34.264Z</id>
+    <id>urn:2021-11-02T00:45:18.677Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-01T00:43:34.264Z</updated>
+    <updated>2021-11-02T00:45:18.677Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Buttons vs. Links]]></title>
+        <id>https://css-tricks.com/?p=354978</id>
+        <link href="https://css-tricks.com/buttons-vs-links/"/>
+        <updated>2021-11-01T22:58:12.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of articles out there about buttons and links on the web; the differences and how to use them properly. Hey, I don’t mind. I wrote my own as well¹.
+It’s such a common mistake on …
+The post Buttons vs. Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have Single-Page Apps Ruined the Web? (“Transitional Apps”)]]></title>
+        <id>https://css-tricks.com/?p=355034</id>
+        <link href="https://css-tricks.com/have-single-page-apps-ruined-the-web-transitional-apps/"/>
+        <updated>2021-11-01T21:43:10.000Z</updated>
+        <summary type="html"><![CDATA[A big heaping 19-minute bowl of not-too-hot, not-too-cold baby bear porridge website building from Rich Harris. 
+I’ve certainly overheard more than my fair share of arguments about Single Page Apps (SPAs) vs Multi-Page Apps (MPAs). Although it’s only recently that …
+The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a gif – Create Animated gifs Without Downloading Software]]></title>
+        <id>613f3cba852f4307d372c7e0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-gif-create-animated-gifs-without-downloading-software/"/>
+        <updated>2021-11-01T21:31:16.000Z</updated>
+        <summary type="html"><![CDATA[A GIF (Graphics Interchange Format) is a small animated image that you can share with your friends and family. And there are many ways to create them without downloading any software. In this article, I will show you how to use the Make a Gif  site, where you can create]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Vector – STD Pattern Vector in CPP with Example Code]]></title>
+        <id>617e651033422e07df36827a</id>
+        <link href="https://www.freecodecamp.org/news/c-vector-std-pattern-vector-in-cpp-with-example-code/"/>
+        <updated>2021-11-01T21:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Vectors in C++ are a helpful way to store dynamic data. They also help you avoid having to deal with the not so flexible arrays that are inherited from the C programming language.  This article is a beginner friendly introduction to vectors. It will show you some of their basic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating APIs with Python - Free 19-Hour Course]]></title>
+        <id>61804dde8bcfae07ca4dfbfd</id>
+        <link href="https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/"/>
+        <updated>2021-11-01T21:00:54.000Z</updated>
+        <summary type="html"><![CDATA[A lot of API tutorials just teach the absolute minimum. But a production-ready API is much more complicated than what most tutorials teach. We just published a massive 19-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a full-fledged API using Python and the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users in Flask with Flask-Login]]></title>
+        <id>617a7da433422e07df3668f0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-in-flask/"/>
+        <updated>2021-11-01T20:00:24.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing applications for the general public, it's important to protect your users' credentials and information. This means you need to know about code structure and how to implement various security measures. In this article, we'll walk through the steps to create a user authentication web app with Flask,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Built-in Looping Functions in Python]]></title>
+        <id>6114cfae72231b077cdae432</id>
+        <link href="https://www.freecodecamp.org/news/python-looping-functions/"/>
+        <updated>2021-11-01T18:34:42.000Z</updated>
+        <summary type="html"><![CDATA[When you're looping through a sequence in Python like a list, tuple, string, or dictionary, do you ever feel like your code is messy or you want to remove some variables from it?  Fortunately, Python has some useful inbuilt functions which make your code more concise and more readable. In]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CodePen – A Beginner&#x27;s Guide]]></title>
+        <id>6048a6f0a7946308b7685a2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-codepen/"/>
+        <updated>2021-11-01T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[CodePen is a popular online code editor used by many developers around the world. It is also one of the recommended editors you can use for the freeCodeCamp curriculum. CodePen is only for frontend projects and supports HTML, CSS, and JavaScript. If you need to build a project with a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve and Automate Your Web Development Workflow]]></title>
+        <id>6176aeb3d48e1707b6d7b0ab</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/"/>
+        <updated>2021-11-01T15:47:31.000Z</updated>
+        <summary type="html"><![CDATA[The modern age of Web Development is incredible. We have a plethora of frameworks and libraries to help us work more efficiently, tons of quality resources to learn from, and numerous projects to inspire us. My decade-long journey as a web developer may not be very different from many of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, You Want to Build an @mention Autocomplete Feature?]]></title>
+        <id>https://css-tricks.com/?p=354588</id>
+        <link href="https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/"/>
+        <updated>2021-11-01T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[We’re all familiar with the concept of autocompletion, right? You type something into a search box and it tries to guess what you’re looking for as you type, displaying suggestions, often below the cursor. While we’re used to autocomplete on …
+The post So, You Want to Build an @mention Autocomplete Feature? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Dayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-ing Candy Ghost Buttons]]></title>
+        <id>https://css-tricks.com/?p=354804</id>
+        <link href="https://css-tricks.com/css-ing-candy-ghost-buttons/"/>
+        <updated>2021-11-01T01:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while looking for some ideas on what to code as I have zero artistic sense so the only thing I can do is find pretty things that other people have come up with and remake them with clean and …
+The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/</id>
@@ -79,16 +195,6 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Simplify Kubernetes Troubleshooting]]></title>
-        <id>615c49eb0d91c9077974ca38</id>
-        <link href="https://www.freecodecamp.org/news/how-to-simplify-kubernetes-troubleshooting/"/>
-        <updated>2021-10-28T22:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Diagnosing and resolving issues in Kubernetes can be quite challenging. Kubernetes, after all, is a complex system.  Resolving problems even in small K8s clusters, nodes, and containers can be tricky, and it's often hard to identify and address issues. And an issue isn't even always easy to trace – it might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Okhsv and Okhsl]]></title>
         <id>https://css-tricks.com/?p=354922</id>
         <link href="https://bottosson.github.io/posts/colorpicker/"/>
@@ -100,26 +206,6 @@ The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decimal Place Value – Hundreds, Thousandths, and Beyond]]></title>
-        <id>617a63cf33422e07df366730</id>
-        <link href="https://www.freecodecamp.org/news/decimal-place-value-hundreds-thousandths-and-beyond/"/>
-        <updated>2021-10-28T18:58:52.000Z</updated>
-        <summary type="html"><![CDATA[What is a decimal place value? What is the difference between whole and decimal numbers?  In this quick guide, you'll learn the basics of the decimal place value and how it works.  Let's get started!  How number systems work Numbers are used for performing mathematical operations and for representing data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Sets – Explained with Examples]]></title>
-        <id>61795dda33422e07df365779</id>
-        <link href="https://www.freecodecamp.org/news/python-set-operations-explained-with-examples/"/>
-        <updated>2021-10-28T18:17:35.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner to Python, chances are you've come across lists. But have you heard about sets in Python? In this tutorial, we'll explore what sets are, how to create them, and the different operations you can use on them. What are sets in Python?In Python, sets are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vite + _____]]></title>
         <id>https://css-tricks.com/?p=355166</id>
         <link href="https://css-tricks.com/vite-plus-blank/"/>
@@ -128,36 +214,6 @@ The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Trick
 The post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Postgres Docker Container on Oracle Cloud Infrastructure]]></title>
-        <id>6178541d33422e07df364eba</id>
-        <link href="https://www.freecodecamp.org/news/run-a-postgres-docker-container-on-oracle-cloud-infrastructure/"/>
-        <updated>2021-10-28T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show you how I quickly set up and ran a Docker container for free on Oracle Cloud Infrastructure.  In short, I used a VM in the Always Free Tier of OCI, and for a side project I set up a dockerised Postgres database. Let's get]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS in Spanish – Course for Beginners]]></title>
-        <id>61784ef033422e07df364e34</id>
-        <link href="https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/"/>
-        <updated>2021-10-28T15:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi! If you speak Spanish and you want you learn HTML and CSS, you're in the right place. In this article, you will find a brief introduction to the basics of HTML and CSS. Then you will find a free 5-hour course on HTML and CSS on our Spanish YouTube]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use ES6 Features in React]]></title>
-        <id>61728f9ed48e1707b6d79b46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-es6-javascript-features-in-react/"/>
-        <updated>2021-10-28T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Many JavaScript frameworks use ES6 features. So to help you learn these handy features, I'll introduce you to them and then show you how to apply them in React.js.  Here are the ES6 features we'll cover in this guide: ModulesDestructuringSpread OperatorArrow functionsTemplate LiteralsAll the examples we'll see here are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -181,16 +237,6 @@ Kendo UI makes it possible to go from a basic idea to a full-fledged app, thanks
 The post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Project: Create a PuzzleCam Game]]></title>
-        <id>61797e0833422e07df365c36</id>
-        <link href="https://www.freecodecamp.org/news/javascript-project-create-a-puzzlecam-game/"/>
-        <updated>2021-10-28T13:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Creating a game is a great way to improve your JavaScript skills. We just published a JavaScript tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a puzzle game that gets an image for the puzzle from your computer's camera. Radu Mariescu-Istodor developed this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -273,18 +319,6 @@ The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userwell is for Managing Customer Feedback]]></title>
-        <id>https://css-tricks.com/?p=353621</id>
-        <link href="https://css-tricks.com/userwell-is-for-managing-customer-feedback/"/>
-        <updated>2021-10-26T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Building products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …
-The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
         <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
         <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
@@ -292,28 +326,6 @@ The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks
         <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)]]></title>
-        <id>https://css-tricks.com/?p=353728</id>
-        <link href="https://css-tricks.com/the-greatest-css-tricks-vol-i-ebook-pdf-and-epub/"/>
-        <updated>2021-10-25T19:25:17.000Z</updated>
-        <summary type="html"><![CDATA[When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …
-The post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Semantics of Jamstack]]></title>
-        <id>https://css-tricks.com/?p=353496</id>
-        <link href="https://css-tricks.com/the-semantics-of-jamstack/"/>
-        <updated>2021-10-25T14:20:08.000Z</updated>
-        <summary type="html"><![CDATA[The past year has seen a healthy debate around the term ‘Jamstack’ as the definition gets stretched to include new use cases. I recently posted my take on a Jamstack definition in “Static vs. Dynamic vs. Jamstack: Where’s The Line?”…
-The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mike Neumegen</name>
         </author>
     </entry>
     <entry>
@@ -334,18 +346,6 @@ The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joel Olawanle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Include (a Certain HTML element within another Certain HTML Element)]]></title>
-        <id>https://css-tricks.com/?p=354567</id>
-        <link href="https://caninclude.glitch.me/"/>
-        <updated>2021-10-22T17:57:30.000Z</updated>
-        <summary type="html"><![CDATA[A single-serving website from Alexander Vishnyakov for testing if it’s valid to put any particular HTML element within another type of HTML element. Kinda neat to have a quick reference for this.
-Some combinations feel fairly obvious: can you put …
-The post Can Include (a Certain HTML element within another Certain HTML Element) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
