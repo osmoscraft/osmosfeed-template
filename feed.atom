@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-02T00:45:18.677Z</id>
+    <id>urn:2021-11-03T00:41:26.047Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-02T00:45:18.677Z</updated>
+    <updated>2021-11-03T00:41:26.047Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)]]></title>
+        <id>https://css-tricks.com/?p=354619</id>
+        <link href="https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/"/>
+        <updated>2021-11-02T22:50:37.000Z</updated>
+        <summary type="html"><![CDATA[First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:
+addEventListener("fetch", (event) ={
+  event.respondWith(
+     fetch("https://css-tricks.com")
+  );
+});
+It doesn’t have any error handling or anything, but hey, it works:
+Now imagine how …
+The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUI Challenges]]></title>
+        <id>https://css-tricks.com/?p=355016</id>
+        <link href="https://web.dev/shows/gui-challenges/"/>
+        <updated>2021-11-02T21:28:22.000Z</updated>
+        <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
+For example, a recent …
+The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Bonjour on my Computer? Windows 10 Bonjour Program PC Guide]]></title>
+        <id>617fffad8bcfae07ca4df6d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-bonjour-on-my-computer/"/>
+        <updated>2021-11-02T18:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Apple devices work well and connect readily with other Apple devices. But they have a hard time communicating with devices running other operating systems like Windows and Linux.  If you have both Apple and Windows devices, you might want to share files between them over a local network. And this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Mouse DPI Settings in Windows 10]]></title>
+        <id>61810f888bcfae07ca4e007b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-mouse-dpi-settings-in-windows-10/"/>
+        <updated>2021-11-02T17:05:06.000Z</updated>
+        <summary type="html"><![CDATA[If your work requires a lot of precision, like graphic design and gaming, then you might want to adjust how fast or slow your external mouse or keyboard is.  In this guide, I will show you how you can make your mouse more sensitive or less sensitive by changing its]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Different Ways to Charge for a Website Project – Freelance Developer Guide]]></title>
+        <id>61653c74804854468fda9148</id>
+        <link href="https://www.freecodecamp.org/news/different-ways-to-charge-for-a-website/"/>
+        <updated>2021-11-02T16:37:58.000Z</updated>
+        <summary type="html"><![CDATA[As someone who offers a service as a freelancer, you have a major say in how you price a website project. But how do you go about charging for a website project? Sure, you can bill by the hour, but is there a better way? In this article, we are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Your Own Browser Extension [Example Project Included]]]></title>
+        <id>617ce33033422e07df3678a3</id>
+        <link href="https://www.freecodecamp.org/news/write-your-own-browser-extensions/"/>
+        <updated>2021-11-02T15:57:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will talk about Browser extensions – what they are, how they work, and how you can build your own. We will finish by actually writing our own extension (Super Fun!) which allows us to copy any code snippet to our clipboard with a click of a single]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebase vs. Merge: Integrating Changes in Git]]></title>
+        <id>https://css-tricks.com/?p=354734</id>
+        <link href="https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/"/>
+        <updated>2021-11-02T14:19:12.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!
+Most developers understand that it’s important to use branches in Git. In …
+The post Rebase vs. Merge: Integrating Changes in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible JavaScript]]></title>
+        <id>https://css-tricks.com/?p=355395</id>
+        <link href="https://css-tricks.com/responsible-javascript-2/"/>
+        <updated>2021-11-02T14:17:55.000Z</updated>
+        <summary type="html"><![CDATA[High five to Jeremy on the big release of Responsible JavaScript on A Book Apart. There is a lot of talk about how the proliferation of JavaScript has had a negative impact on the web, but now we have …
+The post Responsible JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Magento PWA: Customizing Themes vs. Coding From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/</id>
+        <link href="https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/"/>
+        <updated>2021-11-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Husar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buttons vs. Links]]></title>
         <id>https://css-tricks.com/?p=354978</id>
@@ -90,16 +193,6 @@ The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve and Automate Your Web Development Workflow]]></title>
-        <id>6176aeb3d48e1707b6d7b0ab</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/"/>
-        <updated>2021-11-01T15:47:31.000Z</updated>
-        <summary type="html"><![CDATA[The modern age of Web Development is incredible. We have a plethora of frameworks and libraries to help us work more efficiently, tons of quality resources to learn from, and numerous projects to inspire us. My decade-long journey as a web developer may not be very different from many of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[So, You Want to Build an @mention Autocomplete Feature?]]></title>
         <id>https://css-tricks.com/?p=354588</id>
         <link href="https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/"/>
@@ -132,16 +225,6 @@ The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can suppo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Ansible? A Tool to Automate Parts of Your Job]]></title>
-        <id>61353325d6679a07b7d4318c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ansible/"/>
-        <updated>2021-10-29T20:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, today we will talk about Ansible, a fantastic software tool that allows you to automate cross-platform computer support in a simple but effective way.  Table of Contents What is Ansible? How Does Ansible Work? Ansible's Architecture Plugins Modules Inventories Playbook Benefits of Using Ansible Why is Ansible so]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently IV]]></title>
         <id>https://css-tricks.com/?p=354581</id>
         <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iv/"/>
@@ -151,16 +234,6 @@ The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can suppo
 The post Some Articles About Accessibility I’ve Saved Recently IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Social Login with OAuth to Make Your Apps More Secure]]></title>
-        <id>6178555333422e07df364ee9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-social-login-with-oauth-for-more-secure-apps/"/>
-        <updated>2021-10-29T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Many developers have written a demo login application at some point in time. We all start with the simple user defined ID and password. We then try to implement something like a social login with, say, Google or Twitter. There is, of course, a more complex process involved in setting]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -182,16 +255,6 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
         <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Freya Giles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your React.js Application]]></title>
-        <id>617a55f533422e07df366544</id>
-        <link href="https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/"/>
-        <updated>2021-10-28T23:44:02.000Z</updated>
-        <summary type="html"><![CDATA[React.js is a scalable open-source JavaScript library and is one of the most commonly used front-end frameworks out there today.  It's dynamic and is easy to get started with if you want to create interactive web applications with reusable components. There are lots of reasons to use React.js]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -261,30 +324,6 @@ The post Sticky Definition Lists appeared first on CSS-Tricks. You can support C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Implement and Style the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=354857</id>
-        <link href="https://css-tricks.com/how-to-implement-and-style-the-dialog-element/"/>
-        <updated>2021-10-27T20:17:48.000Z</updated>
-        <summary type="html"><![CDATA[A look from Christian Kozalla on the <dialog> HTML element and using it to create a nice-looking and accessible modal. 
-CodePen Embed Fallback
-I’m attracted to the <dialog> element as it’s one of those “you get a lot for free” …
-The post How to Implement and Style the Dialog Element appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Vue Components With Cypress]]></title>
-        <id>https://css-tricks.com/?p=353842</id>
-        <link href="https://css-tricks.com/testing-vue-components-with-cypress/"/>
-        <updated>2021-10-27T14:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Cypress is an automated test runner for browser-based applications and pages. I’ve used it for years to write end-to-end tests for web projects, and was happy to see recently that individual component testing had come to Cypress. I work on …
-The post Testing Vue Components With Cypress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mark Noonan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eye-Tracking In Mobile UX Research]]></title>
         <id>https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/</id>
         <link href="https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/"/>
@@ -292,30 +331,6 @@ The post Testing Vue Components With Cypress appeared first on CSS-Tricks. You c
         <summary type="html"><![CDATA[Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mariana Macedo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
-        <id>https://css-tricks.com/?p=354365</id>
-        <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
-        <updated>2021-10-26T20:06:29.000Z</updated>
-        <summary type="html"><![CDATA[We’ve covered URL schemes: 
-A URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!
-I’d call it non-trivial, but developers can register new …
-The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-Page Filtered Search With Vanilla JavaScript]]></title>
-        <id>https://css-tricks.com/?p=353747</id>
-        <link href="https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/"/>
-        <updated>2021-10-26T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …
-The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Hilman Ramadhan</name>
         </author>
     </entry>
     <entry>
@@ -538,16 +553,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tom Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Expandable Accessible Gallery]]></title>
-        <id>https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/</id>
-        <link href="https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/"/>
-        <updated>2021-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
         </author>
     </entry>
 </feed>
