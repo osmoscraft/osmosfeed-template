@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-03T00:41:26.047Z</id>
+    <id>urn:2021-11-04T00:42:00.341Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-03T00:41:26.047Z</updated>
+    <updated>2021-11-04T00:42:00.341Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Tutorial – How to Use PyTorch and Transfer Learning to Diagnose COVID-19 Patients]]></title>
+        <id>6181896c8bcfae07ca4e0407</id>
+        <link href="https://www.freecodecamp.org/news/deep-learning-with-pytorch/"/>
+        <updated>2021-11-03T19:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Ever since the outbreak of COVID-19 in December 2019, researchers in the field of artificial intelligence and machine learning have been trying to find better ways to diagnose the disease. They've worked on developing algorithms that would detect the disease within a matter of seconds – and only by looking at]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Loops in C – Explained with Code Examples]]></title>
+        <id>6130917fd6679a07b7d40727</id>
+        <link href="https://www.freecodecamp.org/news/for-loops-in-c/"/>
+        <updated>2021-11-03T15:56:21.000Z</updated>
+        <summary type="html"><![CDATA[In programming, you'll use loops when you need to repeat a block of code multiple times.  These repetitions of the same block of code a certain number of times are called iterations. And there's a looping condition that decides the number of iterations.  The for and the while loops are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Password Protect a Zip File [Windows 10 PC Guide]]]></title>
+        <id>61825f588bcfae07ca4e091e</id>
+        <link href="https://www.freecodecamp.org/news/password-protect-zip-file-windows10/"/>
+        <updated>2021-11-03T15:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Zip files often contain multiple large files, so you might want to encrypt them or protect them with a password. That way, only certain people will have access to it.  In this guide, I will show you a great way to password protect a zip file, so you can be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Rename Branch – How to Change a Local Branch Name]]></title>
+        <id>618216228bcfae07ca4e0733</id>
+        <link href="https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/"/>
+        <updated>2021-11-03T15:42:12.000Z</updated>
+        <summary type="html"><![CDATA[As you are building out a project, there might be times where you need to rename a local branch. But how do you do that in Git? In this article, I will provide you with two methods for renaming  local branches in Git.  How to Rename a Branch in Git]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 10: Browser Wars]]></title>
+        <id>https://css-tricks.com/?p=354925</id>
+        <link href="https://css-tricks.com/chapter-10-browser-wars/"/>
+        <updated>2021-11-03T15:09:50.000Z</updated>
+        <summary type="html"><![CDATA[In June of 1995, representatives from Microsoft arrived at the Netscape offices. The stated goal was to find ways to work together—Netscape as the single dominant force in the browser market and Microsoft as a tech giant just beginning to …
+The post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jay Hoffmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the 50 Most Used Linux &amp; Terminal Commands]]></title>
+        <id>61828b8a8bcfae07ca4e0a1f</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/"/>
+        <updated>2021-11-03T13:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Touch cat tail. Find man head. Who? The previous seven words are common Linux commands. If you are a programmer, you are likely going to need to use Linux and terminal commands at some point.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive Into Serverless UI With TypeScript]]></title>
+        <id>https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/</id>
+        <link href="https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/"/>
+        <updated>2021-11-03T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)]]></title>
         <id>https://css-tricks.com/?p=354619</id>
@@ -26,7 +97,7 @@ The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Pote
     <entry>
         <title type="html"><![CDATA[GUI Challenges]]></title>
         <id>https://css-tricks.com/?p=355016</id>
-        <link href="https://web.dev/shows/gui-challenges/"/>
+        <link href="https://css-tricks.com/gui-challenges/"/>
         <updated>2021-11-02T21:28:22.000Z</updated>
         <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
 For example, a recent …
@@ -143,56 +214,6 @@ The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++ Vector – STD Pattern Vector in CPP with Example Code]]></title>
-        <id>617e651033422e07df36827a</id>
-        <link href="https://www.freecodecamp.org/news/c-vector-std-pattern-vector-in-cpp-with-example-code/"/>
-        <updated>2021-11-01T21:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Vectors in C++ are a helpful way to store dynamic data. They also help you avoid having to deal with the not so flexible arrays that are inherited from the C programming language.  This article is a beginner friendly introduction to vectors. It will show you some of their basic]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating APIs with Python - Free 19-Hour Course]]></title>
-        <id>61804dde8bcfae07ca4dfbfd</id>
-        <link href="https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/"/>
-        <updated>2021-11-01T21:00:54.000Z</updated>
-        <summary type="html"><![CDATA[A lot of API tutorials just teach the absolute minimum. But a production-ready API is much more complicated than what most tutorials teach. We just published a massive 19-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a full-fledged API using Python and the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users in Flask with Flask-Login]]></title>
-        <id>617a7da433422e07df3668f0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-in-flask/"/>
-        <updated>2021-11-01T20:00:24.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing applications for the general public, it's important to protect your users' credentials and information. This means you need to know about code structure and how to implement various security measures. In this article, we'll walk through the steps to create a user authentication web app with Flask,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Built-in Looping Functions in Python]]></title>
-        <id>6114cfae72231b077cdae432</id>
-        <link href="https://www.freecodecamp.org/news/python-looping-functions/"/>
-        <updated>2021-11-01T18:34:42.000Z</updated>
-        <summary type="html"><![CDATA[When you're looping through a sequence in Python like a list, tuple, string, or dictionary, do you ever feel like your code is messy or you want to remove some variables from it?  Fortunately, Python has some useful inbuilt functions which make your code more concise and more readable. In]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CodePen – A Beginner&#x27;s Guide]]></title>
-        <id>6048a6f0a7946308b7685a2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-codepen/"/>
-        <updated>2021-11-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[CodePen is a popular online code editor used by many developers around the world. It is also one of the recommended editors you can use for the freeCodeCamp curriculum. CodePen is only for frontend projects and supports HTML, CSS, and JavaScript. If you need to build a project with a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[So, You Want to Build an @mention Autocomplete Feature?]]></title>
         <id>https://css-tricks.com/?p=354588</id>
         <link href="https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/"/>
@@ -260,7 +281,7 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
     <entry>
         <title type="html"><![CDATA[Okhsv and Okhsl]]></title>
         <id>https://css-tricks.com/?p=354922</id>
-        <link href="https://bottosson.github.io/posts/colorpicker/"/>
+        <link href="https://css-tricks.com/okhsv-and-okhsl/"/>
         <updated>2021-10-28T20:20:07.000Z</updated>
         <summary type="html"><![CDATA[There is an old Russian fable where Okhsv and Okhsl are on a rowboat and Okhsv says to Okhsl, “What are the known shortcomings of HSL and HSV color pickers in design applications?” I kid, I kid. But really, what …
 The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
@@ -310,17 +331,6 @@ The post Building an Angular Data Grid With Filtering appeared first on CSS-Tric
         <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robert Sfichi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sticky Definition Lists]]></title>
-        <id>https://css-tricks.com/?p=354777</id>
-        <link href="https://css-tricks.com/sticky-definition-lists/"/>
-        <updated>2021-10-27T23:17:18.000Z</updated>
-        <summary type="html"><![CDATA[I ran across this 30 seconds of code website the other day, and they have a CSS section which is really good! The first example snippet I looked at was this “floating section headers” example, reminding me yet again how …
-The post Sticky Definition Lists appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +553,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Testing A Serverless API (API Gateway And Lambda)]]></title>
-        <id>https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/</id>
-        <link href="https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/"/>
-        <updated>2021-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tom Hudson)</name>
         </author>
     </entry>
 </feed>
