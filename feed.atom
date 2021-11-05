@@ -1,10 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-04T00:42:00.341Z</id>
+    <id>urn:2021-11-05T00:41:23.607Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-04T00:42:00.341Z</updated>
+    <updated>2021-11-05T00:41:23.607Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Svelte, and Comparing Svelte with React and Vue]]></title>
+        <id>https://css-tricks.com/?p=355937</id>
+        <link href="https://css-tricks.com/introducing-svelte-and-comparing-svelte-with-react-and-vue/"/>
+        <updated>2021-11-04T21:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.
+A few things I find compelling:
+One of the 
+…
+The post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C vs C++ – What&#x27;s The Difference?]]></title>
+        <id>618180828bcfae07ca4e03d5</id>
+        <link href="https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/"/>
+        <updated>2021-11-04T20:16:23.000Z</updated>
+        <summary type="html"><![CDATA[The C and C++ programming languages power a large part of the world's products, applications, and websites.  Each helped lay the foundation for the creation of many popular programming languages, such as Java. They also support many languages that you might use regularly for your programming projects, such as Python.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Break and Continue Statements – Loop Control Statements in C Explained]]></title>
+        <id>61751bafd48e1707b6d7aa12</id>
+        <link href="https://www.freecodecamp.org/news/c-break-and-continue-statements-loop-control-statements-in-c-explained/"/>
+        <updated>2021-11-04T18:56:12.000Z</updated>
+        <summary type="html"><![CDATA[In the C programming language, there are times when you'll want to change looping behavior. And the continue and the break statements help you skip iterations, and exit from loops under certain conditions. In this tutorial, you'll learn how break and continue statements alter the control flow of your program.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
+        <updated>2021-11-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Drift in Shape Rotations]]></title>
+        <id>https://css-tricks.com/?p=356047</id>
+        <link href="https://css-tricks.com/fixing-the-drift-in-shape-rotations/"/>
+        <updated>2021-11-04T17:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Steve Ruiz calls this post an “extra-obscure edition of design tool micro-UX,” but I find it fascinating! If you select a bunch of elements in a design tool, then rotate then, then later select those same elements and try to …
+The post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Replit – A Beginner&#x27;s Guide]]></title>
+        <id>6182d4c28bcfae07ca4e0d18</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-replit/"/>
+        <updated>2021-11-04T15:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Replit is a popular free online IDE that you can use to create your projects with very little setup. This editor supports over 50 languages and many programming courses use it, including freeCodeCamp.  In this article, I will show you how to get started with Replit and show you how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desktop Icons Missing – How to Fix Windows 10 PC Icons that Have Disappeared]]></title>
+        <id>6183a45e8bcfae07ca4e1470</id>
+        <link href="https://www.freecodecamp.org/news/desktop-icons-missing-how-to-fix-windows-10-pc-icons-that-have-disappeared/"/>
+        <updated>2021-11-04T15:07:14.000Z</updated>
+        <summary type="html"><![CDATA[Desktop icons are a convenient way to launch apps and open folders. They've actually become the de facto way of opening apps because many apps create them automatically when installed.  So what happens when you can't find your desktop icons on your computer anymore? Well, you might have mistakenly hidden]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline]]></title>
+        <id>https://css-tricks.com/?p=355060</id>
+        <link href="https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/"/>
+        <updated>2021-11-04T14:26:40.000Z</updated>
+        <summary type="html"><![CDATA[The Scroll-linked Animations specification is an upcoming and experimental addition that allows us to link animation-progress to scroll-progress: as you scroll up and down a scroll container, a linked animation also advances or rewinds accordingly.
+We covered some use cases …
+The post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bramus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Lead Generation Tips for Freelance Developers]]></title>
+        <id>616e581dd48e1707b6d77deb</id>
+        <link href="https://www.freecodecamp.org/news/lead-generation-freelancers/"/>
+        <updated>2021-11-04T14:23:17.000Z</updated>
+        <summary type="html"><![CDATA[As a freelancer, targeting your desired clients requires time and effort, and sometimes money.  While spending money to generate leads can be a good thing, in this article I want to focus on the free lead generation tips to get clients as a freelance developer, all in a quick and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vcruntime140.dll Was Not Found [Solved on Windows 10 PC]]]></title>
+        <id>61839bcd8bcfae07ca4e1422</id>
+        <link href="https://www.freecodecamp.org/news/vcruntime140-dll-was-not-found-solved-on-windows-10-pc/"/>
+        <updated>2021-11-04T14:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever tried to open an app on your computer only to see the error "The program can't start because vcruntime140.dll is missing from your computer. Try reinstalling it to fix this problem."?  This is a common issue with Windows 10 and it can be quite]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Applications for Everybody - Dr. Chuck Teaches HTML, JavaScript, PHP, SQL, and More]]></title>
+        <id>6183db8b8bcfae07ca4e15f6</id>
+        <link href="https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/"/>
+        <updated>2021-11-04T13:47:13.000Z</updated>
+        <summary type="html"><![CDATA[The amount of diverse skills required to create a modern web application can be intimidating to beginners. But with the right teacher and the right mindset, everybody can learn to create complex web applications. We just published Web Applications for Everybody on the freeCodeCamp.org YouTube channel. This 14-hour course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
+        <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
+        <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
+        <updated>2021-11-04T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (David Atanda)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning Tutorial – How to Use PyTorch and Transfer Learning to Diagnose COVID-19 Patients]]></title>
         <id>6181896c8bcfae07ca4e0407</id>
@@ -36,16 +163,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git Rename Branch – How to Change a Local Branch Name]]></title>
-        <id>618216228bcfae07ca4e0733</id>
-        <link href="https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/"/>
-        <updated>2021-11-03T15:42:12.000Z</updated>
-        <summary type="html"><![CDATA[As you are building out a project, there might be times where you need to rename a local branch. But how do you do that in Git? In this article, I will provide you with two methods for renaming  local branches in Git.  How to Rename a Branch in Git]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chapter 10: Browser Wars]]></title>
         <id>https://css-tricks.com/?p=354925</id>
         <link href="https://css-tricks.com/chapter-10-browser-wars/"/>
@@ -54,16 +171,6 @@
 The post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the 50 Most Used Linux &amp; Terminal Commands]]></title>
-        <id>61828b8a8bcfae07ca4e0a1f</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/"/>
-        <updated>2021-11-03T13:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Touch cat tail. Find man head. Who? The previous seven words are common Linux commands. If you are a programmer, you are likely going to need to use Linux and terminal commands at some point.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -104,46 +211,6 @@ For example, a recent …
 The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Bonjour on my Computer? Windows 10 Bonjour Program PC Guide]]></title>
-        <id>617fffad8bcfae07ca4df6d2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-bonjour-on-my-computer/"/>
-        <updated>2021-11-02T18:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Apple devices work well and connect readily with other Apple devices. But they have a hard time communicating with devices running other operating systems like Windows and Linux.  If you have both Apple and Windows devices, you might want to share files between them over a local network. And this]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Mouse DPI Settings in Windows 10]]></title>
-        <id>61810f888bcfae07ca4e007b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-mouse-dpi-settings-in-windows-10/"/>
-        <updated>2021-11-02T17:05:06.000Z</updated>
-        <summary type="html"><![CDATA[If your work requires a lot of precision, like graphic design and gaming, then you might want to adjust how fast or slow your external mouse or keyboard is.  In this guide, I will show you how you can make your mouse more sensitive or less sensitive by changing its]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different Ways to Charge for a Website Project – Freelance Developer Guide]]></title>
-        <id>61653c74804854468fda9148</id>
-        <link href="https://www.freecodecamp.org/news/different-ways-to-charge-for-a-website/"/>
-        <updated>2021-11-02T16:37:58.000Z</updated>
-        <summary type="html"><![CDATA[As someone who offers a service as a freelancer, you have a major say in how you price a website project. But how do you go about charging for a website project? Sure, you can bill by the hour, but is there a better way? In this article, we are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Your Own Browser Extension [Example Project Included]]]></title>
-        <id>617ce33033422e07df3678a3</id>
-        <link href="https://www.freecodecamp.org/news/write-your-own-browser-extensions/"/>
-        <updated>2021-11-02T15:57:40.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will talk about Browser extensions – what they are, how they work, and how you can build your own. We will finish by actually writing our own extension (Super Fun!) which allows us to copy any code snippet to our clipboard with a click of a single]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -201,16 +268,6 @@ I’ve certainly overheard more than my fair share of arguments about Single Pag
 The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a gif – Create Animated gifs Without Downloading Software]]></title>
-        <id>613f3cba852f4307d372c7e0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-gif-create-animated-gifs-without-downloading-software/"/>
-        <updated>2021-11-01T21:31:16.000Z</updated>
-        <summary type="html"><![CDATA[A GIF (Graphics Interchange Format) is a small animated image that you can share with your friends and family. And there are many ways to create them without downloading any software. In this article, I will show you how to use the Make a Gif  site, where you can create]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -287,40 +344,6 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
 The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite + _____]]></title>
-        <id>https://css-tricks.com/?p=355166</id>
-        <link href="https://css-tricks.com/vite-plus-blank/"/>
-        <updated>2021-10-28T18:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Vite, “Next Generation Frontend Tooling” from Evan You, has been capturing a lot of attention. I’ve heard rave reviews from developers, even in private chats (you gotta try this!). Being from Evan, Vite works great with Vue, …
-The post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge Conflicts: What They Are and How to Deal with Them​]]></title>
-        <id>https://css-tricks.com/?p=354389</id>
-        <link href="https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/"/>
-        <updated>2021-10-28T14:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Merge conflicts... Nobody likes them. Some of us even fear them. But they are a fact of life when you're working with Git, especially when you're teaming up with other developers. In most cases, merge conflicts aren't as scary as you might think. In this fourth part of our “Advanced Git” series we'll talk about when they can happen, what they actually are, and how to solve them.
-The post Merge Conflicts: What They Are and How to Deal with Them​ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an Angular Data Grid With Filtering]]></title>
-        <id>https://css-tricks.com/?p=354782</id>
-        <link href="https://css-tricks.com/building-an-angular-data-grid-with-filtering/"/>
-        <updated>2021-10-28T14:03:11.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Kendo UI makes it possible to go from a basic idea to a full-fledged app, thanks to a massive component library. We’re talking well over 100 components that are ready for you to drop …
-The post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +566,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To CSS Debugging]]></title>
-        <id>https://smashingmagazine.com/2021/10/guide-debugging-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/guide-debugging-css/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>

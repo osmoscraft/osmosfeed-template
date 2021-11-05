@@ -11,7 +11,7 @@
           "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
           "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 292,
+          "wordCount": 294,
           "title": "v1.11.3"
         }
       ]
@@ -22,12 +22,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=355937",
+          "author": "Chris Coyier",
+          "description": "Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.\nA few things I find compelling:\nOne of the \n…\nThe post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/introducing-svelte-and-comparing-svelte-with-react-and-vue/",
+          "publishedOn": "2021-11-04T21:20:02.000Z",
+          "wordCount": 499,
+          "title": "Introducing Svelte, and Comparing Svelte with React and Vue"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356047",
+          "author": "Chris Coyier",
+          "description": "Steve Ruiz calls this post an “extra-obscure edition of design tool micro-UX,” but I find it fascinating! If you select a bunch of elements in a design tool, then rotate then, then later select those same elements and try to …\nThe post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-the-drift-in-shape-rotations/",
+          "publishedOn": "2021-11-04T17:52:29.000Z",
+          "wordCount": 433,
+          "title": "Fixing the Drift in Shape Rotations"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355060",
+          "author": "Bramus",
+          "description": "The Scroll-linked Animations specification is an upcoming and experimental addition that allows us to link animation-progress to scroll-progress: as you scroll up and down a scroll container, a linked animation also advances or rewinds accordingly.\nWe covered some use cases …\nThe post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/",
+          "publishedOn": "2021-11-04T14:26:40.000Z",
+          "wordCount": 1562,
+          "title": "Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline"
+        },
+        {
           "id": "https://css-tricks.com/?p=354925",
           "author": "Jay Hoffmann",
           "description": "In June of 1995, representatives from Microsoft arrived at the Netscape offices. The stated goal was to find ways to work together—Netscape as the single dominant force in the browser market and Microsoft as a tech giant just beginning to …\nThe post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-10-browser-wars/",
           "publishedOn": "2021-11-03T15:09:50.000Z",
-          "wordCount": 6546,
+          "wordCount": 6596,
           "title": "Chapter 10: Browser Wars"
         },
         {
@@ -36,7 +63,7 @@
           "description": "First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:\naddEventListener(\"fetch\", (event) ={\n  event.respondWith(\n     fetch(\"https://css-tricks.com\")\n  );\n});\nIt doesn’t have any error handling or anything, but hey, it works:\nNow imagine how …\nThe post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/",
           "publishedOn": "2021-11-02T22:50:37.000Z",
-          "wordCount": 1238,
+          "wordCount": 1314,
           "title": "Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)"
         },
         {
@@ -99,7 +126,7 @@
           "description": "Recently, while looking for some ideas on what to code as I have zero artistic sense so the only thing I can do is find pretty things that other people have come up with and remake them with clean and …\nThe post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-ing-candy-ghost-buttons/",
           "publishedOn": "2021-11-01T01:04:53.000Z",
-          "wordCount": 6473,
+          "wordCount": 6567,
           "title": "CSS-ing Candy Ghost Buttons"
         },
         {
@@ -128,33 +155,6 @@
           "publishedOn": "2021-10-28T20:20:07.000Z",
           "wordCount": 523,
           "title": "Okhsv and Okhsl"
-        },
-        {
-          "id": "https://css-tricks.com/?p=355166",
-          "author": "Chris Coyier",
-          "description": "Vite, “Next Generation Frontend Tooling” from Evan You, has been capturing a lot of attention. I’ve heard rave reviews from developers, even in private chats (you gotta try this!). Being from Evan, Vite works great with Vue, …\nThe post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/vite-plus-blank/",
-          "publishedOn": "2021-10-28T18:07:21.000Z",
-          "wordCount": 567,
-          "title": "Vite + _____"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354389",
-          "author": "Tobias Günther",
-          "description": "Merge conflicts... Nobody likes them. Some of us even fear them. But they are a fact of life when you're working with Git, especially when you're teaming up with other developers. In most cases, merge conflicts aren't as scary as you might think. In this fourth part of our “Advanced Git” series we'll talk about when they can happen, what they actually are, and how to solve them.\nThe post Merge Conflicts: What They Are and How to Deal with Them​ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/",
-          "publishedOn": "2021-10-28T14:07:12.000Z",
-          "wordCount": 2001,
-          "title": "Merge Conflicts: What They Are and How to Deal with Them​"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354782",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nKendo UI makes it possible to go from a basic idea to a full-fledged app, thanks to a massive component library. We’re talking well over 100 components that are ready for you to drop …\nThe post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-an-angular-data-grid-with-filtering/",
-          "publishedOn": "2021-10-28T14:03:11.000Z",
-          "wordCount": 1277,
-          "title": "Building an Angular Data Grid With Filtering"
         }
       ]
     },
@@ -164,12 +164,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.",
+          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
+          "publishedOn": "2021-11-04T18:00:00.000Z",
+          "wordCount": 5848,
+          "title": "Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/475de692-46fc-4058-af10-3736770698d5/smashing-podcast-episode-43.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
+          "author": "hello@smashingmagazine.com (David Atanda)",
+          "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
+          "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
+          "publishedOn": "2021-11-04T11:30:00.000Z",
+          "wordCount": 3396,
+          "title": "GraphQL On The Front-End (React And Apollo)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "author": "hello@smashingmagazine.com (Ikeh Akinyemi)",
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3625,
+          "wordCount": 3628,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -183,7 +211,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 5956,
+          "wordCount": 5952,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -225,7 +253,7 @@
           "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
           "link": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
           "publishedOn": "2021-10-28T11:00:00.000Z",
-          "wordCount": 3162,
+          "wordCount": 3161,
           "title": "How To Build An Amazon Product Scraper With Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/069a1796-0f8d-4936-bfc0-4aa988ef0594/building-amazon-product-scraper-nodejs.jpg",
@@ -239,7 +267,7 @@
           "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
           "link": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
           "publishedOn": "2021-10-27T10:00:00.000Z",
-          "wordCount": 3500,
+          "wordCount": 3508,
           "title": "Eye-Tracking In Mobile UX Research",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3012986b-e407-4c49-8186-13a99528ef13/eye-tracking-mobile-ux-research.jpg",
@@ -253,7 +281,7 @@
           "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
           "link": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
           "publishedOn": "2021-10-26T10:00:00.000Z",
-          "wordCount": 3026,
+          "wordCount": 3036,
           "title": "Optimizing Next.js Applications With Nx",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b5517f-415c-43ed-98a6-70215d408f7a/optimizing-nextjs-applications-nx.jpg",
@@ -267,7 +295,7 @@
           "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
           "link": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
           "publishedOn": "2021-10-25T13:00:00.000Z",
-          "wordCount": 2031,
+          "wordCount": 2032,
           "title": "A Deep Dive Into object-fit And background-size In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/19e7f717-46d5-4949-96f4-671f4744d0e1/object-fit-background-size-css.jpg",
@@ -281,7 +309,7 @@
           "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
           "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
           "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4918,
+          "wordCount": 4920,
           "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
@@ -295,7 +323,7 @@
           "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
           "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
           "publishedOn": "2021-10-22T09:30:00.000Z",
-          "wordCount": 4621,
+          "wordCount": 4624,
           "title": "How To Build A Real-Time Multi-User Game From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
@@ -309,7 +337,7 @@
           "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
           "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
           "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2880,
+          "wordCount": 2879,
           "title": "Respecting Users’ Motion Preferences",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
@@ -323,7 +351,7 @@
           "description": "Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.",
           "link": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
           "publishedOn": "2021-10-20T11:00:00.000Z",
-          "wordCount": 5044,
+          "wordCount": 5043,
           "title": "Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1ff6275f-bf33-480f-bdd4-690e94f96314/building-ssg-11ty-vite-jam-sandwich.jpg",
@@ -337,7 +365,7 @@
           "description": "In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.",
           "link": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
           "publishedOn": "2021-10-19T14:00:00.000Z",
-          "wordCount": 2526,
+          "wordCount": 2522,
           "title": "Building An API With Gatsby Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/110c2aa7-7744-48d6-a234-9e67e903cbe5/building-api-gatsby-functions.jpg",
@@ -365,7 +393,7 @@
           "description": "Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.",
           "link": "https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/",
           "publishedOn": "2021-10-18T14:00:00.000Z",
-          "wordCount": 2140,
+          "wordCount": 2129,
           "title": "Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e522651-eaf2-45e7-a544-9da7beb7b23e/nextjs-ecommerce-cls-case-study.jpg",
@@ -379,7 +407,7 @@
           "description": "In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.",
           "link": "https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/",
           "publishedOn": "2021-10-16T10:00:00.000Z",
-          "wordCount": 2846,
+          "wordCount": 2853,
           "title": "A Simple But Effective Mental Health Routine For Programmers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c36dd2b2-f807-42a7-b8d1-9e6e9a00b3e7/effective-mental-health-routine-for-programmers.jpg",
@@ -407,7 +435,7 @@
           "description": "Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.",
           "link": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
           "publishedOn": "2021-10-14T12:00:00.000Z",
-          "wordCount": 3519,
+          "wordCount": 3523,
           "title": "Smart CSS Solutions For Common UI Challenges",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3bf0115-0bc9-41b7-b027-3ea8b6b7e848/transition-css-gradients-opt.png",
@@ -435,7 +463,7 @@
           "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
           "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "publishedOn": "2021-10-12T12:00:00.000Z",
-          "wordCount": 2350,
+          "wordCount": 2339,
           "title": "Useful React APIs For Building Flexible Components With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
@@ -463,7 +491,7 @@
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
           "link": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "publishedOn": "2021-10-11T10:00:00.000Z",
-          "wordCount": 3728,
+          "wordCount": 3738,
           "title": "The Autofill Dark Pattern",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8722ec01-912f-4013-8b8a-2ba0ab43cc20/autofill-dark-pattern.jpg",
@@ -477,7 +505,7 @@
           "description": "Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.",
           "link": "https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/",
           "publishedOn": "2021-10-09T10:00:00.000Z",
-          "wordCount": 2814,
+          "wordCount": 2813,
           "title": "Composable CSS Animation In Vue With AnimXYZ",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0b5365f4-e57d-4fa8-96ed-1742adb243ec/composable-css-animation-vue-animxyz.jpg",
@@ -491,7 +519,7 @@
           "description": "In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!",
           "link": "https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/",
           "publishedOn": "2021-10-08T10:00:00.000Z",
-          "wordCount": 7090,
+          "wordCount": 7092,
           "title": "Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9de142e-09f1-4257-99f5-606cc09b8c00/static-first-madlib-generator-portable-text-netlify-builder-functions.jpg",
@@ -505,26 +533,12 @@
           "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.",
           "link": "https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/",
           "publishedOn": "2021-10-07T09:00:00.000Z",
-          "wordCount": 1000,
+          "wordCount": 994,
           "title": "Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef22f452-44d9-49ae-94f9-c7f1c57a8378/coronavirus.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.",
-          "link": "https://smashingmagazine.com/2021/10/guide-debugging-css/",
-          "publishedOn": "2021-10-06T10:00:00.000Z",
-          "wordCount": 5475,
-          "title": "A Guide To CSS Debugging",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/334beb39-13a4-4159-ab77-86c7dac406d8/guide-debugging-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -534,6 +548,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618180828bcfae07ca4e03d5",
+          "author": null,
+          "description": "The C and C++ programming languages power a large part of the world's products, applications, and websites.  Each helped lay the foundation for the creation of many popular programming languages, such as Java. They also support many languages that you might use regularly for your programming projects, such as Python.",
+          "link": "https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/",
+          "publishedOn": "2021-11-04T20:16:23.000Z",
+          "wordCount": 1800,
+          "title": "C vs C++ – What&#x27;s The Difference?"
+        },
+        {
+          "id": "61751bafd48e1707b6d7aa12",
+          "author": null,
+          "description": "In the C programming language, there are times when you'll want to change looping behavior. And the continue and the break statements help you skip iterations, and exit from loops under certain conditions. In this tutorial, you'll learn how break and continue statements alter the control flow of your program.",
+          "link": "https://www.freecodecamp.org/news/c-break-and-continue-statements-loop-control-statements-in-c-explained/",
+          "publishedOn": "2021-11-04T18:56:12.000Z",
+          "wordCount": 1154,
+          "title": "C Break and Continue Statements – Loop Control Statements in C Explained"
+        },
+        {
+          "id": "6182d4c28bcfae07ca4e0d18",
+          "author": null,
+          "description": "Replit is a popular free online IDE that you can use to create your projects with very little setup. This editor supports over 50 languages and many programming courses use it, including freeCodeCamp.  In this article, I will show you how to get started with Replit and show you how",
+          "link": "https://www.freecodecamp.org/news/how-to-use-replit/",
+          "publishedOn": "2021-11-04T15:08:02.000Z",
+          "wordCount": 1894,
+          "title": "How to Use Replit – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "6183a45e8bcfae07ca4e1470",
+          "author": null,
+          "description": "Desktop icons are a convenient way to launch apps and open folders. They've actually become the de facto way of opening apps because many apps create them automatically when installed.  So what happens when you can't find your desktop icons on your computer anymore? Well, you might have mistakenly hidden",
+          "link": "https://www.freecodecamp.org/news/desktop-icons-missing-how-to-fix-windows-10-pc-icons-that-have-disappeared/",
+          "publishedOn": "2021-11-04T15:07:14.000Z",
+          "wordCount": 534,
+          "title": "Desktop Icons Missing – How to Fix Windows 10 PC Icons that Have Disappeared"
+        },
+        {
+          "id": "616e581dd48e1707b6d77deb",
+          "author": null,
+          "description": "As a freelancer, targeting your desired clients requires time and effort, and sometimes money.  While spending money to generate leads can be a good thing, in this article I want to focus on the free lead generation tips to get clients as a freelance developer, all in a quick and",
+          "link": "https://www.freecodecamp.org/news/lead-generation-freelancers/",
+          "publishedOn": "2021-11-04T14:23:17.000Z",
+          "wordCount": 1072,
+          "title": "Free Lead Generation Tips for Freelance Developers"
+        },
+        {
+          "id": "61839bcd8bcfae07ca4e1422",
+          "author": null,
+          "description": "Have you ever tried to open an app on your computer only to see the error \"The program can't start because vcruntime140.dll is missing from your computer. Try reinstalling it to fix this problem.\"?  This is a common issue with Windows 10 and it can be quite",
+          "link": "https://www.freecodecamp.org/news/vcruntime140-dll-was-not-found-solved-on-windows-10-pc/",
+          "publishedOn": "2021-11-04T14:11:12.000Z",
+          "wordCount": 805,
+          "title": "vcruntime140.dll Was Not Found [Solved on Windows 10 PC]"
+        },
+        {
+          "id": "6183db8b8bcfae07ca4e15f6",
+          "author": null,
+          "description": "The amount of diverse skills required to create a modern web application can be intimidating to beginners. But with the right teacher and the right mindset, everybody can learn to create complex web applications. We just published Web Applications for Everybody on the freeCodeCamp.org YouTube channel. This 14-hour course",
+          "link": "https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/",
+          "publishedOn": "2021-11-04T13:47:13.000Z",
+          "wordCount": 477,
+          "title": "Web Applications for Everybody - Dr. Chuck Teaches HTML, JavaScript, PHP, SQL, and More"
+        },
         {
           "id": "6181896c8bcfae07ca4e0407",
           "author": null,
@@ -560,69 +637,6 @@
           "publishedOn": "2021-11-03T15:49:56.000Z",
           "wordCount": 790,
           "title": "How to Password Protect a Zip File [Windows 10 PC Guide]"
-        },
-        {
-          "id": "618216228bcfae07ca4e0733",
-          "author": null,
-          "description": "As you are building out a project, there might be times where you need to rename a local branch. But how do you do that in Git? In this article, I will provide you with two methods for renaming  local branches in Git.  How to Rename a Branch in Git",
-          "link": "https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/",
-          "publishedOn": "2021-11-03T15:42:12.000Z",
-          "wordCount": 549,
-          "title": "Git Rename Branch – How to Change a Local Branch Name"
-        },
-        {
-          "id": "61828b8a8bcfae07ca4e0a1f",
-          "author": null,
-          "description": "Touch cat tail. Find man head. Who? The previous seven words are common Linux commands. If you are a programmer, you are likely going to need to use Linux and terminal commands at some point.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
-          "link": "https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/",
-          "publishedOn": "2021-11-03T13:33:59.000Z",
-          "wordCount": 368,
-          "title": "Learn the 50 Most Used Linux &amp; Terminal Commands"
-        },
-        {
-          "id": "617fffad8bcfae07ca4df6d2",
-          "author": null,
-          "description": "Apple devices work well and connect readily with other Apple devices. But they have a hard time communicating with devices running other operating systems like Windows and Linux.  If you have both Apple and Windows devices, you might want to share files between them over a local network. And this",
-          "link": "https://www.freecodecamp.org/news/what-is-bonjour-on-my-computer/",
-          "publishedOn": "2021-11-02T18:23:02.000Z",
-          "wordCount": 1000,
-          "title": "What is Bonjour on my Computer? Windows 10 Bonjour Program PC Guide"
-        },
-        {
-          "id": "61810f888bcfae07ca4e007b",
-          "author": null,
-          "description": "If your work requires a lot of precision, like graphic design and gaming, then you might want to adjust how fast or slow your external mouse or keyboard is.  In this guide, I will show you how you can make your mouse more sensitive or less sensitive by changing its",
-          "link": "https://www.freecodecamp.org/news/how-to-change-mouse-dpi-settings-in-windows-10/",
-          "publishedOn": "2021-11-02T17:05:06.000Z",
-          "wordCount": 553,
-          "title": "How to Change Mouse DPI Settings in Windows 10"
-        },
-        {
-          "id": "61653c74804854468fda9148",
-          "author": null,
-          "description": "As someone who offers a service as a freelancer, you have a major say in how you price a website project. But how do you go about charging for a website project? Sure, you can bill by the hour, but is there a better way? In this article, we are",
-          "link": "https://www.freecodecamp.org/news/different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-11-02T16:37:58.000Z",
-          "wordCount": 2312,
-          "title": "The Different Ways to Charge for a Website Project – Freelance Developer Guide"
-        },
-        {
-          "id": "617ce33033422e07df3678a3",
-          "author": null,
-          "description": "In this article we will talk about Browser extensions – what they are, how they work, and how you can build your own. We will finish by actually writing our own extension (Super Fun!) which allows us to copy any code snippet to our clipboard with a click of a single",
-          "link": "https://www.freecodecamp.org/news/write-your-own-browser-extensions/",
-          "publishedOn": "2021-11-02T15:57:40.000Z",
-          "wordCount": 1529,
-          "title": "How to Write Your Own Browser Extension [Example Project Included]"
-        },
-        {
-          "id": "613f3cba852f4307d372c7e0",
-          "author": null,
-          "description": "A GIF (Graphics Interchange Format) is a small animated image that you can share with your friends and family. And there are many ways to create them without downloading any software. In this article, I will show you how to use the Make a Gif  site, where you can create",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-gif-create-animated-gifs-without-downloading-software/",
-          "publishedOn": "2021-11-01T21:31:16.000Z",
-          "wordCount": 534,
-          "title": "How to Make a gif – Create Animated gifs Without Downloading Software"
         }
       ]
     }
