@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-05T00:41:23.607Z</id>
+    <id>urn:2021-11-06T00:40:17.879Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-05T00:41:23.607Z</updated>
+    <updated>2021-11-06T00:40:17.879Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
+        <id>https://css-tricks.com/?p=355780</id>
+        <link href="https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/"/>
+        <updated>2021-11-05T20:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:
+<!-- Warning! Typo! --<link rel="icon" href="/favicon.ico" size="any"<link rel="icon" href="/favicon.svg" type="image/svg+xml"
+The attribute size is a typo there, …
+The post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, Design Systems Do Improve Developer Efficiency and Design Consistency]]></title>
+        <id>https://css-tricks.com/?p=355888</id>
+        <link href="https://css-tricks.com/yes-design-systems-do-improve-developer-efficiency-and-design-consistency/"/>
+        <updated>2021-11-05T19:58:37.000Z</updated>
+        <summary type="html"><![CDATA[One of the toughest things about being someone who cares deeply about design systems is making the case for a dedicated design system. Folks in leadership will often ask you to prove the value of it. Why should we care …
+The post Yes, Design Systems Do Improve Developer Efficiency and Design Consistency appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git and GitHub Tutorial – Version Control for Beginners]]></title>
+        <id>617acb5b33422e07df366c9d</id>
+        <link href="https://www.freecodecamp.org/news/git-and-github-for-beginners/"/>
+        <updated>2021-11-05T18:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Git and GitHub are two technologies that every developer should learn, irrespective of their field.  If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.  This tutorial will help you understand what Git and version control are, the basic Git commands]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Key Not Working? Here&#x27;s How to Fix It [Windows 10 PC Guide]]]></title>
+        <id>61850c138bcfae07ca4e245f</id>
+        <link href="https://www.freecodecamp.org/news/windows-key-not-working-heres-how-to-fix-it-windows-10-pc-guide/"/>
+        <updated>2021-11-05T17:29:22.000Z</updated>
+        <summary type="html"><![CDATA[On your Windows machine, the Windows key launches the Start menu, and from there you can access anything on your computer.  When you press it in combination with other keys, it also acts as a useful shortcut to utilities you don't get easily through your computer's graphic user interface (GUI)]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Contains – How to use JS .includes()]]></title>
+        <id>6182162c8bcfae07ca4e0737</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-contains-how-to-use-js-includes/"/>
+        <updated>2021-11-05T16:46:38.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript you can use the .includes() method to see if one string is found in another. But how does it work exactly? In this article, I will walk you through a few code examples of the JavaScript string method called .includes().  Basic .includes() SyntaxHere is the basic syntax for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Animated Chart of Nested Squares Using Masks]]></title>
+        <id>https://css-tricks.com/?p=355623</id>
+        <link href="https://css-tricks.com/how-to-create-an-animated-chart-of-nested-squares-using-masks/"/>
+        <updated>2021-11-05T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[We have many well-known chart types: bar, donut, line, pie, you name it. All popular chart libraries support these. Then there are the chart types that do not even have a name. Check out this dreamt-up chart with stacked (nested) …
+The post How to Create an Animated Chart of Nested Squares Using Masks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mészáros Róbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enterkeyhint]]></title>
+        <id>https://css-tricks.com/?p=355902</id>
+        <link href="https://css-tricks.com/enterkeyhint/"/>
+        <updated>2021-11-05T14:43:25.000Z</updated>
+        <summary type="html"><![CDATA[I only just recently learned the enterkeyhint attribute on form inputs was a thing! It seems like kind of a big deal to me, as crafting HTML form markup is a decent slice of a front-end developer’s life, and this …
+The post enterkeyhint appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value Of Concept Testing As Part Of Product Design]]></title>
+        <id>https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/</id>
+        <link href="https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/"/>
+        <updated>2021-11-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Svelte, and Comparing Svelte with React and Vue]]></title>
         <id>https://css-tricks.com/?p=355937</id>
@@ -133,36 +219,6 @@ The post Scroll-Linked Animations With the Web Animations API (WAAPI) and Scroll
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Learning Tutorial – How to Use PyTorch and Transfer Learning to Diagnose COVID-19 Patients]]></title>
-        <id>6181896c8bcfae07ca4e0407</id>
-        <link href="https://www.freecodecamp.org/news/deep-learning-with-pytorch/"/>
-        <updated>2021-11-03T19:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Ever since the outbreak of COVID-19 in December 2019, researchers in the field of artificial intelligence and machine learning have been trying to find better ways to diagnose the disease. They've worked on developing algorithms that would detect the disease within a matter of seconds – and only by looking at]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Loops in C – Explained with Code Examples]]></title>
-        <id>6130917fd6679a07b7d40727</id>
-        <link href="https://www.freecodecamp.org/news/for-loops-in-c/"/>
-        <updated>2021-11-03T15:56:21.000Z</updated>
-        <summary type="html"><![CDATA[In programming, you'll use loops when you need to repeat a block of code multiple times.  These repetitions of the same block of code a certain number of times are called iterations. And there's a looping condition that decides the number of iterations.  The for and the while loops are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Password Protect a Zip File [Windows 10 PC Guide]]]></title>
-        <id>61825f588bcfae07ca4e091e</id>
-        <link href="https://www.freecodecamp.org/news/password-protect-zip-file-windows10/"/>
-        <updated>2021-11-03T15:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Zip files often contain multiple large files, so you might want to encrypt them or protect them with a password. That way, only certain people will have access to it.  In this guide, I will show you a great way to password protect a zip file, so you can be]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chapter 10: Browser Wars]]></title>
         <id>https://css-tricks.com/?p=354925</id>
         <link href="https://css-tricks.com/chapter-10-browser-wars/"/>
@@ -282,17 +338,6 @@ The post So, You Want to Build an @mention Autocomplete Feature? appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-ing Candy Ghost Buttons]]></title>
-        <id>https://css-tricks.com/?p=354804</id>
-        <link href="https://css-tricks.com/css-ing-candy-ghost-buttons/"/>
-        <updated>2021-11-01T01:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Recently, while looking for some ideas on what to code as I have zero artistic sense so the only thing I can do is find pretty things that other people have come up with and remake them with clean and …
-The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/</id>
         <link href="https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/"/>
@@ -303,29 +348,6 @@ The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can suppo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Articles About Accessibility I’ve Saved Recently IV]]></title>
-        <id>https://css-tricks.com/?p=354581</id>
-        <link href="https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iv/"/>
-        <updated>2021-10-29T18:28:38.000Z</updated>
-        <summary type="html"><![CDATA[A guide to designing accessible, WCAG-compliant focus indicators — Sara Soueidan says you can make more accessible focus outlines by doing your own, rather than leaving it to the browser — as long as you do it right. Deep dive! 
-…
-The post Some Articles About Accessibility I’ve Saved Recently IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Your Own Automated Social Images With Resoc]]></title>
-        <id>https://css-tricks.com/?p=354296</id>
-        <link href="https://css-tricks.com/create-your-own-automated-social-images-with-resoc/"/>
-        <updated>2021-10-29T14:14:55.000Z</updated>
-        <summary type="html"><![CDATA[There has been a lot of talk about automated social images lately. GitHub has created its own. A WordPress plugin has been acquired by Jetpack. There is definitely interest! People like Ryan Filler and Zach Leatherman have implemented …
-The post Create Your Own Automated Social Images With Resoc appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Philippe Bernard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
         <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
         <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
@@ -333,17 +355,6 @@ The post Create Your Own Automated Social Images With Resoc appeared first on CS
         <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Freya Giles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okhsv and Okhsl]]></title>
-        <id>https://css-tricks.com/?p=354922</id>
-        <link href="https://css-tricks.com/okhsv-and-okhsl/"/>
-        <updated>2021-10-28T20:20:07.000Z</updated>
-        <summary type="html"><![CDATA[There is an old Russian fable where Okhsv and Okhsl are on a rowboat and Okhsv says to Okhsl, “What are the known shortcomings of HSL and HSV color pickers in design applications?” I kid, I kid. But really, what …
-The post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -556,16 +567,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Bryan Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)]]></title>
-        <id>https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/</id>
-        <link href="https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/"/>
-        <updated>2021-10-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
         </author>
     </entry>
 </feed>
