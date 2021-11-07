@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-06T00:40:17.879Z</id>
+    <id>urn:2021-11-07T00:43:08.110Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-06T00:40:17.879Z</updated>
+    <updated>2021-11-07T00:43:08.110Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -557,16 +557,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ejiro Asiuwhu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/"/>
-        <updated>2021-10-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Bryan Robinson)</name>
         </author>
     </entry>
 </feed>
