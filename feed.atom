@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-08T00:42:22.961Z</id>
+    <id>urn:2021-11-09T00:42:32.751Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-08T00:42:22.961Z</updated>
+    <updated>2021-11-09T00:42:32.751Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid Can Do Auto Height Transitions]]></title>
+        <id>https://css-tricks.com/?p=356204</id>
+        <link href="https://css-tricks.com/css-grid-can-do-auto-height-transitions/"/>
+        <updated>2021-11-08T19:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.
+Perhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …
+The post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Icon Glassmorphism Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=322098</id>
+        <link href="https://css-tricks.com/icon-glassmorphism-effect-in-css/"/>
+        <updated>2021-11-08T14:57:42.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …
+The post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does the Next Generation of Static Site Generators Make Building Sites Better?]]></title>
+        <id>https://css-tricks.com/?p=356134</id>
+        <link href="https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/"/>
+        <updated>2021-11-08T14:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …
+The post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce]]></title>
+        <id>https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/</id>
+        <link href="https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/"/>
+        <updated>2021-11-08T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
         <id>https://css-tricks.com/?p=355780</id>
@@ -300,41 +344,6 @@ The post Responsible JavaScript appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Husar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buttons vs. Links]]></title>
-        <id>https://css-tricks.com/?p=354978</id>
-        <link href="https://css-tricks.com/buttons-vs-links/"/>
-        <updated>2021-11-01T22:58:12.000Z</updated>
-        <summary type="html"><![CDATA[There are thousands of articles out there about buttons and links on the web; the differences and how to use them properly. Hey, I don’t mind. I wrote my own as well¹.
-It’s such a common mistake on …
-The post Buttons vs. Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have Single-Page Apps Ruined the Web? (“Transitional Apps”)]]></title>
-        <id>https://css-tricks.com/?p=355034</id>
-        <link href="https://css-tricks.com/have-single-page-apps-ruined-the-web-transitional-apps/"/>
-        <updated>2021-11-01T21:43:10.000Z</updated>
-        <summary type="html"><![CDATA[A big heaping 19-minute bowl of not-too-hot, not-too-cold baby bear porridge website building from Rich Harris. 
-I’ve certainly overheard more than my fair share of arguments about Single Page Apps (SPAs) vs Multi-Page Apps (MPAs). Although it’s only recently that …
-The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, You Want to Build an @mention Autocomplete Feature?]]></title>
-        <id>https://css-tricks.com/?p=354588</id>
-        <link href="https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/"/>
-        <updated>2021-11-01T14:27:26.000Z</updated>
-        <summary type="html"><![CDATA[We’re all familiar with the concept of autocompletion, right? You type something into a search box and it tries to guess what you’re looking for as you type, displaying suggestions, often below the cursor. While we’re used to autocomplete on …
-The post So, You Want to Build an @mention Autocomplete Feature? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarah Dayan</name>
         </author>
     </entry>
     <entry>
