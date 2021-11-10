@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-09T00:42:32.751Z</id>
+    <id>urn:2021-11-10T00:42:03.432Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-09T00:42:32.751Z</updated>
+    <updated>2021-11-10T00:42:03.432Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
+        <id>https://css-tricks.com/?p=356142</id>
+        <link href="https://css-tricks.com/detecting-specific-text-input-with-html-and-css/"/>
+        <updated>2021-11-09T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:
+You have to press a special combination of keys on a keyboard.
+Then type a secret password.
+From there, a special message pops …
+The post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoPress for WordPress]]></title>
+        <id>https://css-tricks.com/?p=356370</id>
+        <link href="https://css-tricks.com/videopress-for-wordpress/"/>
+        <updated>2021-11-09T22:53:18.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …
+The post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python map() Function – Explained with Examples]]></title>
+        <id>617c550f33422e07df367780</id>
+        <link href="https://www.freecodecamp.org/news/python-map-explained-with-examples/"/>
+        <updated>2021-11-09T17:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Python offers a number of functional programming utilities even though it's primarily an object-oriented programming language. And the most notable one is the map() function. In this article, we'll explore what the map() function is and how to use it in your code. The map() function in PythonThe map() function]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Squid Game JavaScript Game with Three.js]]></title>
+        <id>618ab16011d3cb08287a3bd7</id>
+        <link href="https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/"/>
+        <updated>2021-11-09T17:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Would you survive the TV show Squid Game? Would you survive coding the TV show Squid Game? Time to find out. We just published a JavaScript course on the freeCodeCamp.org YouTube channel that will teach you how to create the Red Light / Green Light game from Squid Game. You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python JSON – How to Convert a String to JSON]]></title>
+        <id>61862c268bcfae07ca4e27d7</id>
+        <link href="https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/"/>
+        <updated>2021-11-09T16:38:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you'll learn the basics of JSON – what it is, where it is most commonly used, and its syntax.  You'll also see how to convert a string to JSON in Python.  Let's get started!  What is JSON? JSON stands for JavaScript Object Notation.  It is a data format]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Suspense: Lessons Learned While Loading Data]]></title>
+        <id>https://css-tricks.com/?p=356187</id>
+        <link href="https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/"/>
+        <updated>2021-11-09T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …
+The post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Won&#x27;t Open on my PC [Solved in Windows 10]]]></title>
+        <id>618a5af08bcfae07ca4e3a8b</id>
+        <link href="https://www.freecodecamp.org/news/discord-wont-open-on-my-pc-solved-in-windows-10/"/>
+        <updated>2021-11-09T14:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Discord is an instant messaging app you can use to communicate through text messages, voice calls, and video calls. You can also use it to share files.  Discord was originally created for gamers, but many other people now use it these days. It has become an alternative to Slack for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localizing Your Next.js App]]></title>
+        <id>https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/</id>
+        <link href="https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/"/>
+        <updated>2021-11-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Transforming And Optimizing Images And Videos On Your WordPress Website]]></title>
+        <id>https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/</id>
+        <link href="https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/"/>
+        <updated>2021-11-09T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Grid Can Do Auto Height Transitions]]></title>
         <id>https://css-tricks.com/?p=356204</id>
@@ -201,16 +298,6 @@ The post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Desktop Icons Missing – How to Fix Windows 10 PC Icons that Have Disappeared]]></title>
-        <id>6183a45e8bcfae07ca4e1470</id>
-        <link href="https://www.freecodecamp.org/news/desktop-icons-missing-how-to-fix-windows-10-pc-icons-that-have-disappeared/"/>
-        <updated>2021-11-04T15:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Desktop icons are a convenient way to launch apps and open folders. They've actually become the de facto way of opening apps because many apps create them automatically when installed.  So what happens when you can't find your desktop icons on your computer anymore? Well, you might have mistakenly hidden]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline]]></title>
         <id>https://css-tricks.com/?p=355060</id>
         <link href="https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/"/>
@@ -220,36 +307,6 @@ We covered some use cases …
 The post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Bramus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Lead Generation Tips for Freelance Developers]]></title>
-        <id>616e581dd48e1707b6d77deb</id>
-        <link href="https://www.freecodecamp.org/news/lead-generation-freelancers/"/>
-        <updated>2021-11-04T14:23:17.000Z</updated>
-        <summary type="html"><![CDATA[As a freelancer, targeting your desired clients requires time and effort, and sometimes money.  While spending money to generate leads can be a good thing, in this article I want to focus on the free lead generation tips to get clients as a freelance developer, all in a quick and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vcruntime140.dll Was Not Found [Solved on Windows 10 PC]]]></title>
-        <id>61839bcd8bcfae07ca4e1422</id>
-        <link href="https://www.freecodecamp.org/news/vcruntime140-dll-was-not-found-solved-on-windows-10-pc/"/>
-        <updated>2021-11-04T14:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried to open an app on your computer only to see the error "The program can't start because vcruntime140.dll is missing from your computer. Try reinstalling it to fix this problem."?  This is a common issue with Windows 10 and it can be quite]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Applications for Everybody - Dr. Chuck Teaches HTML, JavaScript, PHP, SQL, and More]]></title>
-        <id>6183db8b8bcfae07ca4e15f6</id>
-        <link href="https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/"/>
-        <updated>2021-11-04T13:47:13.000Z</updated>
-        <summary type="html"><![CDATA[The amount of diverse skills required to create a modern web application can be intimidating to beginners. But with the right teacher and the right mindset, everybody can learn to create complex web applications. We just published Web Applications for Everybody on the freeCodeCamp.org YouTube channel. This 14-hour course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -297,41 +354,6 @@ addEventListener("fetch", (event) ={
 It doesn’t have any error handling or anything, but hey, it works:
 Now imagine how …
 The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUI Challenges]]></title>
-        <id>https://css-tricks.com/?p=355016</id>
-        <link href="https://css-tricks.com/gui-challenges/"/>
-        <updated>2021-11-02T21:28:22.000Z</updated>
-        <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
-For example, a recent …
-The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebase vs. Merge: Integrating Changes in Git]]></title>
-        <id>https://css-tricks.com/?p=354734</id>
-        <link href="https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/"/>
-        <updated>2021-11-02T14:19:12.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!
-Most developers understand that it’s important to use branches in Git. In …
-The post Rebase vs. Merge: Integrating Changes in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible JavaScript]]></title>
-        <id>https://css-tricks.com/?p=355395</id>
-        <link href="https://css-tricks.com/responsible-javascript-2/"/>
-        <updated>2021-11-02T14:17:55.000Z</updated>
-        <summary type="html"><![CDATA[High five to Jeremy on the big release of Responsible JavaScript on A Book Apart. There is a lot of talk about how the proliferation of JavaScript has had a negative impact on the web, but now we have …
-The post Responsible JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -546,16 +568,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Autofill Dark Pattern]]></title>
-        <id>https://smashingmagazine.com/2021/10/autofill-dark-pattern/</id>
-        <link href="https://smashingmagazine.com/2021/10/autofill-dark-pattern/"/>
-        <updated>2021-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alvaro Montoro)</name>
         </author>
     </entry>
 </feed>
