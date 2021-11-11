@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-10T00:42:03.432Z</id>
+    <id>urn:2021-11-11T00:42:51.174Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-10T00:42:03.432Z</updated>
+    <updated>2021-11-11T00:42:51.174Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Don’t Snore on CORS]]></title>
+        <id>https://css-tricks.com/?p=356058</id>
+        <link href="https://css-tricks.com/dont-snore-on-cors/"/>
+        <updated>2021-11-10T22:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. 
+The main …
+The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a PC? Computer Definition and Computer Basics for Beginners]]></title>
+        <id>6189613e8bcfae07ca4e3967</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-pc-computer-definition-and-computer-basics-for-beginners/"/>
+        <updated>2021-11-10T18:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Computers have revolutionized our lives.  They help us get repetitive tasks done quickly and accurately. And they are tireless and do not fear complexity.  Computers are able to process data and perform operations at a rate of millions per second. They can get a task done much faster compared to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Audio Output Device is Installed [Fixed on Windows 10 PC]]]></title>
+        <id>618bf06d11d3cb08287a4450</id>
+        <link href="https://www.freecodecamp.org/news/no-audio-output-device-is-installed-fixed-on-windows-10-pc/"/>
+        <updated>2021-11-10T18:27:53.000Z</updated>
+        <summary type="html"><![CDATA[If you use Windows 10, you might have encountered the error "no audio output device is installed".  This error can be caused by a corrupt driver, overdue updates, or improper connection.  In this article, I will show you 2 ways you can fix the "no audio output]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Reverse String – String Reversal in Python Explained with Examples]]></title>
+        <id>615eb0160d91c9077974e918</id>
+        <link href="https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/"/>
+        <updated>2021-11-10T16:40:09.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with Python strings, there are times when you'll have to reverse them, and work with their reversed copies instead.  But since Python strings are immutable, you cannot modify or reverse them in place. In Python, there are a few different ways you can do this. And this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Array vs Object Destructuring in JavaScript – What’s the Difference?]]></title>
+        <id>61695ddc80d82d07c45a5220</id>
+        <link href="https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/"/>
+        <updated>2021-11-10T16:24:16.000Z</updated>
+        <summary type="html"><![CDATA[The destructuring assignment in JavaScript provides a neat and DRY way to extract values from your arrays and objects. This article aims to show you exactly how array and object destructuring assignments work in JavaScript. So, without any further ado, let’s get started with array destructuring. What Is Array]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Authentication Tutorial – How to Set Up Auth with Firebase V9 and React Router V6]]></title>
+        <id>618671f48bcfae07ca4e299e</id>
+        <link href="https://www.freecodecamp.org/news/react-firebase-authentication-and-crud-operations/"/>
+        <updated>2021-11-10T16:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, in this tutorial we'll use React with Firebase V9 to setup authentication for an application.  We will create Firebase functions for Login and Register, we will add toast messages for errors, and we will add private routes using session-based authentication. It's going to be fun. We will use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn all about Micro-Frontends]]></title>
+        <id>618bdf6011d3cb08287a43bb</id>
+        <link href="https://www.freecodecamp.org/news/learn-all-about-micro-frontends/"/>
+        <updated>2021-11-10T15:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Micro-frontends is a method to build a website or web app as a composition of features which can be created and worked on separately. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about micro-frontends. Jack Herrington created this course. Jack has worked]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick and Dirty Bootstrap Overrides at Runtime]]></title>
+        <id>https://css-tricks.com/?p=355649</id>
+        <link href="https://css-tricks.com/quick-and-dirty-bootstrap-overrides-at-runtime/"/>
+        <updated>2021-11-10T15:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Oh, Bootstrap, that old standard web library that either you hate or you spend all your time defending as “it’s fine, it’s not that bad.” Regardless of what side you fall on, it’s a powerful UI framework that’s everywhere, …
+The post Quick and Dirty Bootstrap Overrides at Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Meredith Matthews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cleanup.pictures]]></title>
+        <id>https://css-tricks.com/?p=356208</id>
+        <link href="https://css-tricks.com/cleanup-pictures/"/>
+        <updated>2021-11-10T14:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Nice domain, eh? Does just what it says on the tin: cleans up pictures. You draw over areas of the image you want cleaned up, and it does its best using weird science. It’s like Photoshop’s Spot Healing Brush…
+The post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
         <id>https://css-tricks.com/?p=356142</id>
@@ -171,36 +265,6 @@ The post Yes, Design Systems Do Improve Developer Efficiency and Design Consiste
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git and GitHub Tutorial – Version Control for Beginners]]></title>
-        <id>617acb5b33422e07df366c9d</id>
-        <link href="https://www.freecodecamp.org/news/git-and-github-for-beginners/"/>
-        <updated>2021-11-05T18:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Git and GitHub are two technologies that every developer should learn, irrespective of their field.  If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.  This tutorial will help you understand what Git and version control are, the basic Git commands]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Key Not Working? Here&#x27;s How to Fix It [Windows 10 PC Guide]]]></title>
-        <id>61850c138bcfae07ca4e245f</id>
-        <link href="https://www.freecodecamp.org/news/windows-key-not-working-heres-how-to-fix-it-windows-10-pc-guide/"/>
-        <updated>2021-11-05T17:29:22.000Z</updated>
-        <summary type="html"><![CDATA[On your Windows machine, the Windows key launches the Start menu, and from there you can access anything on your computer.  When you press it in combination with other keys, it also acts as a useful shortcut to utilities you don't get easily through your computer's graphic user interface (GUI)]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String Contains – How to use JS .includes()]]></title>
-        <id>6182162c8bcfae07ca4e0737</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-contains-how-to-use-js-includes/"/>
-        <updated>2021-11-05T16:46:38.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript you can use the .includes() method to see if one string is found in another. But how does it work exactly? In this article, I will walk you through a few code examples of the JavaScript string method called .includes().  Basic .includes() SyntaxHere is the basic syntax for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create an Animated Chart of Nested Squares Using Masks]]></title>
         <id>https://css-tricks.com/?p=355623</id>
         <link href="https://css-tricks.com/how-to-create-an-animated-chart-of-nested-squares-using-masks/"/>
@@ -247,26 +311,6 @@ The post Introducing Svelte, and Comparing Svelte with React and Vue appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C vs C++ – What&#x27;s The Difference?]]></title>
-        <id>618180828bcfae07ca4e03d5</id>
-        <link href="https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/"/>
-        <updated>2021-11-04T20:16:23.000Z</updated>
-        <summary type="html"><![CDATA[The C and C++ programming languages power a large part of the world's products, applications, and websites.  Each helped lay the foundation for the creation of many popular programming languages, such as Java. They also support many languages that you might use regularly for your programming projects, such as Python.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C Break and Continue Statements – Loop Control Statements in C Explained]]></title>
-        <id>61751bafd48e1707b6d7aa12</id>
-        <link href="https://www.freecodecamp.org/news/c-break-and-continue-statements-loop-control-statements-in-c-explained/"/>
-        <updated>2021-11-04T18:56:12.000Z</updated>
-        <summary type="html"><![CDATA[In the C programming language, there are times when you'll want to change looping behavior. And the continue and the break statements help you skip iterations, and exit from loops under certain conditions. In this tutorial, you'll learn how break and continue statements alter the control flow of your program.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
         <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
         <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
@@ -288,28 +332,6 @@ The post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Replit – A Beginner&#x27;s Guide]]></title>
-        <id>6182d4c28bcfae07ca4e0d18</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-replit/"/>
-        <updated>2021-11-04T15:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Replit is a popular free online IDE that you can use to create your projects with very little setup. This editor supports over 50 languages and many programming courses use it, including freeCodeCamp.  In this article, I will show you how to get started with Replit and show you how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline]]></title>
-        <id>https://css-tricks.com/?p=355060</id>
-        <link href="https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/"/>
-        <updated>2021-11-04T14:26:40.000Z</updated>
-        <summary type="html"><![CDATA[The Scroll-linked Animations specification is an upcoming and experimental addition that allows us to link animation-progress to scroll-progress: as you scroll up and down a scroll container, a linked animation also advances or rewinds accordingly.
-We covered some use cases …
-The post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Bramus</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
         <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
         <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
@@ -320,17 +342,6 @@ The post Scroll-Linked Animations With the Web Animations API (WAAPI) and Scroll
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chapter 10: Browser Wars]]></title>
-        <id>https://css-tricks.com/?p=354925</id>
-        <link href="https://css-tricks.com/chapter-10-browser-wars/"/>
-        <updated>2021-11-03T15:09:50.000Z</updated>
-        <summary type="html"><![CDATA[In June of 1995, representatives from Microsoft arrived at the Netscape offices. The stated goal was to find ways to work together—Netscape as the single dominant force in the browser market and Microsoft as a tech giant just beginning to …
-The post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Deep Dive Into Serverless UI With TypeScript]]></title>
         <id>https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/</id>
         <link href="https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/"/>
@@ -338,24 +349,6 @@ The post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support 
         <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)]]></title>
-        <id>https://css-tricks.com/?p=354619</id>
-        <link href="https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/"/>
-        <updated>2021-11-02T22:50:37.000Z</updated>
-        <summary type="html"><![CDATA[First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:
-addEventListener("fetch", (event) ={
-  event.respondWith(
-     fetch("https://css-tricks.com")
-  );
-});
-It doesn’t have any error handling or anything, but hey, it works:
-Now imagine how …
-The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -548,26 +541,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful React APIs For Building Flexible Components With TypeScript]]></title>
-        <id>https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/</id>
-        <link href="https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/"/>
-        <updated>2021-10-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gaurav Khanna)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridging The Gap Between Designers And Developers]]></title>
-        <id>https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/</id>
-        <link href="https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/"/>
-        <updated>2021-10-12T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
         </author>
     </entry>
 </feed>
