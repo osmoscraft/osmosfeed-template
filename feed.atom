@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-11T00:42:51.174Z</id>
+    <id>urn:2021-11-12T00:43:18.325Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-11T00:42:51.174Z</updated>
+    <updated>2021-11-12T00:43:18.325Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Semantic menu context]]></title>
+        <id>https://css-tricks.com/?p=356652</id>
+        <link href="https://css-tricks.com/semantic-menu-context/"/>
+        <updated>2021-11-11T20:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
+The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Laravel 8 on Your Android Phone]]></title>
+        <id>618b035411d3cb08287a3f7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-laravel-8-on-android-phone/"/>
+        <updated>2021-11-11T16:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Hey, how are you doing? In this article, I'm going to show you how you can install Laravel 8 on your phone.  To get the most out of this guide, you should have some knowledge of PHP and you should know what Laravel is. But if you don't, don't worry]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Hoisting in JavaScript?]]></title>
+        <id>618ca60511d3cb08287a474b</id>
+        <link href="https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/"/>
+        <updated>2021-11-11T16:12:59.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, hoisting allows you to use functions and variables before they're declared. In this post, we'll learn what hoisting is and how it works. What is hoisting?Take a look at the code below and guess what happens when it runs: console.log(foo); var foo = 'foo'; It might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dockerize a Flask Application]]></title>
+        <id>618a1b968bcfae07ca4e3a16</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/"/>
+        <updated>2021-11-11T16:04:40.000Z</updated>
+        <summary type="html"><![CDATA[These days, developers need to develop, ship, and run applications quicker than ever. And fortunately, there's a tool that helps you do that – Docker. With Docker, you can now easily ship, test, and deploy your code quickly while maintaining full control over your infrastructure. It significantly reduces how long it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Dark Mode (and Multiple Color Themes!) in React]]></title>
+        <id>https://css-tricks.com/?p=355683</id>
+        <link href="https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/"/>
+        <updated>2021-11-11T15:28:04.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a large React application for a startup, and aside from just wanting some good strategies to keep our styles organized, I wanted to give this whole “dark mode” thing a shot. With the huge ecosystem around …
+The post Easy Dark Mode (and Multiple Color Themes!) in React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Abram Thau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickly Get Alerted to Front-End Errors and Performance Issues]]></title>
+        <id>https://css-tricks.com/?p=355516</id>
+        <link href="https://css-tricks.com/quickly-get-alerted-to-front-end-errors-and-performance-issues/"/>
+        <updated>2021-11-11T15:22:31.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Measuring things is great. They say what you only fix what you measure. Raygun is great at measuring websites. Measuring performance, measuring errors and crashes, measuring code problems. 
+You know what’s even better than …
+The post Quickly Get Alerted to Front-End Errors and Performance Issues appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Good To Great In Dashboard Design: Research, Decluttering And Data Viz]]></title>
+        <id>https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/</id>
+        <link href="https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/"/>
+        <updated>2021-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adam Fard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t Snore on CORS]]></title>
         <id>https://css-tricks.com/?p=356058</id>
@@ -72,7 +147,7 @@ The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS
         <id>618bdf6011d3cb08287a43bb</id>
         <link href="https://www.freecodecamp.org/news/learn-all-about-micro-frontends/"/>
         <updated>2021-11-10T15:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Micro-frontends is a method to build a website or web app as a composition of features which can be created and worked on separately. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about micro-frontends. Jack Herrington created this course. Jack has worked]]></summary>
+        <summary type="html"><![CDATA[Micro-frontends let you build a website or web app as a composition of features that you can create and work on separately. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about micro-frontends. Jack Herrington created this course. Jack has worked as a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -136,26 +211,6 @@ The post VideoPress for WordPress appeared first on CSS-Tricks. You can support 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a Squid Game JavaScript Game with Three.js]]></title>
-        <id>618ab16011d3cb08287a3bd7</id>
-        <link href="https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/"/>
-        <updated>2021-11-09T17:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Would you survive the TV show Squid Game? Would you survive coding the TV show Squid Game? Time to find out. We just published a JavaScript course on the freeCodeCamp.org YouTube channel that will teach you how to create the Red Light / Green Light game from Squid Game. You]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python JSON – How to Convert a String to JSON]]></title>
-        <id>61862c268bcfae07ca4e27d7</id>
-        <link href="https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/"/>
-        <updated>2021-11-09T16:38:47.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you'll learn the basics of JSON – what it is, where it is most commonly used, and its syntax.  You'll also see how to convert a string to JSON in Python.  Let's get started!  What is JSON? JSON stands for JavaScript Object Notation.  It is a data format]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Suspense: Lessons Learned While Loading Data]]></title>
         <id>https://css-tricks.com/?p=356187</id>
         <link href="https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/"/>
@@ -164,16 +219,6 @@ The post VideoPress for WordPress appeared first on CSS-Tricks. You can support 
 The post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord Won&#x27;t Open on my PC [Solved in Windows 10]]]></title>
-        <id>618a5af08bcfae07ca4e3a8b</id>
-        <link href="https://www.freecodecamp.org/news/discord-wont-open-on-my-pc-solved-in-windows-10/"/>
-        <updated>2021-11-09T14:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Discord is an instant messaging app you can use to communicate through text messages, voice calls, and video calls. You can also use it to share files.  Discord was originally created for gamers, but many other people now use it these days. It has become an alternative to Slack for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -276,17 +321,6 @@ The post How to Create an Animated Chart of Nested Squares Using Masks appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[enterkeyhint]]></title>
-        <id>https://css-tricks.com/?p=355902</id>
-        <link href="https://css-tricks.com/enterkeyhint/"/>
-        <updated>2021-11-05T14:43:25.000Z</updated>
-        <summary type="html"><![CDATA[I only just recently learned the enterkeyhint attribute on form inputs was a thing! It seems like kind of a big deal to me, as crafting HTML form markup is a decent slice of a front-end developer’s life, and this …
-The post enterkeyhint appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Value Of Concept Testing As Part Of Product Design]]></title>
         <id>https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/</id>
         <link href="https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/"/>
@@ -297,20 +331,6 @@ The post enterkeyhint appeared first on CSS-Tricks. You can support CSS-Tricks b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Svelte, and Comparing Svelte with React and Vue]]></title>
-        <id>https://css-tricks.com/?p=355937</id>
-        <link href="https://css-tricks.com/introducing-svelte-and-comparing-svelte-with-react-and-vue/"/>
-        <updated>2021-11-04T21:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.
-A few things I find compelling:
-One of the 
-…
-The post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
         <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
         <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
@@ -318,17 +338,6 @@ The post Introducing Svelte, and Comparing Svelte with React and Vue appeared fi
         <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing the Drift in Shape Rotations]]></title>
-        <id>https://css-tricks.com/?p=356047</id>
-        <link href="https://css-tricks.com/fixing-the-drift-in-shape-rotations/"/>
-        <updated>2021-11-04T17:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Steve Ruiz calls this post an “extra-obscure edition of design tool micro-UX,” but I find it fascinating! If you select a bunch of elements in a design tool, then rotate then, then later select those same elements and try to …
-The post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -531,16 +540,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)]]></title>
-        <id>https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/</id>
-        <link href="https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/"/>
-        <updated>2021-10-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
