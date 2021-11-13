@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-12T00:43:18.325Z</id>
+    <id>urn:2021-11-13T00:40:58.018Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T00:43:18.325Z</updated>
+    <updated>2021-11-13T00:40:58.018Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write Good Commit Messages with Commitlint]]></title>
+        <id>618deac811d3cb08287a4ba3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/"/>
+        <updated>2021-11-12T20:11:06.000Z</updated>
+        <summary type="html"><![CDATA[We are often in a hurry to commit our changes in Git and so we write something random in our commit messages. In fact, I have seen people putting the date and time or even something like commit 1, commit 2 in their messages.  This is not a good practice,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does my WiFi Keep Disconnecting? [Solved on Windows 10 PC]]]></title>
+        <id>618e136011d3cb08287a4c71</id>
+        <link href="https://www.freecodecamp.org/news/why-does-my-wifi-keep-disconnecting-solved-on-windows-10-pc/"/>
+        <updated>2021-11-12T17:47:24.000Z</updated>
+        <summary type="html"><![CDATA[When you're using your Windows machine, your WiFi might unexpectedly disconnect.  This might be caused by various problems such as an outdated network adapter driver, outdated router software, and optimized power management in Windows 10.  If your WiFi keeps disconnecting and you're looking for a solution, you've come to the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
+        <id>https://css-tricks.com/?p=355658</id>
+        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
+        <updated>2021-11-12T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
+The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
+        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
+        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
+        <updated>2021-11-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semantic menu context]]></title>
         <id>https://css-tricks.com/?p=356652</id>
@@ -107,7 +148,7 @@ The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS
         <id>618bf06d11d3cb08287a4450</id>
         <link href="https://www.freecodecamp.org/news/no-audio-output-device-is-installed-fixed-on-windows-10-pc/"/>
         <updated>2021-11-10T18:27:53.000Z</updated>
-        <summary type="html"><![CDATA[If you use Windows 10, you might have encountered the error "no audio output device is installed".  This error can be caused by a corrupt driver, overdue updates, or improper connection.  In this article, I will show you 2 ways you can fix the "no audio output]]></summary>
+        <summary type="html"><![CDATA[If you use Windows 10, you might have encountered the error "no audio output device is installed".    This error can be caused by a corrupt driver, overdue updates, or improper connection.  In this article, I will show you 2 ways you can fix the "no audio output]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -138,16 +179,6 @@ The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS
         <link href="https://www.freecodecamp.org/news/react-firebase-authentication-and-crud-operations/"/>
         <updated>2021-11-10T16:22:43.000Z</updated>
         <summary type="html"><![CDATA[Hey everyone, in this tutorial we'll use React with Firebase V9 to setup authentication for an application.  We will create Firebase functions for Login and Register, we will add toast messages for errors, and we will add private routes using session-based authentication. It's going to be fun. We will use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn all about Micro-Frontends]]></title>
-        <id>618bdf6011d3cb08287a43bb</id>
-        <link href="https://www.freecodecamp.org/news/learn-all-about-micro-frontends/"/>
-        <updated>2021-11-10T15:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Micro-frontends let you build a website or web app as a composition of features that you can create and work on separately. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about micro-frontends. Jack Herrington created this course. Jack has worked as a]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -198,16 +229,6 @@ The leade here is that VideoPress makes video on WordPress way better. VideoPres
 The post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python map() Function – Explained with Examples]]></title>
-        <id>617c550f33422e07df367780</id>
-        <link href="https://www.freecodecamp.org/news/python-map-explained-with-examples/"/>
-        <updated>2021-11-09T17:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Python offers a number of functional programming utilities even though it's primarily an object-oriented programming language. And the most notable one is the map() function. In this article, we'll explore what the map() function is and how to use it in your code. The map() function in PythonThe map() function]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -307,17 +328,6 @@ The post Favicons: How to Make Sure Browsers Only Download the SVG Version appea
 The post Yes, Design Systems Do Improve Developer Efficiency and Design Consistency appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Animated Chart of Nested Squares Using Masks]]></title>
-        <id>https://css-tricks.com/?p=355623</id>
-        <link href="https://css-tricks.com/how-to-create-an-animated-chart-of-nested-squares-using-masks/"/>
-        <updated>2021-11-05T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[We have many well-known chart types: bar, donut, line, pie, you name it. All popular chart libraries support these. Then there are the chart types that do not even have a name. Check out this dreamt-up chart with stacked (nested) …
-The post How to Create an Animated Chart of Nested Squares Using Masks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mészáros Róbert</name>
         </author>
     </entry>
     <entry>
@@ -530,16 +540,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
-        <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
-        <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
-        <updated>2021-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
