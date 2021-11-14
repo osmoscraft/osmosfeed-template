@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-13T00:40:58.018Z</id>
+    <id>urn:2021-11-14T00:43:25.202Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T00:40:58.018Z</updated>
+    <updated>2021-11-14T00:43:25.202Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
+        <id>https://css-tricks.com/?p=356304</id>
+        <link href="https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/"/>
+        <updated>2021-11-12T23:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …
+The post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Good Commit Messages with Commitlint]]></title>
         <id>618deac811d3cb08287a4ba3</id>
@@ -317,17 +328,6 @@ The attribute size is a typo there, …
 The post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes, Design Systems Do Improve Developer Efficiency and Design Consistency]]></title>
-        <id>https://css-tricks.com/?p=355888</id>
-        <link href="https://css-tricks.com/yes-design-systems-do-improve-developer-efficiency-and-design-consistency/"/>
-        <updated>2021-11-05T19:58:37.000Z</updated>
-        <summary type="html"><![CDATA[One of the toughest things about being someone who cares deeply about design systems is making the case for a dedicated design system. Folks in leadership will often ask you to prove the value of it. Why should we care …
-The post Yes, Design Systems Do Improve Developer Efficiency and Design Consistency appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
     <entry>
