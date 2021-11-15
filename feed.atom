@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-14T00:43:25.202Z</id>
+    <id>urn:2021-11-15T00:42:07.376Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-14T00:43:25.202Z</updated>
+    <updated>2021-11-15T00:42:07.376Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -508,38 +508,6 @@ The post Favicons: How to Make Sure Browsers Only Download the SVG Version appea
         <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Arijit Mondal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple But Effective Mental Health Routine For Programmers]]></title>
-        <id>https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/</id>
-        <link href="https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/"/>
-        <updated>2021-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dave Oscar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
-        <updated>2021-10-16T00:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: broken links in documentation
-Chore: Dependency updates
-Thank you: @hirdot]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
-        <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
-        <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
-        <updated>2021-10-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
         </author>
     </entry>
 </feed>
