@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-15T00:42:07.376Z</id>
+    <id>urn:2021-11-16T00:42:31.955Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T00:42:07.376Z</updated>
+    <updated>2021-11-16T00:42:31.955Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Props in React]]></title>
+        <id>619140bc11d3cb08287a60d4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-props-in-react/"/>
+        <updated>2021-11-15T23:48:49.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll talk about an important concept in React – props. I'll show you how to use them to keep the flow of data in your app dynamic. PrerequisitesIn other to follow along with this tutorial, you will need: A React app.Additionally, I assume that you already understand:]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is IPTV? IPTV Service Guide]]></title>
+        <id>618216148bcfae07ca4e072f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-iptv-ip-tv-service-guide/"/>
+        <updated>2021-11-15T20:45:25.000Z</updated>
+        <summary type="html"><![CDATA[IPTV stands for Internet Protocol Television. It's a service you can use to watch your favorite TV shows without needing to sign up for cable. But how does it work exactly? In this article, I will break down the different types of IPTV services including free and paid services.  What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External Hard Drive Not Showing Up? Disk Management in Windows 10 Tutorial]]></title>
+        <id>61923fda11d3cb08287a65ef</id>
+        <link href="https://www.freecodecamp.org/news/external-hard-drive-not-showing-up-disk-management-in-windows-10-tutorial/"/>
+        <updated>2021-11-15T20:37:30.000Z</updated>
+        <summary type="html"><![CDATA[External hard drives let you back up your files. With external drives, you can also easily move files from one computer to another - especially when you get a new computer.  But sometimes when you're trying to back up or retrieve files from an external hard drive, the drive might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is .gitkeep? How to Track and Push Empty Folders in Git]]></title>
+        <id>6171abc8d48e1707b6d79990</id>
+        <link href="https://www.freecodecamp.org/news/what-is-gitkeep/"/>
+        <updated>2021-11-15T18:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you need to completely restructure the directories of your codebase. You need to move some folders higher, move some other folders lower, and move lots of files into some new folders you're going to create. You start shifting the code around, checking that everything works, and adding some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run the freeCodeCamp Backend Challenges Locally]]></title>
+        <id>6190f0c811d3cb08287a5f96</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-the-freecodecamp-backend-challenges-locally/"/>
+        <updated>2021-11-15T17:31:48.000Z</updated>
+        <summary type="html"><![CDATA[For the freeCodeCamp Back End Development and APIs certification, you can do all of the challenges locally and submit the local server link. But how does that work exactly? In this article, I will walk you through step by step how to setup the backend challenges on your local computer]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Questions New Developers Ask When Learning How to Code]]></title>
+        <id>61870b688bcfae07ca4e31f5</id>
+        <link href="https://www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/"/>
+        <updated>2021-11-15T17:14:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're relatively new to coding, you surely have some questions – how should you get started, what should you learn first, what does "front-end development" really mean...? In this article, I've shared 7 questions I had when I first started learning to code about 20 years ago (man, now I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Swipe Animations to a CardView in an Android App]]></title>
+        <id>618e548011d3cb08287a4e09</id>
+        <link href="https://www.freecodecamp.org/news/add-swipe-animations-to-a-card-view-in-android-app/"/>
+        <updated>2021-11-15T16:09:53.000Z</updated>
+        <summary type="html"><![CDATA[If you're building an Android app, you should consider adding animations. They can improve your app's user experience and increase retention.  These days, if you see an app that has no animation, it can feel odd and out-dated. And since interactive experiences are kind of the new norm, you'll want]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library]]></title>
+        <id>https://css-tricks.com/?p=355894</id>
+        <link href="https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/"/>
+        <updated>2021-11-15T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …
+The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Michlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
+        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
+        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
+        <updated>2021-11-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
         <id>https://css-tricks.com/?p=356304</id>
@@ -79,26 +170,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Hoisting in JavaScript?]]></title>
-        <id>618ca60511d3cb08287a474b</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/"/>
-        <updated>2021-11-11T16:12:59.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, hoisting allows you to use functions and variables before they're declared. In this post, we'll learn what hoisting is and how it works. What is hoisting?Take a look at the code below and guess what happens when it runs: console.log(foo); var foo = 'foo'; It might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize a Flask Application]]></title>
-        <id>618a1b968bcfae07ca4e3a16</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/"/>
-        <updated>2021-11-11T16:04:40.000Z</updated>
-        <summary type="html"><![CDATA[These days, developers need to develop, ship, and run applications quicker than ever. And fortunately, there's a tool that helps you do that – Docker. With Docker, you can now easily ship, test, and deploy your code quickly while maintaining full control over your infrastructure. It significantly reduces how long it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Easy Dark Mode (and Multiple Color Themes!) in React]]></title>
         <id>https://css-tricks.com/?p=355683</id>
         <link href="https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/"/>
@@ -142,56 +213,6 @@ The main …
 The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a PC? Computer Definition and Computer Basics for Beginners]]></title>
-        <id>6189613e8bcfae07ca4e3967</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-pc-computer-definition-and-computer-basics-for-beginners/"/>
-        <updated>2021-11-10T18:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Computers have revolutionized our lives.  They help us get repetitive tasks done quickly and accurately. And they are tireless and do not fear complexity.  Computers are able to process data and perform operations at a rate of millions per second. They can get a task done much faster compared to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Audio Output Device is Installed [Fixed on Windows 10 PC]]]></title>
-        <id>618bf06d11d3cb08287a4450</id>
-        <link href="https://www.freecodecamp.org/news/no-audio-output-device-is-installed-fixed-on-windows-10-pc/"/>
-        <updated>2021-11-10T18:27:53.000Z</updated>
-        <summary type="html"><![CDATA[If you use Windows 10, you might have encountered the error "no audio output device is installed".    This error can be caused by a corrupt driver, overdue updates, or improper connection.  In this article, I will show you 2 ways you can fix the "no audio output]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Reverse String – String Reversal in Python Explained with Examples]]></title>
-        <id>615eb0160d91c9077974e918</id>
-        <link href="https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/"/>
-        <updated>2021-11-10T16:40:09.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with Python strings, there are times when you'll have to reverse them, and work with their reversed copies instead.  But since Python strings are immutable, you cannot modify or reverse them in place. In Python, there are a few different ways you can do this. And this]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Array vs Object Destructuring in JavaScript – What’s the Difference?]]></title>
-        <id>61695ddc80d82d07c45a5220</id>
-        <link href="https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/"/>
-        <updated>2021-11-10T16:24:16.000Z</updated>
-        <summary type="html"><![CDATA[The destructuring assignment in JavaScript provides a neat and DRY way to extract values from your arrays and objects. This article aims to show you exactly how array and object destructuring assignments work in JavaScript. So, without any further ado, let’s get started with array destructuring. What Is Array]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Authentication Tutorial – How to Set Up Auth with Firebase V9 and React Router V6]]></title>
-        <id>618671f48bcfae07ca4e299e</id>
-        <link href="https://www.freecodecamp.org/news/react-firebase-authentication-and-crud-operations/"/>
-        <updated>2021-11-10T16:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, in this tutorial we'll use React with Firebase V9 to setup authentication for an application.  We will create Firebase functions for Login and Register, we will add toast messages for errors, and we will add private routes using session-based authentication. It's going to be fun. We will use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -315,19 +336,6 @@ The post Does the Next Generation of Static Site Generators Make Building Sites 
         <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
-        <id>https://css-tricks.com/?p=355780</id>
-        <link href="https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/"/>
-        <updated>2021-11-05T20:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:
-<!-- Warning! Typo! --<link rel="icon" href="/favicon.ico" size="any"<link rel="icon" href="/favicon.svg" type="image/svg+xml"
-The attribute size is a typo there, …
-The post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
