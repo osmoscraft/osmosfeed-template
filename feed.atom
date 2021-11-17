@@ -1,16 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-16T00:42:31.955Z</id>
+    <id>urn:2021-11-17T00:42:07.370Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T00:42:31.955Z</updated>
+    <updated>2021-11-17T00:42:07.370Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Prep – Free Resources to Help You Ace Your Interviews]]></title>
+        <id>618f31ff11d3cb08287a562a</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-preparation/"/>
+        <updated>2021-11-16T23:50:43.000Z</updated>
+        <summary type="html"><![CDATA[In the words of RealToughCandy, everyone wants a "one-stop shop" when it comes to learning. She uses this term to describe Educative.io, but Educative.io costs $60 a month unless you choose to commit to its annual plan. So it's not a free resource, which means it's not available]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailto Link – How to Make an HTML Email Link [Example Code]]]></title>
+        <id>618216468bcfae07ca4e073f</id>
+        <link href="https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/"/>
+        <updated>2021-11-16T22:58:22.000Z</updated>
+        <summary type="html"><![CDATA[A mailto link allows users to send emails straight from a website using the user's default email client. But how do you create a mailto link in HTML? In this article, I will walk you through how to create a mailto link in HTML using example code. Basic mailto link]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is CPU? Meaning, Definition, and What CPU Stands For]]></title>
+        <id>618d64b411d3cb08287a49e3</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cpu-meaning-definition-and-what-cpu-stands-for/"/>
+        <updated>2021-11-16T22:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Every single computing device has a CPU.  You may have heard of this tech term before, but what is it exactly? What is a CPU and how does it work?  In this beginner-friendly article you'll learn the basics on what a CPU actually is, and I'l give you an overview]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Line length revisited: following the research]]></title>
+        <id>https://css-tricks.com/?p=356849</id>
+        <link href="https://css-tricks.com/line-length-revisited-following-the-research/"/>
+        <updated>2021-11-16T21:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Mary Dyson produces nitty gritty research on the long-accepted notion that shorter line lengths are more legible than longer ones. The study finds that shorter lines do not necessarily lead to faster reading. If you’re looking for a definitive answer …
+The post Line length revisited: following the research appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
+        <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
+        <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
+        <updated>2021-11-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting late-December.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Website Free of Cost – Website Builder Platform Guide]]></title>
+        <id>618211678bcfae07ca4e072b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-website-free-of-cost-website-builder-platform-guide/"/>
+        <updated>2021-11-16T15:53:09.000Z</updated>
+        <summary type="html"><![CDATA[If you are interested in creating a website that requires no coding at all, then you can use a free website builder. In this article, I will provide you with a list of four free website builders you can choose from when creating your websites. Here is the complete list.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate a Pull Request of Static Content With a Simple HTML Form]]></title>
+        <id>https://css-tricks.com/?p=356491</id>
+        <link href="https://css-tricks.com/generate-a-pull-request-of-static-content-with-a-simple-html-form/"/>
+        <updated>2021-11-16T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Jamstack has been in the website world for years. Static Site Generators (SSGs) — which often have content that lives right within a GitHub repo itself — are a big part of that story. That opens up the idea of …
+The post Generate a Pull Request of Static Content With a Simple HTML Form appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hilman Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack TV]]></title>
+        <id>https://css-tricks.com/?p=356805</id>
+        <link href="https://css-tricks.com/jamstack-tv/"/>
+        <updated>2021-11-16T15:35:36.000Z</updated>
+        <summary type="html"><![CDATA[That’s the name of Netlify’s YouTube Channel. Love that. I linked up Rich’s talk the other day, which was a part of this past JamstackConf, but now all the talks are up on there. Rich got to talk …
+The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Voice-Based Todo App using React, Firebase, and Alan AI]]></title>
+        <id>6190f90f11d3cb08287a5fb1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-voice-based-weather-application-using-react-and-alan-ai/"/>
+        <updated>2021-11-16T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[React Todo applications are generally very basic – in fact, they're a great exercise if you're a React beginner and want to work on building up your skills. But have you ever built a Todo application where a user can add todos using voice commands? This makes it a bit more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrastructure as Code - Full Course]]></title>
+        <id>615a6c014aa03507d94125a3</id>
+        <link href="https://www.freecodecamp.org/news/what-is-infrastructure-as-code/"/>
+        <updated>2021-11-16T15:02:13.000Z</updated>
+        <summary type="html"><![CDATA[What is Infrastructure as Code? In this article you will learn all about Infrastructure as Code. I will start with an overview of the general concepts, and then I will show you how to implement Infrastructure as Code with three different labs. The labs use Python and AWS but the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Alpha Anywhere]]></title>
+        <id>https://css-tricks.com/?p=356611</id>
+        <link href="https://css-tricks.com/color-alpha-anywhere/"/>
+        <updated>2021-11-16T01:03:32.000Z</updated>
+        <summary type="html"><![CDATA[In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …
+The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Props in React]]></title>
         <id>619140bc11d3cb08287a60d4</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-props-in-react/"/>
         <updated>2021-11-15T23:48:49.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, we'll talk about an important concept in React – props. I'll show you how to use them to keep the flow of data in your app dynamic. PrerequisitesIn other to follow along with this tutorial, you will need: A React app.Additionally, I assume that you already understand:]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Your C++ Skills by Building an Audio Plugin (3-Band Compressor)]]></title>
+        <id>6194240311d3cb08287a7709</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-cpp-skills-by-building-an-audio-plugin/"/>
+        <updated>2021-11-15T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Plugins for applications are commonly written in C++ and writing a plugin program can be a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use modern C++ to code a 3-Band Compressor with Spectrum]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -31,46 +155,6 @@
         <link href="https://www.freecodecamp.org/news/external-hard-drive-not-showing-up-disk-management-in-windows-10-tutorial/"/>
         <updated>2021-11-15T20:37:30.000Z</updated>
         <summary type="html"><![CDATA[External hard drives let you back up your files. With external drives, you can also easily move files from one computer to another - especially when you get a new computer.  But sometimes when you're trying to back up or retrieve files from an external hard drive, the drive might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is .gitkeep? How to Track and Push Empty Folders in Git]]></title>
-        <id>6171abc8d48e1707b6d79990</id>
-        <link href="https://www.freecodecamp.org/news/what-is-gitkeep/"/>
-        <updated>2021-11-15T18:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Let's say you need to completely restructure the directories of your codebase. You need to move some folders higher, move some other folders lower, and move lots of files into some new folders you're going to create. You start shifting the code around, checking that everything works, and adding some]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run the freeCodeCamp Backend Challenges Locally]]></title>
-        <id>6190f0c811d3cb08287a5f96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-the-freecodecamp-backend-challenges-locally/"/>
-        <updated>2021-11-15T17:31:48.000Z</updated>
-        <summary type="html"><![CDATA[For the freeCodeCamp Back End Development and APIs certification, you can do all of the challenges locally and submit the local server link. But how does that work exactly? In this article, I will walk you through step by step how to setup the backend challenges on your local computer]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Questions New Developers Ask When Learning How to Code]]></title>
-        <id>61870b688bcfae07ca4e31f5</id>
-        <link href="https://www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/"/>
-        <updated>2021-11-15T17:14:32.000Z</updated>
-        <summary type="html"><![CDATA[If you're relatively new to coding, you surely have some questions – how should you get started, what should you learn first, what does "front-end development" really mean...? In this article, I've shared 7 questions I had when I first started learning to code about 20 years ago (man, now I]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Swipe Animations to a CardView in an Android App]]></title>
-        <id>618e548011d3cb08287a4e09</id>
-        <link href="https://www.freecodecamp.org/news/add-swipe-animations-to-a-card-view-in-android-app/"/>
-        <updated>2021-11-15T16:09:53.000Z</updated>
-        <summary type="html"><![CDATA[If you're building an Android app, you should consider adding animations. They can improve your app's user experience and increase retention.  These days, if you see an app that has no animation, it can feel odd and out-dated. And since interactive experiences are kind of the new norm, you'll want]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -108,26 +192,6 @@ The post Other Looks at the Conditional Border Radius Trick appeared first on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write Good Commit Messages with Commitlint]]></title>
-        <id>618deac811d3cb08287a4ba3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/"/>
-        <updated>2021-11-12T20:11:06.000Z</updated>
-        <summary type="html"><![CDATA[We are often in a hurry to commit our changes in Git and so we write something random in our commit messages. In fact, I have seen people putting the date and time or even something like commit 1, commit 2 in their messages.  This is not a good practice,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does my WiFi Keep Disconnecting? [Solved on Windows 10 PC]]]></title>
-        <id>618e136011d3cb08287a4c71</id>
-        <link href="https://www.freecodecamp.org/news/why-does-my-wifi-keep-disconnecting-solved-on-windows-10-pc/"/>
-        <updated>2021-11-12T17:47:24.000Z</updated>
-        <summary type="html"><![CDATA[When you're using your Windows machine, your WiFi might unexpectedly disconnect.  This might be caused by various problems such as an outdated network adapter driver, outdated router software, and optimized power management in Windows 10.  If your WiFi keeps disconnecting and you're looking for a solution, you've come to the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
         <id>https://css-tricks.com/?p=355658</id>
         <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
@@ -157,16 +221,6 @@ The post Interactive Rebase: Clean up your Commit History appeared first on CSS-
 The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Laravel 8 on Your Android Phone]]></title>
-        <id>618b035411d3cb08287a3f7d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-laravel-8-on-android-phone/"/>
-        <updated>2021-11-11T16:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Hey, how are you doing? In this article, I'm going to show you how you can install Laravel 8 on your phone.  To get the most out of this guide, you should have some knowledge of PHP and you should know what Laravel is. But if you don't, don't worry]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -264,17 +318,6 @@ The post VideoPress for WordPress appeared first on CSS-Tricks. You can support 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Suspense: Lessons Learned While Loading Data]]></title>
-        <id>https://css-tricks.com/?p=356187</id>
-        <link href="https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/"/>
-        <updated>2021-11-09T15:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …
-The post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Localizing Your Next.js App]]></title>
         <id>https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/</id>
         <link href="https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/"/>
@@ -292,40 +335,6 @@ The post React Suspense: Lessons Learned While Loading Data appeared first on CS
         <summary type="html"><![CDATA[In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid Can Do Auto Height Transitions]]></title>
-        <id>https://css-tricks.com/?p=356204</id>
-        <link href="https://css-tricks.com/css-grid-can-do-auto-height-transitions/"/>
-        <updated>2021-11-08T19:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.
-Perhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …
-The post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Icon Glassmorphism Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=322098</id>
-        <link href="https://css-tricks.com/icon-glassmorphism-effect-in-css/"/>
-        <updated>2021-11-08T14:57:42.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …
-The post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the Next Generation of Static Site Generators Make Building Sites Better?]]></title>
-        <id>https://css-tricks.com/?p=356134</id>
-        <link href="https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/"/>
-        <updated>2021-11-08T14:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …
-The post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
