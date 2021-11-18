@@ -1,10 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-17T00:42:07.370Z</id>
+    <id>urn:2021-11-18T00:42:58.777Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T00:42:07.370Z</updated>
+    <updated>2021-11-18T00:42:58.777Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zero Trickery Custom Radios and Checkboxes]]></title>
+        <id>https://css-tricks.com/?p=356895</id>
+        <link href="https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/"/>
+        <updated>2021-11-18T00:16:17.000Z</updated>
+        <summary type="html"><![CDATA[I feel like half of all “custom-designed radio buttons and checkboxes” do two things:
+Make them bigger
+Colorize them
+I always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …
+The post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Got My First Developer Job – Here&#x27;s What I&#x27;ve Learned So Far]]></title>
+        <id>617a6ef033422e07df3667f4</id>
+        <link href="https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/"/>
+        <updated>2021-11-18T00:08:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What do you get for using a search input type?]]></title>
+        <id>https://css-tricks.com/?p=356885</id>
+        <link href="https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/"/>
+        <updated>2021-11-17T23:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Like this: <input type="search">
+You get an extra-round-y appearance in Safari, which at one time matched the macOS look for search inputs, but not really anymore. I don’t hate the look, except…
+Safari totally ignores the font-size you set on 
+…
+The post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Serverless Online Payments with Netlify and Stripe]]></title>
+        <id>618fda8c11d3cb08287a5a51</id>
+        <link href="https://www.freecodecamp.org/news/serverless-online-payments/"/>
+        <updated>2021-11-17T20:54:10.000Z</updated>
+        <summary type="html"><![CDATA[One of the first steps many young startups take is setting up a static web page, perhaps with an email newsletter, to help them build an audience.  As the weeks go by and the MVP is getting further along, the subject of how to handle payments will eventually emerge. From]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Start Using Docker Right Now]]></title>
+        <id>618eaede11d3cb08287a51c8</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/"/>
+        <updated>2021-11-17T20:42:19.000Z</updated>
+        <summary type="html"><![CDATA[About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernet Doesn&#x27;t Have a Valid IP Configuration – How to Fix Invalid Connection in Windows 10]]></title>
+        <id>6194a7d111d3cb08287a7a03</id>
+        <link href="https://www.freecodecamp.org/news/ethernet-doesnt-have-a-valid-ip-configuration-how-to-fix-invalid-connection-in-windows-10/"/>
+        <updated>2021-11-17T18:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Every computer or device that you can use to surf the web has an IP address assigned to it. This IP address allows the device to be identified on the internet or within a local area network.  But sometimes, you might get an error that says your Ethernet doesn't have]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWL, LAB and LCH]]></title>
+        <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
+        <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
+        <updated>2021-11-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry-Picking Commits in Git]]></title>
+        <id>https://css-tricks.com/?p=356700</id>
+        <link href="https://css-tricks.com/cherry-picking-commits-in-git/"/>
+        <updated>2021-11-17T15:28:22.000Z</updated>
+        <summary type="html"><![CDATA[In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.
+The post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gap (Design Engineering)]]></title>
+        <id>https://css-tricks.com/?p=357023</id>
+        <link href="https://css-tricks.com/the-gap-design-engineering/"/>
+        <updated>2021-11-17T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …
+The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
+        <id>61912f8811d3cb08287a6037</id>
+        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/"/>
+        <updated>2021-11-17T14:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published my free 12-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to coding,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Clever Sticky Footer Technique]]></title>
+        <id>https://css-tricks.com/?p=357053</id>
+        <link href="https://css-tricks.com/a-clever-sticky-footer-technique/"/>
+        <updated>2021-11-17T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.
+That’s not quite what I’m talking …
+The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Interview Prep – Free Resources to Help You Ace Your Interviews]]></title>
         <id>618f31ff11d3cb08287a562a</id>
@@ -99,16 +221,6 @@ The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Infrastructure as Code - Full Course]]></title>
-        <id>615a6c014aa03507d94125a3</id>
-        <link href="https://www.freecodecamp.org/news/what-is-infrastructure-as-code/"/>
-        <updated>2021-11-16T15:02:13.000Z</updated>
-        <summary type="html"><![CDATA[What is Infrastructure as Code? In this article you will learn all about Infrastructure as Code. I will start with an overview of the general concepts, and then I will show you how to implement Infrastructure as Code with three different labs. The labs use Python and AWS but the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Alpha Anywhere]]></title>
         <id>https://css-tricks.com/?p=356611</id>
         <link href="https://css-tricks.com/color-alpha-anywhere/"/>
@@ -117,46 +229,6 @@ The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by
 The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Props in React]]></title>
-        <id>619140bc11d3cb08287a60d4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-props-in-react/"/>
-        <updated>2021-11-15T23:48:49.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll talk about an important concept in React – props. I'll show you how to use them to keep the flow of data in your app dynamic. PrerequisitesIn other to follow along with this tutorial, you will need: A React app.Additionally, I assume that you already understand:]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Your C++ Skills by Building an Audio Plugin (3-Band Compressor)]]></title>
-        <id>6194240311d3cb08287a7709</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-cpp-skills-by-building-an-audio-plugin/"/>
-        <updated>2021-11-15T21:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Plugins for applications are commonly written in C++ and writing a plugin program can be a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use modern C++ to code a 3-Band Compressor with Spectrum]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is IPTV? IPTV Service Guide]]></title>
-        <id>618216148bcfae07ca4e072f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-iptv-ip-tv-service-guide/"/>
-        <updated>2021-11-15T20:45:25.000Z</updated>
-        <summary type="html"><![CDATA[IPTV stands for Internet Protocol Television. It's a service you can use to watch your favorite TV shows without needing to sign up for cable. But how does it work exactly? In this article, I will break down the different types of IPTV services including free and paid services.  What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External Hard Drive Not Showing Up? Disk Management in Windows 10 Tutorial]]></title>
-        <id>61923fda11d3cb08287a65ef</id>
-        <link href="https://www.freecodecamp.org/news/external-hard-drive-not-showing-up-disk-management-in-windows-10-tutorial/"/>
-        <updated>2021-11-15T20:37:30.000Z</updated>
-        <summary type="html"><![CDATA[External hard drives let you back up your files. With external drives, you can also easily move files from one computer to another - especially when you get a new computer.  But sometimes when you're trying to back up or retrieve files from an external hard drive, the drive might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -255,66 +327,6 @@ The post Quickly Get Alerted to Front-End Errors and Performance Issues appeared
         <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adam Fard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Snore on CORS]]></title>
-        <id>https://css-tricks.com/?p=356058</id>
-        <link href="https://css-tricks.com/dont-snore-on-cors/"/>
-        <updated>2021-11-10T22:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. 
-The main …
-The post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick and Dirty Bootstrap Overrides at Runtime]]></title>
-        <id>https://css-tricks.com/?p=355649</id>
-        <link href="https://css-tricks.com/quick-and-dirty-bootstrap-overrides-at-runtime/"/>
-        <updated>2021-11-10T15:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Oh, Bootstrap, that old standard web library that either you hate or you spend all your time defending as “it’s fine, it’s not that bad.” Regardless of what side you fall on, it’s a powerful UI framework that’s everywhere, …
-The post Quick and Dirty Bootstrap Overrides at Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Meredith Matthews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cleanup.pictures]]></title>
-        <id>https://css-tricks.com/?p=356208</id>
-        <link href="https://css-tricks.com/cleanup-pictures/"/>
-        <updated>2021-11-10T14:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Nice domain, eh? Does just what it says on the tin: cleans up pictures. You draw over areas of the image you want cleaned up, and it does its best using weird science. It’s like Photoshop’s Spot Healing Brush…
-The post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
-        <id>https://css-tricks.com/?p=356142</id>
-        <link href="https://css-tricks.com/detecting-specific-text-input-with-html-and-css/"/>
-        <updated>2021-11-09T22:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:
-You have to press a special combination of keys on a keyboard.
-Then type a secret password.
-From there, a special message pops …
-The post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VideoPress for WordPress]]></title>
-        <id>https://css-tricks.com/?p=356370</id>
-        <link href="https://css-tricks.com/videopress-for-wordpress/"/>
-        <updated>2021-11-09T22:53:18.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-The leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …
-The post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -505,26 +517,6 @@ The post VideoPress for WordPress appeared first on CSS-Tricks. You can support 
         <summary type="html"><![CDATA[In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?]]></title>
-        <id>https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/</id>
-        <link href="https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/"/>
-        <updated>2021-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
-        <updated>2021-10-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Arijit Mondal)</name>
         </author>
     </entry>
 </feed>
