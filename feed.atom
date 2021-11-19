@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-18T00:42:58.777Z</id>
+    <id>urn:2021-11-19T00:42:12.025Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T00:42:58.777Z</updated>
+    <updated>2021-11-19T00:42:12.025Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Programming Projects for New Developers – What to Build to Get Coding Experience]]></title>
+        <id>614641bf852f4307d373021f</id>
+        <link href="https://www.freecodecamp.org/news/programming-projects-for-new-developers/"/>
+        <updated>2021-11-18T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're a new developer, you're probably familiar with the “Experience Paradox”. It describes the frustrating cycle many of us go through when we're trying to get our first developer jobs: To get a job, you need "work experience". But to get "work experience", you need a job...! Job requires]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Faces of VS Code in the Browser]]></title>
+        <id>https://css-tricks.com/?p=356818</id>
+        <link href="https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/"/>
+        <updated>2021-11-18T20:22:27.000Z</updated>
+        <summary type="html"><![CDATA[VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …
+The post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stress and Mental Health in Tech – What I learned from Dr. Jennifer Akullian&#x27;s freeCodeCamp Tech Talk]]></title>
+        <id>619392bd11d3cb08287a6f36</id>
+        <link href="https://www.freecodecamp.org/news/stress-and-mental-health-in-tech/"/>
+        <updated>2021-11-18T17:54:34.000Z</updated>
+        <summary type="html"><![CDATA[People in the tech industry face mental health issues like depression and anxiety every day, all around the world. But what can we do about it? In this article, I will talk about what I learned from Dr. Jennifer Akullian's freeCodeCamp Tech Talk and share her tips for reducing your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Customize Your Windows 10 Taskbar to Be More Productive]]></title>
+        <id>6196275811d3cb08287a850e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-customize-your-windows10-taskbar-for-productivity/"/>
+        <updated>2021-11-18T16:44:28.000Z</updated>
+        <summary type="html"><![CDATA[On your computer desktop, you can use the taskbar to help you monitor applications, check battery life, and more.  Being able to customize what your task bar can do is crucial for boosting your productivity. And there's more to it than just monitoring applications.  In this guide, I will show]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python]]></title>
+        <id>6193c41c11d3cb08287a70ce</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/"/>
+        <updated>2021-11-18T16:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Lists are a helpful and frequently used feature in Python.  And list comprehension gives you a way to create lists while writing more elegant code that is easy to read.  In this beginner-friendly article, I'll give an overview of how list comprehension works in Python. I'll also show plenty of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Date and Time Recipes]]></title>
+        <id>https://css-tricks.com/?p=356570</id>
+        <link href="https://css-tricks.com/php-date-and-time-recipes/"/>
+        <updated>2021-11-18T15:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …
+The post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Arjuna Sky Kok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more]]></title>
+        <id>6196642611d3cb08287a8688</id>
+        <link href="https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/"/>
+        <updated>2021-11-18T14:42:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are a software developer, you likely use Git all the time. But many developers don't use advanced git commands that can speed up their worflow. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use advanced git commands. Tobias Günther]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero Trickery Custom Radios and Checkboxes]]></title>
         <id>https://css-tricks.com/?p=356895</id>
@@ -74,7 +146,7 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWL, LAB and LCH]]></title>
+        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH]]></title>
         <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
         <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
         <updated>2021-11-17T16:00:00.000Z</updated>
@@ -128,36 +200,6 @@ The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Interview Prep – Free Resources to Help You Ace Your Interviews]]></title>
-        <id>618f31ff11d3cb08287a562a</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-preparation/"/>
-        <updated>2021-11-16T23:50:43.000Z</updated>
-        <summary type="html"><![CDATA[In the words of RealToughCandy, everyone wants a "one-stop shop" when it comes to learning. She uses this term to describe Educative.io, but Educative.io costs $60 a month unless you choose to commit to its annual plan. So it's not a free resource, which means it's not available]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailto Link – How to Make an HTML Email Link [Example Code]]]></title>
-        <id>618216468bcfae07ca4e073f</id>
-        <link href="https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/"/>
-        <updated>2021-11-16T22:58:22.000Z</updated>
-        <summary type="html"><![CDATA[A mailto link allows users to send emails straight from a website using the user's default email client. But how do you create a mailto link in HTML? In this article, I will walk you through how to create a mailto link in HTML using example code. Basic mailto link]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is CPU? Meaning, Definition, and What CPU Stands For]]></title>
-        <id>618d64b411d3cb08287a49e3</id>
-        <link href="https://www.freecodecamp.org/news/what-is-cpu-meaning-definition-and-what-cpu-stands-for/"/>
-        <updated>2021-11-16T22:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Every single computing device has a CPU.  You may have heard of this tech term before, but what is it exactly? What is a CPU and how does it work?  In this beginner-friendly article you'll learn the basics on what a CPU actually is, and I'l give you an overview]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Line length revisited: following the research]]></title>
         <id>https://css-tricks.com/?p=356849</id>
         <link href="https://css-tricks.com/line-length-revisited-following-the-research/"/>
@@ -176,16 +218,6 @@ The post Line length revisited: following the research appeared first on CSS-Tri
         <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting late-December.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Website Free of Cost – Website Builder Platform Guide]]></title>
-        <id>618211678bcfae07ca4e072b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-website-free-of-cost-website-builder-platform-guide/"/>
-        <updated>2021-11-16T15:53:09.000Z</updated>
-        <summary type="html"><![CDATA[If you are interested in creating a website that requires no coding at all, then you can use a free website builder. In this article, I will provide you with a list of four free website builders you can choose from when creating your websites. Here is the complete list.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -208,16 +240,6 @@ The post Generate a Pull Request of Static Content With a Simple HTML Form appea
 The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Voice-Based Todo App using React, Firebase, and Alan AI]]></title>
-        <id>6190f90f11d3cb08287a5fb1</id>
-        <link href="https://www.freecodecamp.org/news/build-a-voice-based-weather-application-using-react-and-alan-ai/"/>
-        <updated>2021-11-16T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[React Todo applications are generally very basic – in fact, they're a great exercise if you're a React beginner and want to work on building up your skills. But have you ever built a Todo application where a user can add todos using voice commands? This makes it a bit more]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -291,30 +313,6 @@ The post Interactive Rebase: Clean up your Commit History appeared first on CSS-
         <updated>2021-11-11T20:07:40.000Z</updated>
         <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
 The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Dark Mode (and Multiple Color Themes!) in React]]></title>
-        <id>https://css-tricks.com/?p=355683</id>
-        <link href="https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/"/>
-        <updated>2021-11-11T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a large React application for a startup, and aside from just wanting some good strategies to keep our styles organized, I wanted to give this whole “dark mode” thing a shot. With the huge ecosystem around …
-The post Easy Dark Mode (and Multiple Color Themes!) in React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Abram Thau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickly Get Alerted to Front-End Errors and Performance Issues]]></title>
-        <id>https://css-tricks.com/?p=355516</id>
-        <link href="https://css-tricks.com/quickly-get-alerted-to-front-end-errors-and-performance-issues/"/>
-        <updated>2021-11-11T15:22:31.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Measuring things is great. They say what you only fix what you measure. Raygun is great at measuring websites. Measuring performance, measuring errors and crashes, measuring code problems. 
-You know what’s even better than …
-The post Quickly Get Alerted to Front-End Errors and Performance Issues appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -497,26 +495,6 @@ The post Quickly Get Alerted to Front-End Errors and Performance Issues appeared
         <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/"/>
-        <updated>2021-10-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Holmes)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building An API With Gatsby Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-api-gatsby-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-api-gatsby-functions/"/>
-        <updated>2021-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
         </author>
     </entry>
 </feed>
