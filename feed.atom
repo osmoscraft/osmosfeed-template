@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-19T00:42:12.025Z</id>
+    <id>urn:2021-11-20T00:41:53.286Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T00:42:12.025Z</updated>
+    <updated>2021-11-20T00:41:53.286Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
+        <id>https://css-tricks.com/?p=357234</id>
+        <link href="https://css-tricks.com/reimagine-atomic-css/"/>
+        <updated>2021-11-19T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …
+The post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Font Game]]></title>
+        <id>https://css-tricks.com/?p=357227</id>
+        <link href="https://css-tricks.com/coding-font-game/"/>
+        <updated>2021-11-19T21:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…
+The post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Tasks with cron Jobs in Linux]]></title>
+        <id>618941df8bcfae07ca4e3869</id>
+        <link href="https://www.freecodecamp.org/news/cron-jobs-in-linux/"/>
+        <updated>2021-11-19T20:34:59.000Z</updated>
+        <summary type="html"><![CDATA[If you're working in IT, you might need to schedule various repetitive tasks as part of your automation processes.  For example, you could schedule a particular job to periodically execute at specific times of the day. This is helpful for performing daily backups, monthly log archiving, weekly file deletion to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallax Powered by CSS Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=357192</id>
+        <link href="https://css-tricks.com/parallax-powered-by-css-custom-properties/"/>
+        <updated>2021-11-19T15:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …
+The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Wildcard Subdomains]]></title>
+        <id>https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/</id>
+        <link href="https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/"/>
+        <updated>2021-11-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers Spent 2.1 Billion Minutes (4,000 years) Using freeCodeCamp in 2021 + Other Year-End Facts]]></title>
+        <id>6196aac811d3cb08287a8998</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/"/>
+        <updated>2021-11-19T05:29:54.000Z</updated>
+        <summary type="html"><![CDATA[2021 has been a big year for the global freeCodeCamp community. In this article, I will share some of the milestones we hit this year. But first, let's look at some metrics to drive home the scale at which the freeCodeCamp community is now operating. freeCodeCamp 2021 StatisticsIn 2021, freeCodeCamp's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Programming Projects for New Developers – What to Build to Get Coding Experience]]></title>
         <id>614641bf852f4307d373021f</id>
@@ -78,6 +141,16 @@ The post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Turn Off Quick Note on –  Solved for MacOS Monterey Quick Notes Hot Corner]]></title>
+        <id>61971c7611d3cb08287a8d83</id>
+        <link href="https://www.freecodecamp.org/news/turn-off-quick-note-mac-monterey/"/>
+        <updated>2021-11-18T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently updated to MacOS Monterey (Version 12.0). Sometimes software companies like Apple will add features I don't like, then enable them by default. This is what happened with the New Quick Note hot corner. Here is what the Quick Notes feature looks like when you move your cursor]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zero Trickery Custom Radios and Checkboxes]]></title>
         <id>https://css-tricks.com/?p=356895</id>
         <link href="https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/"/>
@@ -126,26 +199,6 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Should Start Using Docker Right Now]]></title>
-        <id>618eaede11d3cb08287a51c8</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/"/>
-        <updated>2021-11-17T20:42:19.000Z</updated>
-        <summary type="html"><![CDATA[About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethernet Doesn&#x27;t Have a Valid IP Configuration – How to Fix Invalid Connection in Windows 10]]></title>
-        <id>6194a7d111d3cb08287a7a03</id>
-        <link href="https://www.freecodecamp.org/news/ethernet-doesnt-have-a-valid-ip-configuration-how-to-fix-invalid-connection-in-windows-10/"/>
-        <updated>2021-11-17T18:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Every computer or device that you can use to surf the web has an IP address assigned to it. This IP address allows the device to be identified on the internet or within a local area network.  But sometimes, you might get an error that says your Ethernet doesn't have]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH]]></title>
         <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
         <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
@@ -175,16 +228,6 @@ The post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can sup
 The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
-        <id>61912f8811d3cb08287a6037</id>
-        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/"/>
-        <updated>2021-11-17T14:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published my free 12-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to coding,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -275,28 +318,6 @@ The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
-        <id>https://css-tricks.com/?p=356304</id>
-        <link href="https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/"/>
-        <updated>2021-11-12T23:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …
-The post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
-        <id>https://css-tricks.com/?p=355658</id>
-        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
-        <updated>2021-11-12T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
-The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
         <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
         <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
@@ -304,17 +325,6 @@ The post Interactive Rebase: Clean up your Commit History appeared first on CSS-
         <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semantic menu context]]></title>
-        <id>https://css-tricks.com/?p=356652</id>
-        <link href="https://css-tricks.com/semantic-menu-context/"/>
-        <updated>2021-11-11T20:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …
-The post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -485,16 +495,6 @@ The post Semantic menu context appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Martin Grubinger)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
-        <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
-        <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
-        <updated>2021-10-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
     </entry>
 </feed>

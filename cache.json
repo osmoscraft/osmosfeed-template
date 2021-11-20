@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357234",
+          "author": "Chris Coyier",
+          "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …\nThe post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/reimagine-atomic-css/",
+          "publishedOn": "2021-11-19T22:01:05.000Z",
+          "wordCount": 600,
+          "title": "Reimagine Atomic CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357227",
+          "author": "Chris Coyier",
+          "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…\nThe post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/coding-font-game/",
+          "publishedOn": "2021-11-19T21:18:50.000Z",
+          "wordCount": 594,
+          "title": "Coding Font Game"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357192",
+          "author": "Jhey Tompkins",
+          "description": "Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …\nThe post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/parallax-powered-by-css-custom-properties/",
+          "publishedOn": "2021-11-19T15:13:46.000Z",
+          "wordCount": 3158,
+          "title": "Parallax Powered by CSS Custom Properties"
+        },
+        {
           "id": "https://css-tricks.com/?p=356818",
           "author": "Chris Coyier",
           "description": "VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …\nThe post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -26,7 +53,7 @@
           "description": "Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …\nThe post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/php-date-and-time-recipes/",
           "publishedOn": "2021-11-18T15:38:51.000Z",
-          "wordCount": 2119,
+          "wordCount": 2247,
           "title": "PHP Date and Time Recipes"
         },
         {
@@ -35,7 +62,7 @@
           "description": "I feel like half of all “custom-designed radio buttons and checkboxes” do two things:\nMake them bigger\nColorize them\nI always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …\nThe post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/",
           "publishedOn": "2021-11-18T00:16:17.000Z",
-          "wordCount": 632,
+          "wordCount": 976,
           "title": "Zero Trickery Custom Radios and Checkboxes"
         },
         {
@@ -62,7 +89,7 @@
           "description": "Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …\nThe post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-gap-design-engineering/",
           "publishedOn": "2021-11-17T15:27:19.000Z",
-          "wordCount": 776,
+          "wordCount": 840,
           "title": "The Gap (Design Engineering)"
         },
         {
@@ -118,33 +145,6 @@
           "publishedOn": "2021-11-15T15:32:13.000Z",
           "wordCount": 4457,
           "title": "Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356304",
-          "author": "Chris Coyier",
-          "description": "Remember when Ahmad Shadeed wrote about that border-radius “toggle” he found in Facebook’s CSS? It was interesting! I covered it. A few weeks after that surge of linkage, a couple of articles came out digging into it a little deeper. …\nThe post Other Looks at the Conditional Border Radius Trick appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/other-looks-at-the-conditional-border-radius-trick/",
-          "publishedOn": "2021-11-12T23:54:00.000Z",
-          "wordCount": 1106,
-          "title": "Other Looks at the Conditional Border Radius Trick"
-        },
-        {
-          "id": "https://css-tricks.com/?p=355658",
-          "author": "Tobias Günther",
-          "description": "Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.\nThe post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/",
-          "publishedOn": "2021-11-12T15:16:24.000Z",
-          "wordCount": 1893,
-          "title": "Interactive Rebase: Clean up your Commit History"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356652",
-          "author": "Chris Coyier",
-          "description": "Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …\nThe post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/semantic-menu-context/",
-          "publishedOn": "2021-11-11T20:07:40.000Z",
-          "wordCount": 576,
-          "title": "Semantic menu context"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
+          "author": "hello@smashingmagazine.com (Sam Poder)",
+          "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
+          "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
+          "publishedOn": "2021-11-19T10:30:00.000Z",
+          "wordCount": 2213,
+          "title": "Next.js Wildcard Subdomains",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3487,
+          "wordCount": 3489,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -187,7 +201,7 @@
           "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
           "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
           "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2154,
+          "wordCount": 2144,
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
@@ -201,7 +215,7 @@
           "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
           "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
           "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10261,
+          "wordCount": 10255,
           "title": "Useful React Hooks That You Can Use In Your Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
@@ -215,7 +229,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4304,
+          "wordCount": 4306,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -229,7 +243,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1918,
+          "wordCount": 1921,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -257,7 +271,7 @@
           "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
           "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
           "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1527,
+          "wordCount": 1538,
           "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
@@ -271,7 +285,7 @@
           "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
           "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
           "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6196,
+          "wordCount": 6195,
           "title": "The Value Of Concept Testing As Part Of Product Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
@@ -299,7 +313,7 @@
           "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
           "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
           "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3396,
+          "wordCount": 3399,
           "title": "GraphQL On The Front-End (React And Apollo)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
@@ -313,7 +327,7 @@
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3629,
+          "wordCount": 3627,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -327,7 +341,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 5952,
+          "wordCount": 5957,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -355,7 +369,7 @@
           "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
           "link": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
           "publishedOn": "2021-10-29T10:00:00.000Z",
-          "wordCount": 2503,
+          "wordCount": 2512,
           "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/376436ee-7e40-4d99-ad14-e934df9f92c9/resources-tools-turbocharge-copywriting-skills.jpg",
@@ -369,7 +383,7 @@
           "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
           "link": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
           "publishedOn": "2021-10-28T11:00:00.000Z",
-          "wordCount": 3162,
+          "wordCount": 3161,
           "title": "How To Build An Amazon Product Scraper With Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/069a1796-0f8d-4936-bfc0-4aa988ef0594/building-amazon-product-scraper-nodejs.jpg",
@@ -383,7 +397,7 @@
           "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
           "link": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
           "publishedOn": "2021-10-27T10:00:00.000Z",
-          "wordCount": 3505,
+          "wordCount": 3506,
           "title": "Eye-Tracking In Mobile UX Research",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3012986b-e407-4c49-8186-13a99528ef13/eye-tracking-mobile-ux-research.jpg",
@@ -397,7 +411,7 @@
           "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
           "link": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
           "publishedOn": "2021-10-26T10:00:00.000Z",
-          "wordCount": 3025,
+          "wordCount": 3029,
           "title": "Optimizing Next.js Applications With Nx",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b5517f-415c-43ed-98a6-70215d408f7a/optimizing-nextjs-applications-nx.jpg",
@@ -411,7 +425,7 @@
           "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
           "link": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
           "publishedOn": "2021-10-25T13:00:00.000Z",
-          "wordCount": 2032,
+          "wordCount": 2033,
           "title": "A Deep Dive Into object-fit And background-size In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/19e7f717-46d5-4949-96f4-671f4744d0e1/object-fit-background-size-css.jpg",
@@ -425,7 +439,7 @@
           "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
           "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
           "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4915,
+          "wordCount": 4916,
           "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
@@ -439,24 +453,10 @@
           "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
           "link": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
           "publishedOn": "2021-10-22T09:30:00.000Z",
-          "wordCount": 4628,
+          "wordCount": 4626,
           "title": "How To Build A Real-Time Multi-User Game From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f27da7cf-e0e3-4ed4-a845-6fd61fdb0e70/real-time-multi-user-game.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
-          "link": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
-          "publishedOn": "2021-10-21T10:30:00.000Z",
-          "wordCount": 2879,
-          "title": "Respecting Users’ Motion Preferences",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df53065e-5b99-4a67-ad0c-2cd67b07dc2a/respecting-users-motion-preferences.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -468,6 +468,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618941df8bcfae07ca4e3869",
+          "author": null,
+          "description": "If you're working in IT, you might need to schedule various repetitive tasks as part of your automation processes.  For example, you could schedule a particular job to periodically execute at specific times of the day. This is helpful for performing daily backups, monthly log archiving, weekly file deletion to",
+          "link": "https://www.freecodecamp.org/news/cron-jobs-in-linux/",
+          "publishedOn": "2021-11-19T20:34:59.000Z",
+          "wordCount": 1189,
+          "title": "How to Automate Tasks with cron Jobs in Linux"
+        },
+        {
+          "id": "6196aac811d3cb08287a8998",
+          "author": null,
+          "description": "2021 has been a big year for the global freeCodeCamp community. In this article, I will share some of the milestones we hit this year. But first, let's look at some metrics to drive home the scale at which the freeCodeCamp community is now operating. freeCodeCamp 2021 StatisticsIn 2021, freeCodeCamp's",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/",
+          "publishedOn": "2021-11-19T05:29:54.000Z",
+          "wordCount": 1877,
+          "title": "Developers Spent 2.1 Billion Minutes (4,000 years) Using freeCodeCamp in 2021 + Other Year-End Facts"
+        },
         {
           "id": "614641bf852f4307d373021f",
           "author": null,
@@ -514,6 +532,15 @@
           "title": "Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more"
         },
         {
+          "id": "61971c7611d3cb08287a8d83",
+          "author": null,
+          "description": "I recently updated to MacOS Monterey (Version 12.0). Sometimes software companies like Apple will add features I don't like, then enable them by default. This is what happened with the New Quick Note hot corner. Here is what the Quick Notes feature looks like when you move your cursor",
+          "link": "https://www.freecodecamp.org/news/turn-off-quick-note-mac-monterey/",
+          "publishedOn": "2021-11-18T04:09:00.000Z",
+          "wordCount": 539,
+          "title": "How to Turn Off Quick Note on –  Solved for MacOS Monterey Quick Notes Hot Corner"
+        },
+        {
           "id": "617a6ef033422e07df3667f4",
           "author": null,
           "description": "In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can",
@@ -530,33 +557,6 @@
           "publishedOn": "2021-11-17T20:54:10.000Z",
           "wordCount": 1327,
           "title": "How to Set Up Serverless Online Payments with Netlify and Stripe"
-        },
-        {
-          "id": "618eaede11d3cb08287a51c8",
-          "author": null,
-          "description": "About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he",
-          "link": "https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/",
-          "publishedOn": "2021-11-17T20:42:19.000Z",
-          "wordCount": 982,
-          "title": "Why You Should Start Using Docker Right Now"
-        },
-        {
-          "id": "6194a7d111d3cb08287a7a03",
-          "author": null,
-          "description": "Every computer or device that you can use to surf the web has an IP address assigned to it. This IP address allows the device to be identified on the internet or within a local area network.  But sometimes, you might get an error that says your Ethernet doesn't have",
-          "link": "https://www.freecodecamp.org/news/ethernet-doesnt-have-a-valid-ip-configuration-how-to-fix-invalid-connection-in-windows-10/",
-          "publishedOn": "2021-11-17T18:40:14.000Z",
-          "wordCount": 871,
-          "title": "Ethernet Doesn&#x27;t Have a Valid IP Configuration – How to Fix Invalid Connection in Windows 10"
-        },
-        {
-          "id": "61912f8811d3cb08287a6037",
-          "author": null,
-          "description": "Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published my free 12-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to coding,",
-          "link": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/",
-          "publishedOn": "2021-11-17T14:13:55.000Z",
-          "wordCount": 841,
-          "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 13-Hour Course"
         }
       ]
     }
