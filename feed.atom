@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-20T00:41:53.286Z</id>
+    <id>urn:2021-11-21T00:43:57.141Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T00:41:53.286Z</updated>
+    <updated>2021-11-21T00:43:57.141Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -485,16 +485,6 @@ The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appe
         <summary type="html"><![CDATA[Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joel Olawanle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Real-Time Multi-User Game From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/10/real-time-multi-user-game/</id>
-        <link href="https://smashingmagazine.com/2021/10/real-time-multi-user-game/"/>
-        <updated>2021-10-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Martin Grubinger)</name>
         </author>
     </entry>
 </feed>
