@@ -17,7 +17,7 @@
           "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …\nThe post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/reimagine-atomic-css/",
           "publishedOn": "2021-11-19T22:01:05.000Z",
-          "wordCount": 752,
+          "wordCount": 836,
           "title": "Reimagine Atomic CSS"
         },
         {
@@ -26,7 +26,7 @@
           "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…\nThe post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/coding-font-game/",
           "publishedOn": "2021-11-19T21:18:50.000Z",
-          "wordCount": 594,
+          "wordCount": 659,
           "title": "Coding Font Game"
         },
         {
@@ -35,7 +35,7 @@
           "description": "Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …\nThe post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/parallax-powered-by-css-custom-properties/",
           "publishedOn": "2021-11-19T15:13:46.000Z",
-          "wordCount": 3158,
+          "wordCount": 3188,
           "title": "Parallax Powered by CSS Custom Properties"
         },
         {
@@ -44,7 +44,7 @@
           "description": "VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …\nThe post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/",
           "publishedOn": "2021-11-18T20:22:27.000Z",
-          "wordCount": 1637,
+          "wordCount": 1677,
           "title": "The Many Faces of VS Code in the Browser"
         },
         {
@@ -98,7 +98,7 @@
           "description": "Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.\nThat’s not quite what I’m talking …\nThe post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-clever-sticky-footer-technique/",
           "publishedOn": "2021-11-17T00:49:00.000Z",
-          "wordCount": 987,
+          "wordCount": 1009,
           "title": "A Clever Sticky Footer Technique"
         },
         {
@@ -134,7 +134,7 @@
           "description": "In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …\nThe post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/color-alpha-anywhere/",
           "publishedOn": "2021-11-16T01:03:32.000Z",
-          "wordCount": 1031,
+          "wordCount": 1036,
           "title": "Color Alpha Anywhere"
         },
         {
@@ -159,7 +159,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2204,
+          "wordCount": 2222,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -173,7 +173,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3488,
+          "wordCount": 3490,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -201,7 +201,7 @@
           "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
           "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
           "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2147,
+          "wordCount": 2154,
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
@@ -215,7 +215,7 @@
           "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
           "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
           "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10272,
+          "wordCount": 10261,
           "title": "Useful React Hooks That You Can Use In Your Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
@@ -229,7 +229,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4307,
+          "wordCount": 4305,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -243,7 +243,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1916,
+          "wordCount": 1918,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -271,7 +271,7 @@
           "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
           "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
           "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1538,
+          "wordCount": 1524,
           "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
@@ -285,7 +285,7 @@
           "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
           "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
           "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6209,
+          "wordCount": 6195,
           "title": "The Value Of Concept Testing As Part Of Product Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
@@ -313,7 +313,7 @@
           "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
           "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
           "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3398,
+          "wordCount": 3400,
           "title": "GraphQL On The Front-End (React And Apollo)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
@@ -327,7 +327,7 @@
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3623,
+          "wordCount": 3625,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -341,7 +341,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 5957,
+          "wordCount": 5958,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -355,7 +355,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/",
           "publishedOn": "2021-10-31T08:20:00.000Z",
-          "wordCount": 2370,
+          "wordCount": 2374,
           "title": "A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a2a341f-4f72-4716-91c6-ed6da6add2fd/nov-21-no-shave-november-preview-opt.png",
@@ -369,7 +369,7 @@
           "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
           "link": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
           "publishedOn": "2021-10-29T10:00:00.000Z",
-          "wordCount": 2513,
+          "wordCount": 2512,
           "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/376436ee-7e40-4d99-ad14-e934df9f92c9/resources-tools-turbocharge-copywriting-skills.jpg",
@@ -383,7 +383,7 @@
           "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
           "link": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
           "publishedOn": "2021-10-28T11:00:00.000Z",
-          "wordCount": 3168,
+          "wordCount": 3164,
           "title": "How To Build An Amazon Product Scraper With Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/069a1796-0f8d-4936-bfc0-4aa988ef0594/building-amazon-product-scraper-nodejs.jpg",
@@ -397,7 +397,7 @@
           "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
           "link": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
           "publishedOn": "2021-10-27T10:00:00.000Z",
-          "wordCount": 3506,
+          "wordCount": 3516,
           "title": "Eye-Tracking In Mobile UX Research",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3012986b-e407-4c49-8186-13a99528ef13/eye-tracking-mobile-ux-research.jpg",
@@ -411,7 +411,7 @@
           "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
           "link": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
           "publishedOn": "2021-10-26T10:00:00.000Z",
-          "wordCount": 3041,
+          "wordCount": 3029,
           "title": "Optimizing Next.js Applications With Nx",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b5517f-415c-43ed-98a6-70215d408f7a/optimizing-nextjs-applications-nx.jpg",
@@ -425,24 +425,10 @@
           "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
           "link": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
           "publishedOn": "2021-10-25T13:00:00.000Z",
-          "wordCount": 2034,
+          "wordCount": 2038,
           "title": "A Deep Dive Into object-fit And background-size In CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/19e7f717-46d5-4949-96f4-671f4744d0e1/object-fit-background-size-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "author": "hello@smashingmagazine.com (Joel Olawanle)",
-          "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
-          "link": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
-          "publishedOn": "2021-10-23T11:00:00.000Z",
-          "wordCount": 4917,
-          "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e64d5e62-7c13-430a-90c6-f21b1c0325fe/introduction-quasar-framework-cross-platform-applications.jpg",
             "length": "0",
             "type": "image/jpg"
           }
