@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-22T00:42:24.895Z</id>
+    <id>urn:2021-11-23T00:42:11.076Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T00:42:24.895Z</updated>
+    <updated>2021-11-23T00:42:11.076Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Directory-Scoped Variables with direnv in POSIX Systems]]></title>
+        <id>619909b111d3cb08287a9bd9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-directory-scoped-envs-with-direnv-in-posix-systems/"/>
+        <updated>2021-11-22T21:39:20.000Z</updated>
+        <summary type="html"><![CDATA[A common practice in software projects is to keep certain information separated but accessible from the codebase which uses it. Developers usually do this with secrets such as passwords or private keys, or with user or context-specific info pieces.  But managing environment variables can be a pain. There are a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Design Thinking Process Explained]]></title>
+        <id>613f3cad852f4307d372c7dc</id>
+        <link href="https://www.freecodecamp.org/news/the-design-thinking-process-explained/"/>
+        <updated>2021-11-22T21:27:40.000Z</updated>
+        <summary type="html"><![CDATA[The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems. But how does it work exactly? In this article, I will explain what the Design Thinking Process is and break down the five phases behind it. We will explore how this process]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On User Tracking and Industry Standards on Privacy]]></title>
+        <id>https://css-tricks.com/?p=357149</id>
+        <link href="https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/"/>
+        <updated>2021-11-22T21:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
+There was a line that really stood out to me: 
+The idea that it’s alright to do whatever unethical thing is currently the 
+…
+The post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactJS Project – Build a Rick and Morty Character Wiki]]></title>
+        <id>619b998511d3cb08287aa257</id>
+        <link href="https://www.freecodecamp.org/news/react-js-project-build-a-rick-and-morty-character-wiki/"/>
+        <updated>2021-11-22T19:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna practice our React JS skills by building a Rick and Morty Character Wiki.  Here's what we'll build today:    Here's a [live demo of the project] 👇  https://react-projects-psi.vercel.app/.  And here's the GitHub Repository.  The topics we'll cover while building this project are:  React Hooks (useState, useEffect)]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS “decorations”]]></title>
+        <id>https://css-tricks.com/?p=357046</id>
+        <link href="https://css-tricks.com/css-decorations/"/>
+        <updated>2021-11-22T18:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:
+.mw-collapsible-leftside-toggle .mw-collapsible-toggle {
+  /* @noflip */
+  float: left;
+  /* @noflip */
+  text-align: left;
+}
+What’s that @noflip business? That’s …
+The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanning and Repairing Drive – How to Fix Stuck Windows 10 PC Hard Drive]]></title>
+        <id>619bb03e11d3cb08287aa4c8</id>
+        <link href="https://www.freecodecamp.org/news/scanning-and-repairing-drive-how-to-fix-stuck-windows-10-pc-hard-drive/"/>
+        <updated>2021-11-22T17:10:42.000Z</updated>
+        <summary type="html"><![CDATA[If you have a Windows 10 PC, you might occasionally see the notorious "scanning and repairing drive" message. This error can happen to the C drive, hard drive, and any other external drive.  This scanning and repairing can take several hours, or even cost you a whole workday]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let&#x27;s Talk Design – How to Speak to a Designer as a Developer]]></title>
+        <id>619ba98511d3cb08287aa3a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speak-to-a-designer-as-a-developer-tech-talk/"/>
+        <updated>2021-11-22T17:07:06.000Z</updated>
+        <summary type="html"><![CDATA[In this conference talk, Magdalena Ostoja-Chyżyńska will not talk about the differences between developers and designers.  Instead of focusing on the differences between the roles and how that might cause friction, she will approach the subject with a problem-solving attitude, and expand on how to make the relationship work. And]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Workshops: Winter 2021]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/"/>
+        <updated>2021-11-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Layouts, Fewer Media Queries]]></title>
+        <id>https://css-tricks.com/?p=357080</id>
+        <link href="https://css-tricks.com/responsive-layouts-fewer-media-queries/"/>
+        <updated>2021-11-22T15:29:03.000Z</updated>
+        <summary type="html"><![CDATA[We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …
+The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL LIKE Statement – How to Query SQL with Wildcard]]></title>
+        <id>612cc005b5177808226d4a57</id>
+        <link href="https://www.freecodecamp.org/news/sql-like-statement-how-to-query-sql-with-wildcard/"/>
+        <updated>2021-11-22T15:01:50.000Z</updated>
+        <summary type="html"><![CDATA[You can use the % and _ wildcards with the SQL LIKE statement to compare values from an SQL table. But how does that work exactly?  In this article, I will show you how to use the SQL LIKE statement through code examples.  Basic syntax of SQL LIKE statementHere is the basic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Reverse List – How to Reverse a Range or Array]]></title>
+        <id>619694ef11d3cb08287a88ce</id>
+        <link href="https://www.freecodecamp.org/news/python-reverse-list-how-to-reverse-a-range-or-array/"/>
+        <updated>2021-11-22T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn some of the different ways you can reverse lists and list ranges in Python. And we'll look at some coding examples along the way.  Let's get started!  How to create a range in Python An efficient way to create a list of a range of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of Wix Websites (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/"/>
+        <updated>2021-11-22T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dan Shappir)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
         <id>https://css-tricks.com/?p=357234</id>
@@ -90,36 +223,6 @@ The post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stress and Mental Health in Tech – What I learned from Dr. Jennifer Akullian&#x27;s freeCodeCamp Tech Talk]]></title>
-        <id>619392bd11d3cb08287a6f36</id>
-        <link href="https://www.freecodecamp.org/news/stress-and-mental-health-in-tech/"/>
-        <updated>2021-11-18T17:54:34.000Z</updated>
-        <summary type="html"><![CDATA[People in the tech industry face mental health issues like depression and anxiety every day, all around the world. But what can we do about it? In this article, I will talk about what I learned from Dr. Jennifer Akullian's freeCodeCamp Tech Talk and share her tips for reducing your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Customize Your Windows 10 Taskbar to Be More Productive]]></title>
-        <id>6196275811d3cb08287a850e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-customize-your-windows10-taskbar-for-productivity/"/>
-        <updated>2021-11-18T16:44:28.000Z</updated>
-        <summary type="html"><![CDATA[On your computer desktop, you can use the taskbar to help you monitor applications, check battery life, and more.  Being able to customize what your task bar can do is crucial for boosting your productivity. And there's more to it than just monitoring applications.  In this guide, I will show]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List Comprehension in Python]]></title>
-        <id>6193c41c11d3cb08287a70ce</id>
-        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/"/>
-        <updated>2021-11-18T16:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Lists are a helpful and frequently used feature in Python.  And list comprehension gives you a way to create lists while writing more elegant code that is easy to read.  In this beginner-friendly article, I'll give an overview of how list comprehension works in Python. I'll also show plenty of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PHP Date and Time Recipes]]></title>
         <id>https://css-tricks.com/?p=356570</id>
         <link href="https://css-tricks.com/php-date-and-time-recipes/"/>
@@ -128,26 +231,6 @@ The post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. 
 The post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Arjuna Sky Kok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Git Tools—Interactive Rebase, Cherry-Picking, Reflog, and more]]></title>
-        <id>6196642611d3cb08287a8688</id>
-        <link href="https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/"/>
-        <updated>2021-11-18T14:42:26.000Z</updated>
-        <summary type="html"><![CDATA[If you are a software developer, you likely use Git all the time. But many developers don't use advanced git commands that can speed up their worflow. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use advanced git commands. Tobias Günther]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn Off Quick Note on –  Solved for MacOS Monterey Quick Notes Hot Corner]]></title>
-        <id>61971c7611d3cb08287a8d83</id>
-        <link href="https://www.freecodecamp.org/news/turn-off-quick-note-mac-monterey/"/>
-        <updated>2021-11-18T04:09:00.000Z</updated>
-        <summary type="html"><![CDATA[I recently updated to MacOS Monterey (Version 12.0). Sometimes software companies like Apple will add features I don't like, then enable them by default. This is what happened with the New Quick Note hot corner. Here is what the Quick Notes feature looks like when you move your cursor]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -165,16 +248,6 @@ The post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Got My First Developer Job – Here&#x27;s What I&#x27;ve Learned So Far]]></title>
-        <id>617a6ef033422e07df3667f4</id>
-        <link href="https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/"/>
-        <updated>2021-11-18T00:08:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What do you get for using a search input type?]]></title>
         <id>https://css-tricks.com/?p=356885</id>
         <link href="https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/"/>
@@ -186,16 +259,6 @@ Safari totally ignores the font-size you set on
 The post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Serverless Online Payments with Netlify and Stripe]]></title>
-        <id>618fda8c11d3cb08287a5a51</id>
-        <link href="https://www.freecodecamp.org/news/serverless-online-payments/"/>
-        <updated>2021-11-17T20:54:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the first steps many young startups take is setting up a static web page, perhaps with an email newsletter, to help them build an audience.  As the weeks go by and the MVP is getting further along, the subject of how to handle payments will eventually emerge. From]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -258,7 +321,7 @@ The post Line length revisited: following the research appeared first on CSS-Tri
         <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
         <updated>2021-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting late-December.]]></summary>
+        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
@@ -272,39 +335,6 @@ The post Line length revisited: following the research appeared first on CSS-Tri
 The post Generate a Pull Request of Static Content With a Simple HTML Form appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Hilman Ramadhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamstack TV]]></title>
-        <id>https://css-tricks.com/?p=356805</id>
-        <link href="https://css-tricks.com/jamstack-tv/"/>
-        <updated>2021-11-16T15:35:36.000Z</updated>
-        <summary type="html"><![CDATA[That’s the name of Netlify’s YouTube Channel. Love that. I linked up Rich’s talk the other day, which was a part of this past JamstackConf, but now all the talks are up on there. Rich got to talk …
-The post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Alpha Anywhere]]></title>
-        <id>https://css-tricks.com/?p=356611</id>
-        <link href="https://css-tricks.com/color-alpha-anywhere/"/>
-        <updated>2021-11-16T01:03:32.000Z</updated>
-        <summary type="html"><![CDATA[In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …
-The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library]]></title>
-        <id>https://css-tricks.com/?p=355894</id>
-        <link href="https://css-tricks.com/defining-and-applying-ui-themes-using-the-mimcss-css-in-js-library/"/>
-        <updated>2021-11-15T15:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …
-The post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Michlin</name>
         </author>
     </entry>
     <entry>
