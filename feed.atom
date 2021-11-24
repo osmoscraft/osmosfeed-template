@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-23T00:42:11.076Z</id>
+    <id>urn:2021-11-24T00:42:26.038Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-23T00:42:11.076Z</updated>
+    <updated>2021-11-24T00:42:26.038Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All the Math You Need to Know in Artificial Intelligence]]></title>
+        <id>6197c7ce11d3cb08287a9271</id>
+        <link href="https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/"/>
+        <updated>2021-11-24T00:12:40.000Z</updated>
+        <summary type="html"><![CDATA[I’m an AI researcher, and I’ve received quite a few emails asking me just how much math is required in Artificial Intelligence. I won’t lie: it’s a lot of math. And this is one of the reasons AI puts off many beginners. After much research and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is GitOps? Principles, Best Practices, and Kubernetes Workflow]]></title>
+        <id>619bb55911d3cb08287aa581</id>
+        <link href="https://www.freecodecamp.org/news/gitops-principles-kubernetes-workflow/"/>
+        <updated>2021-11-23T22:50:29.000Z</updated>
+        <summary type="html"><![CDATA[In this talk, CTO Cornelia Davis will teach you what GitOps is and what its four main principles are.  What is GitOps?The first thing you need to know is that GitOps is a set of modern best practises for deploying and managing cloud native infrastructure and applications.  And it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which SVG technique performs best for way too many icons?]]></title>
+        <id>https://css-tricks.com/?p=357412</id>
+        <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
+        <updated>2021-11-23T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …
+The post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control Layout in a Multi-Directional Website]]></title>
+        <id>https://css-tricks.com/?p=356977</id>
+        <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
+        <updated>2021-11-23T16:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …
+The post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Alaa Abd El-Rahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Not Recognizing Headphones – Windows 10 PC Headphone Tutorial]]></title>
+        <id>619cb4e711d3cb08287ab00c</id>
+        <link href="https://www.freecodecamp.org/news/computer-not-recognizing-headphones-windows-10-pc-headphone-tutorial/"/>
+        <updated>2021-11-23T15:47:53.000Z</updated>
+        <summary type="html"><![CDATA[What if you plug in your headphones to listen to your favorite music, watch a movie, or do something else and your computer fails to recognize the headphones? That's frustrating.  Your computer not recognizing your headphones is a fairly common issue in Windows 10 PCs.  It could be caused by]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes]]></title>
+        <id>6197bcba11d3cb08287a90cc</id>
+        <link href="https://www.freecodecamp.org/news/learn-sql-in-10-minutes/"/>
+        <updated>2021-11-23T15:36:59.000Z</updated>
+        <summary type="html"><![CDATA[I’m an AI researcher, so one of the main things I deal with is data. A lot of it.  With more than 2.5 exabytes of data generated every day, it comes as no surprise that this data needs to be stored somewhere where we can access it when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Customizable Table of Contents in Word]]></title>
+        <id>6198c2d511d3cb08287a97e2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-customizable-table-of-contents-in-microsoft-word/"/>
+        <updated>2021-11-23T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[It's tricky to make a good-looking and functional table of contents in Microsoft Word. You might often encounter documents that have messy tables of contents along with navigation panes with links to missing headings, non harmonized styles, and badly structured sections.  This wouldn't be a big problem for smaller documents,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding A Dyslexia-Friendly Mode To A Website]]></title>
+        <id>https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/</id>
+        <link href="https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/"/>
+        <updated>2021-11-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (John C Barstow)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 WordPress Plugins to Improve Your Website&#x27;s Performance]]></title>
+        <id>6195174b11d3cb08287a7b96</id>
+        <link href="https://www.freecodecamp.org/news/wordpress-plugins-to-improve-your-website-performance/"/>
+        <updated>2021-11-23T02:09:07.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, I will show you which free WordPress plugins you should use and how to configure them to significantly improve your WordPress website's performance.  Web performance is an essential SEO factor, and you shouldn’t underestimate it. Each second your website takes to load can hurt your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Manage Directory-Scoped Variables with direnv in POSIX Systems]]></title>
         <id>619909b111d3cb08287a9bd9</id>
@@ -78,16 +170,6 @@ The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let&#x27;s Talk Design – How to Speak to a Designer as a Developer]]></title>
-        <id>619ba98511d3cb08287aa3a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-speak-to-a-designer-as-a-developer-tech-talk/"/>
-        <updated>2021-11-22T17:07:06.000Z</updated>
-        <summary type="html"><![CDATA[In this conference talk, Magdalena Ostoja-Chyżyńska will not talk about the differences between developers and designers.  Instead of focusing on the differences between the roles and how that might cause friction, she will approach the subject with a problem-solving attitude, and expand on how to make the relationship work. And]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Workshops: Winter 2021]]></title>
         <id>https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/</id>
         <link href="https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/"/>
@@ -106,26 +188,6 @@ The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS
 The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL LIKE Statement – How to Query SQL with Wildcard]]></title>
-        <id>612cc005b5177808226d4a57</id>
-        <link href="https://www.freecodecamp.org/news/sql-like-statement-how-to-query-sql-with-wildcard/"/>
-        <updated>2021-11-22T15:01:50.000Z</updated>
-        <summary type="html"><![CDATA[You can use the % and _ wildcards with the SQL LIKE statement to compare values from an SQL table. But how does that work exactly?  In this article, I will show you how to use the SQL LIKE statement through code examples.  Basic syntax of SQL LIKE statementHere is the basic]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Reverse List – How to Reverse a Range or Array]]></title>
-        <id>619694ef11d3cb08287a88ce</id>
-        <link href="https://www.freecodecamp.org/news/python-reverse-list-how-to-reverse-a-range-or-array/"/>
-        <updated>2021-11-22T14:54:14.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn some of the different ways you can reverse lists and list ranges in Python. And we'll look at some coding examples along the way.  Let's get started!  How to create a range in Python An efficient way to create a list of a range of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -161,16 +223,6 @@ The post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Automate Tasks with cron Jobs in Linux]]></title>
-        <id>618941df8bcfae07ca4e3869</id>
-        <link href="https://www.freecodecamp.org/news/cron-jobs-in-linux/"/>
-        <updated>2021-11-19T20:34:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're working in IT, you might need to schedule various repetitive tasks as part of your automation processes.  For example, you could schedule a particular job to periodically execute at specific times of the day. This is helpful for performing daily backups, monthly log archiving, weekly file deletion to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Parallax Powered by CSS Custom Properties]]></title>
         <id>https://css-tricks.com/?p=357192</id>
         <link href="https://css-tricks.com/parallax-powered-by-css-custom-properties/"/>
@@ -189,26 +241,6 @@ The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks.
         <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers Spent 2.1 Billion Minutes (4,000 years) Using freeCodeCamp in 2021 + Other Year-End Facts]]></title>
-        <id>6196aac811d3cb08287a8998</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-2021-review-budget-usage-statistics/"/>
-        <updated>2021-11-19T05:29:54.000Z</updated>
-        <summary type="html"><![CDATA[2021 has been a big year for the global freeCodeCamp community. In this article, I will share some of the milestones we hit this year. But first, let's look at some metrics to drive home the scale at which the freeCodeCamp community is now operating. freeCodeCamp 2021 StatisticsIn 2021, freeCodeCamp's]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Projects for New Developers – What to Build to Get Coding Experience]]></title>
-        <id>614641bf852f4307d373021f</id>
-        <link href="https://www.freecodecamp.org/news/programming-projects-for-new-developers/"/>
-        <updated>2021-11-18T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a new developer, you're probably familiar with the “Experience Paradox”. It describes the frustrating cycle many of us go through when we're trying to get our first developer jobs: To get a job, you need "work experience". But to get "work experience", you need a job...! Job requires]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -306,17 +338,6 @@ The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Line length revisited: following the research]]></title>
-        <id>https://css-tricks.com/?p=356849</id>
-        <link href="https://css-tricks.com/line-length-revisited-following-the-research/"/>
-        <updated>2021-11-16T21:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Mary Dyson produces nitty gritty research on the long-accepted notion that shorter line lengths are more legible than longer ones. The study finds that shorter lines do not necessarily lead to faster reading. If you’re looking for a definitive answer …
-The post Line length revisited: following the research appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
         <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
@@ -324,17 +345,6 @@ The post Line length revisited: following the research appeared first on CSS-Tri
         <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generate a Pull Request of Static Content With a Simple HTML Form]]></title>
-        <id>https://css-tricks.com/?p=356491</id>
-        <link href="https://css-tricks.com/generate-a-pull-request-of-static-content-with-a-simple-html-form/"/>
-        <updated>2021-11-16T15:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Jamstack has been in the website world for years. Static Site Generators (SSGs) — which often have content that lives right within a GitHub repo itself — are a big part of that story. That opens up the idea of …
-The post Generate a Pull Request of Static Content With a Simple HTML Form appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Hilman Ramadhan</name>
         </author>
     </entry>
     <entry>
