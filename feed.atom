@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-24T00:42:26.038Z</id>
+    <id>urn:2021-11-25T00:43:30.610Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T00:42:26.038Z</updated>
+    <updated>2021-11-25T00:43:30.610Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Websocket Real Time Communication to Your SaaS App]]></title>
+        <id>619ba16011d3cb08287aa2ed</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-websocket-real-time-communication-to-your-saas-app/"/>
+        <updated>2021-11-24T23:50:04.000Z</updated>
+        <summary type="html"><![CDATA[In this conference talk made for Tech Fest 2021, Steven Lemmo talks to you about building SaaS Applications with WebSockets. Here is a full breakdown of what he will cover in this 40 minute talk: The reason for this talkWhy Websockets?Websockets minimal API exampleRest Web ServicesMultiple ListenersFull DuplexWebsockets time-lineTypeScriptVendor]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Shades – Hex Code and RGB for Gray Color Palette]]></title>
+        <id>619bcc5611d3cb08287aa66f</id>
+        <link href="https://www.freecodecamp.org/news/color-shades-hex-code-and-rgb-for-gray-color-palette/"/>
+        <updated>2021-11-24T23:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Colors play an integral role in how usable and accessible your web design projects are.  At times, they can even make or break a project.  Having a color palette comprised of different shades and hues of a specific color can be really helpful. It helps you visualize how you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analysis with Python for Excel Users Course]]></title>
+        <id>619e979225888a07c3e1b545</id>
+        <link href="https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/"/>
+        <updated>2021-11-24T20:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Do you know how to use Microsoft Excel and want to learn how to do data analysis with Python? You are in luck. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to do Data Analysis with Python. This course will be especially]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Won&#x27;t My Computer Connect to My Hotspot? [Fixed on Windows 10 PC WiFi]]]></title>
+        <id>619e3cdd25888a07c3e1b16d</id>
+        <link href="https://www.freecodecamp.org/news/why-wont-my-computer-connect-to-my-hotspot-fixed-on-windows-10-pc-wifi/"/>
+        <updated>2021-11-24T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[A mobile hotspot is a quick and efficient way to share an internet connection with other devices like computers, iPads, or other mobile phones.  A hotspot is also a good alternative to WiFi – especially if the WiFi in your area is unbearably slow or won't connect.  Sometimes, you might experience]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Learned from The Pragmatic Programmer and The Clean Coder]]></title>
+        <id>619c873711d3cb08287aaf76</id>
+        <link href="https://www.freecodecamp.org/news/lessons-learned-from-the-pragmatic-programmer-and-the-clean-coder/"/>
+        <updated>2021-11-24T16:38:09.000Z</updated>
+        <summary type="html"><![CDATA[I recently finished reading The Pragmatic Programmer 20th Anniversary Edition (2019) and The Clean Coder (2011). You'll find these books on almost every “top 10 Software Development books” list out there.  My goal was to learn, improve, and get the kind of knowledge that a teacher from mine used to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
+        <id>https://css-tricks.com/?p=357294</id>
+        <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
+        <updated>2021-11-24T15:49:08.000Z</updated>
+        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …
+The post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why and How to Add Feature Toggles to Your Software]]></title>
+        <id>619e8cba25888a07c3e1b499</id>
+        <link href="https://www.freecodecamp.org/news/why-and-how-to-add-feature-toggles-to-your-software/"/>
+        <updated>2021-11-24T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Feature Toggles (aka Feature Flags) are a technique used in software development in order to hide, enable or disable a particular feature during runtime. They allow teams to modify system behavior without changing code. We just published a course on the freeCodeCamp YouTube channel that will teach you why and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D3.js Tutorial – Data Visualization for Beginners]]></title>
+        <id>618ed39211d3cb08287a5535</id>
+        <link href="https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/"/>
+        <updated>2021-11-24T15:03:01.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to walk you through how to use D3.js in a step by step and beginner-friendly way. We'll talk about what D3.js is, how it works, and we'll create some basic visualizations to add transitions, interactions, and zooming. Table of Contents Getting Started  What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Ember – Ember.js Tips for Beginners Tutorial]]></title>
+        <id>619cdd9d11d3cb08287ab09c</id>
+        <link href="https://www.freecodecamp.org/news/learn-ember-ember-js-tips-for-beginners-tutorial/"/>
+        <updated>2021-11-24T15:02:26.000Z</updated>
+        <summary type="html"><![CDATA[In this talk, Designer turned Software Developer Lenora Porter talks about her journey learning Ember.js. She also shares her tips for beginners who are about to start their journey. Here are her top 4 take-aways: How to Learn Ember.jsHave the Mindset of a BeginnerThis is the foundational work.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Showcase Of Lovely Little Websites]]></title>
+        <id>https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/</id>
+        <link href="https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/"/>
+        <updated>2021-11-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All the Math You Need to Know in Artificial Intelligence]]></title>
         <id>6197c7ce11d3cb08287a9271</id>
@@ -48,36 +149,6 @@ The post Control Layout in a Multi-Directional Website appeared first on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer Not Recognizing Headphones – Windows 10 PC Headphone Tutorial]]></title>
-        <id>619cb4e711d3cb08287ab00c</id>
-        <link href="https://www.freecodecamp.org/news/computer-not-recognizing-headphones-windows-10-pc-headphone-tutorial/"/>
-        <updated>2021-11-23T15:47:53.000Z</updated>
-        <summary type="html"><![CDATA[What if you plug in your headphones to listen to your favorite music, watch a movie, or do something else and your computer fails to recognize the headphones? That's frustrating.  Your computer not recognizing your headphones is a fairly common issue in Windows 10 PCs.  It could be caused by]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes]]></title>
-        <id>6197bcba11d3cb08287a90cc</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-in-10-minutes/"/>
-        <updated>2021-11-23T15:36:59.000Z</updated>
-        <summary type="html"><![CDATA[I’m an AI researcher, so one of the main things I deal with is data. A lot of it.  With more than 2.5 exabytes of data generated every day, it comes as no surprise that this data needs to be stored somewhere where we can access it when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Customizable Table of Contents in Word]]></title>
-        <id>6198c2d511d3cb08287a97e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-customizable-table-of-contents-in-microsoft-word/"/>
-        <updated>2021-11-23T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[It's tricky to make a good-looking and functional table of contents in Microsoft Word. You might often encounter documents that have messy tables of contents along with navigation panes with links to missing headings, non harmonized styles, and badly structured sections.  This wouldn't be a big problem for smaller documents,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding A Dyslexia-Friendly Mode To A Website]]></title>
         <id>https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/</id>
         <link href="https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/"/>
@@ -85,36 +156,6 @@ The post Control Layout in a Multi-Directional Website appeared first on CSS-Tri
         <summary type="html"><![CDATA[With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (John C Barstow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 WordPress Plugins to Improve Your Website&#x27;s Performance]]></title>
-        <id>6195174b11d3cb08287a7b96</id>
-        <link href="https://www.freecodecamp.org/news/wordpress-plugins-to-improve-your-website-performance/"/>
-        <updated>2021-11-23T02:09:07.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, I will show you which free WordPress plugins you should use and how to configure them to significantly improve your WordPress website's performance.  Web performance is an essential SEO factor, and you shouldn’t underestimate it. Each second your website takes to load can hurt your]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Directory-Scoped Variables with direnv in POSIX Systems]]></title>
-        <id>619909b111d3cb08287a9bd9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-directory-scoped-envs-with-direnv-in-posix-systems/"/>
-        <updated>2021-11-22T21:39:20.000Z</updated>
-        <summary type="html"><![CDATA[A common practice in software projects is to keep certain information separated but accessible from the codebase which uses it. Developers usually do this with secrets such as passwords or private keys, or with user or context-specific info pieces.  But managing environment variables can be a pain. There are a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Design Thinking Process Explained]]></title>
-        <id>613f3cad852f4307d372c7dc</id>
-        <link href="https://www.freecodecamp.org/news/the-design-thinking-process-explained/"/>
-        <updated>2021-11-22T21:27:40.000Z</updated>
-        <summary type="html"><![CDATA[The Design Thinking Process is a way to come up with creative, user centric solutions to complex problems. But how does it work exactly? In this article, I will explain what the Design Thinking Process is and break down the five phases behind it. We will explore how this process]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -129,16 +170,6 @@ The idea that it’s alright to do whatever unethical thing is currently the
 The post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReactJS Project – Build a Rick and Morty Character Wiki]]></title>
-        <id>619b998511d3cb08287aa257</id>
-        <link href="https://www.freecodecamp.org/news/react-js-project-build-a-rick-and-morty-character-wiki/"/>
-        <updated>2021-11-22T19:13:34.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna practice our React JS skills by building a Rick and Morty Character Wiki.  Here's what we'll build today:    Here's a [live demo of the project] 👇  https://react-projects-psi.vercel.app/.  And here's the GitHub Repository.  The topics we'll cover while building this project are:  React Hooks (useState, useEffect)]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -157,16 +188,6 @@ What’s that @noflip business? That’s …
 The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scanning and Repairing Drive – How to Fix Stuck Windows 10 PC Hard Drive]]></title>
-        <id>619bb03e11d3cb08287aa4c8</id>
-        <link href="https://www.freecodecamp.org/news/scanning-and-repairing-drive-how-to-fix-stuck-windows-10-pc-hard-drive/"/>
-        <updated>2021-11-22T17:10:42.000Z</updated>
-        <summary type="html"><![CDATA[If you have a Windows 10 PC, you might occasionally see the notorious "scanning and repairing drive" message. This error can happen to the C drive, hard drive, and any other external drive.  This scanning and repairing can take several hours, or even cost you a whole workday]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -321,18 +342,6 @@ The post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can sup
         <updated>2021-11-17T15:27:19.000Z</updated>
         <summary type="html"><![CDATA[Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …
 The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Clever Sticky Footer Technique]]></title>
-        <id>https://css-tricks.com/?p=357053</id>
-        <link href="https://css-tricks.com/a-clever-sticky-footer-technique/"/>
-        <updated>2021-11-17T00:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.
-That’s not quite what I’m talking …
-The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -495,26 +504,6 @@ The post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can 
         <summary type="html"><![CDATA[Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mariana Macedo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Next.js Applications With Nx]]></title>
-        <id>https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/</id>
-        <link href="https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/"/>
-        <updated>2021-10-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Melvin Kosisochukwu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive Into object-fit And background-size In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/10/object-fit-background-size-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/object-fit-background-size-css/"/>
-        <updated>2021-10-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
         </author>
     </entry>
 </feed>
