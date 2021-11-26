@@ -17,7 +17,7 @@
           "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
           "publishedOn": "2021-11-24T15:49:08.000Z",
-          "wordCount": 5297,
+          "wordCount": 5416,
           "title": "Creating Generative Patterns with The CSS Paint API"
         },
         {
@@ -35,7 +35,7 @@
           "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …\nThe post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
           "publishedOn": "2021-11-23T16:06:44.000Z",
-          "wordCount": 4380,
+          "wordCount": 4427,
           "title": "Control Layout in a Multi-Directional Website"
         },
         {
@@ -62,7 +62,7 @@
           "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …\nThe post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/responsive-layouts-fewer-media-queries/",
           "publishedOn": "2021-11-22T15:29:03.000Z",
-          "wordCount": 4704,
+          "wordCount": 4730,
           "title": "Responsive Layouts, Fewer Media Queries"
         },
         {
@@ -159,7 +159,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4256,
+          "wordCount": 4249,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -173,7 +173,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2765,
+          "wordCount": 2764,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -201,7 +201,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4763,
+          "wordCount": 4765,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -215,7 +215,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2212,
+          "wordCount": 2210,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -229,7 +229,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3488,
+          "wordCount": 3491,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -285,7 +285,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4302,
+          "wordCount": 4300,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -299,7 +299,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1919,
+          "wordCount": 1923,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -327,7 +327,7 @@
           "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
           "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
           "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1527,
+          "wordCount": 1524,
           "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
@@ -341,7 +341,7 @@
           "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
           "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
           "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6198,
+          "wordCount": 6195,
           "title": "The Value Of Concept Testing As Part Of Product Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
@@ -369,7 +369,7 @@
           "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
           "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
           "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3399,
+          "wordCount": 3398,
           "title": "GraphQL On The Front-End (React And Apollo)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
@@ -383,7 +383,7 @@
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3626,
+          "wordCount": 3627,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -411,7 +411,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/",
           "publishedOn": "2021-10-31T08:20:00.000Z",
-          "wordCount": 2387,
+          "wordCount": 2373,
           "title": "A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a2a341f-4f72-4716-91c6-ed6da6add2fd/nov-21-no-shave-november-preview-opt.png",
@@ -425,7 +425,7 @@
           "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
           "link": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
           "publishedOn": "2021-10-29T10:00:00.000Z",
-          "wordCount": 2505,
+          "wordCount": 2507,
           "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/376436ee-7e40-4d99-ad14-e934df9f92c9/resources-tools-turbocharge-copywriting-skills.jpg",
@@ -439,24 +439,10 @@
           "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
           "link": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
           "publishedOn": "2021-10-28T11:00:00.000Z",
-          "wordCount": 3174,
+          "wordCount": 3165,
           "title": "How To Build An Amazon Product Scraper With Node.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/069a1796-0f8d-4936-bfc0-4aa988ef0594/building-amazon-product-scraper-nodejs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
-          "author": "hello@smashingmagazine.com (Mariana Macedo)",
-          "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
-          "link": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
-          "publishedOn": "2021-10-27T10:00:00.000Z",
-          "wordCount": 3500,
-          "title": "Eye-Tracking In Mobile UX Research",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3012986b-e407-4c49-8186-13a99528ef13/eye-tracking-mobile-ux-research.jpg",
             "length": "0",
             "type": "image/jpg"
           }
