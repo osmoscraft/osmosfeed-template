@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-26T00:41:50.949Z</id>
+    <id>urn:2021-11-27T00:41:17.239Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-26T00:41:50.949Z</updated>
+    <updated>2021-11-27T00:41:17.239Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
+        <id>https://css-tricks.com/?p=357271</id>
+        <link href="https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/"/>
+        <updated>2021-11-26T20:43:05.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:
+.el {
+  will-change: opacity;
+
+…
+The post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Handy Little System for Animated Entrances in CSS]]></title>
+        <id>https://css-tricks.com/?p=357239</id>
+        <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
+        <updated>2021-11-26T16:12:33.000Z</updated>
+        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …
+The post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Neale Van Fleet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Maintain A Large Next.js Application]]></title>
+        <id>https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/</id>
+        <link href="https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/"/>
+        <updated>2021-11-26T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Websocket Real Time Communication to Your SaaS App]]></title>
         <id>619ba16011d3cb08287aa2ed</id>
@@ -325,28 +361,6 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cherry-Picking Commits in Git]]></title>
-        <id>https://css-tricks.com/?p=356700</id>
-        <link href="https://css-tricks.com/cherry-picking-commits-in-git/"/>
-        <updated>2021-11-17T15:28:22.000Z</updated>
-        <summary type="html"><![CDATA[In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.
-The post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gap (Design Engineering)]]></title>
-        <id>https://css-tricks.com/?p=357023</id>
-        <link href="https://css-tricks.com/the-gap-design-engineering/"/>
-        <updated>2021-11-17T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …
-The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
         <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
@@ -484,16 +498,6 @@ The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can supp
         <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Freya Giles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Amazon Product Scraper With Node.js]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/"/>
-        <updated>2021-10-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Robert Sfichi)</name>
         </author>
     </entry>
 </feed>
