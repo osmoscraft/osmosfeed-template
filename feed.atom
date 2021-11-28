@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-27T00:41:17.239Z</id>
+    <id>urn:2021-11-28T00:44:01.729Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T00:41:17.239Z</updated>
+    <updated>2021-11-28T00:44:01.729Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -488,16 +488,6 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
-        <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
-        <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
-        <updated>2021-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Freya Giles)</name>
         </author>
     </entry>
 </feed>
