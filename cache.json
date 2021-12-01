@@ -12,18 +12,45 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357109",
+          "author": "Chris Coyier",
+          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
+          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
+          "publishedOn": "2021-11-30T17:26:35.000Z",
+          "wordCount": 944,
+          "title": "Diagonal Stripes Wipe Animation"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357728",
+          "author": "Tobias Günther",
+          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
+          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
+          "publishedOn": "2021-11-30T15:53:27.000Z",
+          "wordCount": 2419,
+          "title": "Using the Reflog to Restore Lost Commits"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357679",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
+          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
+          "publishedOn": "2021-11-30T15:23:00.000Z",
+          "wordCount": 1256,
+          "title": "A Look at the Cloudinary WordPress Plugin"
+        },
+        {
           "id": "https://css-tricks.com/?p=357565",
           "author": "Geoff Graham",
-          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …\nThe post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …",
           "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
           "publishedOn": "2021-11-29T16:38:49.000Z",
-          "wordCount": 1371,
+          "wordCount": 1516,
           "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
         },
         {
           "id": "https://css-tricks.com/?p=357976",
           "author": "Chris Coyier",
-          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…\nThe post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…",
           "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
           "publishedOn": "2021-11-29T16:38:07.000Z",
           "wordCount": 483,
@@ -32,16 +59,16 @@
         {
           "id": "https://css-tricks.com/?p=357271",
           "author": "Chris Coyier",
-          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…\nThe post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…",
           "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
           "publishedOn": "2021-11-26T20:43:05.000Z",
-          "wordCount": 1655,
+          "wordCount": 2084,
           "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
         },
         {
           "id": "https://css-tricks.com/?p=357239",
           "author": "Neale Van Fleet",
-          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …\nThe post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …",
           "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
           "publishedOn": "2021-11-26T16:12:33.000Z",
           "wordCount": 2444,
@@ -50,7 +77,7 @@
         {
           "id": "https://css-tricks.com/?p=357294",
           "author": "George Francis",
-          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …",
           "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
           "publishedOn": "2021-11-24T15:49:08.000Z",
           "wordCount": 5674,
@@ -59,7 +86,7 @@
         {
           "id": "https://css-tricks.com/?p=357412",
           "author": "Chris Coyier",
-          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …\nThe post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …",
           "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
           "publishedOn": "2021-11-23T19:21:28.000Z",
           "wordCount": 461,
@@ -68,7 +95,7 @@
         {
           "id": "https://css-tricks.com/?p=356977",
           "author": "Alaa Abd El-Rahim",
-          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …\nThe post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …",
           "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
           "publishedOn": "2021-11-23T16:06:44.000Z",
           "wordCount": 4813,
@@ -77,16 +104,16 @@
         {
           "id": "https://css-tricks.com/?p=357149",
           "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…\nThe post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…",
           "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
           "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 2388,
+          "wordCount": 2662,
           "title": "On User Tracking and Industry Standards on Privacy"
         },
         {
           "id": "https://css-tricks.com/?p=357046",
           "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …\nThe post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …",
           "link": "https://css-tricks.com/css-decorations/",
           "publishedOn": "2021-11-22T18:48:00.000Z",
           "wordCount": 1090,
@@ -95,7 +122,7 @@
         {
           "id": "https://css-tricks.com/?p=357080",
           "author": "Temani Afif",
-          "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …\nThe post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …",
           "link": "https://css-tricks.com/responsive-layouts-fewer-media-queries/",
           "publishedOn": "2021-11-22T15:29:03.000Z",
           "wordCount": 4942,
@@ -104,7 +131,7 @@
         {
           "id": "https://css-tricks.com/?p=357234",
           "author": "Chris Coyier",
-          "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …\nThe post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …",
           "link": "https://css-tricks.com/reimagine-atomic-css/",
           "publishedOn": "2021-11-19T22:01:05.000Z",
           "wordCount": 836,
@@ -113,38 +140,11 @@
         {
           "id": "https://css-tricks.com/?p=357227",
           "author": "Chris Coyier",
-          "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…\nThe post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…",
           "link": "https://css-tricks.com/coding-font-game/",
           "publishedOn": "2021-11-19T21:18:50.000Z",
           "wordCount": 742,
           "title": "Coding Font Game"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357192",
-          "author": "Jhey Tompkins",
-          "description": "Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …\nThe post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/parallax-powered-by-css-custom-properties/",
-          "publishedOn": "2021-11-19T15:13:46.000Z",
-          "wordCount": 3406,
-          "title": "Parallax Powered by CSS Custom Properties"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356818",
-          "author": "Chris Coyier",
-          "description": "VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …\nThe post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/",
-          "publishedOn": "2021-11-18T20:22:27.000Z",
-          "wordCount": 2026,
-          "title": "The Many Faces of VS Code in the Browser"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356570",
-          "author": "Arjuna Sky Kok",
-          "description": "Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …\nThe post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/php-date-and-time-recipes/",
-          "publishedOn": "2021-11-18T15:38:51.000Z",
-          "wordCount": 2247,
-          "title": "PHP Date and Time Recipes"
         }
       ]
     },
@@ -154,12 +154,40 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
+          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
+          "publishedOn": "2021-11-30T14:00:00.000Z",
+          "wordCount": 8722,
+          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
+          "publishedOn": "2021-11-30T09:45:00.000Z",
+          "wordCount": 2832,
+          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3250,
+          "wordCount": 3254,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -173,7 +201,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2644,
+          "wordCount": 2645,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -187,7 +215,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4248,
+          "wordCount": 4245,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -201,7 +229,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2760,
+          "wordCount": 2762,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -229,7 +257,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4762,
+          "wordCount": 4763,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -243,7 +271,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2202,
+          "wordCount": 2217,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -257,7 +285,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3491,
+          "wordCount": 3489,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -285,7 +313,7 @@
           "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
           "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
           "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2142,
+          "wordCount": 2145,
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
@@ -299,7 +327,7 @@
           "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
           "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
           "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10260,
+          "wordCount": 10261,
           "title": "Useful React Hooks That You Can Use In Your Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
@@ -313,7 +341,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4307,
+          "wordCount": 4316,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -327,7 +355,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1917,
+          "wordCount": 1916,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -369,7 +397,7 @@
           "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
           "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
           "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6202,
+          "wordCount": 6209,
           "title": "The Value Of Concept Testing As Part Of Product Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
@@ -397,7 +425,7 @@
           "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
           "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
           "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3400,
+          "wordCount": 3394,
           "title": "GraphQL On The Front-End (React And Apollo)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
@@ -411,7 +439,7 @@
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3631,
+          "wordCount": 3625,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -425,7 +453,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 5952,
+          "wordCount": 5954,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -440,6 +468,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61783ffa33422e07df364d2c",
+          "author": null,
+          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
+          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
+          "publishedOn": "2021-11-30T14:35:18.000Z",
+          "wordCount": 5418,
+          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
+        },
+        {
+          "id": "61a0f98125888a07c3e1bfbc",
+          "author": null,
+          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
+          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
+          "publishedOn": "2021-11-30T01:12:15.000Z",
+          "wordCount": 1098,
+          "title": "5 Valuable Skills Developers Should Learn in 2022"
+        },
         {
           "id": "61a39f3025888a07c3e1cf08",
           "author": null,
@@ -486,6 +532,15 @@
           "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
         },
         {
+          "id": "6140e027852f4307d372d933",
+          "author": null,
+          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
+          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
+          "publishedOn": "2021-11-29T15:47:00.000Z",
+          "wordCount": 765,
+          "title": "Learn About NoSQL Databases in This 3-hour Course"
+        },
+        {
           "id": "61a4b12225888a07c3e1d240",
           "author": null,
           "description": "Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check",
@@ -502,33 +557,6 @@
           "publishedOn": "2021-11-24T23:50:04.000Z",
           "wordCount": 318,
           "title": "How to Add Websocket Real Time Communication to Your SaaS App"
-        },
-        {
-          "id": "619bcc5611d3cb08287aa66f",
-          "author": null,
-          "description": "Colors play an integral role in how usable and accessible your web design projects are.  At times, they can even make or break a project.  Having a color palette comprised of different shades and hues of a specific color can be really helpful. It helps you visualize how you can",
-          "link": "https://www.freecodecamp.org/news/color-shades-hex-code-and-rgb-for-gray-color-palette/",
-          "publishedOn": "2021-11-24T23:47:39.000Z",
-          "wordCount": 1049,
-          "title": "Color Shades – Hex Code and RGB for Gray Color Palette"
-        },
-        {
-          "id": "619e979225888a07c3e1b545",
-          "author": null,
-          "description": "Do you know how to use Microsoft Excel and want to learn how to do data analysis with Python? You are in luck. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to do Data Analysis with Python. This course will be especially",
-          "link": "https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/",
-          "publishedOn": "2021-11-24T20:00:33.000Z",
-          "wordCount": 412,
-          "title": "Data Analysis with Python for Excel Users Course"
-        },
-        {
-          "id": "619e3cdd25888a07c3e1b16d",
-          "author": null,
-          "description": "A mobile hotspot is a quick and efficient way to share an internet connection with other devices like computers, iPads, or other mobile phones.  A hotspot is also a good alternative to WiFi – especially if the WiFi in your area is unbearably slow or won't connect.  Sometimes, you might experience",
-          "link": "https://www.freecodecamp.org/news/why-wont-my-computer-connect-to-my-hotspot-fixed-on-windows-10-pc-wifi/",
-          "publishedOn": "2021-11-24T18:44:39.000Z",
-          "wordCount": 792,
-          "title": "Why Won&#x27;t My Computer Connect to My Hotspot? [Fixed on Windows 10 PC WiFi]"
         }
       ]
     }

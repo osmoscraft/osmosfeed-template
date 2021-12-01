@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-30T00:44:41.190Z</id>
+    <id>urn:2021-12-01T00:45:54.838Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T00:44:41.190Z</updated>
+    <updated>2021-12-01T00:45:54.838Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Diagonal Stripes Wipe Animation]]></title>
+        <id>https://css-tricks.com/?p=357109</id>
+        <link href="https://css-tricks.com/diagonal-stripes-wipe-animation/"/>
+        <updated>2021-11-30T17:26:35.000Z</updated>
+        <summary type="html"><![CDATA[I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Reflog to Restore Lost Commits]]></title>
+        <id>https://css-tricks.com/?p=357728</id>
+        <link href="https://css-tricks.com/using-the-reflog-to-restore-lost-commits/"/>
+        <updated>2021-11-30T15:53:27.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!
+The “Reflog” is one of Git’s lesser-known features—but one that can be extremely …]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at the Cloudinary WordPress Plugin]]></title>
+        <id>https://css-tricks.com/?p=357679</id>
+        <link href="https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/"/>
+        <updated>2021-11-30T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Cloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:
+It 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it]]></title>
+        <id>61783ffa33422e07df364d2c</id>
+        <link href="https://www.freecodecamp.org/news/rust-in-replit/"/>
+        <updated>2021-11-30T14:35:18.000Z</updated>
+        <summary type="html"><![CDATA[For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?]]></title>
+        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/</id>
+        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/"/>
+        <updated>2021-11-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/</id>
+        <link href="https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/"/>
+        <updated>2021-11-30T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Valuable Skills Developers Should Learn in 2022]]></title>
+        <id>61a0f98125888a07c3e1bfbc</id>
+        <link href="https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/"/>
+        <updated>2021-11-30T01:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy]]></title>
         <id>61a39f3025888a07c3e1cf08</id>
@@ -50,8 +124,7 @@
         <id>https://css-tricks.com/?p=357565</id>
         <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
         <updated>2021-11-29T16:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …
-The post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -63,8 +136,7 @@ The post Recreating the Apple Music Hits Playlist Animation in CSS appeared firs
         <updated>2021-11-29T16:38:07.000Z</updated>
         <summary type="html"><![CDATA[This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.
 The average favicon network request takes 130ms, at least from our speedy cloud instance.
-…
-The post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+…]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -75,6 +147,16 @@ The post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can supp
         <link href="https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/"/>
         <updated>2021-11-29T15:55:00.000Z</updated>
         <summary type="html"><![CDATA[On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn About NoSQL Databases in This 3-hour Course]]></title>
+        <id>6140e027852f4307d372d933</id>
+        <link href="https://www.freecodecamp.org/news/learn-nosql-in-3-hours/"/>
+        <updated>2021-11-29T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -108,8 +190,7 @@ The post We Analyzed 425,909 Favicons appeared first on CSS-Tricks. You can supp
 .el {
   will-change: opacity;
 
-…
-The post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+…]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -119,8 +200,7 @@ The post When is it “Right” to Reach for  contain and will-change in CSS? ap
         <id>https://css-tricks.com/?p=357239</id>
         <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
         <updated>2021-11-26T16:12:33.000Z</updated>
-        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …
-The post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …]]></summary>
         <author>
             <name>Neale Van Fleet</name>
         </author>
@@ -146,42 +226,11 @@ The post A Handy Little System for Animated Entrances in CSS appeared first on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Color Shades – Hex Code and RGB for Gray Color Palette]]></title>
-        <id>619bcc5611d3cb08287aa66f</id>
-        <link href="https://www.freecodecamp.org/news/color-shades-hex-code-and-rgb-for-gray-color-palette/"/>
-        <updated>2021-11-24T23:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Colors play an integral role in how usable and accessible your web design projects are.  At times, they can even make or break a project.  Having a color palette comprised of different shades and hues of a specific color can be really helpful. It helps you visualize how you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analysis with Python for Excel Users Course]]></title>
-        <id>619e979225888a07c3e1b545</id>
-        <link href="https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/"/>
-        <updated>2021-11-24T20:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Do you know how to use Microsoft Excel and want to learn how to do data analysis with Python? You are in luck. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to do Data Analysis with Python. This course will be especially]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Won&#x27;t My Computer Connect to My Hotspot? [Fixed on Windows 10 PC WiFi]]]></title>
-        <id>619e3cdd25888a07c3e1b16d</id>
-        <link href="https://www.freecodecamp.org/news/why-wont-my-computer-connect-to-my-hotspot-fixed-on-windows-10-pc-wifi/"/>
-        <updated>2021-11-24T18:44:39.000Z</updated>
-        <summary type="html"><![CDATA[A mobile hotspot is a quick and efficient way to share an internet connection with other devices like computers, iPads, or other mobile phones.  A hotspot is also a good alternative to WiFi – especially if the WiFi in your area is unbearably slow or won't connect.  Sometimes, you might experience]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
         <id>https://css-tricks.com/?p=357294</id>
         <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
         <updated>2021-11-24T15:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …
-The post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …]]></summary>
         <author>
             <name>George Francis</name>
         </author>
@@ -201,8 +250,7 @@ The post Creating Generative Patterns with The CSS Paint API appeared first on C
         <id>https://css-tricks.com/?p=357412</id>
         <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
         <updated>2021-11-23T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …
-The post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -212,8 +260,7 @@ The post Which SVG technique performs best for way too many icons? appeared firs
         <id>https://css-tricks.com/?p=356977</id>
         <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
         <updated>2021-11-23T16:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …
-The post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …]]></summary>
         <author>
             <name>Alaa Abd El-Rahim</name>
         </author>
@@ -236,8 +283,7 @@ The post Control Layout in a Multi-Directional Website appeared first on CSS-Tri
         <summary type="html"><![CDATA[Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
 There was a line that really stood out to me: 
 The idea that it’s alright to do whatever unethical thing is currently the 
-…
-The post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+…]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -254,8 +300,7 @@ The post On User Tracking and Industry Standards on Privacy appeared first on CS
   /* @noflip */
   text-align: left;
 }
-What’s that @noflip business? That’s …
-The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+What’s that @noflip business? That’s …]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -275,8 +320,7 @@ The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS
         <id>https://css-tricks.com/?p=357080</id>
         <link href="https://css-tricks.com/responsive-layouts-fewer-media-queries/"/>
         <updated>2021-11-22T15:29:03.000Z</updated>
-        <summary type="html"><![CDATA[We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …
-The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …]]></summary>
         <author>
             <name>Temani Afif</name>
         </author>
@@ -296,8 +340,7 @@ The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. Y
         <id>https://css-tricks.com/?p=357234</id>
         <link href="https://css-tricks.com/reimagine-atomic-css/"/>
         <updated>2021-11-19T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …
-The post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -307,21 +350,9 @@ The post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-
         <id>https://css-tricks.com/?p=357227</id>
         <link href="https://css-tricks.com/coding-font-game/"/>
         <updated>2021-11-19T21:18:50.000Z</updated>
-        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…
-The post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallax Powered by CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=357192</id>
-        <link href="https://css-tricks.com/parallax-powered-by-css-custom-properties/"/>
-        <updated>2021-11-19T15:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …
-The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
         </author>
     </entry>
     <entry>
@@ -332,28 +363,6 @@ The post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks.
         <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Faces of VS Code in the Browser]]></title>
-        <id>https://css-tricks.com/?p=356818</id>
-        <link href="https://css-tricks.com/the-many-faces-of-vs-code-in-the-browser/"/>
-        <updated>2021-11-18T20:22:27.000Z</updated>
-        <summary type="html"><![CDATA[VS Code is built from web technologies (HTML, CSS, and JavaScript), but dare I say today it’s mostly used a local app that’s installed on your machine. That’s starting to shift, though, as there has been an absolute explosion of …
-The post The Many Faces of VS Code in the Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Date and Time Recipes]]></title>
-        <id>https://css-tricks.com/?p=356570</id>
-        <link href="https://css-tricks.com/php-date-and-time-recipes/"/>
-        <updated>2021-11-18T15:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Dealing with dates and times is one of those things that can frustrate programmers a lot. At the same time, they are fundamental to software development, used from everything from meta and how things are ordered to time-based triggers and …
-The post PHP Date and Time Recipes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Arjuna Sky Kok</name>
         </author>
     </entry>
     <entry>
