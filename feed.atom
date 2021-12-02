@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-01T00:45:54.838Z</id>
+    <id>urn:2021-12-02T00:42:53.367Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T00:45:54.838Z</updated>
+    <updated>2021-12-02T00:42:53.367Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
+        <id>https://css-tricks.com/?p=357985</id>
+        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
+        <updated>2021-12-01T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
+        <id>https://css-tricks.com/?p=357344</id>
+        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
+        <updated>2021-12-01T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exactly What You Want]]></title>
+        <id>https://css-tricks.com/?p=356146</id>
+        <link href="https://css-tricks.com/exactly-what-you-want/"/>
+        <updated>2021-12-01T15:46:29.000Z</updated>
+        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
+ Exactly what you want to build!
+Ask yourself:
+What drew you to development in the beginning?
+Is there an experimental API that you’ve been wanting to try out?
+…]]></summary>
+        <author>
+            <name>Amelia Wattenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC]]></title>
+        <id>61a5f9680c0c7407b2b3e607</id>
+        <link href="https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/"/>
+        <updated>2021-12-01T09:49:48.000Z</updated>
+        <summary type="html"><![CDATA[In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diagonal Stripes Wipe Animation]]></title>
         <id>https://css-tricks.com/?p=357109</id>
@@ -216,16 +261,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add Websocket Real Time Communication to Your SaaS App]]></title>
-        <id>619ba16011d3cb08287aa2ed</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-websocket-real-time-communication-to-your-saas-app/"/>
-        <updated>2021-11-24T23:50:04.000Z</updated>
-        <summary type="html"><![CDATA[In this conference talk made for Tech Fest 2021, Steven Lemmo talks to you about building SaaS Applications with WebSockets. Here is a full breakdown of what he will cover in this 40 minute talk: The reason for this talkWhy Websockets?Websockets minimal API exampleRest Web ServicesMultiple ListenersFull DuplexWebsockets time-lineTypeScriptVendor]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
         <id>https://css-tricks.com/?p=357294</id>
         <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
@@ -316,16 +351,6 @@ What’s that @noflip business? That’s …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Responsive Layouts, Fewer Media Queries]]></title>
-        <id>https://css-tricks.com/?p=357080</id>
-        <link href="https://css-tricks.com/responsive-layouts-fewer-media-queries/"/>
-        <updated>2021-11-22T15:29:03.000Z</updated>
-        <summary type="html"><![CDATA[We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving The Performance Of Wix Websites (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/</id>
         <link href="https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/"/>
@@ -333,26 +358,6 @@ What’s that @noflip business? That’s …]]></summary>
         <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Shappir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagine Atomic CSS]]></title>
-        <id>https://css-tricks.com/?p=357234</id>
-        <link href="https://css-tricks.com/reimagine-atomic-css/"/>
-        <updated>2021-11-19T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Font Game]]></title>
-        <id>https://css-tricks.com/?p=357227</id>
-        <link href="https://css-tricks.com/coding-font-game/"/>
-        <updated>2021-11-19T21:18:50.000Z</updated>
-        <summary type="html"><![CDATA[A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -483,16 +488,6 @@ What’s that @noflip business? That’s …]]></summary>
         <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Magento PWA: Customizing Themes vs. Coding From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/</id>
-        <link href="https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/"/>
-        <updated>2021-11-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Husar)</name>
         </author>
     </entry>
 </feed>
